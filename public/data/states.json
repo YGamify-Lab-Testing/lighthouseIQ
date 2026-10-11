@@ -90,7 +90,7 @@
     },
     {
       "state": "MI",
-      "count": 187
+      "count": 0
     },
     {
       "state": "MN",
@@ -114,7 +114,7 @@
     },
     {
       "state": "ND",
-      "count": 2
+      "count": 0
     },
     {
       "state": "NE",
@@ -209,5 +209,5 @@
       "count": 0
     }
   ],
-  "lastUpdated": "2026-10-11T15:31:30.223Z"
+  "lastUpdated": "2026-10-11T19:59:13.674Z"
 }

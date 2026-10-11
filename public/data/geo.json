@@ -330,13 +330,6 @@
       "risk_level": "green"
     },
     {
-      "state": "ND",
-      "city": "Cavalier",
-      "total_notices": 1,
-      "notices_last_90_days": 0,
-      "risk_level": "green"
-    },
-    {
       "state": "IN",
       "city": "Martinsville",
       "total_notices": 1,
@@ -771,13 +764,6 @@
       "risk_level": "green"
     },
     {
-      "state": "ND",
-      "city": "Fargo",
-      "total_notices": 1,
-      "notices_last_90_days": 0,
-      "risk_level": "green"
-    },
-    {
       "state": "IN",
       "city": "Plainfield",
       "total_notices": 1,
@@ -972,13 +958,6 @@
       "total_notices": 1,
       "notices_last_90_days": 0,
       "risk_level": "green"
-    },
-    {
-      "state": "MI",
-      "city": null,
-      "total_notices": 7,
-      "notices_last_90_days": 7,
-      "risk_level": "yellow"
     },
     {
       "state": "FL",
@@ -1233,6 +1212,6 @@
       "risk_level": "green"
     }
   ],
-  "count": 176,
-  "lastUpdated": "2026-10-11T15:31:30.264Z"
+  "count": 173,
+  "lastUpdated": "2026-10-11T19:59:13.696Z"
 }
