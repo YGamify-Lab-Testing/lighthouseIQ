@@ -1,74 +1,74 @@
 {
-  "lastUpdated": "2026-10-12T04:56:14.902Z",
+  "lastUpdated": "2026-10-12T12:57:01.861Z",
   "scope": "US healthcare",
   "retentionDays": 90,
   "maxArticles": 500,
   "sourceHealth": {
     "totalSources": 9,
-    "staleSources": 5,
-    "healthySources": 4,
+    "staleSources": 4,
+    "healthySources": 5,
     "sources": [
       {
         "source": "Fierce Healthcare",
-        "articleCount": 236,
+        "articleCount": 234,
         "latestPublishedAt": "2026-10-12T00:00:00.000Z",
-        "staleHours": 4,
+        "staleHours": 12,
         "status": "ok"
       },
       {
         "source": "Becker's Hospital Review",
         "articleCount": 109,
         "latestPublishedAt": "2026-10-09T00:00:00.000Z",
-        "staleHours": 76,
+        "staleHours": 84,
         "status": "stale"
       },
       {
         "source": "STAT News",
         "articleCount": 65,
         "latestPublishedAt": "2026-10-10T00:00:00.000Z",
-        "staleHours": 52,
+        "staleHours": 60,
         "status": "ok"
       },
       {
         "source": "Federal Register - HHS",
         "articleCount": 50,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": -20,
+        "staleHours": -12,
+        "status": "ok"
+      },
+      {
+        "source": "Healthcare Dive",
+        "articleCount": 14,
+        "latestPublishedAt": "2026-10-12T00:00:00.000Z",
+        "staleHours": 12,
         "status": "ok"
       },
       {
         "source": "Federal Register - FDA",
         "articleCount": 14,
         "latestPublishedAt": "2026-10-09T00:00:00.000Z",
-        "staleHours": 76,
-        "status": "stale"
-      },
-      {
-        "source": "Healthcare Dive",
-        "articleCount": 12,
-        "latestPublishedAt": "2026-10-09T00:00:00.000Z",
-        "staleHours": 76,
+        "staleHours": 84,
         "status": "stale"
       },
       {
         "source": "FDA MedWatch RSS",
         "articleCount": 6,
         "latestPublishedAt": "2026-10-10T00:00:00.000Z",
-        "staleHours": 52,
+        "staleHours": 60,
         "status": "ok"
       },
       {
         "source": "Federal Register - CMS",
         "articleCount": 5,
         "latestPublishedAt": "2026-10-08T00:00:00.000Z",
-        "staleHours": 100,
+        "staleHours": 108,
         "status": "stale"
       },
       {
         "source": "SEC Healthcare Filings",
         "articleCount": 3,
         "latestPublishedAt": "2026-10-09T00:00:00.000Z",
-        "staleHours": 76,
+        "staleHours": 84,
         "status": "stale"
       }
     ]
@@ -88,7 +88,7 @@
     },
     "policy_reimbursement": {
       "label": "Policy & Reimbursement",
-      "count": 105
+      "count": 104
     },
     "quality_safety": {
       "label": "Quality & Safety",
@@ -104,7 +104,7 @@
     },
     "general_market": {
       "label": "General Market",
-      "count": 188
+      "count": 189
     }
   },
   "quality": {
@@ -120,7 +120,7 @@
       },
       "minArticles24h": {
         "threshold": 20,
-        "actual": 31,
+        "actual": 33,
         "pass": true
       },
       "minRequiredCategoriesCovered": {
@@ -130,7 +130,7 @@
       },
       "maxStaleSources": {
         "threshold": 2,
-        "actual": 5,
+        "actual": 4,
         "pass": false
       }
     }
@@ -207,6 +207,24 @@
       "category": "ai_tech",
       "relevance": 100,
       "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Your service area is not your market",
+      "url": "https://www.healthcaredive.com/spons/your-service-area-is-not-your-market/832390/",
+      "source": "Healthcare Dive",
+      "publishedAt": "2026-10-12",
+      "summary": "<p>See how workforce and care patterns can sharpen growth decisions beyond a health plan&rsquo;s service area.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "What Gen Z healthcare workers are really looking for",
+      "url": "https://www.healthcaredive.com/spons/what-gen-z-healthcare-workers-are-really-looking-for/832325/",
+      "source": "Healthcare Dive",
+      "publishedAt": "2026-10-12",
+      "summary": "<p>70% of Gen Z healthcare workers are looking to leave. What will convince them to stay?",
+      "category": "general_market",
+      "categoryLabel": "General Market"
     },
     {
       "title": "Rep. Pallone introduces bill replacing No Surprises Act's arbitration process",
@@ -4851,24 +4869,6 @@
       "summary": "The list of approved participants and drugs is larger than the controversial pilot's first attempted launch. It comes the same day that CMS launched a soon-to-be-mandatory data repository for Part D 340B claim submissions.",
       "category": "policy_reimbursement",
       "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "MultiCare Health System to launch new health plan",
-      "url": "https://www.fiercehealthcare.com/payers/multicare-health-system-launch-new-health-plan",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-04",
-      "summary": "The plan will be available to Medicare-eligible patients in Washington state’s Pierce, Thurston and Spokane counties, the organization says.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Industry Voices—Transforming primary care requires precision and orchestration",
-      "url": "https://www.fiercehealthcare.com/providers/industry-voices-transforming-primary-care-requires-precision-and-orchestration",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-04",
-      "summary": "The next era of primary care will require intelligence that moves directly into the workflow, writes Sentara Health's head of ambulatory care.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
     }
   ]
 }
