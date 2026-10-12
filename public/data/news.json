@@ -1,74 +1,74 @@
 {
-  "lastUpdated": "2026-10-12T12:57:01.861Z",
+  "lastUpdated": "2026-10-12T21:50:37.921Z",
   "scope": "US healthcare",
   "retentionDays": 90,
   "maxArticles": 500,
   "sourceHealth": {
     "totalSources": 9,
-    "staleSources": 4,
-    "healthySources": 5,
+    "staleSources": 3,
+    "healthySources": 6,
     "sources": [
       {
         "source": "Fierce Healthcare",
-        "articleCount": 234,
+        "articleCount": 223,
         "latestPublishedAt": "2026-10-12T00:00:00.000Z",
-        "staleHours": 12,
+        "staleHours": 21,
         "status": "ok"
       },
       {
         "source": "Becker's Hospital Review",
-        "articleCount": 109,
-        "latestPublishedAt": "2026-10-09T00:00:00.000Z",
-        "staleHours": 84,
-        "status": "stale"
+        "articleCount": 119,
+        "latestPublishedAt": "2026-10-12T00:00:00.000Z",
+        "staleHours": 21,
+        "status": "ok"
       },
       {
         "source": "STAT News",
-        "articleCount": 65,
+        "articleCount": 64,
         "latestPublishedAt": "2026-10-10T00:00:00.000Z",
-        "staleHours": 60,
+        "staleHours": 69,
         "status": "ok"
       },
       {
         "source": "Federal Register - HHS",
         "articleCount": 50,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": -12,
+        "staleHours": -3,
         "status": "ok"
       },
       {
         "source": "Healthcare Dive",
-        "articleCount": 14,
+        "articleCount": 16,
         "latestPublishedAt": "2026-10-12T00:00:00.000Z",
-        "staleHours": 12,
+        "staleHours": 21,
         "status": "ok"
       },
       {
         "source": "Federal Register - FDA",
         "articleCount": 14,
         "latestPublishedAt": "2026-10-09T00:00:00.000Z",
-        "staleHours": 84,
+        "staleHours": 93,
         "status": "stale"
       },
       {
         "source": "FDA MedWatch RSS",
         "articleCount": 6,
         "latestPublishedAt": "2026-10-10T00:00:00.000Z",
-        "staleHours": 60,
+        "staleHours": 69,
         "status": "ok"
       },
       {
         "source": "Federal Register - CMS",
         "articleCount": 5,
         "latestPublishedAt": "2026-10-08T00:00:00.000Z",
-        "staleHours": 108,
+        "staleHours": 117,
         "status": "stale"
       },
       {
         "source": "SEC Healthcare Filings",
         "articleCount": 3,
         "latestPublishedAt": "2026-10-09T00:00:00.000Z",
-        "staleHours": 84,
+        "staleHours": 93,
         "status": "stale"
       }
     ]
@@ -76,7 +76,7 @@
   "categoryCoverage": {
     "closures_layoffs": {
       "label": "Closures & Layoffs",
-      "count": 11
+      "count": 9
     },
     "mergers_mna": {
       "label": "Mergers & M&A",
@@ -88,7 +88,7 @@
     },
     "policy_reimbursement": {
       "label": "Policy & Reimbursement",
-      "count": 104
+      "count": 102
     },
     "quality_safety": {
       "label": "Quality & Safety",
@@ -96,15 +96,15 @@
     },
     "capacity_expansion": {
       "label": "Capacity & Expansion",
-      "count": 16
+      "count": 15
     },
     "ai_tech": {
       "label": "AI & Digital Tech",
-      "count": 147
+      "count": 150
     },
     "general_market": {
       "label": "General Market",
-      "count": 189
+      "count": 191
     }
   },
   "quality": {
@@ -120,7 +120,7 @@
       },
       "minArticles24h": {
         "threshold": 20,
-        "actual": 33,
+        "actual": 51,
         "pass": true
       },
       "minRequiredCategoriesCovered": {
@@ -130,7 +130,7 @@
       },
       "maxStaleSources": {
         "threshold": 2,
-        "actual": 4,
+        "actual": 3,
         "pass": false
       }
     }
@@ -209,11 +209,110 @@
       "categoryLabel": "AI & Digital Tech"
     },
     {
-      "title": "Your service area is not your market",
-      "url": "https://www.healthcaredive.com/spons/your-service-area-is-not-your-market/832390/",
+      "title": "50 hospitals, health systems raising workers&#8217; pay",
+      "url": "https://www.beckershospitalreview.com/compensation-issues/50-hospitals-health-systems-raising-workers-pay/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-12",
+      "summary": "Since December 2025, the following hospitals and health systems have said they plan to raise their workers&#8217; pay.&#160; Editor&#8217;s note: This webpage was published Jan.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Texas system taps new COO",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/texas-system-taps-new-coo-2/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-12",
+      "summary": "Tony Torres was named COO of Amarillo-based Northwest Texas Healthcare System, according to an Oct. 12 LinkedIn post.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Fairview to build $100M centralized diagnostic lab",
+      "url": "https://www.beckershospitalreview.com/capital/fairview-to-build-100m-centralized-diagnostic-lab/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-12",
+      "summary": "Minneapolis-based Fairview Health Services will build a $100 million diagnostic laboratory in Roseville, Minn., to meet growing demand for lab services, the The Minnesota Star Tribune reported Oct.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Nebraska Medicine, UNMC expand teaching hospital project to $2.75B",
+      "url": "https://www.beckershospitalreview.com/capital/nebraska-medicine-unmc-expand-teaching-hospital-project-to-2-75b/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-12",
+      "summary": "The University of Nebraska Board of Regents approved an expanded scope for Project Health, the future primary teaching hospital for Omaha-based University of Nebraska Medical Center and Nebraska Medicine, raising the projected cost to $2.75 billion.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "California funds 1st-of-its-kind pharmacist pipeline program",
+      "url": "https://www.beckershospitalreview.com/pharmacy/california-funds-1st-of-its-kind-pharmacist-pipeline-program/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-12",
+      "summary": "California has invested $3.6 million to launch PRIME Rx at the University of California San Diego Skaggs School of Pharmacy and Pharmaceutical Sciences, the first PRIME program at a pharmacy school.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Rising health spending tied to 91% of private premium growth: Study",
+      "url": "https://www.beckershospitalreview.com/finance/rising-health-spending-tied-to-91-of-private-premium-growth-study/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-12",
+      "summary": "Average private health insurance premiums rose 78.4% from 2011 to 2024, and growth in healthcare spending accounted for 91% of that increase, according to a study published Sept.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Why ‘practice-ready’ nursing graduates are a myth",
+      "url": "https://www.beckershospitalreview.com/quality/nursing/why-practice-ready-nursing-graduates-are-a-myth/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-12",
+      "summary": "A long-standing myth may help explain why so many newly graduated nurses leave the profession early. The myth?",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "24 health systems naming revenue cycle vice presidents",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/24-health-systems-naming-revenue-cycle-vice-presidents/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-12",
+      "summary": "Here are 24 health systems that have made revenue cycle vice president hires in 2026:&#160; 1. Chicago-based CommonSpirit Julie Morgan to system vice president of physician enterprise revenue cycle.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Vandalia Health, nonprofit organization break ground on $50M rehabilitation hospital",
+      "url": "https://www.beckershospitalreview.com/capital/vandalia-health-nonprofit-organization-break-ground-on-50m-rehabilitation-hospital/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-12",
+      "summary": "Charleston, W.Va.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Maryland company CEO charged in $100M COVID-19 test fraud scheme",
+      "url": "https://www.beckershospitalreview.com/legal-regulatory-issues/maryland-company-ceo-charged-in-100m-covid-19-test-fraud-scheme/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-12",
+      "summary": "The founder and CEO of Gaithersburg, Md.-based Tiero was indicted in connection with billing insurers more than $100 million for at-home COVID-19 tests while claiming the tests were done in a lab, the Justice Department said Oct.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Hospitals sue over revamped 340B rebate pilot",
+      "url": "https://www.healthcaredive.com/news/hospitals-sue-over-revamped-340b-rebate-pilot/832720/",
       "source": "Healthcare Dive",
       "publishedAt": "2026-10-12",
-      "summary": "<p>See how workforce and care patterns can sharpen growth decisions beyond a health plan&rsquo;s service area.",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "New bill would overhaul the No Surprises Act’s arbitration process",
+      "url": "https://www.healthcaredive.com/news/new-bill-would-overhaul-no-surprises-acts-arbitration-process-frank-pallone/832713/",
+      "source": "Healthcare Dive",
+      "publishedAt": "2026-10-12",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.",
       "category": "general_market",
       "categoryLabel": "General Market"
     },
@@ -223,6 +322,69 @@
       "source": "Healthcare Dive",
       "publishedAt": "2026-10-12",
       "summary": "<p>70% of Gen Z healthcare workers are looking to leave. What will convince them to stay?",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Your service area is not your market",
+      "url": "https://www.healthcaredive.com/spons/your-service-area-is-not-your-market/832390/",
+      "source": "Healthcare Dive",
+      "publishedAt": "2026-10-12",
+      "summary": "<p>See how workforce and care patterns can sharpen growth decisions beyond a health plan&rsquo;s service area.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Alignment Healthcare sues CMS over its 2027 Medicare Advantage star ratings",
+      "url": "https://www.fiercehealthcare.com/payers/alignment-healthcare-sues-cms-over-its-2027-medicare-advantage-star-ratings",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-12",
+      "summary": "Alignment Healthcare sued federal regulators, alleging that its 2027 Medicare Advantage star ratings were determined \"in flagrant violation\" of statute.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "Google unveils new Fitbit Edge tracker as tech giant expands health monitoring ambitions",
+      "url": "https://www.fiercehealthcare.com/health-tech/google-unveils-new-fitbit-edge-tracker-tech-giant-expands-health-monitoring-ambitions",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-12",
+      "summary": "The new device also builds on Google’s health tracking ambitions by combining advanced health sensors with AI-powered insights designed to identify changes in a user’s health and translate those signals into personalized guidance.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Marsh survey examines how health systems are managing capital, investment strategies",
+      "url": "https://www.fiercehealthcare.com/finance/marsh-survey-examines-how-health-orgs-are-managing-capital-investment-strategies",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-12",
+      "summary": "Forty-three percent of respondents report expecting to draw on reserves in 2026, up from 37% the year prior.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Trump administration proposes new $70,000 fee for F-1 student visa workers",
+      "url": "https://www.fiercehealthcare.com/regulatory/trump-administration-proposes-new-70000-fee-f-1-student-visa-workers",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-12",
+      "summary": "The proposed monetary barrier on hiring foreign students would further narrow the path to employment at hospitals and health systems.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "The strategic shift reshaping payment integrity",
+      "url": "https://www.fiercehealthcare.com/sponsored/strategic-shift-reshaping-payment-integrity",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-12",
+      "summary": "Claris Health CEO Michael Axt examines how payers can turn payment integrity into a more connected, strategic capability. Listen to the interview to learn more.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "IDR Costs Nobody Budgeted For: 3 Problems Payers Keep Hitting",
+      "url": "https://www.fiercehealthcare.com/sponsored/healthcare-dive-idr-math-nobody-budgeted",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-12",
+      "summary": "Payers keep hitting the same three out-of-network problems. Here's why pricing, not arbitration, decides what IDR really costs.",
       "category": "general_market",
       "categoryLabel": "General Market"
     },
@@ -4705,168 +4867,6 @@
       "source": "Fierce Healthcare",
       "publishedAt": "2026-10-05",
       "summary": "Projects supported include those to strengthen mental health support in schools, expand trauma treatment for families and children and more.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Microbiome testing company Tiny Health clinches $33M to scale research, enterprise partnerships",
-      "url": "https://www.fiercehealthcare.com/health-tech/tiny-health-focused-microbiome-testing-clinches-33m-scale-research-enterprise",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "Alongside the funding news, Tiny announced the launch of a $5 million Microbiome Research Program to enable researchers, clinicians and scientific partners to investigate important intervention strategies in microbiome health.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Fierce Healthcare Fundraising Tracker '26: Rightway pulls in $155M to expand pharmacy benefits tech; Basalt Health raises $20M",
-      "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "Keep up with all the venture capital dollars being funneled into the health tech and digital health industries.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "CommonSpirit Health grows operating revenue 8.5% to $42.4B in FY2026",
-      "url": "https://www.fiercehealthcare.com/providers/commonspirit-health-grows-revenue-85-424b-fy2026",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "The 156-hospital nonprofit chopped its operating losses down by $257 million, notwithstanding the multibillion-dollar impact of its revenue cycle management breakup with Tenet Health.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Payerset launches AI-powered research assistant to help health systems benchmark payer rates",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/payerset-launches-ai-powered-research-assistant-turn-price-transparency",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "Payerset rolled out an artificial intelligence-powered research assistant that unifies negotiated rate data, claims, policy and market benchmarking into one platform.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Why Prime Therapeutics is betting on bridging the gaps between medical, pharmacy benefits",
-      "url": "https://www.fiercehealthcare.com/payers/why-prime-therapeutics-betting-bridging-gaps-between-medical-pharmacy-benefits",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "Specialty pharmacy is a key cost driver for employers and insurers, with development in this space showing no signs of slowing down.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "White House begins sending out $500 ACA refunds: media reports",
-      "url": "https://www.fiercehealthcare.com/regulatory/white-house-plans-500-refunds-nearly-1m-aca-enrollees",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "The Trump administration has begun sending out $500 refunds to nearly a million individuals enrolled in Affordable Care Act coverage, per media reports.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Fierce Healthcare Layoff Tracker—147 layoffs coming at Kaiser; 73 cuts at City of Hope",
-      "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
-      "category": "closures_layoffs",
-      "categoryLabel": "Closures & Layoffs"
-    },
-    {
-      "title": "DHS appeals judge's block on 'duration of status' rule change for international students",
-      "url": "https://www.fiercehealthcare.com/providers/trump-administration-decouples-visa-duration-training-program-length",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "About one in 10 physicians in a residency or fellowship program are sponsored under a J visa. The policy had been finalized in July and was set to go into effect on Sept.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "When does a hospital-insurer network dispute go public?",
-      "url": "https://www.fiercehealthcare.com/payers/when-does-hospital-insurer-network-dispute-go-public",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "Threats to leave a commercial health coverage network are more frequent with for-profit hospitals, national payers and \"Goldilocks\" local markets where neither side controls too much or too little business, a recent study finds.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Focus on HMOs, C-SNPs: A look at the Medicare Advantage landscape for 2027",
-      "url": "https://www.fiercehealthcare.com/payers/focus-hmos-c-snps-look-medicare-advantage-landscape-2027",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "With Medicare's annual enrollment period on the horizon, major insurers are offering a look at their plans for the coming year and new federal data offers a broader look at the current landscape.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "CMS finalizes model that aims to bring most-favored nation pricing to Part B",
-      "url": "https://www.fiercehealthcare.com/payers/cms-finalizes-model-aims-bring-most-favored-nation-pricing-part-b",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "The Trump administration has finalized a new model that aims to bring its most-favored nation pricing approach to Medicare Part B.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Crisis responses, H.R. 1 fallout are challenging states' mental health delivery",
-      "url": "https://www.fiercehealthcare.com/regulatory/state-officials-weigh-behavioral-health-policy-issues-bht-2026",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "State officials spoke frankly about the challenges they face in delivering equitable mental healthcare during policy sessions at the annual Behavioral Health Tech conference last week, held in Nashville.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Employers increasingly tie digital health payments to outcomes, PHTI survey finds",
-      "url": "https://www.fiercehealthcare.com/digital-health/most-employers-health-plans-use-performance-based-digital-health-contracts-phti",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "The report drew insights from 321 digital health professionals responsible for purchasing across health plans, employers and health systems.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "CommonSpirit finalizes sale of Ohio-based Trinity Health System to UPMC",
-      "url": "https://www.fiercehealthcare.com/providers/commonspirits-ohio-based-trinity-health-system-exploring-upmc-integration",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "The parties have progressed their talks to a definitive agreement that would give UPMC a foothold in the neighboring Buckeye State.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Rural Health Transformation Program funding tracker: CMS awards Texas $51M; Arkansas receives $54.6M",
-      "url": "https://www.fiercehealthcare.com/regulatory/rural-health-transformation-program-funding-tracker-cms-awards-virginia-122m-georgia",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "Stay up-to-date with this tracker for the latest RHTP funding announcements and disclosures.",
-      "category": "closures_layoffs",
-      "categoryLabel": "Closures & Layoffs"
-    },
-    {
-      "title": "Trump announces $90 payments for seniors&#8217; Medicare premium costs ahead of midterm elections",
-      "url": "https://www.statnews.com/2026/10/04/trump-announces-90-dollar-payments-for-medicare-premiums/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-04",
-      "summary": "President Trump is promising more payments to voters just ahead of the Nov.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "How Optum, Owensboro Health teamed up to build a virtual nursing program",
-      "url": "https://www.fiercehealthcare.com/payers/how-optum-owensboro-health-teamed-build-virtual-nursing-program",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-04",
-      "summary": "Owensboro Health is teaming up with Optum Insight to pair bedside nurses with virtual nurses to free up frontline clinicians to dedicate more time to patient care.",
-      "category": "capacity_expansion",
-      "categoryLabel": "Capacity & Expansion"
-    },
-    {
-      "title": "HRSA names 10 drugmakers for revised 340B rebate pilot ahead of 2027 launch",
-      "url": "https://www.fiercehealthcare.com/regulatory/hrsa-announces-drugmakers-products-revised-340b-rebate-pilot",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-04",
-      "summary": "The list of approved participants and drugs is larger than the controversial pilot's first attempted launch. It comes the same day that CMS launched a soon-to-be-mandatory data repository for Part D 340B claim submissions.",
       "category": "policy_reimbursement",
       "categoryLabel": "Policy & Reimbursement"
     }

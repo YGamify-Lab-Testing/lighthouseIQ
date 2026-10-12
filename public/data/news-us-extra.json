@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T12:57:01.787Z",
+  "lastUpdated": "2026-10-12T21:50:37.847Z",
   "scope": "US healthcare",
   "sourceManifestVersion": "1.0.0",
   "sourceHealth": [
@@ -1491,17 +1491,6 @@
       "relevance": 100
     },
     {
-      "title": "AHA podcast discusses how BayCare Health System is addressing the healthcare workforce shortage in Florida",
-      "summary": "",
-      "url": "https://www.aha.org/news/headline/2026-10-05-aha-podcast-discusses-how-baycare-health-system-addressing-healthcare-workforce-shortage-florida",
-      "source": "AHA News",
-      "sourceType": "html",
-      "sourceId": "aha_news",
-      "publishedAt": "",
-      "category": "policy_reimbursement",
-      "relevance": 100
-    },
-    {
       "title": "The Stigma Healthcare Still Has to Break",
       "summary": "",
       "url": "https://www.aha.org/news/blog/2026-09-14-stigma-healthcare-still-has-break",
@@ -2030,50 +2019,6 @@
       "relevance": 96
     },
     {
-      "title": "AHA comments to MedPAC on differences in post-acute care use between MA, fee-for-service Medicare beneficiaries",
-      "summary": "",
-      "url": "https://www.aha.org/news/headline/2026-10-02-aha-comments-medpac-differences-post-acute-care-use-between-ma-fee-service-medicare-beneficiaries",
-      "source": "AHA News",
-      "sourceType": "html",
-      "sourceId": "aha_news",
-      "publishedAt": "",
-      "category": "policy_reimbursement",
-      "relevance": 96
-    },
-    {
-      "title": "AHA, others file amicus brief supporting hospital in challenge to Lilly 340B policy",
-      "summary": "",
-      "url": "https://www.aha.org/news/headline/2026-10-02-aha-others-file-amicus-brief-supporting-hospital-challenge-lilly-340b-policy",
-      "source": "AHA News",
-      "sourceType": "html",
-      "sourceId": "aha_news",
-      "publishedAt": "",
-      "category": "policy_reimbursement",
-      "relevance": 96
-    },
-    {
-      "title": "Webinar to discuss nurse-led AI strategies for care delivery transformation",
-      "summary": "",
-      "url": "https://www.aha.org/news/headline/2026-10-02-webinar-discuss-nurse-led-ai-strategies-care-delivery-transformation",
-      "source": "AHA News",
-      "sourceType": "html",
-      "sourceId": "aha_news",
-      "publishedAt": "",
-      "category": "ai_tech",
-      "relevance": 96
-    },
-    {
-      "title": "HHS launches new clinical trials program for drug development",
-      "summary": "",
-      "url": "https://www.aha.org/news/headline/2026-10-01-hhs-launches-new-clinical-trials-program-drug-development",
-      "source": "AHA News",
-      "sourceType": "html",
-      "sourceId": "aha_news",
-      "publishedAt": "",
-      "category": "policy_reimbursement",
-      "relevance": 96
-    },
-    {
       "title": "Better Information, Better Care: How Coding Supports Today’s Complex Patients",
       "summary": "",
       "url": "https://www.aha.org/news/blog/2026-10-05-better-information-better-care-how-coding-supports-todays-complex-patients",
@@ -2099,6 +2044,17 @@
       "title": "The Economic Impact of Health Disparities: Why It Matters for Hospitals and Health Systems",
       "summary": "",
       "url": "https://www.aha.org/news/blog/2026-08-27-economic-impact-health-disparities-why-it-matters-hospitals-and-health-systems",
+      "source": "AHA News",
+      "sourceType": "html",
+      "sourceId": "aha_news",
+      "publishedAt": "",
+      "category": "policy_reimbursement",
+      "relevance": 96
+    },
+    {
+      "title": "America’s Hospitals Are Transforming Care for an Aging Nation",
+      "summary": "",
+      "url": "https://www.aha.org/news/blog/2026-08-18-americas-hospitals-are-transforming-care-aging-nation",
       "source": "AHA News",
       "sourceType": "html",
       "sourceId": "aha_news",
