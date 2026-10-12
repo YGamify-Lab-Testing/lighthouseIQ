@@ -799,6 +799,13 @@
       "risk_level": "green"
     },
     {
+      "state": "MN",
+      "city": null,
+      "total_notices": 2,
+      "notices_last_90_days": 2,
+      "risk_level": "green"
+    },
+    {
       "state": "FL",
       "city": "HIALEAH",
       "total_notices": 1,
@@ -1233,6 +1240,6 @@
       "risk_level": "green"
     }
   ],
-  "count": 176,
-  "lastUpdated": "2026-10-11T23:37:41.683Z"
+  "count": 177,
+  "lastUpdated": "2026-10-12T04:54:04.458Z"
 }
