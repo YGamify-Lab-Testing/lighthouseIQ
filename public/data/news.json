@@ -1,74 +1,74 @@
 {
-  "lastUpdated": "2026-10-13T02:57:50.591Z",
+  "lastUpdated": "2026-10-13T10:19:04.203Z",
   "scope": "US healthcare",
   "retentionDays": 90,
   "maxArticles": 500,
   "sourceHealth": {
     "totalSources": 9,
-    "staleSources": 5,
-    "healthySources": 4,
+    "staleSources": 3,
+    "healthySources": 6,
     "sources": [
       {
         "source": "Fierce Healthcare",
         "articleCount": 233,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 2,
+        "staleHours": 10,
         "status": "ok"
       },
       {
         "source": "Becker's Hospital Review",
         "articleCount": 120,
         "latestPublishedAt": "2026-10-12T00:00:00.000Z",
-        "staleHours": 26,
+        "staleHours": 34,
         "status": "ok"
       },
       {
         "source": "STAT News",
-        "articleCount": 56,
-        "latestPublishedAt": "2026-10-10T00:00:00.000Z",
-        "staleHours": 74,
-        "status": "stale"
+        "articleCount": 54,
+        "latestPublishedAt": "2026-10-13T00:00:00.000Z",
+        "staleHours": 10,
+        "status": "ok"
       },
       {
         "source": "Federal Register - HHS",
         "articleCount": 50,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 2,
+        "staleHours": 10,
         "status": "ok"
       },
       {
         "source": "Federal Register - FDA",
         "articleCount": 14,
         "latestPublishedAt": "2026-10-09T00:00:00.000Z",
-        "staleHours": 98,
+        "staleHours": 106,
         "status": "stale"
       },
       {
         "source": "Healthcare Dive",
         "articleCount": 13,
         "latestPublishedAt": "2026-10-12T00:00:00.000Z",
-        "staleHours": 26,
+        "staleHours": 34,
         "status": "ok"
       },
       {
         "source": "FDA MedWatch RSS",
         "articleCount": 6,
         "latestPublishedAt": "2026-10-10T00:00:00.000Z",
-        "staleHours": 74,
+        "staleHours": 82,
         "status": "stale"
+      },
+      {
+        "source": "SEC Healthcare Filings",
+        "articleCount": 5,
+        "latestPublishedAt": "2026-10-13T00:00:00.000Z",
+        "staleHours": 10,
+        "status": "ok"
       },
       {
         "source": "Federal Register - CMS",
         "articleCount": 5,
         "latestPublishedAt": "2026-10-08T00:00:00.000Z",
-        "staleHours": 122,
-        "status": "stale"
-      },
-      {
-        "source": "SEC Healthcare Filings",
-        "articleCount": 3,
-        "latestPublishedAt": "2026-10-09T00:00:00.000Z",
-        "staleHours": 98,
+        "staleHours": 130,
         "status": "stale"
       }
     ]
@@ -100,11 +100,11 @@
     },
     "ai_tech": {
       "label": "AI & Digital Tech",
-      "count": 151
+      "count": 148
     },
     "general_market": {
       "label": "General Market",
-      "count": 190
+      "count": 193
     }
   },
   "quality": {
@@ -120,7 +120,7 @@
       },
       "minArticles24h": {
         "threshold": 20,
-        "actual": 31,
+        "actual": 36,
         "pass": true
       },
       "minRequiredCategoriesCovered": {
@@ -130,7 +130,7 @@
       },
       "maxStaleSources": {
         "threshold": 2,
-        "actual": 5,
+        "actual": 3,
         "pass": false
       }
     }
@@ -207,6 +207,57 @@
       "category": "ai_tech",
       "relevance": 100,
       "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "UNH 8-K filing - UnitedHealth Group Incorporated",
+      "summary": "UnitedHealth Group Incorporated filed 8-K with the SEC.",
+      "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000255/unh-20261013.htm",
+      "source": "SEC Healthcare Filings",
+      "sourceType": "sec_filings",
+      "sourceId": "sec_healthcare_filings",
+      "publishedAt": "2026-10-13",
+      "category": "general_market",
+      "relevance": 90,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "HUM 8-K filing - Humana Inc.",
+      "summary": "Humana Inc. filed 8-K with the SEC.",
+      "url": "https://www.sec.gov/Archives/edgar/data/49071/000004907126000060/hum-20261013.htm",
+      "source": "SEC Healthcare Filings",
+      "sourceType": "sec_filings",
+      "sourceId": "sec_healthcare_filings",
+      "publishedAt": "2026-10-13",
+      "category": "general_market",
+      "relevance": 85,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Opinion: Lethal injection will never be the same after Christa Pike’s botched execution",
+      "url": "https://www.statnews.com/2026/10/13/christa-pike-botched-execution-bioethics-end-of-lethal-injection/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-13",
+      "summary": "“The legal and medical issues in the Christa Pike case are on a collision course,” writes bioethicist M. Sara Rosenthal.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: Concerns grow on safety issues tied to Neurocrine Biosciences rare disease drug",
+      "url": "https://www.statnews.com/2026/10/13/neurocrine-biosciences-prader-willi-vykat-xr/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-13",
+      "summary": "Patient advocates and some experts are expressing growing alarm over the perceived risks of a rare disease drug sold by Neurocrine Biosciences.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Opinion: STAT+: The epidemic of learned helplessness in physicians",
+      "url": "https://www.statnews.com/2026/10/13/doctors-learned-helplessness-chief-complaint-frances-mei-hardin/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-13",
+      "summary": "“Hordes of brilliant, graduate-degree-holding professionals in their 40s, 50s, and beyond act helpless at work,” writes STAT columnist Frances Mei Hardin.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
     },
     {
       "title": "Alignment Healthcare sues CMS over its 2027 Medicare Advantage star ratings",
@@ -4487,18 +4538,6 @@
       "categoryLabel": "Policy & Reimbursement"
     },
     {
-      "title": "IV Tubing Set Correction: ICU Medical Updates Use Instructions for IV Tubing Sets",
-      "summary": "Black specks and particulate reported in drip chambers of certain ICU Medical IV tubing sets does not affect device safety, performance, or intended use.",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/iv-tubing-set-correction-icu-medical-updates-use-instructions-iv-tubing-sets",
-      "source": "FDA MedWatch RSS",
-      "sourceType": "rss",
-      "sourceId": "fda_medwatch_rss",
-      "publishedAt": "2026-10-05",
-      "category": "ai_tech",
-      "relevance": 100,
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
       "title": "Infusion Set Recall: BD and CareFusion 303, Inc. Remove BD Alaris Pump Infusion Sets",
       "summary": "BD Alaris Pump Infusion Sets are being removed and discontinued; Alaris Pump Module model 8100 has updated performance data",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-set-recall-bd-and-carefusion-303-inc-remove-bd-alaris-pump-infusion-sets",
@@ -4509,6 +4548,18 @@
       "category": "general_market",
       "relevance": 100,
       "categoryLabel": "General Market"
+    },
+    {
+      "title": "IV Tubing Set Correction: ICU Medical Updates Use Instructions for IV Tubing Sets",
+      "summary": "Black specks and particulate reported in drip chambers of certain ICU Medical IV tubing sets does not affect device safety, performance, or intended use.",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/iv-tubing-set-correction-icu-medical-updates-use-instructions-iv-tubing-sets",
+      "source": "FDA MedWatch RSS",
+      "sourceType": "rss",
+      "sourceId": "fda_medwatch_rss",
+      "publishedAt": "2026-10-05",
+      "category": "ai_tech",
+      "relevance": 100,
+      "categoryLabel": "AI & Digital Tech"
     },
     {
       "title": "Advisory Council on Alzheimer's Research, Care, and Services; Meeting",
@@ -4822,51 +4873,6 @@
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-05",
       "summary": "Health systems are spending heavily on AI, but proving what it delivers remains a challenge. Only 4% of systems have scaled AI with measurable outcomes, and 4 in 5 IT leaders struggle to measure AI&#8217;s return, according to an April report from Qventus.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "STAT+: Prices, prices, prices",
-      "url": "https://www.statnews.com/2026/10/05/health-care-prices-make-care-insurance-expensive-health-care-inc/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-05",
-      "summary": "Why is health insurance so expensive? Read the latest stort in STAT's \"Out of Pocket, Out of Reach\" series to find out.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "STAT+: Utah plows ahead with more health AI pilots for prescriptions, women’s health",
-      "url": "https://www.statnews.com/2026/10/05/utah-expands-health-ai-sandbox-picks-third-party-auditors/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-05",
-      "summary": "Utah plans to allow an AI product to evaluate patients and write new drug prescriptions without prior human review.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "STAT+: Lilly&#8217;s Jaypirca approved as first-line CLL therapy",
-      "url": "https://www.statnews.com/2026/10/05/biotech-news-lilly-jaypirca-approved-as-first-line-cll-therapy/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-05",
-      "summary": "Eli Lilly’s Jaypirca has won FDA approval for previously untreated chronic lymphocytic leukemia and small lymphocytic lymphoma.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "STAT+: Pharmalittle: We&#8217;re reading about a Vaxcyte pneumococcal shot, increasing pharma M&#038;A, and more",
-      "url": "https://www.statnews.com/pharmalot/2026/10/05/vaxcyte-pneumococcal-vaccine-rising-pharma-mergers-acquisitions/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-05",
-      "summary": "Vaxcyte said its pneumococcal vaccine hit the primary endpoints in a Phase 3 clinical trial, setting up a competition with Pfizer and Merck",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "STAT+: Vaxcyte claims success in bid to beat Pfizer and Merck in lucrative vaccine market",
-      "url": "https://www.statnews.com/2026/10/05/vaxcyte-pneumococcal-vaccine-study-pfizer-merck/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-05",
-      "summary": "Vaxcyte said its experimental pneumococcal vaccine hit the primary endpoints in a Phase 3 clinical trial, setting up the biotech to compete with Pfizer and Merck.",
       "category": "ai_tech",
       "categoryLabel": "AI & Digital Tech"
     }
