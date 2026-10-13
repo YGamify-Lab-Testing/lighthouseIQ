@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-13T18:08:16Z",
-  "totalStrikes": 397,
+  "lastUpdated": "2026-10-13T22:42:31Z",
+  "totalStrikes": 398,
   "activeStrikes": 4,
-  "pendingStrikes": 50,
+  "pendingStrikes": 51,
   "operationalStrikes": 28,
   "sources": [
     "cornell_ilr",
@@ -34,7 +34,7 @@
       "statusCode": 200,
       "error": null,
       "records": 1000,
-      "checkedAt": "2026-10-13T18:08:16Z"
+      "checkedAt": "2026-10-13T22:42:31Z"
     },
     {
       "source": "aflcio",
@@ -43,7 +43,7 @@
       "statusCode": 403,
       "error": "blocked by cloudflare",
       "records": 0,
-      "checkedAt": "2026-10-13T18:08:16Z"
+      "checkedAt": "2026-10-13T22:42:31Z"
     },
     {
       "source": "nurse_org",
@@ -52,7 +52,7 @@
       "statusCode": 200,
       "error": null,
       "records": 0,
-      "checkedAt": "2026-10-13T18:08:16Z"
+      "checkedAt": "2026-10-13T22:42:31Z"
     },
     {
       "source": "nnu_rss",
@@ -61,7 +61,7 @@
       "statusCode": 200,
       "error": null,
       "records": 5,
-      "checkedAt": "2026-10-13T18:08:16Z"
+      "checkedAt": "2026-10-13T22:42:31Z"
     },
     {
       "source": "nysna_rss",
@@ -70,7 +70,7 @@
       "statusCode": 200,
       "error": null,
       "records": 0,
-      "checkedAt": "2026-10-13T18:08:16Z"
+      "checkedAt": "2026-10-13T22:42:31Z"
     },
     {
       "source": "unacuhcp_rss",
@@ -79,7 +79,7 @@
       "statusCode": 200,
       "error": null,
       "records": 0,
-      "checkedAt": "2026-10-13T18:08:16Z"
+      "checkedAt": "2026-10-13T22:42:31Z"
     },
     {
       "source": "massnurses_rss",
@@ -88,7 +88,7 @@
       "statusCode": 200,
       "error": null,
       "records": 7,
-      "checkedAt": "2026-10-13T18:08:16Z"
+      "checkedAt": "2026-10-13T22:42:31Z"
     },
     {
       "source": "hpae_rss",
@@ -97,7 +97,7 @@
       "statusCode": 200,
       "error": null,
       "records": 0,
-      "checkedAt": "2026-10-13T18:08:16Z"
+      "checkedAt": "2026-10-13T22:42:31Z"
     },
     {
       "source": "mnnurses_rss",
@@ -106,7 +106,7 @@
       "statusCode": 200,
       "error": null,
       "records": 1,
-      "checkedAt": "2026-10-13T18:08:16Z"
+      "checkedAt": "2026-10-13T22:42:31Z"
     },
     {
       "source": "pasnap_rss",
@@ -115,7 +115,7 @@
       "statusCode": 200,
       "error": null,
       "records": 0,
-      "checkedAt": "2026-10-13T18:08:16Z"
+      "checkedAt": "2026-10-13T22:42:31Z"
     },
     {
       "source": "seiu_rss",
@@ -124,7 +124,7 @@
       "statusCode": 200,
       "error": null,
       "records": 0,
-      "checkedAt": "2026-10-13T18:08:16Z"
+      "checkedAt": "2026-10-13T22:42:31Z"
     },
     {
       "source": "google_news_nurse_strike",
@@ -133,7 +133,7 @@
       "statusCode": 200,
       "error": null,
       "records": 26,
-      "checkedAt": "2026-10-13T18:08:16Z"
+      "checkedAt": "2026-10-13T22:42:31Z"
     },
     {
       "source": "google_news_healthcare_strike",
@@ -142,7 +142,7 @@
       "statusCode": 200,
       "error": null,
       "records": 30,
-      "checkedAt": "2026-10-13T18:08:16Z"
+      "checkedAt": "2026-10-13T22:42:31Z"
     },
     {
       "source": "google_news_nurses_vote_strike",
@@ -151,7 +151,7 @@
       "statusCode": 200,
       "error": null,
       "records": 15,
-      "checkedAt": "2026-10-13T18:08:16Z"
+      "checkedAt": "2026-10-13T22:42:31Z"
     },
     {
       "source": "google_news_rn_strike_notice",
@@ -160,7 +160,7 @@
       "statusCode": 200,
       "error": null,
       "records": 2,
-      "checkedAt": "2026-10-13T18:08:16Z"
+      "checkedAt": "2026-10-13T22:42:31Z"
     },
     {
       "source": "google_news_nurse_walkout",
@@ -169,7 +169,7 @@
       "statusCode": 200,
       "error": null,
       "records": 20,
-      "checkedAt": "2026-10-13T18:08:16Z"
+      "checkedAt": "2026-10-13T22:42:31Z"
     },
     {
       "source": "healthcaredive_rss",
@@ -178,7 +178,7 @@
       "statusCode": 200,
       "error": null,
       "records": 0,
-      "checkedAt": "2026-10-13T18:08:16Z"
+      "checkedAt": "2026-10-13T22:42:31Z"
     },
     {
       "source": "fiercehealthcare_rss",
@@ -187,7 +187,7 @@
       "statusCode": 200,
       "error": null,
       "records": 0,
-      "checkedAt": "2026-10-13T18:08:16Z"
+      "checkedAt": "2026-10-13T22:42:31Z"
     },
     {
       "source": "kffhealthnews_rss",
@@ -196,7 +196,7 @@
       "statusCode": 200,
       "error": null,
       "records": 0,
-      "checkedAt": "2026-10-13T18:08:16Z"
+      "checkedAt": "2026-10-13T22:42:31Z"
     }
   ],
   "verificationSummary": {
@@ -206,8 +206,8 @@
     "unverified": 0
   },
   "duplicateStats": {
-    "preConsolidationCount": 1003,
-    "postConsolidationCount": 998,
+    "preConsolidationCount": 1004,
+    "postConsolidationCount": 999,
     "collapsedByConsolidation": 5,
     "preConsolidation": {
       "exactDuplicateGroups": 1,
@@ -288,15 +288,15 @@
     "confidence": {
       "high": 2,
       "medium": 71,
-      "low": 324
+      "low": 325
     },
     "status": {
       "active": 4,
-      "pending": 50,
+      "pending": 51,
       "resolved": 343
     },
     "freshness": {
-      "last30Days": 57,
+      "last30Days": 58,
       "last90Days": 27,
       "last365Days": 110,
       "older": 202,
@@ -304,7 +304,7 @@
     },
     "corroboration": {
       "multiSource": 2,
-      "singleSource": 395
+      "singleSource": 396
     },
     "operationalCount": 28,
     "droppedByQualityRule": {
@@ -314,7 +314,7 @@
   },
   "strikes": [
     {
-      "id": "cornell_ilr-b4d1c4",
+      "id": "cornell_ilr-ffd866",
       "employer": "Fresenius Kidney Care; Satellite Healthcare",
       "city": "San Diego",
       "state": "CA",
@@ -340,7 +340,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-75e084",
+      "id": "cornell_ilr-16f92f",
       "employer": "Cleveland Clinic",
       "city": "Cleveland",
       "state": "OH",
@@ -366,7 +366,7 @@
       "confidenceLabel": "high"
     },
     {
-      "id": "cornell_ilr-cee405",
+      "id": "cornell_ilr-5e1b32",
       "employer": "Hazelden Betty Ford Foundation",
       "city": "Center City",
       "state": "MN",
@@ -392,7 +392,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-323420",
+      "id": "cornell_ilr-c39806",
       "employer": "Verbal Beginnings",
       "city": "Rockville",
       "state": "MD",
@@ -418,7 +418,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-46124d",
+      "id": "cornell_ilr-5c6543",
       "employer": "Seattle Children's Hospital",
       "city": "Seattle",
       "state": "WA",
@@ -444,7 +444,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-8ffd52",
+      "id": "cornell_ilr-0cd97a",
       "employer": "Henry Ford Health",
       "city": "Grand Blanc",
       "state": "MI",
@@ -470,7 +470,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-56fe3d",
+      "id": "cornell_ilr-8428dc",
       "employer": "Cold Spring Hills Center for Nursing and Rehabilitation",
       "city": "Woodbury",
       "state": "NY",
@@ -496,7 +496,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-65f84f",
+      "id": "cornell_ilr-67ae51",
       "employer": "Optalis Healthcare",
       "city": "Westland",
       "state": "MI",
@@ -522,7 +522,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-670869",
+      "id": "cornell_ilr-fe71ba",
       "employer": "Bellflower Dental Group",
       "city": "Bellflower",
       "state": "CA",
@@ -548,7 +548,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-3debe2",
+      "id": "cornell_ilr-f47dbb",
       "employer": "Hampton Social - Parker Hospitality",
       "city": "Naples",
       "state": "FL",
@@ -574,7 +574,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-6158aa",
+      "id": "cornell_ilr-b44c65",
       "employer": "Nathan Littauer Hospital",
       "city": "Gloversville",
       "state": "NY",
@@ -600,7 +600,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-138497",
+      "id": "cornell_ilr-affe38",
       "employer": "CoreCivic - Central Arizona Florence Correctional Complex",
       "city": "Florence",
       "state": "AZ",
@@ -626,7 +626,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-8f49ff",
+      "id": "cornell_ilr-fe2200",
       "employer": "IHealth - DSM Fermenich",
       "city": "Enfield",
       "state": "CT",
@@ -652,7 +652,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-9b5806",
+      "id": "cornell_ilr-aece35",
       "employer": "Ascension Via Christi",
       "city": "Wichita",
       "state": "KS",
@@ -678,7 +678,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-b26885",
+      "id": "cornell_ilr-83fb83",
       "employer": "Albany Helping Hands",
       "city": "Albany",
       "state": "OR",
@@ -704,7 +704,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-4a1b85",
+      "id": "cornell_ilr-50ebf3",
       "employer": "CARE Ambulance",
       "city": "Fairfield",
       "state": "IA",
@@ -730,7 +730,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-faa0f9",
+      "id": "cornell_ilr-4fe207",
       "employer": "Sutter Hospitals and Medical Centers",
       "city": "Santa Rosa",
       "state": "CA",
@@ -756,7 +756,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-07d67c",
+      "id": "cornell_ilr-79c960",
       "employer": "Hope Creek Care Center",
       "city": "East Moline",
       "state": "IL",
@@ -782,7 +782,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-a2e0f7",
+      "id": "cornell_ilr-d825a4",
       "employer": "UC Hospitals",
       "city": "Sacramento",
       "state": "CA",
@@ -808,7 +808,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "mnnurses_rss-6f9af1",
+      "id": "mnnurses_rss-bb0b05",
       "employer": "Hazelden Betty Ford",
       "city": "",
       "state": "MN",
@@ -834,7 +834,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "nnu_rss-250ba8",
+      "id": "nnu_rss-7841e3",
       "employer": "Central Maine Medical Center",
       "city": "Lewiston",
       "state": "IL",
@@ -860,7 +860,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "nnu_rss-1708ba",
+      "id": "nnu_rss-d34be1",
       "employer": "five Prime Healthcare hospitals in four states",
       "city": "Reno",
       "state": "CA",
@@ -886,7 +886,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "google_news_nurse_walkout-70fef7",
+      "id": "google_news_nurse_walkout-505473",
       "employer": "Allina hospital doctors walk off the job in historic 4-day strike in Minnesota",
       "city": "",
       "state": "MN",
@@ -912,7 +912,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "google_news_healthcare_strike-76f5aa",
+      "id": "google_news_healthcare_strike-b270e6",
       "employer": "Mombasa hospitals reopen with 286 new",
       "city": "",
       "state": "NY",
@@ -938,7 +938,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "google_news_healthcare_strike-8931a6",
+      "id": "google_news_healthcare_strike-2e7219",
       "employer": "Olympia Fields Hospital in Chicago's south suburbs strike against Prime Healthcare",
       "city": "Lynwood",
       "state": "CA",
@@ -964,7 +964,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "google_news_healthcare_strike-0e31ad",
+      "id": "google_news_healthcare_strike-6e391c",
       "employer": "Olympia Fields Hospital, as union continues to battle Prime Healthcare",
       "city": "Lynwood",
       "state": "CA",
@@ -990,7 +990,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "google_news_nurse_walkout-b93b06",
+      "id": "google_news_nurse_walkout-eabde2",
       "employer": "Olympia Fields Hospital",
       "city": "Lynwood",
       "state": "CA",
@@ -1016,7 +1016,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "google_news_nurse_walkout-47da38",
+      "id": "google_news_nurse_walkout-c3dd7f",
       "employer": "Larnaca hospital",
       "city": "",
       "state": "NY",
@@ -1042,7 +1042,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "massnurses_rss-b0d4e8",
+      "id": "massnurses_rss-cd5320",
       "employer": "Boston Medical Center MNA",
       "city": "Boston",
       "state": "MA",
@@ -1068,7 +1068,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "google_news_nurse_walkout-a4aa0e",
+      "id": "google_news_nurse_walkout-5bd282",
       "employer": "Boston Medical Center",
       "city": "Boston",
       "state": "MA",
@@ -1094,7 +1094,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "google_news_nurse_walkout-4b5240",
+      "id": "google_news_nurse_walkout-f12e78",
       "employer": "More Boston Medical Center",
       "city": "Boston",
       "state": "MA",
@@ -1120,7 +1120,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "nnu_rss-b949c5",
+      "id": "nnu_rss-bec903",
       "employer": "Sharp Tri-City Medical Center",
       "city": "Oceanside",
       "state": "CA",
@@ -1146,7 +1146,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "google_news_healthcare_strike-a2a3e2",
+      "id": "google_news_healthcare_strike-4869e5",
       "employer": "Lutheran Hospital workers prepare for strike as Cleveland Clinic says patient care will co",
       "city": "Cleveland",
       "state": "OH",
@@ -1172,7 +1172,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "google_news_healthcare_strike-e1d022",
+      "id": "google_news_healthcare_strike-e00197",
       "employer": "specialist Wait\u0101kere Hospital ward",
       "city": "",
       "state": "NY",
@@ -1198,7 +1198,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "google_news_nurse_walkout-af76d6",
+      "id": "google_news_nurse_walkout-754d62",
       "employer": "Cleveland Clinic Lutheran Hospital caregivers prepare to strike over workplace protections",
       "city": "Cleveland",
       "state": "OH",
@@ -1224,7 +1224,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "google_news_healthcare_strike-1108b8",
+      "id": "google_news_healthcare_strike-523873",
       "employer": "\u2018Bigger Than Money\u2019: Lutheran Hospital healthcare workers set to strike over safety & staf",
       "city": "",
       "state": "NY",
@@ -1250,7 +1250,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "google_news_healthcare_strike-867f48",
+      "id": "google_news_healthcare_strike-88a031",
       "employer": "Cleveland Clinic Lutheran Hospital workers are on strike",
       "city": "Cleveland",
       "state": "OH",
@@ -1276,7 +1276,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "google_news_healthcare_strike-126ca0",
+      "id": "google_news_healthcare_strike-f5864a",
       "employer": "Cleveland Clinic Lutheran Hospital begin strike",
       "city": "Cleveland",
       "state": "OH",
@@ -1302,7 +1302,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "massnurses_rss-f0bdd9",
+      "id": "massnurses_rss-88784c",
       "employer": "Brigham",
       "city": "",
       "state": "MA",
@@ -1328,7 +1328,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "google_news_nurse_walkout-52b486",
+      "id": "google_news_nurse_walkout-c70e66",
       "employer": "Brigham and Women's Hospital",
       "city": "Boston",
       "state": "MA",
@@ -1354,7 +1354,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "nnu_rss-6d7765",
+      "id": "nnu_rss-8d61a8",
       "employer": "Montefiore",
       "city": "",
       "state": "NY",
@@ -1380,7 +1380,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "google_news_nurse_walkout-1cfe62",
+      "id": "google_news_nurse_walkout-f4308c",
       "employer": "hospital",
       "city": "",
       "state": "NY",
@@ -1406,7 +1406,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "google_news_healthcare_strike-c3db22",
+      "id": "google_news_healthcare_strike-c781b5",
       "employer": "Royal Berkshire Hospital porters overtime row sees two-day strike",
       "city": "",
       "state": "NY",
@@ -1432,7 +1432,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "massnurses_rss-009972",
+      "id": "massnurses_rss-51f14d",
       "employer": "Brigham",
       "city": "",
       "state": "MA",
@@ -1458,7 +1458,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "google_news_nurse_walkout-757793",
+      "id": "google_news_nurse_walkout-fa24a4",
       "employer": "Thousands of Brigham and Women's Hospital",
       "city": "Boston",
       "state": "MA",
@@ -1484,7 +1484,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "google_news_nurse_walkout-005fe3",
+      "id": "google_news_nurse_walkout-9af68b",
       "employer": "These Hospitals Get Struck Again and Again: The Repeat-Strike Employers",
       "city": "",
       "state": "NY",
@@ -1510,7 +1510,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "google_news_nurses_vote_strike-2bdccd",
+      "id": "google_news_nurses_vote_strike-3f36d0",
       "employer": "UVM Medical Center unions vote to authorize strike",
       "city": "Burlington",
       "state": "VT",
@@ -1536,7 +1536,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "massnurses_rss-78da2d",
+      "id": "massnurses_rss-80b1fa",
       "employer": "MNA Brigham and Women\u2019s Hospital",
       "city": "Boston",
       "state": "MA",
@@ -1563,7 +1563,7 @@
       "confidenceLabel": "high"
     },
     {
-      "id": "google_news_nurse_walkout-74f659",
+      "id": "google_news_nurse_walkout-484478",
       "employer": "How Brigham and Women's Hospital is preparing for looming",
       "city": "Boston",
       "state": "MA",
@@ -1589,7 +1589,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "google_news_nurses_vote_strike-2bffec",
+      "id": "google_news_nurses_vote_strike-ecf194",
       "employer": "Allegheny General Hospital",
       "city": "Pittsburgh",
       "state": "PA",
@@ -1615,7 +1615,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "google_news_nurse_walkout-86588e",
+      "id": "google_news_nurse_walkout-368a4d",
       "employer": "Boston Medical Center",
       "city": "Boston",
       "state": "MA",
@@ -1641,7 +1641,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "google_news_nurses_vote_strike-717f51",
+      "id": "google_news_nurses_vote_strike-58fbb7",
       "employer": "Brigham strike paused to vote on hospital's latest offer",
       "city": "",
       "state": "NY",
@@ -1667,7 +1667,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "google_news_healthcare_strike-2961ec",
+      "id": "google_news_healthcare_strike-92e8e4",
       "employer": "BREAKING: Ogun Hospital Workers Declare 72-Hour Warning Strike After Patient\u2019s Relative Al",
       "city": "",
       "state": "NY",
@@ -1693,7 +1693,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "google_news_nurse_walkout-8df22e",
+      "id": "google_news_nurse_walkout-e1b974",
       "employer": "Brigham and Women's",
       "city": "",
       "state": "NY",
@@ -1720,7 +1720,33 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-e04610",
+      "id": "google_news_healthcare_strike-357b9e",
+      "employer": "Ogun hospital workers begin 3-day strike after patient\u2019s relative stabs medical scientist",
+      "city": "",
+      "state": "NY",
+      "workers": 0,
+      "union": "",
+      "reason": "Google News nurse-strike signal",
+      "actionType": "strike",
+      "startDate": "2026-10-13",
+      "endDate": null,
+      "status": "pending",
+      "source": "google_news_healthcare_strike",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPenFTc3dnR2lqUXNFQmNFYXZSek9EQnN5eUlQa2NBSTJXTk54SEtCaDN4bDRVdGljbjZpVlhkYXlhU01kZHJRRDkyN0t6S3g4Wk9kYXp2c3JvY1IxWi02bWlUNGlFSGNFa3VWX0FkOVVOb0ZUMFBTb3J5T3FFdGVCSUpqNnBWWEI3NV84ZmZKLTlnckFPb3E0RUc3cmNLMG1UTEwxUVhvcnF4QkZYRndxd2NZelVWaDhOQjlycmdWSEhDOTDSAcgBQVVfeXFMT1R1U1JRQ21iOE5RVVNvTnoyOENQYVV5Nk9XVHNBSE9OTTRSaDVYZWM2UzlUT3ZmSUJNaE9sb3c1Q3VZZlNTcEdydThRVU1pZnkxSTh6VzhMMWlNX3JXRHJJOHZ3bFJaUUVLRjVxQWJLYWhReXVmM3NlT2s0YkFSNVQxd3ppUHBWSXZTazF1WWMtdzlNYThWTjk3SmNDTXhtS0ZiOEZEOVRKWHpOYXAzUmw1cU1MMzVVenN5YkF2b2c2SjRxWDZuNHg?oc=5",
+      "publisherSourceUrl": "https://www.vanguardngr.com",
+      "publisherSourceName": "Vanguard News",
+      "healthcareType": "hospital",
+      "isTravelOpportunity": false,
+      "notes": "Ogun hospital workers begin 3-day strike after patient\u2019s relative stabs medical scientist",
+      "corroboratedBy": [
+        "google_news_healthcare_strike"
+      ],
+      "sourceCount": 1,
+      "confidenceScore": 47,
+      "confidenceLabel": "low"
+    },
+    {
+      "id": "cornell_ilr-1da2c8",
       "employer": "University of California; University of California Health",
       "city": "Berkeley",
       "state": "CA",
@@ -1746,7 +1772,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-158b8c",
+      "id": "cornell_ilr-a8f246",
       "employer": "University of California; University of California Health",
       "city": "Berkeley",
       "state": "CA",
@@ -1772,7 +1798,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-f69be5",
+      "id": "cornell_ilr-9e4012",
       "employer": "University of California; University of California Health",
       "city": "Berkeley",
       "state": "CA",
@@ -1798,7 +1824,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-952b0d",
+      "id": "cornell_ilr-b80a42",
       "employer": "University of California; University of California Health",
       "city": "Berkeley",
       "state": "CA",
@@ -1824,7 +1850,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-d8a52f",
+      "id": "cornell_ilr-b5fadc",
       "employer": "Kaiser Permanente",
       "city": "Oakland",
       "state": "CA",
@@ -1850,7 +1876,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-c9091e",
+      "id": "cornell_ilr-52e100",
       "employer": "University of California; University of California Health",
       "city": "Berkeley",
       "state": "CA",
@@ -1876,7 +1902,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-926685",
+      "id": "cornell_ilr-8950d8",
       "employer": "Mount Sinai Hospital; Montefiore; NewYork-Presbyterian",
       "city": "New York",
       "state": "NY",
@@ -1902,7 +1928,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-88897f",
+      "id": "cornell_ilr-e0ff45",
       "employer": "CVS Pharmacy",
       "city": "Los Angeles",
       "state": "CA",
@@ -1928,7 +1954,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-19815a",
+      "id": "cornell_ilr-cb96d0",
       "employer": "Sharp HealthCare",
       "city": "La Mesa",
       "state": "CA",
@@ -1954,7 +1980,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-e443b0",
+      "id": "cornell_ilr-2e2623",
       "employer": "Providence Health",
       "city": "Portland",
       "state": "OR",
@@ -1980,7 +2006,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-56d179",
+      "id": "cornell_ilr-1a831b",
       "employer": "Kaiser Permanente",
       "city": "Downey",
       "state": "CA",
@@ -2006,7 +2032,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-51f379",
+      "id": "cornell_ilr-87e499",
       "employer": "Tenet Healthcare",
       "city": "San Ramon",
       "state": "CA",
@@ -2032,7 +2058,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-d69381",
+      "id": "cornell_ilr-54d3a0",
       "employer": "Kaiser Permanente",
       "city": "San Diego",
       "state": "CA",
@@ -2058,7 +2084,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-22e23a",
+      "id": "cornell_ilr-98ecc3",
       "employer": "Kaiser Permanente",
       "city": "Fontana",
       "state": "CA",
@@ -2084,7 +2110,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-abaa0b",
+      "id": "cornell_ilr-7c7a15",
       "employer": "Kaiser Permanente",
       "city": "Oakland",
       "state": "CA",
@@ -2110,7 +2136,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-1de4e2",
+      "id": "cornell_ilr-ae0989",
       "employer": "Long Beach Medical Center - MemorialCare",
       "city": "Long Beach",
       "state": "CA",
@@ -2136,7 +2162,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-d61190",
+      "id": "cornell_ilr-d3ac38",
       "employer": "Long Beach Memorial Medical Center; Alhambra Hospital Medical Center",
       "city": "Long Beach",
       "state": "CA",
@@ -2162,7 +2188,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-24316e",
+      "id": "cornell_ilr-548c03",
       "employer": "Keck School of Medicine",
       "city": "Los Angeles",
       "state": "CA",
@@ -2188,7 +2214,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-4b44e4",
+      "id": "cornell_ilr-346bb5",
       "employer": "Prime Healthcare",
       "city": "Redding",
       "state": "CA",
@@ -2214,7 +2240,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-156f9d",
+      "id": "cornell_ilr-fdff87",
       "employer": "University of Illinois Health",
       "city": "Chicago",
       "state": "IL",
@@ -2240,7 +2266,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-4a65ec",
+      "id": "cornell_ilr-8e32ba",
       "employer": "Keck School of Medicine",
       "city": "Los Angeles",
       "state": "CA",
@@ -2266,7 +2292,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-452750",
+      "id": "cornell_ilr-cca534",
       "employer": "UCSF Benioff Children's Hospital Oakland",
       "city": "Oakland",
       "state": "CA",
@@ -2292,7 +2318,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-3e6b12",
+      "id": "cornell_ilr-5b2f07",
       "employer": "MarinHealth",
       "city": "Greenbrae",
       "state": "CA",
@@ -2318,7 +2344,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-9abeaf",
+      "id": "cornell_ilr-e14fbf",
       "employer": "Ascension Via Christi",
       "city": "Wichita",
       "state": "KS",
@@ -2344,7 +2370,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-b56406",
+      "id": "cornell_ilr-197769",
       "employer": "MultiCare Good Samaritan Hospital",
       "city": "Puyallup",
       "state": "WA",
@@ -2370,7 +2396,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-ebedab",
+      "id": "cornell_ilr-73c793",
       "employer": "PeaceHealth",
       "city": "Bellingham",
       "state": "WA",
@@ -2396,7 +2422,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-249d84",
+      "id": "cornell_ilr-f275e5",
       "employer": "City of San Francisco Office of Economic and Workforce Development",
       "city": "San Francisco",
       "state": "CA",
@@ -2422,7 +2448,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-ea5f76",
+      "id": "cornell_ilr-dddf4b",
       "employer": "Michigan Medicine",
       "city": "Ann Arbor",
       "state": "MI",
@@ -2448,7 +2474,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-4e373e",
+      "id": "cornell_ilr-4c4baa",
       "employer": "Meritrer Hospital - UnityPoint Health",
       "city": "Madison",
       "state": "WI",
@@ -2474,7 +2500,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-7d4b57",
+      "id": "cornell_ilr-48e575",
       "employer": "Providence Saint Joseph Medical Center",
       "city": "Burbank",
       "state": "CA",
@@ -2500,7 +2526,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-5ac8a5",
+      "id": "cornell_ilr-509330",
       "employer": "Mount Nittany Medical Center",
       "city": "State College",
       "state": "PA",
@@ -2526,7 +2552,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-1d35fc",
+      "id": "cornell_ilr-06bfbb",
       "employer": "DaVita; Fresenius; Satellite; U.S. Renal",
       "city": "Fontana",
       "state": "CA",
@@ -2552,7 +2578,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-120c02",
+      "id": "cornell_ilr-a91adb",
       "employer": "Maui Health System",
       "city": "Wailuku",
       "state": "HI",
@@ -2578,7 +2604,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-465a6f",
+      "id": "cornell_ilr-b71fde",
       "employer": "Providence Cedars-Sinai Tarzana Medical Center",
       "city": "Tanzana",
       "state": "CA",
@@ -2604,7 +2630,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-4ab922",
+      "id": "cornell_ilr-621a8c",
       "employer": "Geisinger",
       "city": "Wilkes-Barre",
       "state": "PA",
@@ -2630,7 +2656,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-978563",
+      "id": "cornell_ilr-f12420",
       "employer": "Butler Hospital - Care New England",
       "city": "Providence",
       "state": "RI",
@@ -2656,7 +2682,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-0ebe90",
+      "id": "cornell_ilr-dfc233",
       "employer": "McLaren Macomb Hospital",
       "city": "Mt Clemens",
       "state": "MI",
@@ -2682,7 +2708,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-893466",
+      "id": "cornell_ilr-224407",
       "employer": "University Medical Center",
       "city": "New Orleans",
       "state": "LA",
@@ -2708,7 +2734,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-fe02e7",
+      "id": "cornell_ilr-1d4a21",
       "employer": "University Medical Center (UMC) New Orleans - Louisiana Children's Medical Center (LCMC) Health",
       "city": "New Orleans",
       "state": "LA",
@@ -2734,7 +2760,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-161d66",
+      "id": "cornell_ilr-fad854",
       "employer": "University Medical Center",
       "city": "New Orleans",
       "state": "LA",
@@ -2760,7 +2786,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-35f39b",
+      "id": "cornell_ilr-ef1ac9",
       "employer": "The McGuire Group; Acute Care Partners",
       "city": "Gasport",
       "state": "NY",
@@ -2786,7 +2812,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-826801",
+      "id": "cornell_ilr-9a521c",
       "employer": "Allina Health",
       "city": "Coon Rapids",
       "state": "MN",
@@ -2812,7 +2838,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-a1e153",
+      "id": "cornell_ilr-a40f90",
       "employer": "University Medical Center",
       "city": "New Orleans",
       "state": "LA",
@@ -2838,7 +2864,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-6b0249",
+      "id": "cornell_ilr-4f13ff",
       "employer": "Ascension Saint Agnes Hospital",
       "city": "Baltimore",
       "state": "MD",
@@ -2864,7 +2890,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-e54776",
+      "id": "cornell_ilr-7b7e2e",
       "employer": "Allina Health",
       "city": "River Falls",
       "state": "WI",
@@ -2890,7 +2916,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-14acee",
+      "id": "cornell_ilr-112896",
       "employer": "University Medical Center",
       "city": "New Orleans",
       "state": "LA",
@@ -2916,7 +2942,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-17aec7",
+      "id": "cornell_ilr-a1d3eb",
       "employer": "Ascension St. Agnes Hospital",
       "city": "Baltimore",
       "state": "MD",
@@ -2942,7 +2968,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-292ded",
+      "id": "cornell_ilr-c03c16",
       "employer": "Tri-City Medical Center",
       "city": "Oceanside",
       "state": "CA",
@@ -2968,7 +2994,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-6f8bf2",
+      "id": "cornell_ilr-152d1e",
       "employer": "Network Inc.; Caring Community; Alternative Services Inc.",
       "city": "Andover",
       "state": "CT",
@@ -2994,7 +3020,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-2a3774",
+      "id": "cornell_ilr-2384da",
       "employer": "University Medical Center",
       "city": "New Orleans",
       "state": "LA",
@@ -3020,7 +3046,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-f48c7f",
+      "id": "cornell_ilr-be3134",
       "employer": "BMC South",
       "city": "Brockton",
       "state": "MA",
@@ -3046,7 +3072,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-3a55bb",
+      "id": "cornell_ilr-680fef",
       "employer": "Mass General Brigham",
       "city": "Boston",
       "state": "MA",
@@ -3072,7 +3098,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-ce85ec",
+      "id": "cornell_ilr-7e2f3a",
       "employer": "Essentia Health",
       "city": "Duluth",
       "state": "MN",
@@ -3098,7 +3124,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-09f79c",
+      "id": "cornell_ilr-fe0359",
       "employer": "Unknown",
       "city": "San Francisco",
       "state": "CA",
@@ -3124,7 +3150,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-55ad73",
+      "id": "cornell_ilr-6962a2",
       "employer": "Cooley Dickson Hospital - Mass General Brigham",
       "city": "Northampton",
       "state": "MA",
@@ -3150,7 +3176,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-065721",
+      "id": "cornell_ilr-92c358",
       "employer": "Henry Ford Rochester Hospital",
       "city": "Rochester",
       "state": "MI",
@@ -3176,7 +3202,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-eba746",
+      "id": "cornell_ilr-75913c",
       "employer": "Saint Mary of Nazareth Hospital - Prime Healthcare",
       "city": "Chicago",
       "state": "IL",
@@ -3202,7 +3228,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-8e1748",
+      "id": "cornell_ilr-c976fe",
       "employer": "West Anaheim Medical Center",
       "city": "Anaheim",
       "state": "CA",
@@ -3228,7 +3254,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-d85b4d",
+      "id": "cornell_ilr-bd17a3",
       "employer": "West Anaheim Medical Center",
       "city": "Anaheim",
       "state": "CA",
@@ -3254,7 +3280,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-af5d77",
+      "id": "cornell_ilr-a9720d",
       "employer": "Prime Healthcare",
       "city": "Reno",
       "state": "NV",
@@ -3280,7 +3306,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-f826d2",
+      "id": "cornell_ilr-d6f7d5",
       "employer": "Kindred Hopsitals - Apollo Global Management",
       "city": "Brea",
       "state": "CA",
@@ -3306,7 +3332,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-2f7afe",
+      "id": "cornell_ilr-b2b9f6",
       "employer": "Chestnut Hill Hospital - Temple Health",
       "city": "Philadelphia",
       "state": "PA",
@@ -3332,7 +3358,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-1ad91e",
+      "id": "cornell_ilr-10f395",
       "employer": "Ciena Healthcare",
       "city": "Detroit",
       "state": "MI",
@@ -3358,7 +3384,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-8d92a7",
+      "id": "cornell_ilr-d662ae",
       "employer": "UC San Francisco Medical Center",
       "city": "San Francisco",
       "state": "CA",
@@ -3384,7 +3410,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-945f2a",
+      "id": "cornell_ilr-0e521b",
       "employer": "Kapiolani Medical Center",
       "city": "Honolulu",
       "state": "HI",
@@ -3410,7 +3436,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-15bef6",
+      "id": "cornell_ilr-6330c2",
       "employer": "Cerenity Care; Monarch Healthcare Management Facilities",
       "city": "St. Paul",
       "state": "MN",
@@ -3436,7 +3462,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-ed2f19",
+      "id": "cornell_ilr-2dc431",
       "employer": "Garnet Health Medical Center",
       "city": "Middletown",
       "state": "NY",
@@ -3462,7 +3488,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-4f1cb7",
+      "id": "cornell_ilr-aa4c94",
       "employer": "Kindred Hospital San Francisco Bay Area",
       "city": "San Leandro",
       "state": "CA",
@@ -3488,7 +3514,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-0bd2d7",
+      "id": "cornell_ilr-3d6ba1",
       "employer": "Legacy Health",
       "city": "Portland",
       "state": "OR",
@@ -3514,7 +3540,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-e35332",
+      "id": "cornell_ilr-463325",
       "employer": "Salem Hospital - Mass General Brigham",
       "city": "Salem",
       "state": "MA",
@@ -3540,7 +3566,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-c84426",
+      "id": "cornell_ilr-102f39",
       "employer": "Massachusetts General Hospital; Brigham and Women's Hospital",
       "city": "Boston",
       "state": "MA",
@@ -3566,7 +3592,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-72af41",
+      "id": "cornell_ilr-5f9780",
       "employer": "US Federal Government",
       "city": "Milwaukee",
       "state": "WI",
@@ -3592,7 +3618,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-3d3afc",
+      "id": "cornell_ilr-3e66d1",
       "employer": "Unknown",
       "city": "Providence",
       "state": "RI",
@@ -3618,7 +3644,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-db516b",
+      "id": "cornell_ilr-1c6b94",
       "employer": "Santa Clara County Health System",
       "city": "San Jose",
       "state": "CA",
@@ -3644,7 +3670,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-65a0eb",
+      "id": "cornell_ilr-c52325",
       "employer": "St. Joseph Medical Center - PeaceHealth",
       "city": "Bellingham",
       "state": "WA",
@@ -3670,7 +3696,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-e8e268",
+      "id": "cornell_ilr-bdb7ee",
       "employer": "U.S. Federal Government; State of Rhode Island",
       "city": "Providence",
       "state": "RI",
@@ -3696,7 +3722,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-76720f",
+      "id": "cornell_ilr-d3604a",
       "employer": "Unknown",
       "city": "Hartford",
       "state": "CT",
@@ -3722,7 +3748,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-d5e426",
+      "id": "cornell_ilr-fe0099",
       "employer": "New York State Department of Labor",
       "city": "Brooklyn",
       "state": "NY",
@@ -3748,7 +3774,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-51a9f7",
+      "id": "cornell_ilr-386248",
       "employer": "Catholic Health",
       "city": "Buffalo",
       "state": "NY",
@@ -3774,7 +3800,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-138e9c",
+      "id": "cornell_ilr-e030b4",
       "employer": "Rhode Island Hospital",
       "city": "Providence",
       "state": "RI",
@@ -3800,7 +3826,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-5a7ae1",
+      "id": "cornell_ilr-3a8441",
       "employer": "Woodlake Nursing Home - Compass Healthcare",
       "city": "New Hope",
       "state": "MN",
@@ -3826,7 +3852,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-a2047a",
+      "id": "cornell_ilr-2ed40d",
       "employer": "MyMichigan Medical Center Alma - MyMichigan Health",
       "city": "Alma",
       "state": "MI",
@@ -3852,7 +3878,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-e1bb1f",
+      "id": "cornell_ilr-fd3054",
       "employer": "Indiana Regional Medical Center",
       "city": "Indiana",
       "state": "PA",
@@ -3878,7 +3904,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-8119d1",
+      "id": "cornell_ilr-fcada5",
       "employer": "MultiCare Memorial Hospital",
       "city": "Yakima",
       "state": "WA",
@@ -3904,7 +3930,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-97ba16",
+      "id": "cornell_ilr-b30dc2",
       "employer": "LifeLong",
       "city": "Oakland",
       "state": "CA",
@@ -3930,7 +3956,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-0df14c",
+      "id": "cornell_ilr-736bcf",
       "employer": "Wilcox Medical Center",
       "city": "Lihue",
       "state": "HI",
@@ -3956,7 +3982,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-cfc0d8",
+      "id": "cornell_ilr-6674cb",
       "employer": "San Joaquin County\u2019s Health System",
       "city": "French Camp",
       "state": "CA",
@@ -3982,7 +4008,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-7254d8",
+      "id": "cornell_ilr-af2f80",
       "employer": "Auburn Community Hospital",
       "city": "Auburn",
       "state": "NY",
@@ -4008,7 +4034,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-ce4c6e",
+      "id": "cornell_ilr-16da87",
       "employer": "The University of California, San Francisco (UCSF)",
       "city": "San Francisco",
       "state": "CA",
@@ -4034,7 +4060,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-3664af",
+      "id": "cornell_ilr-8e6756",
       "employer": "Mercyhealth East Clinic",
       "city": "Janesville",
       "state": "WI",
@@ -4060,7 +4086,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-cf2d04",
+      "id": "cornell_ilr-d3e477",
       "employer": "Providence Health",
       "city": "Santa Rosa",
       "state": "CA",
@@ -4086,7 +4112,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-7861cb",
+      "id": "cornell_ilr-dabcfe",
       "employer": "PeaceHealth St. Joseph Medical Center",
       "city": "Bellingham",
       "state": "WA",
@@ -4112,7 +4138,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-9ddcf8",
+      "id": "cornell_ilr-b16464",
       "employer": "PeaceHealth St. Joseph Medical Center - PeaceHealth",
       "city": "Bellingham",
       "state": "WA",
@@ -4138,7 +4164,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-614069",
+      "id": "cornell_ilr-9ebac5",
       "employer": "Peconic Bay Medical Center - Northwell Health",
       "city": "Riverhead",
       "state": "NY",
@@ -4164,7 +4190,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-e90a74",
+      "id": "cornell_ilr-f020d4",
       "employer": "Detroit Medical Center Huron Valley Sinai - Tenet Healthcare",
       "city": "Commerce Township",
       "state": "MI",
@@ -4190,7 +4216,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-42d97c",
+      "id": "cornell_ilr-01d03b",
       "employer": "Pappas Rehabilitation Hospital for Children; Pocasset Mental Health Center",
       "city": "Boston",
       "state": "MA",
@@ -4216,7 +4242,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-61e0a7",
+      "id": "cornell_ilr-5a3c6a",
       "employer": "State of Montana",
       "city": "Helena",
       "state": "MT",
@@ -4242,7 +4268,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-45ffc3",
+      "id": "cornell_ilr-b7dc3e",
       "employer": "Crozer Health",
       "city": "Chester",
       "state": "PA",
@@ -4268,7 +4294,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-fee8e7",
+      "id": "cornell_ilr-c359fe",
       "employer": "Crozer-Chester Medical Center and Taylor Hospitals - Prospect Medical Holdings",
       "city": "Chester",
       "state": "PA",
@@ -4294,7 +4320,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-370db7",
+      "id": "cornell_ilr-71ebb3",
       "employer": "Mount Desert Island Hospital",
       "city": "Bar Harbor",
       "state": "ME",
@@ -4320,7 +4346,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-dd1042",
+      "id": "cornell_ilr-ce9650",
       "employer": "Queen\u2019s North Hawaii Community Hospital",
       "city": "Honolulu",
       "state": "HI",
@@ -4346,7 +4372,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-1a0b4c",
+      "id": "cornell_ilr-1f89f8",
       "employer": "New York Medical College",
       "city": "Valhalla",
       "state": "NY",
@@ -4372,7 +4398,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-f55fc2",
+      "id": "cornell_ilr-f86cf1",
       "employer": "Three Rivers Beacon Health - Beacon Health System",
       "city": "Three Rivers",
       "state": "MI",
@@ -4398,7 +4424,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-2b8461",
+      "id": "cornell_ilr-71040d",
       "employer": "University of California San Francisco Health",
       "city": "San Francisco",
       "state": "CA",
@@ -4424,7 +4450,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-92e07a",
+      "id": "cornell_ilr-55fca7",
       "employer": "University Hospitals",
       "city": "Shaker Heights",
       "state": "OH",
@@ -4450,7 +4476,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-b94f6c",
+      "id": "cornell_ilr-dea7e5",
       "employer": "UC San Diego",
       "city": "San Diego",
       "state": "CA",
@@ -4476,7 +4502,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-0e1ad2",
+      "id": "cornell_ilr-8a2d06",
       "employer": "Kaiser Moanalua Medical Center; Kaiser Lahaina Clinic",
       "city": "Honolulu",
       "state": "HI",
@@ -4502,7 +4528,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-f998d2",
+      "id": "cornell_ilr-5d74f5",
       "employer": "Occupational Safety and Health Administration (OSHA)",
       "city": "Pittsburgh",
       "state": "PA",
@@ -4528,7 +4554,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-ef6b5c",
+      "id": "cornell_ilr-511e34",
       "employer": "Northern Light Eastern Maine Medical Center",
       "city": "Bangor",
       "state": "ME",
@@ -4554,7 +4580,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-d4e560",
+      "id": "cornell_ilr-a63226",
       "employer": "Carondelet Health Network",
       "city": "Tuson",
       "state": "AZ",
@@ -4580,7 +4606,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-46a4ef",
+      "id": "cornell_ilr-7f4e8e",
       "employer": "Sanford Bemidji",
       "city": "Bemidji",
       "state": "MN",
@@ -4606,7 +4632,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-569e0a",
+      "id": "cornell_ilr-e5ae57",
       "employer": "Unknown",
       "city": "Sunnyside",
       "state": "NY",
@@ -4632,7 +4658,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-da9dad",
+      "id": "cornell_ilr-881671",
       "employer": "Unity Point Health",
       "city": "Des Moines",
       "state": "IA",
@@ -4658,7 +4684,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-7c3a9a",
+      "id": "cornell_ilr-aa98ff",
       "employer": "Saint Mary of Nazareth Hospital",
       "city": "Chicago",
       "state": "IL",
@@ -4684,7 +4710,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-c5c744",
+      "id": "cornell_ilr-af58b4",
       "employer": "Nationwide Children\u2019s Hospital",
       "city": "Columbus",
       "state": "OH",
@@ -4710,7 +4736,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-2b569e",
+      "id": "cornell_ilr-f839d9",
       "employer": "St. Joseph Medical Center",
       "city": "Tacoma",
       "state": "WA",
@@ -4736,7 +4762,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-877112",
+      "id": "cornell_ilr-e9ca87",
       "employer": "Olympia Fields Hospital - Prime Healthcare",
       "city": "Olympia Fields",
       "state": "IL",
@@ -4762,7 +4788,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-1b4703",
+      "id": "cornell_ilr-ae796a",
       "employer": "Kindred Hospital San Diego",
       "city": "San Diego",
       "state": "CA",
@@ -4788,7 +4814,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-e197eb",
+      "id": "cornell_ilr-b27987",
       "employer": "National Abortion Hotline - National Abortion Federation",
       "city": "Annapolis Junction",
       "state": "MD",
@@ -4814,7 +4840,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-9e2179",
+      "id": "cornell_ilr-b906f9",
       "employer": "Brooke Glen Behavioral Hospital - UHS",
       "city": "Fort Washington",
       "state": "PA",
@@ -4840,7 +4866,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-b5dc07",
+      "id": "cornell_ilr-33e34e",
       "employer": "HealthPartners Stillwater Medical Group",
       "city": "Stillwater",
       "state": "MN",
@@ -4866,7 +4892,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-a95485",
+      "id": "cornell_ilr-3df9ab",
       "employer": "Dominican Hospital",
       "city": "Santa Cruz",
       "state": "CA",
@@ -4892,7 +4918,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-ba8afa",
+      "id": "cornell_ilr-cca749",
       "employer": "UVM Health Network",
       "city": "Berlin",
       "state": "VT",
@@ -4918,7 +4944,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-2f0430",
+      "id": "cornell_ilr-1c6797",
       "employer": "Northport Veterans Affairs Medical Center",
       "city": "Northport",
       "state": "NY",
@@ -4944,7 +4970,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-595584",
+      "id": "cornell_ilr-edb72b",
       "employer": "MultiCare Emergency-Parkland",
       "city": "Tacoma",
       "state": "WA",
@@ -4970,7 +4996,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-a078c9",
+      "id": "cornell_ilr-df3c6b",
       "employer": "Deer River Essentia Health",
       "city": "Deer River",
       "state": "MN",
@@ -4996,7 +5022,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-a169b4",
+      "id": "cornell_ilr-93311f",
       "employer": "Deer River Essentia Health",
       "city": "Deer River",
       "state": "MN",
@@ -5022,7 +5048,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-979add",
+      "id": "cornell_ilr-9ff130",
       "employer": "Providence Health",
       "city": "Santa Rosa",
       "state": "CA",
@@ -5048,7 +5074,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-7935aa",
+      "id": "cornell_ilr-f311c7",
       "employer": "State of Massachusetts",
       "city": "Boston",
       "state": "MA",
@@ -5074,7 +5100,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-8ab81f",
+      "id": "cornell_ilr-de9464",
       "employer": "John D. Dingell VA Medical Center",
       "city": "Detroit",
       "state": "MI",
@@ -5100,7 +5126,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-ea11d4",
+      "id": "cornell_ilr-23fda2",
       "employer": "UVM Medical Center",
       "city": "Burlington",
       "state": "VT",
@@ -5126,7 +5152,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-b8b846",
+      "id": "cornell_ilr-8d010b",
       "employer": "Brown University Health/Rhode Island Hospital",
       "city": "Providence",
       "state": "RI",
@@ -5152,7 +5178,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-59b93a",
+      "id": "cornell_ilr-c268dd",
       "employer": "Allina Health",
       "city": "Minneapolis",
       "state": "MN",
@@ -5178,7 +5204,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-99c2af",
+      "id": "cornell_ilr-f6c7e9",
       "employer": "Hospice East Bay",
       "city": "Pleasant Hill",
       "state": "CA",
@@ -5204,7 +5230,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-12629b",
+      "id": "cornell_ilr-78d91f",
       "employer": "Kaiser Permanente",
       "city": "Palm Desert",
       "state": "CA",
@@ -5230,7 +5256,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-a5a899",
+      "id": "cornell_ilr-fbe4ec",
       "employer": "Allina Health",
       "city": "Minneapolis",
       "state": "MN",
@@ -5256,7 +5282,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-54af91",
+      "id": "cornell_ilr-bbbbb3",
       "employer": "Houlton Regional Hospital",
       "city": "Houlton",
       "state": "ME",
@@ -5282,7 +5308,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-0a31dc",
+      "id": "cornell_ilr-4da7eb",
       "employer": "Houlton Regional Hospital",
       "city": "Houlton",
       "state": "ME",
@@ -5308,7 +5334,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-43f569",
+      "id": "cornell_ilr-3aa94b",
       "employer": "Cape Cod Healthcare",
       "city": "Hyannis",
       "state": "MA",
@@ -5334,7 +5360,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-a8d640",
+      "id": "cornell_ilr-eb2e4a",
       "employer": "Unknown",
       "city": "St Paul",
       "state": "MN",
@@ -5360,7 +5386,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-e09491",
+      "id": "cornell_ilr-08ed5c",
       "employer": "UnityPoint Health",
       "city": "Des Moines",
       "state": "IA",
@@ -5386,7 +5412,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-d08e69",
+      "id": "cornell_ilr-6e14ed",
       "employer": "University of Rochester Medicine Care Home",
       "city": "Webster",
       "state": "NY",
@@ -5412,7 +5438,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-093764",
+      "id": "cornell_ilr-4f34dd",
       "employer": "Geisinger Wyoming Valley Medical Center",
       "city": "Wilkes-Barre",
       "state": "PA",
@@ -5438,7 +5464,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-e26b88",
+      "id": "cornell_ilr-59c507",
       "employer": "Henry Ford Rochester Hospital",
       "city": "Rochester",
       "state": "MI",
@@ -5464,7 +5490,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-3ccd34",
+      "id": "cornell_ilr-e21fbb",
       "employer": "Rhode Island Hospital - Brown University Health",
       "city": "Providence",
       "state": "RI",
@@ -5490,7 +5516,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-d4fbb6",
+      "id": "cornell_ilr-a197ee",
       "employer": "University of Pittsburgh Medical Center",
       "city": "Pittsburgh",
       "state": "PA",
@@ -5516,7 +5542,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-b05b7f",
+      "id": "cornell_ilr-f695be",
       "employer": "Massachusetts Department of Children and Families",
       "city": "Worcester",
       "state": "MA",
@@ -5542,7 +5568,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-1451e5",
+      "id": "cornell_ilr-48cf86",
       "employer": "Northwell Health",
       "city": "New Hyde Park",
       "state": "NY",
@@ -5568,7 +5594,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-f5b97f",
+      "id": "cornell_ilr-b380e1",
       "employer": "Rockland Pulmonary",
       "city": "West Nyack",
       "state": "NY",
@@ -5594,7 +5620,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-2c90f1",
+      "id": "cornell_ilr-809608",
       "employer": "Harvard Medical School",
       "city": "Boston",
       "state": "MA",
@@ -5620,7 +5646,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-24abcc",
+      "id": "cornell_ilr-e097de",
       "employer": "Unknown",
       "city": "Albany",
       "state": "NY",
@@ -5646,7 +5672,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-ed5741",
+      "id": "cornell_ilr-a37e16",
       "employer": "Houlton Regional Hospital",
       "city": "Houlton",
       "state": "ME",
@@ -5672,7 +5698,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-62d024",
+      "id": "cornell_ilr-2c315d",
       "employer": "HCA Healthcare",
       "city": "Kansas City",
       "state": "MO",
@@ -5698,7 +5724,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-d94409",
+      "id": "cornell_ilr-675a2f",
       "employer": "UnityPoint Health",
       "city": "Des Moines",
       "state": "IA",
@@ -5724,7 +5750,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-3618dc",
+      "id": "cornell_ilr-c8fa54",
       "employer": "Adirondack Medical Center",
       "city": "Saranac Lake",
       "state": "NY",
@@ -5750,7 +5776,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-04fa6a",
+      "id": "cornell_ilr-5b4a61",
       "employer": "Piedmont Healthcare",
       "city": "Athens",
       "state": "GA",
@@ -5776,7 +5802,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-fa9223",
+      "id": "cornell_ilr-c4c07a",
       "employer": "Massachusetts General Hospital; Brigham and Women's Hospital",
       "city": "Boston",
       "state": "MA",
@@ -5802,7 +5828,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-5e6a60",
+      "id": "cornell_ilr-949eb0",
       "employer": "MultiCare Auburn Medical Center",
       "city": "Auburn",
       "state": "WA",
@@ -5828,7 +5854,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-b38eb7",
+      "id": "cornell_ilr-ce7336",
       "employer": "MassHealth",
       "city": "Taunton",
       "state": "MA",
@@ -5854,7 +5880,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-6f8a10",
+      "id": "cornell_ilr-1d9c6e",
       "employer": "Mission Hospital",
       "city": "Asheville",
       "state": "NC",
@@ -5880,7 +5906,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-7019b0",
+      "id": "cornell_ilr-d9fa29",
       "employer": "Northern Maine Medical Center (NMMC)",
       "city": "Fort Kent",
       "state": "ME",
@@ -5906,7 +5932,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-5d6f8d",
+      "id": "cornell_ilr-34d05d",
       "employer": "Sierra Hills Assisted Living Center - Edgewood Healthcare",
       "city": "Cheyenne",
       "state": "WY",
@@ -5932,7 +5958,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-63e134",
+      "id": "cornell_ilr-42b80b",
       "employer": "Providence Health",
       "city": "Santa Rosa",
       "state": "CA",
@@ -5958,7 +5984,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-35be91",
+      "id": "cornell_ilr-290c1d",
       "employer": "Kaiser Permanente",
       "city": "Los Angeles",
       "state": "CA",
@@ -5984,7 +6010,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-e0372c",
+      "id": "cornell_ilr-b1ab8b",
       "employer": "Univeristy of Iowa Healthcare",
       "city": "Iowa City",
       "state": "IA",
@@ -6010,7 +6036,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-adaf07",
+      "id": "cornell_ilr-2a16fb",
       "employer": "New York State - Department of Health",
       "city": "Latham",
       "state": "NY",
@@ -6036,7 +6062,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-513316",
+      "id": "cornell_ilr-e8cb52",
       "employer": "The Wonderful Company",
       "city": "Los Angeles",
       "state": "CA",
@@ -6062,7 +6088,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-4603f1",
+      "id": "cornell_ilr-04c10b",
       "employer": "Little Angels Day Care Center",
       "city": "Chicago",
       "state": "IL",
@@ -6088,7 +6114,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-ab618c",
+      "id": "cornell_ilr-f42879",
       "employer": "Bellefaire Jewish Children\u2019s Bureau",
       "city": "Lorain",
       "state": "OH",
@@ -6114,7 +6140,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-1bbf9a",
+      "id": "cornell_ilr-0109d9",
       "employer": "Armstrong County Youth and Children Services",
       "city": "Kittanning",
       "state": "PA",
@@ -6140,7 +6166,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-76a859",
+      "id": "cornell_ilr-9a3ffe",
       "employer": "ThedaCare Medical Center-Waupaca",
       "city": "Neenah",
       "state": "WI",
@@ -6166,7 +6192,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-37d901",
+      "id": "cornell_ilr-89f941",
       "employer": "The US Federal Government",
       "city": "Lebanon",
       "state": "NJ",
@@ -6192,7 +6218,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-56ea12",
+      "id": "cornell_ilr-62ab8c",
       "employer": "OnPoint NYC",
       "city": "New York",
       "state": "NY",
@@ -6218,7 +6244,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-215a0f",
+      "id": "cornell_ilr-9f51b6",
       "employer": "Western State Hospital",
       "city": "Lakewood",
       "state": "WA",
@@ -6244,7 +6270,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-96952b",
+      "id": "cornell_ilr-7047a4",
       "employer": "Wilcox Medical Center - Hawaii Pacific Health",
       "city": "Lihue",
       "state": "HI",
@@ -6270,7 +6296,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-3d487a",
+      "id": "cornell_ilr-525b3b",
       "employer": "UPMC Western Psychiatric Hospital",
       "city": "Pittsburgh",
       "state": "PA",
@@ -6296,7 +6322,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-b7884d",
+      "id": "cornell_ilr-65cc9a",
       "employer": "University of Pittsburgh Medical Center (UPMC) Western Psychiatric Hospital",
       "city": "Pittsburgh",
       "state": "PA",
@@ -6322,7 +6348,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-ba6132",
+      "id": "cornell_ilr-8519c6",
       "employer": "Trinity Health - Mercy Medical Center",
       "city": "Springfield",
       "state": "MA",
@@ -6348,7 +6374,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-eacf6d",
+      "id": "cornell_ilr-f6a04c",
       "employer": "Hemet Global Medical Center",
       "city": "Hemet",
       "state": "CA",
@@ -6374,7 +6400,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-1745cd",
+      "id": "cornell_ilr-7e8714",
       "employer": "Huron County Medical Care Facility (HCMCF)",
       "city": "Bad Axe",
       "state": "MI",
@@ -6400,7 +6426,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-e6fd43",
+      "id": "cornell_ilr-4d01cc",
       "employer": "Newton-Wellesley Hospital",
       "city": "Newton",
       "state": "MA",
@@ -6426,7 +6452,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-6b2d77",
+      "id": "cornell_ilr-0ce79a",
       "employer": "Adventist Health Lodi Memorial",
       "city": "Lodi",
       "state": "CA",
@@ -6452,7 +6478,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-cd5b6f",
+      "id": "cornell_ilr-2e19eb",
       "employer": "St. Joseph Medical Center - CommonSpirit",
       "city": "Tacoma",
       "state": "WA",
@@ -6478,7 +6504,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-5048ef",
+      "id": "cornell_ilr-d84ec1",
       "employer": "Methodist Medical Center of Oak Ridge - Covenant Health",
       "city": "Oak Ridge",
       "state": "TN",
@@ -6504,7 +6530,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-53ab8e",
+      "id": "cornell_ilr-cc6630",
       "employer": "St. Bernardine Medical Center - CommonSpirit Health",
       "city": "San Bernardino",
       "state": "CA",
@@ -6530,7 +6556,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-e70ee2",
+      "id": "cornell_ilr-41e1a8",
       "employer": "St. Joseph Medical Center - Virginia Mason Franciscan Health - CommonSpirit",
       "city": "Tacoma",
       "state": "WA",
@@ -6556,7 +6582,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-5304b9",
+      "id": "cornell_ilr-f19535",
       "employer": "Garnet Health Medical Center",
       "city": "Middletown",
       "state": "NY",
@@ -6582,7 +6608,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-c63ccd",
+      "id": "cornell_ilr-24ec1b",
       "employer": "Women & Infants Hospital",
       "city": "Providence",
       "state": "RI",
@@ -6608,7 +6634,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-c88145",
+      "id": "cornell_ilr-03e849",
       "employer": "University of Michigan Health-Sparrow",
       "city": "Lansing",
       "state": "MI",
@@ -6634,7 +6660,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-9ef1c6",
+      "id": "cornell_ilr-1c4b10",
       "employer": "California State University",
       "city": "San Marcos",
       "state": "CA",
@@ -6660,7 +6686,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-02d506",
+      "id": "cornell_ilr-e2ac7f",
       "employer": "California Animal Health & Food Safety Lab System - UC Davis",
       "city": "Davis",
       "state": "CA",
@@ -6686,7 +6712,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-cc7b8d",
+      "id": "cornell_ilr-ddcdca",
       "employer": "Unknown",
       "city": "Port Charlotte",
       "state": "FL",
@@ -6712,7 +6738,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-86a999",
+      "id": "cornell_ilr-7bfa48",
       "employer": "St. Peter Regional Treatment Center",
       "city": "St Peter",
       "state": "MN",
@@ -6738,7 +6764,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-1b8446",
+      "id": "cornell_ilr-d27736",
       "employer": "University of Rochester Medicine Home Care",
       "city": "Webster",
       "state": "NY",
@@ -6764,7 +6790,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-17dae2",
+      "id": "cornell_ilr-b5debd",
       "employer": "Summit Health",
       "city": "Purchase",
       "state": "NY",
@@ -6790,7 +6816,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-c34385",
+      "id": "cornell_ilr-904a91",
       "employer": "Oneida Health Hospital",
       "city": "Oneida",
       "state": "NY",
@@ -6816,7 +6842,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-60ca5f",
+      "id": "cornell_ilr-ed62ac",
       "employer": "Wexner Medical Center - Ohio State University",
       "city": "Columbus",
       "state": "OH",
@@ -6842,7 +6868,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-3907e6",
+      "id": "cornell_ilr-4e2411",
       "employer": "Unknown",
       "city": "Springfield",
       "state": "IL",
@@ -6868,7 +6894,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-8df690",
+      "id": "cornell_ilr-527066",
       "employer": "Butler Memorial Hospital",
       "city": "Butler",
       "state": "PA",
@@ -6894,7 +6920,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-8373aa",
+      "id": "cornell_ilr-4570e5",
       "employer": "State of Massachusetts",
       "city": "Lynn",
       "state": "MA",
@@ -6920,7 +6946,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-34404b",
+      "id": "cornell_ilr-1e846c",
       "employer": "Beth Israel Deaconess Hospital-Plymouth; Beverly Hospital; Addison Gilbert Hospital",
       "city": "Gloucester",
       "state": "MA",
@@ -6946,7 +6972,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-95ff65",
+      "id": "cornell_ilr-4f13d7",
       "employer": "Rhode Island Hospital",
       "city": "Providence",
       "state": "RI",
@@ -6972,7 +6998,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-8d759b",
+      "id": "cornell_ilr-0c1792",
       "employer": "Elderwood at Lockport; Elderwood at Williamsville",
       "city": "Lockport",
       "state": "NY",
@@ -6998,7 +7024,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-73017e",
+      "id": "cornell_ilr-1c4055",
       "employer": "Lawrence General Hospital",
       "city": "Lawrence",
       "state": "MA",
@@ -7024,7 +7050,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-a7ddeb",
+      "id": "cornell_ilr-8402a7",
       "employer": "Meriter Hospital - UnityPoint Health",
       "city": "Madison",
       "state": "WI",
@@ -7050,7 +7076,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-4a1be2",
+      "id": "cornell_ilr-947a3b",
       "employer": "Department of Veterans Affairs",
       "city": "San Diego",
       "state": "CA",
@@ -7076,7 +7102,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-016d81",
+      "id": "cornell_ilr-187705",
       "employer": "Butler Hospital",
       "city": "Providence",
       "state": "RI",
@@ -7102,7 +7128,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-000708",
+      "id": "cornell_ilr-dc740f",
       "employer": "Women & Infants Hospital",
       "city": "Providence",
       "state": "RI",
@@ -7128,7 +7154,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-4b22cc",
+      "id": "cornell_ilr-6dceff",
       "employer": "University of California, San Francisco",
       "city": "San Francisco,",
       "state": "CA",
@@ -7154,7 +7180,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-6bc8b4",
+      "id": "cornell_ilr-25d6c1",
       "employer": "National Institute for Occupational Safety and Health",
       "city": "Morgantown",
       "state": "WV",
@@ -7180,7 +7206,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-550b1a",
+      "id": "cornell_ilr-2bb88f",
       "employer": "Brown University Health",
       "city": "Providence",
       "state": "RI",
@@ -7206,7 +7232,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-a67211",
+      "id": "cornell_ilr-32a95f",
       "employer": "Los Angeles County",
       "city": "Los Angeles",
       "state": "CA",
@@ -7232,7 +7258,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-63274c",
+      "id": "cornell_ilr-bd995a",
       "employer": "Aspirus St. Luke\u2019s Hospital; Essential Health",
       "city": "Edina",
       "state": "MN",
@@ -7258,7 +7284,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-b49a01",
+      "id": "cornell_ilr-c7f21e",
       "employer": "Huntington Hospital - Northwell Health",
       "city": "Huntington",
       "state": "NY",
@@ -7284,7 +7310,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-f5c43c",
+      "id": "cornell_ilr-099c10",
       "employer": "Lanterman Regional Center",
       "city": "Los Angeles",
       "state": "CA",
@@ -7310,7 +7336,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-905096",
+      "id": "cornell_ilr-a43d82",
       "employer": "University of Pittsburgh Medical Center",
       "city": "Pittsburgh",
       "state": "PA",
@@ -7336,7 +7362,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-09e45f",
+      "id": "cornell_ilr-db2e90",
       "employer": "Group Health Cooperative of South Central Wisconsin",
       "city": "Madison",
       "state": "WI",
@@ -7362,7 +7388,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-66106c",
+      "id": "cornell_ilr-9f1d8c",
       "employer": "Long Beach Medical Center; Miller Children's & Women's Hospital - MemorialCare",
       "city": "Long Beach",
       "state": "CA",
@@ -7388,7 +7414,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-82b510",
+      "id": "cornell_ilr-28609c",
       "employer": "University Medical Center New Orleans LCMC Health - Louisiana State University",
       "city": "New Orleans",
       "state": "LA",
@@ -7414,7 +7440,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-40a976",
+      "id": "cornell_ilr-c8ea22",
       "employer": "Corewell Health East",
       "city": "Southfield",
       "state": "MI",
@@ -7440,7 +7466,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-afbae4",
+      "id": "cornell_ilr-6949d4",
       "employer": "The US Federal Government",
       "city": "Middletown",
       "state": "NY",
@@ -7466,7 +7492,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-ce5257",
+      "id": "cornell_ilr-4d17b6",
       "employer": "Adventist Health Twin Cities; Sierra Vista hospitals",
       "city": "Templeton",
       "state": "CA",
@@ -7492,7 +7518,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-70f072",
+      "id": "cornell_ilr-a8cf78",
       "employer": "UC San Diego Health",
       "city": "La Jolla",
       "state": "CA",
@@ -7518,7 +7544,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-9e6e8f",
+      "id": "cornell_ilr-b32370",
       "employer": "Ohio State University Hospital",
       "city": "Colombus",
       "state": "OH",
@@ -7544,7 +7570,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-f6f297",
+      "id": "cornell_ilr-32f504",
       "employer": "Zuckerberg San Francisco General Hospital and Trauma Center",
       "city": "San Francisco",
       "state": "CA",
@@ -7570,7 +7596,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-c218f3",
+      "id": "cornell_ilr-1d806d",
       "employer": "Chisholm Health Center",
       "city": "Chisholm",
       "state": "MN",
@@ -7596,7 +7622,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-f02fbd",
+      "id": "cornell_ilr-c3a995",
       "employer": "The US Federal Government",
       "city": "Tucson",
       "state": "AZ",
@@ -7622,7 +7648,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-7e4e9e",
+      "id": "cornell_ilr-294b46",
       "employer": "Ascension Alexian Brothers Hospital",
       "city": "Elk Grove Village",
       "state": "IL",
@@ -7648,7 +7674,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-781b61",
+      "id": "cornell_ilr-571f1d",
       "employer": "University of California San Diego Health",
       "city": "San Francisco",
       "state": "CA",
@@ -7674,7 +7700,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-d611a7",
+      "id": "cornell_ilr-90f1fe",
       "employer": "The US Federal Government",
       "city": "Chicago",
       "state": "IL",
@@ -7700,7 +7726,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-83967b",
+      "id": "cornell_ilr-4fe277",
       "employer": "Tower Health",
       "city": "Pottstown",
       "state": "PA",
@@ -7726,7 +7752,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-aba78f",
+      "id": "cornell_ilr-77ee70",
       "employer": "Alameda Health System",
       "city": "Oakland",
       "state": "CA",
@@ -7752,7 +7778,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-928eda",
+      "id": "cornell_ilr-1b7d19",
       "employer": "Unknown",
       "city": "Atlanta",
       "state": "GA",
@@ -7778,7 +7804,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-dd6c43",
+      "id": "cornell_ilr-c74a27",
       "employer": "Care New England",
       "city": "Providence",
       "state": "RI",
@@ -7804,7 +7830,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-7dc8e0",
+      "id": "cornell_ilr-e92b03",
       "employer": "USC Keck & Norris Hospitals",
       "city": "Los Angles",
       "state": "CA",
@@ -7830,7 +7856,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-bb74d2",
+      "id": "cornell_ilr-2a458f",
       "employer": "Tenet Healthcare Corporation",
       "city": "Joshua Tree",
       "state": "CA",
@@ -7856,7 +7882,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-e01bd1",
+      "id": "cornell_ilr-34d395",
       "employer": "Kaiser Permanente",
       "city": "Portland",
       "state": "OR",
@@ -7882,7 +7908,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-d9f81a",
+      "id": "cornell_ilr-1b10db",
       "employer": "Optum and Summit Health",
       "city": "Middletown",
       "state": "NY",
@@ -7908,7 +7934,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-9b2252",
+      "id": "cornell_ilr-accb60",
       "employer": "JFK Memorial Hospital \u2013 Tenet Healthcare",
       "city": "Indio",
       "state": "CA",
@@ -7934,7 +7960,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-1e6be8",
+      "id": "cornell_ilr-541546",
       "employer": "Unknown",
       "city": "Scanton",
       "state": "PA",
@@ -7960,7 +7986,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-51a931",
+      "id": "cornell_ilr-0df589",
       "employer": "Northern Light Health; Bangor Public Works; University of Maine",
       "city": "Jay",
       "state": "ME",
@@ -7986,7 +8012,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-a3c6b1",
+      "id": "cornell_ilr-7792eb",
       "employer": "Sutter Health",
       "city": "Sacramento",
       "state": "CA",
@@ -8012,7 +8038,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-c3f67f",
+      "id": "cornell_ilr-cf375f",
       "employer": "Unknown",
       "city": "Harrisburg",
       "state": "PA",
@@ -8038,7 +8064,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-411403",
+      "id": "cornell_ilr-4e15fd",
       "employer": "State of Pennsylvania",
       "city": "Harrisburg",
       "state": "PA",
@@ -8064,7 +8090,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-e95e2c",
+      "id": "cornell_ilr-aa6d79",
       "employer": "Temple University Hospital",
       "city": "Philadelphia",
       "state": "PA",
@@ -8090,7 +8116,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-ca6243",
+      "id": "cornell_ilr-6e6e25",
       "employer": "Sen. Ted Budd",
       "city": "Wilmington",
       "state": "NC",
@@ -8116,7 +8142,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-785ce2",
+      "id": "cornell_ilr-04b4a9",
       "employer": "Northwell\u2019s Long Island Jewish Hospital",
       "city": "Glen Oaks",
       "state": "NY",
@@ -8142,7 +8168,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-ed4794",
+      "id": "cornell_ilr-33ab05",
       "employer": "Ironwood Aspirus Hospital",
       "city": "Ironwood",
       "state": "MI",
@@ -8168,7 +8194,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-8b9cf4",
+      "id": "cornell_ilr-442220",
       "employer": "Sharp Healthcare System",
       "city": "San Diego",
       "state": "CA",
@@ -8194,7 +8220,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-e100eb",
+      "id": "cornell_ilr-89bcd2",
       "employer": "Saint Luke\u2019s Hospital",
       "city": "New Bedford",
       "state": "MA",
@@ -8220,7 +8246,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-9f207b",
+      "id": "cornell_ilr-9ab1a2",
       "employer": "Kaiser Permanente",
       "city": "Los Angeles",
       "state": "CA",
@@ -8246,7 +8272,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-a511bb",
+      "id": "cornell_ilr-e463ac",
       "employer": "Boston Health Care for the Homeless",
       "city": "Boston",
       "state": "MA",
@@ -8272,7 +8298,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-216f83",
+      "id": "cornell_ilr-033c28",
       "employer": "Providence Community Health Center",
       "city": "Providence",
       "state": "RI",
@@ -8298,7 +8324,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-eb1642",
+      "id": "cornell_ilr-8d304c",
       "employer": "MarinHealth Medical Center",
       "city": "Greenbrae",
       "state": "CA",
@@ -8324,7 +8350,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-0f6357",
+      "id": "cornell_ilr-9d539a",
       "employer": "Sharp Healthcare",
       "city": "La Mesa",
       "state": "CA",
@@ -8350,7 +8376,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-21fd90",
+      "id": "cornell_ilr-6612c2",
       "employer": "CAMBA Inc.",
       "city": "Brooklyn",
       "state": "NY",
@@ -8376,7 +8402,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-9d7f4e",
+      "id": "cornell_ilr-856e1b",
       "employer": "Mosaic",
       "city": "Rockford",
       "state": "IL",
@@ -8402,7 +8428,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-820d18",
+      "id": "cornell_ilr-9811c4",
       "employer": "Geisinger-Lewistown Hospital",
       "city": "Lewistown",
       "state": "PA",
@@ -8428,7 +8454,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-3e1a09",
+      "id": "cornell_ilr-e4120b",
       "employer": "San Francisco General Hospital",
       "city": "San Francisco",
       "state": "CA",
@@ -8454,7 +8480,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-210ba8",
+      "id": "cornell_ilr-7b7cc2",
       "employer": "Unknown",
       "city": "Albany",
       "state": "NY",
@@ -8480,7 +8506,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-bf2643",
+      "id": "cornell_ilr-fe4792",
       "employer": "Colorado Coalition for the Homeless",
       "city": "Denver",
       "state": "CO",
@@ -8506,7 +8532,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-e93aeb",
+      "id": "cornell_ilr-893d58",
       "employer": "CAMBA, Inc",
       "city": "Brooklyn",
       "state": "NY",
@@ -8532,7 +8558,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-1cc253",
+      "id": "cornell_ilr-6f893d",
       "employer": "Unknown",
       "city": "Tucson",
       "state": "AZ",
@@ -8558,7 +8584,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-350653",
+      "id": "cornell_ilr-d89b71",
       "employer": "Kadlec Regional Medical Center",
       "city": "Richland",
       "state": "WA",
@@ -8584,7 +8610,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-35893d",
+      "id": "cornell_ilr-97cd33",
       "employer": "Unknown",
       "city": "Portland",
       "state": "OR",
@@ -8610,7 +8636,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-7ea11a",
+      "id": "cornell_ilr-6a3e19",
       "employer": "Pearl Nursing Center",
       "city": "Rochester",
       "state": "NY",
@@ -8636,7 +8662,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-0593dd",
+      "id": "cornell_ilr-761a36",
       "employer": "Hospitality Minnesota",
       "city": "Minneapolis",
       "state": "MN",
@@ -8662,7 +8688,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-1425a4",
+      "id": "cornell_ilr-83d9a5",
       "employer": "Loyola Marymount University",
       "city": "Los Anegles",
       "state": "CA",
@@ -8688,7 +8714,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-e741f6",
+      "id": "cornell_ilr-b59c07",
       "employer": "Aspirus Lake View Hospital",
       "city": "Two Harbors",
       "state": "MN",
@@ -8714,7 +8740,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-af3fa4",
+      "id": "cornell_ilr-aa680d",
       "employer": "Essentia Health",
       "city": "Duluth",
       "state": "MN",
@@ -8740,7 +8766,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-159de3",
+      "id": "cornell_ilr-9c9703",
       "employer": "New York City Council",
       "city": "New York",
       "state": "NY",
@@ -8766,7 +8792,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-e53fa2",
+      "id": "cornell_ilr-fa4c4a",
       "employer": "Mass General Brigham (MGB) Home Care",
       "city": "Boston",
       "state": "MA",
@@ -8792,7 +8818,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-5c2e04",
+      "id": "cornell_ilr-96aba4",
       "employer": "Thompson Hospitality",
       "city": "Norfolk",
       "state": "VA",
@@ -8818,7 +8844,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-ca1534",
+      "id": "cornell_ilr-844193",
       "employer": "UMass Memorial Hospitals",
       "city": "Worcester",
       "state": "MA",
@@ -8844,7 +8870,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-e8fa85",
+      "id": "cornell_ilr-613ea9",
       "employer": "Dameron Hospital",
       "city": "Stockton",
       "state": "CA",
@@ -8870,7 +8896,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-040fbb",
+      "id": "cornell_ilr-b8e35e",
       "employer": "Lorain\u2019s Mercy Regional Medical Cente",
       "city": "Lorain",
       "state": "OH",
@@ -8896,7 +8922,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-258d56",
+      "id": "cornell_ilr-e50653",
       "employer": "MultiCare Health System, Inc.",
       "city": "Yakima",
       "state": "WA",
@@ -8922,7 +8948,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-b317e6",
+      "id": "cornell_ilr-a98e19",
       "employer": "Baystate Health",
       "city": "Greenfield",
       "state": "MA",
@@ -8948,7 +8974,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-720a32",
+      "id": "cornell_ilr-5492de",
       "employer": "Columbia Memorial Hospital",
       "city": "Albany",
       "state": "NY",
@@ -8974,7 +9000,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-713b5f",
+      "id": "cornell_ilr-d32183",
       "employer": "MetroHealth",
       "city": "Cleveland",
       "state": "OH",
@@ -9000,7 +9026,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-a0bd15",
+      "id": "cornell_ilr-3b9ae1",
       "employer": "Brooklyn Methodist - New York Presbyterian",
       "city": "Brooklyn",
       "state": "NY",
@@ -9026,7 +9052,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-3b1cfe",
+      "id": "cornell_ilr-119f57",
       "employer": "Albertina Kerr",
       "city": "Portland",
       "state": "OR",
@@ -9052,7 +9078,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-adc64b",
+      "id": "cornell_ilr-535bcd",
       "employer": "California Hospital Association",
       "city": "Sacramento",
       "state": "CA",
@@ -9078,7 +9104,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-62a41c",
+      "id": "cornell_ilr-0e0d5a",
       "employer": "Unknown",
       "city": "St. Albans",
       "state": "VT",
@@ -9104,7 +9130,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-365a01",
+      "id": "cornell_ilr-fb8a6c",
       "employer": "New Vista Nursing & Rehabilitation Center",
       "city": "Newark",
       "state": "NJ",
@@ -9130,7 +9156,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-c2edd4",
+      "id": "cornell_ilr-c26757",
       "employer": "University of Vermont Health Network \u2013 Champlain Valley Physicians Hospital Medical Center",
       "city": "Plattsburgh",
       "state": "NY",
@@ -9156,7 +9182,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-ae16f5",
+      "id": "cornell_ilr-343ede",
       "employer": "Champlain Valley Physicians Hospital Medical Center",
       "city": "Plattsburgh",
       "state": "NY",
@@ -9182,7 +9208,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-f0c3cb",
+      "id": "cornell_ilr-e1c478",
       "employer": "Jefferson Einstein Hospital",
       "city": "Philadelphia",
       "state": "PA",
@@ -9208,7 +9234,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-d4942d",
+      "id": "cornell_ilr-050da0",
       "employer": "WMCHealth",
       "city": "Poughkeepsie",
       "state": "NY",
@@ -9234,7 +9260,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-009559",
+      "id": "cornell_ilr-c16fd5",
       "employer": "Unknown",
       "city": "Portland",
       "state": "ME",
@@ -9260,7 +9286,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-d9f1c2",
+      "id": "cornell_ilr-86f5c6",
       "employer": "Prime Saint Mary of Nazareth",
       "city": "Chicago",
       "state": "IL",
@@ -9286,7 +9312,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-ee9d1c",
+      "id": "cornell_ilr-882127",
       "employer": "SSM Health St. Mary\u2019s Hospital",
       "city": "Madison",
       "state": "WI",
@@ -9312,7 +9338,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-0e0d4e",
+      "id": "cornell_ilr-cbc20a",
       "employer": "HCA Fort Walton-Destin Hospital",
       "city": "Fort Walton Beach",
       "state": "FL",
@@ -9338,7 +9364,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-3e9046",
+      "id": "cornell_ilr-ac586d",
       "employer": "Catholic Health Association",
       "city": "St. Louis",
       "state": "MO",
@@ -9364,7 +9390,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-0f1154",
+      "id": "cornell_ilr-e52dda",
       "employer": "Research Medical Center (RMC)",
       "city": "Kansas City",
       "state": "MO",
@@ -9390,7 +9416,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-994a9d",
+      "id": "cornell_ilr-b430dc",
       "employer": "Evanston Hospital - Endeavor Health",
       "city": "Evanston",
       "state": "IL",
@@ -9416,7 +9442,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-c8b17a",
+      "id": "cornell_ilr-d67549",
       "employer": "Saint Mary\u2019s Regional Medical Center",
       "city": "Reno",
       "state": "NV",
@@ -9442,7 +9468,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-794a1d",
+      "id": "cornell_ilr-42608b",
       "employer": "Shasta Regional Medical Center",
       "city": "Redding",
       "state": "CA",
@@ -9468,7 +9494,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-e4e1b3",
+      "id": "cornell_ilr-ae9dbf",
       "employer": "University System of Iowa",
       "city": "Iowa City",
       "state": "IA",
@@ -9494,7 +9520,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-eb5cad",
+      "id": "cornell_ilr-9bd988",
       "employer": "University of Kansas Health System",
       "city": "Kansas City",
       "state": "KS",
@@ -9520,7 +9546,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-b6821c",
+      "id": "cornell_ilr-3b57a5",
       "employer": "League of Voluntary Hospitals and Homes of New York",
       "city": "New York",
       "state": "NY",
@@ -9546,7 +9572,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-c1c75d",
+      "id": "cornell_ilr-a7cd7b",
       "employer": "Unknown",
       "city": "Boston",
       "state": "MA",
@@ -9572,7 +9598,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-22347f",
+      "id": "cornell_ilr-0ac8bc",
       "employer": "Optum Health",
       "city": "Newburgh",
       "state": "NY",
@@ -9598,7 +9624,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-1e0566",
+      "id": "cornell_ilr-32efa5",
       "employer": "St. Rose Hospital - Alameda Health System",
       "city": "Hayward",
       "state": "CA",
@@ -9624,7 +9650,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-2155af",
+      "id": "cornell_ilr-801bf5",
       "employer": "Rogers Behavioral Health - West Allis",
       "city": "West Allis",
       "state": "WI",
@@ -9650,7 +9676,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-5dad03",
+      "id": "cornell_ilr-552afd",
       "employer": "Michigan Medicine - University of Michigan",
       "city": "Ann Arbor",
       "state": "MI",
@@ -9676,7 +9702,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-29f686",
+      "id": "cornell_ilr-41138f",
       "employer": "Contra Costa Health",
       "city": "Martinez",
       "state": "CA",
@@ -9702,7 +9728,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-e23fde",
+      "id": "cornell_ilr-6f5cde",
       "employer": "Rady Children\u2019s Hospital",
       "city": "San Diego",
       "state": "CA",
@@ -9728,7 +9754,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-2e7f1b",
+      "id": "cornell_ilr-b7e5f4",
       "employer": "California Hospital Medical Center",
       "city": "Los Angeles",
       "state": "CA",
@@ -9754,7 +9780,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-6024f7",
+      "id": "cornell_ilr-a97697",
       "employer": "Logan Health",
       "city": "Kalispell",
       "state": "MT",
@@ -9780,7 +9806,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-fd3a87",
+      "id": "cornell_ilr-8ce901",
       "employer": "Premier Health - CareFlight",
       "city": "Dayton",
       "state": "OH",
@@ -9806,7 +9832,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-e3e567",
+      "id": "cornell_ilr-0306bd",
       "employer": "University of Vermont Health Network",
       "city": "Burlington",
       "state": "VT",
@@ -9832,7 +9858,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-972691",
+      "id": "cornell_ilr-dddd1a",
       "employer": "All Ways Caring HomeCare Montana - BrightSpring Health Services",
       "city": "Missoula",
       "state": "MT",
@@ -9858,7 +9884,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-5d8706",
+      "id": "cornell_ilr-b077bc",
       "employer": "Rebekah Children\u2019s Services",
       "city": "Gilroy",
       "state": "CA",
@@ -9884,7 +9910,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-8ee991",
+      "id": "cornell_ilr-c952b7",
       "employer": "Albert J. Solnit Psychiatric Center - Connecticut Department of Children and Families",
       "city": "Middletown",
       "state": "CT",
@@ -9910,7 +9936,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-b96a7b",
+      "id": "cornell_ilr-3c923c",
       "employer": "The University of Illinois Hospital & Health Sciences System",
       "city": "Chicago",
       "state": "IL",
@@ -9936,7 +9962,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-f531be",
+      "id": "cornell_ilr-9d18ff",
       "employer": "Essentia Health",
       "city": "Duluth",
       "state": "MN",
@@ -9962,7 +9988,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-33ba92",
+      "id": "cornell_ilr-d63157",
       "employer": "Choate Mental Health and Developmental Center - Illinois Department of Human Services (IDHS)",
       "city": "Anna",
       "state": "IL",
@@ -9988,7 +10014,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-d1131e",
+      "id": "cornell_ilr-116fed",
       "employer": "Maimonides Medical Center",
       "city": "New York",
       "state": "NY",
@@ -10014,7 +10040,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-799a46",
+      "id": "cornell_ilr-8ba778",
       "employer": "Hospital Corporation of America (HCA) Healthcare",
       "city": "Las Vegas",
       "state": "NV",
@@ -10040,7 +10066,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-33e6b6",
+      "id": "cornell_ilr-443cc8",
       "employer": "Planned Parenthood of Greater New York",
       "city": "Brooklyn",
       "state": "NY",
@@ -10066,7 +10092,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-24d88f",
+      "id": "cornell_ilr-c1c273",
       "employer": "Unknown",
       "city": "Boston",
       "state": "MA",
@@ -10092,7 +10118,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-26ac99",
+      "id": "cornell_ilr-dc74f9",
       "employer": "University of Minnesota",
       "city": "Minneapolis",
       "state": "MN",
@@ -10118,7 +10144,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-fbf87b",
+      "id": "cornell_ilr-7d0dee",
       "employer": "Lawrence + Memorial Hospital",
       "city": "New London",
       "state": "CT",
@@ -10144,7 +10170,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-0ce064",
+      "id": "cornell_ilr-6ba81c",
       "employer": "University of Vermont (UVM) Medical Center",
       "city": "Burlington",
       "state": "VT",
@@ -10170,7 +10196,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-67c34f",
+      "id": "cornell_ilr-15cb6c",
       "employer": "Palantir Technologies",
       "city": "Palo Alto",
       "state": "CA",
@@ -10196,7 +10222,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-4c6fd8",
+      "id": "cornell_ilr-0788a6",
       "employer": "Unknown",
       "city": "Sacramento",
       "state": "CA",
@@ -10222,7 +10248,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-e03112",
+      "id": "cornell_ilr-086a4a",
       "employer": "Allegheny General Hospital",
       "city": "Pittsburgh",
       "state": "PA",
@@ -10248,7 +10274,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-bc3bd2",
+      "id": "cornell_ilr-56a1bf",
       "employer": "Kaiser Permanente",
       "city": "Antioch",
       "state": "CA",
@@ -10274,7 +10300,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-8255a0",
+      "id": "cornell_ilr-dbd68e",
       "employer": "Centurion; CharterCARE",
       "city": "North Providence",
       "state": "RI",
@@ -10300,7 +10326,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-21b7ab",
+      "id": "cornell_ilr-c81d8a",
       "employer": "Prime Healthcare",
       "city": "Lewiston",
       "state": "ME",
@@ -10326,7 +10352,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-3433fe",
+      "id": "cornell_ilr-8d8afc",
       "employer": "WakeMed; Atrium Health",
       "city": "Raleigh",
       "state": "NC",
@@ -10352,7 +10378,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "massnurses_rss-f137f7",
+      "id": "massnurses_rss-39c42b",
       "employer": "Mass General Brigham",
       "city": "Boston",
       "state": "MA",
@@ -10378,7 +10404,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-abfb26",
+      "id": "cornell_ilr-1d235a",
       "employer": "Unknown",
       "city": "New York",
       "state": "NY",
@@ -10404,7 +10430,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-2b3cf1",
+      "id": "cornell_ilr-30a006",
       "employer": "California Health Care Facility",
       "city": "Stockton",
       "state": "CA",
@@ -10430,7 +10456,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-88ee73",
+      "id": "cornell_ilr-8b611d",
       "employer": "Carondelet St. Joseph's Hospital; Carondelet St. Mary's Hospital",
       "city": "Tucson",
       "state": "AZ",
@@ -10456,7 +10482,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "massnurses_rss-1b33ef",
+      "id": "massnurses_rss-c1766b",
       "employer": "Baystate Franklin",
       "city": "",
       "state": "MA",
@@ -10482,7 +10508,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-3325c8",
+      "id": "cornell_ilr-464449",
       "employer": "The Ohio State University Wexner Medical Center",
       "city": "Columbus",
       "state": "OH",
@@ -10508,7 +10534,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "google_news_nurse_walkout-f3c082",
+      "id": "google_news_nurse_walkout-a0ec84",
       "employer": "Brigham and Women's Hospital",
       "city": "Boston",
       "state": "MA",
@@ -10534,7 +10560,7 @@
       "confidenceLabel": "low"
     },
     {
-      "id": "cornell_ilr-b330b2",
+      "id": "cornell_ilr-695f58",
       "employer": "Mount Sinai Health System",
       "city": "New York",
       "state": "NY",
@@ -10560,7 +10586,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "nnu_rss-72bdd7",
+      "id": "nnu_rss-16a473",
       "employer": "Prime hospital in Illinois",
       "city": "Lewiston",
       "state": "IL",
@@ -10586,7 +10612,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-197cf4",
+      "id": "cornell_ilr-5eb67b",
       "employer": "New York-Presbyterian Gracie Square Hospital",
       "city": "New York",
       "state": "NY",
@@ -10612,7 +10638,7 @@
       "confidenceLabel": "medium"
     },
     {
-      "id": "cornell_ilr-134295",
+      "id": "cornell_ilr-4db2bf",
       "employer": "Unknown",
       "city": "Hayward",
       "state": "CA",

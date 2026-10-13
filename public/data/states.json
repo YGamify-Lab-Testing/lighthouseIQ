@@ -14,15 +14,15 @@
     },
     {
       "state": "AZ",
-      "count": 1
+      "count": 0
     },
     {
       "state": "CA",
-      "count": 0
+      "count": 8
     },
     {
       "state": "CO",
-      "count": 0
+      "count": 1
     },
     {
       "state": "CT",
@@ -42,7 +42,7 @@
     },
     {
       "state": "GA",
-      "count": 1
+      "count": 0
     },
     {
       "state": "HI",
@@ -150,7 +150,7 @@
     },
     {
       "state": "OR",
-      "count": 0
+      "count": 1
     },
     {
       "state": "PA",
@@ -178,7 +178,7 @@
     },
     {
       "state": "TX",
-      "count": 1
+      "count": 0
     },
     {
       "state": "UT",
@@ -186,7 +186,7 @@
     },
     {
       "state": "VA",
-      "count": 1132
+      "count": 1133
     },
     {
       "state": "VT",
@@ -209,5 +209,5 @@
       "count": 0
     }
   ],
-  "lastUpdated": "2026-10-13T18:04:47.339Z"
+  "lastUpdated": "2026-10-13T22:39:15.493Z"
 }

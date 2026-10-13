@@ -141,6 +141,76 @@
       "silent_signal_flag": false
     },
     {
+      "notice_id": "904726431df1cfb0",
+      "state": "CA",
+      "employer_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
+      "parent_system": "Kaiser Foundation Hospitals and Kaiser Foundation Health",
+      "facility_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
+      "notice_date": "2026-11-05",
+      "effective_date": "2026-13-04",
+      "lead_time_days": null,
+      "expected_lead_days": null,
+      "early_warning": false,
+      "nursing_score": 0,
+      "silent_signal_flag": false
+    },
+    {
+      "notice_id": "58a626be656141a7",
+      "state": "CA",
+      "employer_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (74 N. Pasadena Ave.)",
+      "parent_system": "Kaiser Foundation Hospitals and Kaiser Foundation Health",
+      "facility_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (74 N. Pasadena Ave.)",
+      "notice_date": "2026-11-05",
+      "effective_date": "2026-13-04",
+      "lead_time_days": null,
+      "expected_lead_days": null,
+      "early_warning": false,
+      "nursing_score": 0,
+      "silent_signal_flag": false
+    },
+    {
+      "notice_id": "8f8e5df44030ba8f",
+      "state": "CA",
+      "employer_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (393 E. Walnut St.)",
+      "parent_system": "Kaiser Foundation Hospitals and Kaiser Foundation Health",
+      "facility_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (393 E. Walnut St.)",
+      "notice_date": "2026-11-05",
+      "effective_date": "2026-13-04",
+      "lead_time_days": null,
+      "expected_lead_days": null,
+      "early_warning": false,
+      "nursing_score": 0,
+      "silent_signal_flag": false
+    },
+    {
+      "notice_id": "904726431df1cfb0",
+      "state": "CA",
+      "employer_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
+      "parent_system": "Kaiser Foundation Hospitals and Kaiser Foundation Health",
+      "facility_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
+      "notice_date": "2026-11-05",
+      "effective_date": "2026-13-04",
+      "lead_time_days": null,
+      "expected_lead_days": null,
+      "early_warning": false,
+      "nursing_score": 0,
+      "silent_signal_flag": false
+    },
+    {
+      "notice_id": "904726431df1cfb0",
+      "state": "CA",
+      "employer_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
+      "parent_system": "Kaiser Foundation Hospitals and Kaiser Foundation Health",
+      "facility_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
+      "notice_date": "2026-11-05",
+      "effective_date": "2026-13-04",
+      "lead_time_days": null,
+      "expected_lead_days": null,
+      "early_warning": false,
+      "nursing_score": 0,
+      "silent_signal_flag": false
+    },
+    {
       "notice_id": "e64598f47d40c44f",
       "state": "MN",
       "employer_name": "Meadow Lane Healthcare 2023 Benson Health/Social Assist",
@@ -323,6 +393,6 @@
       "silent_signal_flag": false
     }
   ],
-  "count": 23,
-  "lastUpdated": "2026-10-13T18:04:47.376Z"
+  "count": 28,
+  "lastUpdated": "2026-10-13T22:39:15.537Z"
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T18:09:43.500Z",
+  "lastUpdated": "2026-10-13T22:43:52.677Z",
   "scope": "US healthcare",
   "retentionDays": 90,
   "maxArticles": 500,
@@ -10,72 +10,72 @@
     "sources": [
       {
         "source": "Fierce Healthcare",
-        "articleCount": 239,
+        "articleCount": 233,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 18,
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "Becker's Hospital Review",
-        "articleCount": 115,
+        "articleCount": 125,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 18,
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "STAT News",
-        "articleCount": 61,
+        "articleCount": 63,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 18,
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "Federal Register - HHS",
-        "articleCount": 36,
+        "articleCount": 35,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 18,
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "Healthcare Dive",
         "articleCount": 17,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 18,
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "Federal Register - FDA",
         "articleCount": 14,
         "latestPublishedAt": "2026-10-09T00:00:00.000Z",
-        "staleHours": 114,
+        "staleHours": 118,
         "status": "stale"
       },
       {
         "source": "FDA MedWatch RSS",
-        "articleCount": 7,
+        "articleCount": 5,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 18,
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "SEC Healthcare Filings",
         "articleCount": 5,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 18,
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "Federal Register - CMS",
-        "articleCount": 5,
+        "articleCount": 2,
         "latestPublishedAt": "2026-10-08T00:00:00.000Z",
-        "staleHours": 138,
+        "staleHours": 142,
         "status": "stale"
       },
       {
         "source": "National Nurses United RSS",
         "articleCount": 1,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 18,
+        "staleHours": 22,
         "status": "ok"
       }
     ]
@@ -83,11 +83,11 @@
   "categoryCoverage": {
     "closures_layoffs": {
       "label": "Closures & Layoffs",
-      "count": 8
+      "count": 9
     },
     "mergers_mna": {
       "label": "Mergers & M&A",
-      "count": 22
+      "count": 23
     },
     "labor_unions": {
       "label": "Labor & Unions",
@@ -95,7 +95,7 @@
     },
     "policy_reimbursement": {
       "label": "Policy & Reimbursement",
-      "count": 104
+      "count": 100
     },
     "quality_safety": {
       "label": "Quality & Safety",
@@ -111,7 +111,7 @@
     },
     "general_market": {
       "label": "General Market",
-      "count": 192
+      "count": 194
     }
   },
   "quality": {
@@ -125,7 +125,7 @@
       },
       "minArticles24h": {
         "threshold": 20,
-        "actual": 65,
+        "actual": 81,
         "pass": true
       },
       "minRequiredCategoriesCovered": {
@@ -262,92 +262,110 @@
       "categoryLabel": "General Market"
     },
     {
-      "title": "UnitedHealth reports $4.1B in profit, launches AI recommendations for Medicare Advantage plans",
-      "url": "https://www.beckershospitalreview.com/finance/unitedhealth-reports-4-1b-in-profit-launches-ai-recommendations-for-medicare-advantage-plans/",
+      "title": "Court denies North Carolina State Health Plan’s injunction bid against Atrium",
+      "url": "https://www.beckershospitalreview.com/legal-regulatory-issues/court-denies-north-carolina-state-health-plans-injunction-bid-against-atrium/",
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-13",
-      "summary": "UnitedHealth Group reported $4.1 billion in profit for the third quarter of 2026, up 75% year over year, according to an Oct.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
+      "summary": "A North Carolina Superior Court judge has denied the North Carolina State Health Plan’s request for a temporary injunction against Charlotte, N.C.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
     },
     {
-      "title": "Orlando Health in final stages of demolishing former Steward hospital",
-      "url": "https://www.beckershospitalreview.com/finance/orlando-health-in-final-stages-of-demolishing-former-steward-hospital/",
+      "title": "4 recent hospital, health system CFO moves",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/7-recent-hospital-health-system-cfo-moves-in-2026/",
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-13",
-      "summary": "Orlando (Fla.) Health is in the final stages of its demolition plan at its shuttered Rockledge (Fla.",
+      "summary": "Here are the hospital and health system CFO moves that&#160;Becker’s&#160;has reported on in 2026: Oct. 12-13 1.",
       "category": "general_market",
       "categoryLabel": "General Market"
     },
     {
-      "title": "Inspira Health CEO to retire; successor named",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/inspira-health-ceo-to-retire-successor-named/",
+      "title": "Walmart makes some GLP-1s free for employees with Type 2 diabetes",
+      "url": "https://www.beckershospitalreview.com/glp-1s/walmart-makes-some-glp-1s-free-for-employees-with-type-2-diabetes/",
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-13",
-      "summary": "Amy Mansue plans to retire at the end of 2026 as CEO of Mullica Hill, N.J.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
+      "summary": "In 2027, Walmart is making more than 250 medications — including some GLP-1s, insulin and inhalers — available for employees at no cost. While GLP-1s have already been available to employees with Type 2 diabetes, the drugs will be accessible for $0 with a new prior authorization, Walmart confirmed to Becker&#8217;s Oct.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
     },
     {
-      "title": "CommonSpirit Texas hospital names CEO",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/commonspirit-texas-hospital-names-ceo/",
+      "title": "University of Utah Health gets OK to acquire land for new health center",
+      "url": "https://www.beckershospitalreview.com/capital/university-of-utah-health-gets-ok-to-acquire-land-for-new-health-center/",
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-13",
-      "summary": "Cody Barnhart was named CEO of CommonSpirit – St. Luke’s Hospital – Brazosport in Lake Jackson, Texas, in October, according to his LinkedIn profile.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "HCA Florida hospital names COO",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/hca-florida-hospital-names-coo-11/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-13",
-      "summary": "Brock Aberle has been appointed COO of HCA Florida University Hospital in Davie. In his new role, Mr.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Joint Commission names 1st nurse COO in its 75-year history",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/joint-commission-names-1st-nurse-coo-in-its-75-year-history/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-13",
-      "summary": "Ken Grubbs, DNP, RN, has been named COO of the Joint Commission, making him the first nurse to hold the role in the organization’s 75-year history. The Joint Commission announced the leadership appointment Oct.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Humana strikes $2.8B CenterWell senior clinic deal with BlackRock",
-      "url": "https://www.beckershospitalreview.com/hospital-transactions-and-valuation/humana-strikes-2-8b-centerwell-senior-clinic-deal-with-blackrock/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-13",
-      "summary": "Humana has agreed to form a new joint venture with investment management firm BlackRock to own and operate nearly 150 CenterWell Senior Primary Care clinics, replacing CenterWell’s existing joint ventures with private equity firm Welsh, Carson, Anderson &#38; Stowe.&#160; Funds and accounts managed by HPS Investment Partners, part of BlackRock, will acquire Welsh Carson’s equity [&#8230;] The post Humana strikes $2.",
+      "summary": "University of Utah Health received approval from the University of Utah Board of Trustees Oct. 13 to acquire approximately 14 acres of land where it plans to build a new Redwood Health Center.",
       "category": "mergers_mna",
       "categoryLabel": "Mergers & M&A"
     },
     {
-      "title": "Medical supply company owner gets 14 years in $30M telehealth scheme",
-      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/telehealth/medical-supply-company-owner-gets-14-years-in-30m-telehealth-scheme/",
+      "title": "43% of hospitals are in the red: 6 financial notes",
+      "url": "https://www.beckershospitalreview.com/finance/43-of-hospitals-are-in-the-red-6-financial-notes/",
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-13",
-      "summary": "Mark Loftis, a Cushing, Okla.-based chiropractor and medical supply company owner, has been sentenced to 14 years in prison for a telemedicine-driven scheme that billed federal health programs more than $30 million for durable medical equipment that beneficiaries did not want or need.",
+      "summary": "Hospital margins fell in August as financial pressures mounted and the share of hospitals operating at a loss is growing, according to Kaufman Hall’s &#8220;National Hospital Flash Report,&#8221; released Oct. 13.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Nicklaus Children’s marketing chief heads to Phoenix Children’s",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/nicklaus-childrens-marketing-chief-heads-to-phoenix-childrens/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-13",
+      "summary": "Kevin Snyder, former system vice president and chief marketing, communications and brand officer at Miami-based Nicklaus Children’s Health System, has left the role for a marketing position at Phoenix Children’s. Mr.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Inova taps hospital president",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/inova-taps-hospital-president/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-13",
+      "summary": "Fairfax, Va.-based Inova Health System named Raj Chand, MD, president of Inova Loudoun Hospital in Leesburg, Va.",
       "category": "ai_tech",
       "categoryLabel": "AI & Digital Tech"
     },
     {
-      "title": "2 deaths reported to FDA after people took products claiming to be Eli Lilly&#8217;s retatrutide: Report",
-      "url": "https://www.beckershospitalreview.com/glp-1s/2-deaths-reported-to-fda-after-people-took-products-claiming-to-be-eli-lillys-retatrutide-report/",
+      "title": "Baptist Memphis names COO",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/baptist-memphis-names-coo/",
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-13",
-      "summary": "The FDA has received reports in recent months that two people died after taking illicit products claiming to be retatrutide, Eli Lilly&#8217;s experimental weight loss drug, according to FDA documents reviewed by CBS News in an Oct. 13 report.",
+      "summary": "Daniel McFarland was named COO of Baptist Memorial Hospital-Memphis, the flagship hospital of Memphis, Tenn.-based Baptist Memorial Health Care.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "CVS to pay $315M over opioid prescriptions, ‘trinity’ drug combos: Justice Department",
+      "url": "https://www.beckershospitalreview.com/pharmacy/cvs-to-pay-315m-over-opioid-prescriptions-trinity-drug-combos-justice-department/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-13",
+      "summary": "CVS Pharmacy has agreed to pay $315 million to resolve Justice Department allegations that it illegally filled opioid and other controlled substance prescriptions, according to an Oct. 13 news release.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "AMA: Agentic AI must earn clinical authority through evidence",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/digital-health/ama-agentic-ai-must-earn-clinical-authority-through-evidence/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-13",
+      "summary": "The American Medical Association released a governance framework Oct. 13 for agentic AI that takes on clinical functions.",
       "category": "ai_tech",
       "categoryLabel": "AI & Digital Tech"
     },
     {
-      "title": "12 revenue cycle leaders on the traits a resume can’t show",
-      "url": "https://www.beckershospitalreview.com/finance/revenue-cycle-management/12-revenue-cycle-leaders-on-the-traits-a-resume-cant-show/",
-      "source": "Becker's Hospital Review",
+      "title": "STAT+: BlackRock to buy majority stake in Humana’s CenterWell clinics for $2.8 billion",
+      "url": "https://www.statnews.com/2026/10/13/blackrock-humana-centerwell-deal-senior-care-medicare-clinics/?utm_campaign=rss",
+      "source": "STAT News",
       "publishedAt": "2026-10-13",
-      "summary": "Ask a Revenue Cycle Leader is a new series featuring insights from health system and hospital revenue cycle executives nationwide. Becker’s poses questions on the most pressing issues in healthcare finance — from payer relations and automation to workforce and patient experience.",
+      "summary": "Humana is swapping out private equity sponsors for its CenterWell Senior Primary Care clinics. Good bye, Welsh, Carson, Anderson &#038; Stowe.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Helen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69",
+      "url": "https://www.statnews.com/2026/10/13/helen-branswell-stat-reporter-obituary/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-13",
+      "summary": "Helen Branswell, STAT's infectious disease reporter who earned the respect of experts and public health officials with her accessible, prescient dispatches, has died at age 69.",
       "category": "ai_tech",
       "categoryLabel": "AI & Digital Tech"
     },
@@ -476,6 +494,132 @@
       "summary": "<figure><div><img src=\"https://imgproxy.divecdn.",
       "category": "policy_reimbursement",
       "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "Judge rejects NC State Health Plan's request to block Atrium affordability program",
+      "url": "https://www.fiercehealthcare.com/payers/judge-rejects-nc-state-health-plans-request-block-atrium-affordability-program",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "The state's treasurer has said the large health system's Affordability Protection Program, a response to being left out of a preferred provider program, would bankrupt the public health plan.",
+      "category": "closures_layoffs",
+      "categoryLabel": "Closures & Layoffs"
+    },
+    {
+      "title": "VBC accelerator Diverge merges with Medical Home Network to support PCPs, FQHCs",
+      "url": "https://www.fiercehealthcare.com/providers/vbc-accelerator-diverge-merges-medical-home-network-support-pcps-fqhcs",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "Together, the organizations hope to reach broader swaths of patients in value-based arrangements.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
+    },
+    {
+      "title": "Measles update: US passes 4,000 cases, Pennsylvania reports sixth death",
+      "url": "https://www.fiercehealthcare.com/providers/measles-update-us-passes-4000-cases-pennsylvania-reports-sixth-death",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "Experts have pointed to sagging vaccination rates and friction between federal health leadership and the broader public health community as contributor to this year’s outbreaks of the vaccine-preventable disease.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "CVS, DOJ reach $315M settlement in opioid prescription case",
+      "url": "https://www.fiercehealthcare.com/payers/cvs-doj-reach-315m-settlement-opioid-prescription-case",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "CVS Health has reached a $315 million settlement with the Department of Justice that resolves allegations the pharmacy giant knowingly filled unlawful opioid prescriptions.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "UnitedHealth reports $4.1B in profit, launches AI recommendations for Medicare Advantage plans",
+      "url": "https://www.beckershospitalreview.com/finance/unitedhealth-reports-4-1b-in-profit-launches-ai-recommendations-for-medicare-advantage-plans/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-13",
+      "summary": "UnitedHealth Group reported $4.1 billion in profit for the third quarter of 2026, up 75% year over year, according to an Oct.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "Orlando Health in final stages of demolishing former Steward hospital",
+      "url": "https://www.beckershospitalreview.com/finance/orlando-health-in-final-stages-of-demolishing-former-steward-hospital/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-13",
+      "summary": "Orlando (Fla.) Health is in the final stages of its demolition plan at its shuttered Rockledge (Fla.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Inspira Health CEO to retire; successor named",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/inspira-health-ceo-to-retire-successor-named/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-13",
+      "summary": "Amy Mansue plans to retire at the end of 2026 as CEO of Mullica Hill, N.J.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "CommonSpirit Texas hospital names CEO",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/commonspirit-texas-hospital-names-ceo/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-13",
+      "summary": "Cody Barnhart was named CEO of CommonSpirit – St. Luke’s Hospital – Brazosport in Lake Jackson, Texas, in October, according to his LinkedIn profile.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "HCA Florida hospital names COO",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/hca-florida-hospital-names-coo-11/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-13",
+      "summary": "Brock Aberle has been appointed COO of HCA Florida University Hospital in Davie. In his new role, Mr.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Joint Commission names 1st nurse COO in its 75-year history",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/joint-commission-names-1st-nurse-coo-in-its-75-year-history/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-13",
+      "summary": "Ken Grubbs, DNP, RN, has been named COO of the Joint Commission, making him the first nurse to hold the role in the organization’s 75-year history. The Joint Commission announced the leadership appointment Oct.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Humana strikes $2.8B CenterWell senior clinic deal with BlackRock",
+      "url": "https://www.beckershospitalreview.com/hospital-transactions-and-valuation/humana-strikes-2-8b-centerwell-senior-clinic-deal-with-blackrock/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-13",
+      "summary": "Humana has agreed to form a new joint venture with investment management firm BlackRock to own and operate nearly 150 CenterWell Senior Primary Care clinics, replacing CenterWell’s existing joint ventures with private equity firm Welsh, Carson, Anderson &#38; Stowe.&#160; Funds and accounts managed by HPS Investment Partners, part of BlackRock, will acquire Welsh Carson’s equity [&#8230;] The post Humana strikes $2.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
+    },
+    {
+      "title": "Medical supply company owner gets 14 years in $30M telehealth scheme",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/telehealth/medical-supply-company-owner-gets-14-years-in-30m-telehealth-scheme/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-13",
+      "summary": "Mark Loftis, a Cushing, Okla.-based chiropractor and medical supply company owner, has been sentenced to 14 years in prison for a telemedicine-driven scheme that billed federal health programs more than $30 million for durable medical equipment that beneficiaries did not want or need.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "2 deaths reported to FDA after people took products claiming to be Eli Lilly&#8217;s retatrutide: Report",
+      "url": "https://www.beckershospitalreview.com/glp-1s/2-deaths-reported-to-fda-after-people-took-products-claiming-to-be-eli-lillys-retatrutide-report/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-13",
+      "summary": "The FDA has received reports in recent months that two people died after taking illicit products claiming to be retatrutide, Eli Lilly&#8217;s experimental weight loss drug, according to FDA documents reviewed by CBS News in an Oct. 13 report.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "12 revenue cycle leaders on the traits a resume can’t show",
+      "url": "https://www.beckershospitalreview.com/finance/revenue-cycle-management/12-revenue-cycle-leaders-on-the-traits-a-resume-cant-show/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-13",
+      "summary": "Ask a Revenue Cycle Leader is a new series featuring insights from health system and hospital revenue cycle executives nationwide. Becker’s poses questions on the most pressing issues in healthcare finance — from payer relations and automation to workforce and patient experience.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
     },
     {
       "title": "UnitedHealth Group execs detail continued improvements at Optum Health",
@@ -4682,168 +4826,6 @@
       "summary": "The plan will be available to Medicare-eligible patients in Washington state’s Pierce, Thurston and Spokane counties, the organization says.",
       "category": "policy_reimbursement",
       "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Industry Voices—Transforming primary care requires precision and orchestration",
-      "url": "https://www.fiercehealthcare.com/providers/industry-voices-transforming-primary-care-requires-precision-and-orchestration",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-06",
-      "summary": "The next era of primary care will require intelligence that moves directly into the workflow, writes Sentara Health's head of ambulatory care.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Weekly Rundown: Duke University launches digital twin program; Welldoc debuts AI-driven care loop platform",
-      "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-yosi-health-integrates-scheduling-intake-google-services-grindr-acquires",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-06",
-      "summary": "The latest news from Yosi Health, K Health, Welldoc, Duke University and more.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "RFK Jr.'s AI claims spark physician backlash as debate over medical AI intensifies",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/doctors-push-back-after-rfk-jr-turns-heat-debate-over-ais-role-medicine",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-06",
-      "summary": "Robert F. Kennedy Jr.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "WVU Health System closes acquisition of 5-hospital Independence Health System",
-      "url": "https://www.fiercehealthcare.com/providers/western-pennylvanias-independence-health-system-join-wvu-health-system-2026",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-06",
-      "summary": "The deal grows the West Virginia University Health System to more than $10 billion annual total operating revenue.",
-      "category": "mergers_mna",
-      "categoryLabel": "Mergers & M&A"
-    },
-    {
-      "title": "SCAN unveils 2027 MA slate, including launch of co-branded Costco plans",
-      "url": "https://www.fiercehealthcare.com/payers/scan-unveils-2027-ma-slate-including-launch-co-branded-costco-plans",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-06",
-      "summary": "SCAN Health Plan has unveiled its product offerings for the 2027 plan year, and the slate includes the first launch in its partnership with Costco.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "AKASA debuts autonomous AI platform for inpatient medical coding and clinical documentation",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/akasa-debuts-autonomous-ai-platform-inpatient-medical-coding-cdi",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-06",
-      "summary": "Health tech company AKASA is pushing deeper into AI-powered revenue cycle workflows, launching an autonomous AI platform for inpatient medical coding and clinical documentation integrity.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "HHS awards nearly $250M in addiction treatment, overdose prevention grants",
-      "url": "https://www.fiercehealthcare.com/regulatory/hhs-awards-nearly-250m-addiction-treatment-overdose-prevention-grants",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-06",
-      "summary": "Projects supported include those to strengthen mental health support in schools, expand trauma treatment for families and children and more.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Microbiome testing company Tiny Health clinches $33M to scale research, enterprise partnerships",
-      "url": "https://www.fiercehealthcare.com/health-tech/tiny-health-focused-microbiome-testing-clinches-33m-scale-research-enterprise",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-06",
-      "summary": "Alongside the funding news, Tiny announced the launch of a $5 million Microbiome Research Program to enable researchers, clinicians and scientific partners to investigate important intervention strategies in microbiome health.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Fierce Healthcare Fundraising Tracker '26: Rightway pulls in $155M to expand pharmacy benefits tech; Basalt Health raises $20M",
-      "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-06",
-      "summary": "Keep up with all the venture capital dollars being funneled into the health tech and digital health industries.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "CommonSpirit Health grows operating revenue 8.5% to $42.4B in FY2026",
-      "url": "https://www.fiercehealthcare.com/providers/commonspirit-health-grows-revenue-85-424b-fy2026",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-06",
-      "summary": "The 156-hospital nonprofit chopped its operating losses down by $257 million, notwithstanding the multibillion-dollar impact of its revenue cycle management breakup with Tenet Health.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
-      "summary": "The Centers for Medicare & Medicaid Services (CMS) is announcing an opportunity for the public to comment on CMS' intention to collect information from the public. Under the Paperwork Reduction Act of 1995 (PRA), federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information (including each proposed extension or reinstatement of an existing collection of information) and to allow 60 days for public comment on the proposed action. Interested persons are invited to send comments regarding our burden estimates or any other aspect of this collection of information, including the necessity and utility of the proposed information collection for the proper performance of the agency's functions, the accuracy of the estimated burden, ways to enhance the quality, utility, and clarity of the information to be collected, and the use of automated collection techniques or other forms of information technology to minimize the information collection burden.",
-      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20364/agency-information-collection-activities-proposed-collection-comment-request",
-      "source": "Federal Register - CMS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_cms",
-      "publishedAt": "2026-10-05",
-      "category": "policy_reimbursement",
-      "relevance": 100,
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
-      "summary": "The Centers for Medicare & Medicaid Services (CMS) is announcing an opportunity for the public to comment on CMS' intention to collect information from the public. Under the Paperwork Reduction Act of 1995 (PRA), federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information (including each proposed extension or reinstatement of an existing collection of information) and to allow 60 days for public comment on the proposed action. Interested persons are invited to send comments regarding our burden estimates or any other aspect of this collection of information, including the necessity and utility of the proposed information collection for the proper performance of the agency's functions, the accuracy of the estimated burden, ways to enhance the quality, utility, and clarity of the information to be collected, and the use of automated collection techniques or other forms of information technology to minimize the information collection burden.",
-      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20352/agency-information-collection-activities-proposed-collection-comment-request",
-      "source": "Federal Register - CMS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_cms",
-      "publishedAt": "2026-10-05",
-      "category": "policy_reimbursement",
-      "relevance": 100,
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Medicare Program; Alternative Payment Model (APM) Incentive Payment Advisory for Clinicians-Request for Current Billing Information for Qualifying APM Participants; Correction",
-      "summary": "This document corrects a technical error in the payment advisory that appeared in the August 13, 2026, Federal Register titled \"Medicare Program; Alternative Payment Model (APM) Incentive Payment Advisory for Clinicians--Request for Current Billing Information for Qualifying APM Participants\".",
-      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20334/medicare-program-alternative-payment-model-apm-incentive-payment-advisory-for-clinicians-request-for",
-      "source": "Federal Register - CMS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_cms",
-      "publishedAt": "2026-10-05",
-      "category": "policy_reimbursement",
-      "relevance": 100,
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Infusion Set Recall: BD and CareFusion 303, Inc. Remove BD Alaris Pump Infusion Sets",
-      "summary": "BD Alaris Pump Infusion Sets are being removed and discontinued; Alaris Pump Module model 8100 has updated performance data",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-set-recall-bd-and-carefusion-303-inc-remove-bd-alaris-pump-infusion-sets",
-      "source": "FDA MedWatch RSS",
-      "sourceType": "rss",
-      "sourceId": "fda_medwatch_rss",
-      "publishedAt": "2026-10-05",
-      "category": "general_market",
-      "relevance": 100,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "IV Tubing Set Correction: ICU Medical Updates Use Instructions for IV Tubing Sets",
-      "summary": "Black specks and particulate reported in drip chambers of certain ICU Medical IV tubing sets does not affect device safety, performance, or intended use.",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/iv-tubing-set-correction-icu-medical-updates-use-instructions-iv-tubing-sets",
-      "source": "FDA MedWatch RSS",
-      "sourceType": "rss",
-      "sourceId": "fda_medwatch_rss",
-      "publishedAt": "2026-10-05",
-      "category": "ai_tech",
-      "relevance": 100,
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Advisory Council on Alzheimer's Research, Care, and Services; Meeting",
-      "summary": "This notice announces the public meeting of the Advisory Council on Alzheimer's Research, Care, and Services (Advisory Council) and the U.S. Department of Health and Human Services Alzheimer's Disease and Related Dementias Summit. The Advisory Council provides advice on how to prevent or reduce the burden of Alzheimer's disease and related dementias on people living with the disease and their caregivers. During the Summit, attendees will hear updates on the coordinated national response to Alzheimer's disease and related dementias, including panel presentations on care, services, and supports, as well as research, innovation, and prevention. During the fourth and final Advisory Council meeting of 2026, the Advisory Council will hear from a panel organized by the clinical care subcommittee, receive budget updates from the National Institutes of Health, and hear a presentation on innovation in Alzheimer's disease interventions using focused ultrasound technology.",
-      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20385/advisory-council-on-alzheimers-research-care-and-services-meeting",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-05",
-      "category": "general_market",
-      "relevance": 100,
-      "categoryLabel": "General Market"
     }
   ]
 }
