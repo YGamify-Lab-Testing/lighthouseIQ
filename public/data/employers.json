@@ -361,6 +361,24 @@
       }
     },
     {
+      "employer_id": "SD:select-medical-dba-select-specialty-hospital",
+      "employer_name": "Select Medical Corporation, dba Select Specialty Hospital - South Dakota",
+      "parent_system": "Select Medical Corporation, dba Select Specialty Hospital",
+      "state": "SD",
+      "total_notices": 1,
+      "total_affected": 90,
+      "avg_affected": 90,
+      "avg_lead_time_days": null,
+      "first_notice_date": "2025-10-09",
+      "last_notice_date": "2025-10-09",
+      "quarter_counts": {
+        "Q1": 0,
+        "Q2": 0,
+        "Q3": 0,
+        "Q4": 1
+      }
+    },
+    {
       "employer_id": "FL:promises-behavioral-health",
       "employer_name": "Promises Behavioral Health, LLC",
       "parent_system": "Promises Behavioral Health",
@@ -1989,8 +2007,8 @@
       "total_affected": 66,
       "avg_affected": 66,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-12T21:37:08.728Z",
-      "last_notice_date": "2026-10-12T21:37:08.728Z",
+      "first_notice_date": "2026-10-13T02:53:23.597Z",
+      "last_notice_date": "2026-10-13T02:53:23.597Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -2413,6 +2431,42 @@
       }
     },
     {
+      "employer_id": "SD:covington-care-and-rehabilitation-center",
+      "employer_name": "Covington Care and Rehabilitation Center",
+      "parent_system": null,
+      "state": "SD",
+      "total_notices": 1,
+      "total_affected": 90,
+      "avg_affected": 90,
+      "avg_lead_time_days": null,
+      "first_notice_date": "2019-05-31",
+      "last_notice_date": "2019-05-31",
+      "quarter_counts": {
+        "Q1": 0,
+        "Q2": 1,
+        "Q3": 0,
+        "Q4": 0
+      }
+    },
+    {
+      "employer_id": "SD:mobridge-care-and-rehabilitation-center",
+      "employer_name": "Mobridge Care and Rehabilitation Center",
+      "parent_system": null,
+      "state": "SD",
+      "total_notices": 1,
+      "total_affected": 67,
+      "avg_affected": 67,
+      "avg_lead_time_days": null,
+      "first_notice_date": "2018-11-28",
+      "last_notice_date": "2018-11-28",
+      "quarter_counts": {
+        "Q1": 0,
+        "Q2": 0,
+        "Q3": 0,
+        "Q4": 1
+      }
+    },
+    {
       "employer_id": "IN:syneos-health",
       "employer_name": "Syneos Health (inVentic Health Inc.)",
       "parent_system": "Syneos Health",
@@ -2530,7 +2584,7 @@
       "avg_affected": 59,
       "avg_lead_time_days": 73,
       "first_notice_date": "2014-04-15",
-      "last_notice_date": "2026-10-12T21:36:22.093Z",
+      "last_notice_date": "2026-10-13T02:52:46.897Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 1,
@@ -2611,6 +2665,24 @@
       }
     },
     {
+      "employer_id": "SD:coventry-healthcare",
+      "employer_name": "Coventry Healthcare Inc.",
+      "parent_system": "Coventry Healthcare",
+      "state": "SD",
+      "total_notices": 1,
+      "total_affected": 73,
+      "avg_affected": 73,
+      "avg_lead_time_days": null,
+      "first_notice_date": "2009-08-19",
+      "last_notice_date": "2009-08-19",
+      "quarter_counts": {
+        "Q1": 0,
+        "Q2": 0,
+        "Q3": 1,
+        "Q4": 0
+      }
+    },
+    {
       "employer_id": "KS:seaborn-health-care",
       "employer_name": "Seaborn Health Care, Inc.",
       "parent_system": "Seaborn Health Care",
@@ -2665,6 +2737,24 @@
       }
     },
     {
+      "employer_id": "CA:kaiser-foundation-hospitals-and-kaiser-foundation-health",
+      "employer_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (74 N. Pasadena Ave.)",
+      "parent_system": "Kaiser Foundation Hospitals and Kaiser Foundation Health",
+      "state": "CA",
+      "total_notices": 5,
+      "total_affected": 6,
+      "avg_affected": 1,
+      "avg_lead_time_days": null,
+      "first_notice_date": "2026-11-05",
+      "last_notice_date": "2026-11-05",
+      "quarter_counts": {
+        "Q1": 0,
+        "Q2": 0,
+        "Q3": 0,
+        "Q4": 5
+      }
+    },
+    {
       "employer_id": "MN:lake-crystal-pharmacy-lake-crystal-health-care",
       "employer_name": "Lake Crystal Pharmacy Lake Crystal Health Care/Social Assist",
       "parent_system": "Lake Crystal Pharmacy Lake Crystal Health Care",
@@ -2673,8 +2763,8 @@
       "total_affected": 1,
       "avg_affected": 1,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-12T21:37:08.728Z",
-      "last_notice_date": "2026-10-12T21:37:08.728Z",
+      "first_notice_date": "2026-10-13T02:53:23.597Z",
+      "last_notice_date": "2026-10-13T02:53:23.597Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -2691,8 +2781,8 @@
       "total_affected": 0,
       "avg_affected": 0,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-12T21:36:22.977Z",
-      "last_notice_date": "2026-10-12T21:36:22.977Z",
+      "first_notice_date": "2026-10-13T02:52:47.477Z",
+      "last_notice_date": "2026-10-13T02:52:47.477Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -2709,8 +2799,8 @@
       "total_affected": 0,
       "avg_affected": 0,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-12T21:36:22.977Z",
-      "last_notice_date": "2026-10-12T21:36:22.977Z",
+      "first_notice_date": "2026-10-13T02:52:47.477Z",
+      "last_notice_date": "2026-10-13T02:52:47.477Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -2727,8 +2817,8 @@
       "total_affected": 0,
       "avg_affected": 0,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-12T21:36:22.977Z",
-      "last_notice_date": "2026-10-12T21:36:22.977Z",
+      "first_notice_date": "2026-10-13T02:52:47.477Z",
+      "last_notice_date": "2026-10-13T02:52:47.477Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -2745,8 +2835,8 @@
       "total_affected": 0,
       "avg_affected": 0,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-12T21:36:22.977Z",
-      "last_notice_date": "2026-10-12T21:36:22.977Z",
+      "first_notice_date": "2026-10-13T02:52:47.477Z",
+      "last_notice_date": "2026-10-13T02:52:47.477Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -2763,8 +2853,8 @@
       "total_affected": 0,
       "avg_affected": 0,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-12T21:36:22.977Z",
-      "last_notice_date": "2026-10-12T21:36:22.977Z",
+      "first_notice_date": "2026-10-13T02:52:47.477Z",
+      "last_notice_date": "2026-10-13T02:52:47.477Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -2781,8 +2871,8 @@
       "total_affected": 0,
       "avg_affected": 0,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-12T21:36:22.977Z",
-      "last_notice_date": "2026-10-12T21:36:22.977Z",
+      "first_notice_date": "2026-10-13T02:52:47.477Z",
+      "last_notice_date": "2026-10-13T02:52:47.477Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -2799,8 +2889,8 @@
       "total_affected": 0,
       "avg_affected": 0,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-12T21:36:22.977Z",
-      "last_notice_date": "2026-10-12T21:36:22.977Z",
+      "first_notice_date": "2026-10-13T02:52:47.477Z",
+      "last_notice_date": "2026-10-13T02:52:47.477Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -3043,6 +3133,6 @@
       }
     }
   ],
-  "count": 169,
-  "lastUpdated": "2026-10-12T21:45:53.898Z"
+  "count": 174,
+  "lastUpdated": "2026-10-13T02:55:45.737Z"
 }

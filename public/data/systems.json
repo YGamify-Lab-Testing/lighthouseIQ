@@ -110,6 +110,15 @@
       "last_notice_date": "2026-01-13"
     },
     {
+      "system_name": "Select Medical Corporation, dba Select Specialty Hospital",
+      "total_notices": 1,
+      "total_affected": 90,
+      "states": [
+        "SD"
+      ],
+      "last_notice_date": "2025-10-09"
+    },
+    {
       "system_name": "Promises Behavioral Health",
       "total_notices": 1,
       "total_affected": 64,
@@ -343,7 +352,7 @@
       "states": [
         "MN"
       ],
-      "last_notice_date": "2026-10-12T21:37:08.728Z"
+      "last_notice_date": "2026-10-13T02:53:23.597Z"
     },
     {
       "system_name": "Lakeshore Community Health Care",
@@ -433,7 +442,7 @@
       "states": [
         "IN"
       ],
-      "last_notice_date": "2026-10-12T21:36:22.093Z"
+      "last_notice_date": "2026-10-13T02:52:46.897Z"
     },
     {
       "system_name": "Hickory Creek Healthcare",
@@ -455,6 +464,15 @@
       "last_notice_date": "2012-12-10"
     },
     {
+      "system_name": "Coventry Healthcare",
+      "total_notices": 1,
+      "total_affected": 73,
+      "states": [
+        "SD"
+      ],
+      "last_notice_date": "2009-08-19"
+    },
+    {
       "system_name": "Seaborn Health Care",
       "total_notices": 1,
       "total_affected": 72,
@@ -464,13 +482,22 @@
       "last_notice_date": "2005-09-02"
     },
     {
+      "system_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health",
+      "total_notices": 5,
+      "total_affected": 6,
+      "states": [
+        "CA"
+      ],
+      "last_notice_date": "2026-11-05"
+    },
+    {
       "system_name": "Lake Crystal Pharmacy Lake Crystal Health Care",
       "total_notices": 1,
       "total_affected": 1,
       "states": [
         "MN"
       ],
-      "last_notice_date": "2026-10-12T21:37:08.728Z"
+      "last_notice_date": "2026-10-13T02:53:23.597Z"
     },
     {
       "system_name": "Health Care",
@@ -479,7 +506,7 @@
       "states": [
         "MI"
       ],
-      "last_notice_date": "2026-10-12T21:36:22.977Z"
+      "last_notice_date": "2026-10-13T02:52:47.477Z"
     },
     {
       "system_name": "Pourlessoins, LLC d/b/a Synergy Health Services and Zomleben, LLC d/b/a Synergy Healthcare",
@@ -563,6 +590,6 @@
       "last_notice_date": "2003-10-27"
     }
   ],
-  "count": 62,
-  "lastUpdated": "2026-10-12T21:45:53.899Z"
+  "count": 65,
+  "lastUpdated": "2026-10-13T02:55:45.738Z"
 }

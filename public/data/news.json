@@ -1,74 +1,74 @@
 {
-  "lastUpdated": "2026-10-12T21:50:37.921Z",
+  "lastUpdated": "2026-10-13T02:57:50.591Z",
   "scope": "US healthcare",
   "retentionDays": 90,
   "maxArticles": 500,
   "sourceHealth": {
     "totalSources": 9,
-    "staleSources": 3,
-    "healthySources": 6,
+    "staleSources": 5,
+    "healthySources": 4,
     "sources": [
       {
         "source": "Fierce Healthcare",
-        "articleCount": 223,
-        "latestPublishedAt": "2026-10-12T00:00:00.000Z",
-        "staleHours": 21,
+        "articleCount": 233,
+        "latestPublishedAt": "2026-10-13T00:00:00.000Z",
+        "staleHours": 2,
         "status": "ok"
       },
       {
         "source": "Becker's Hospital Review",
-        "articleCount": 119,
+        "articleCount": 120,
         "latestPublishedAt": "2026-10-12T00:00:00.000Z",
-        "staleHours": 21,
+        "staleHours": 26,
         "status": "ok"
       },
       {
         "source": "STAT News",
-        "articleCount": 64,
+        "articleCount": 56,
         "latestPublishedAt": "2026-10-10T00:00:00.000Z",
-        "staleHours": 69,
-        "status": "ok"
+        "staleHours": 74,
+        "status": "stale"
       },
       {
         "source": "Federal Register - HHS",
         "articleCount": 50,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": -3,
-        "status": "ok"
-      },
-      {
-        "source": "Healthcare Dive",
-        "articleCount": 16,
-        "latestPublishedAt": "2026-10-12T00:00:00.000Z",
-        "staleHours": 21,
+        "staleHours": 2,
         "status": "ok"
       },
       {
         "source": "Federal Register - FDA",
         "articleCount": 14,
         "latestPublishedAt": "2026-10-09T00:00:00.000Z",
-        "staleHours": 93,
+        "staleHours": 98,
         "status": "stale"
+      },
+      {
+        "source": "Healthcare Dive",
+        "articleCount": 13,
+        "latestPublishedAt": "2026-10-12T00:00:00.000Z",
+        "staleHours": 26,
+        "status": "ok"
       },
       {
         "source": "FDA MedWatch RSS",
         "articleCount": 6,
         "latestPublishedAt": "2026-10-10T00:00:00.000Z",
-        "staleHours": 69,
-        "status": "ok"
+        "staleHours": 74,
+        "status": "stale"
       },
       {
         "source": "Federal Register - CMS",
         "articleCount": 5,
         "latestPublishedAt": "2026-10-08T00:00:00.000Z",
-        "staleHours": 117,
+        "staleHours": 122,
         "status": "stale"
       },
       {
         "source": "SEC Healthcare Filings",
         "articleCount": 3,
         "latestPublishedAt": "2026-10-09T00:00:00.000Z",
-        "staleHours": 93,
+        "staleHours": 98,
         "status": "stale"
       }
     ]
@@ -76,11 +76,11 @@
   "categoryCoverage": {
     "closures_layoffs": {
       "label": "Closures & Layoffs",
-      "count": 9
+      "count": 10
     },
     "mergers_mna": {
       "label": "Mergers & M&A",
-      "count": 21
+      "count": 20
     },
     "labor_unions": {
       "label": "Labor & Unions",
@@ -88,7 +88,7 @@
     },
     "policy_reimbursement": {
       "label": "Policy & Reimbursement",
-      "count": 102
+      "count": 103
     },
     "quality_safety": {
       "label": "Quality & Safety",
@@ -96,15 +96,15 @@
     },
     "capacity_expansion": {
       "label": "Capacity & Expansion",
-      "count": 15
+      "count": 14
     },
     "ai_tech": {
       "label": "AI & Digital Tech",
-      "count": 150
+      "count": 151
     },
     "general_market": {
       "label": "General Market",
-      "count": 191
+      "count": 190
     }
   },
   "quality": {
@@ -120,7 +120,7 @@
       },
       "minArticles24h": {
         "threshold": 20,
-        "actual": 51,
+        "actual": 31,
         "pass": true
       },
       "minRequiredCategoriesCovered": {
@@ -130,7 +130,7 @@
       },
       "maxStaleSources": {
         "threshold": 2,
-        "actual": 3,
+        "actual": 5,
         "pass": false
       }
     }
@@ -206,6 +206,240 @@
       "publishedAt": "2026-10-13",
       "category": "ai_tech",
       "relevance": 100,
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Alignment Healthcare sues CMS over its 2027 Medicare Advantage star ratings",
+      "url": "https://www.fiercehealthcare.com/payers/alignment-healthcare-sues-cms-over-its-2027-medicare-advantage-star-ratings",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "Alignment Healthcare sued federal regulators, alleging that its 2027 Medicare Advantage star ratings were determined \"in flagrant violation\" of statute.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "Google unveils new Fitbit Edge tracker as tech giant expands health monitoring ambitions",
+      "url": "https://www.fiercehealthcare.com/health-tech/google-unveils-new-fitbit-edge-tracker-tech-giant-expands-health-monitoring-ambitions",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "The new device also builds on Google’s health tracking ambitions by combining advanced health sensors with AI-powered insights designed to identify changes in a user’s health and translate those signals into personalized guidance.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Marsh survey examines how health systems are managing capital, investment strategies",
+      "url": "https://www.fiercehealthcare.com/finance/marsh-survey-examines-how-health-orgs-are-managing-capital-investment-strategies",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "Forty-three percent of respondents report expecting to draw on reserves in 2026, up from 37% the year prior.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Trump administration proposes new $70,000 fee for F-1 student visa workers",
+      "url": "https://www.fiercehealthcare.com/regulatory/trump-administration-proposes-new-70000-fee-f-1-student-visa-workers",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "The proposed monetary barrier on hiring foreign students would further narrow the path to employment at hospitals and health systems.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "The strategic shift reshaping payment integrity",
+      "url": "https://www.fiercehealthcare.com/sponsored/strategic-shift-reshaping-payment-integrity",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "Claris Health CEO Michael Axt examines how payers can turn payment integrity into a more connected, strategic capability. Listen to the interview to learn more.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "IDR Costs Nobody Budgeted For: 3 Problems Payers Keep Hitting",
+      "url": "https://www.fiercehealthcare.com/sponsored/healthcare-dive-idr-math-nobody-budgeted",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "Payers keep hitting the same three out-of-network problems. Here's why pricing, not arbitration, decides what IDR really costs.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Rep. Pallone introduces bill replacing No Surprises Act's arbitration process",
+      "url": "https://www.fiercehealthcare.com/regulatory/rep-pallone-introduces-bill-replacing-no-surprises-acts-arbitration-process",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "One of the No Surprises Act’s chief authors wants to replace the \"broken\" system for settling out-of-network pay disputes with market-based benchmarks.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Oracle Health data breach in 2025 compromised data of 20M people: report",
+      "url": "https://www.fiercehealthcare.com/health-tech/oracle-health-data-breach-2025-compromised-data-20m-people-report",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "In a report issued October 2, the Texas attorney general said the company disclosed that Social Security numbers, addresses and medical information of almost 20 million people, including about 3 million Texans, Bloomberg reported.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Industry Voices—Why health system CFOs can't budget their way out of coverage disruption",
+      "url": "https://www.fiercehealthcare.com/finance/industry-voices-why-health-system-cfos-cant-budget-their-way-out-coverage-disruption",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "Semi-annual redeterminations and work requirements will test payer-mix assumptions across the industry over the next two years. Now is the time for health systems to prepare, writes Ensemble SVP Matthew Ennen.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Fierce Healthcare Regulatory Recap: CMS releases 2027 MA star ratings; HHS awards $28M for falls prevention",
+      "url": "https://www.fiercehealthcare.com/regulatory/fierce-healthcare-regulatory-recap-cms-releases-2027-ma-star-ratings-hhs-launches",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "The latest news from CMS, HHS and more across Washington, D.C.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "Weekly Rundown: Nextech taps Assort Health, EliseAI for agentic AI; Elsevier rolls out clinical AI tool for nurses",
+      "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-hhs-awards-15m-ai-projects-arcadia-launches-portfolio-solutions",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "The latest news from Nextech, Assort Health, EliseAI, Elsevier, Arcadia, Solera Health and more.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Humana rebounds, Aetna slips: Winners and losers in the 2027 MA star ratings",
+      "url": "https://www.fiercehealthcare.com/payers/humana-rebounds-aetna-slips-winners-and-losers-2027-ma-star-ratings",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "Federal regulators released the hotly anticipated star ratings for the 2027 Medicare Advantage plan year, and winners and losers emerged in the data.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
+    },
+    {
+      "title": "Abridge, University of Texas System enter enterprise-wide agreement for expanded AI-enabled care",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/abridge-university-texas-system-enter-enterprise-wide-agreement-expanded-ai",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "The partnership establishes a systemwide framework for the eight UT health institutions to access Abridge.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Hospital industry sues to block HHS' 340B rebate pilot (again)",
+      "url": "https://www.fiercehealthcare.com/providers/hospital-industry-files-lawsuit-block-hhs-340b-rebate-pilot-again",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "The American Hospital Association and others have launched a legal rematch with the federal government over the second iteration of a pilot program swapping out safety-net hospitals’ upfront drug discounts for after-the-fact rebates.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "Urban hospitals face closure rates similar to rural facilities, study finds",
+      "url": "https://www.fiercehealthcare.com/providers/hospital-closures-accelerated-2010-rates-similar-among-rural-urban-facilities",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "There were 432 acute hospital closures and 216 openings across the country from 2010 through 2025, with the former accelerating over time and the latter slowing, according to a new study. Closure rates were statistically similar between rural and urban hospitals, and generally increased among safety net facilities and for-profits.",
+      "category": "closures_layoffs",
+      "categoryLabel": "Closures & Layoffs"
+    },
+    {
+      "title": "Little room for stakeholder consensus among potential Medicare Advantage reforms",
+      "url": "https://www.fiercehealthcare.com/regulatory/look-stakeholder-perspectives-medicare-advantage-reform",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "A survey of 52 experts spanning researchers, the Medicare Advantage industry, patient advocates and policymakers wasn't able to identify a single policy proposal that would be received wholeheartedly by all three groups.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "CMS: About 71% of MAPD plan enrollees in coverage with four or more stars for 2027",
+      "url": "https://www.fiercehealthcare.com/payers/cms-about-71-mapd-plan-enrollees-coverage-four-or-more-stars-2027",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "The Trump administration has released the 2027 Medicare Advantage star ratings, with many enrollees in plans that earned at least four stars.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "HHS launches 4 new vaccine injury research, reporting initiatives",
+      "url": "https://www.fiercehealthcare.com/regulatory/hhs-launches-4-new-vaccine-injury-research-reporting-initiatives",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "The U.S.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "HHS: 340B 'expanded beyond its original intent,' incentivizes consolidation",
+      "url": "https://www.fiercehealthcare.com/regulatory/hhs-340b-expanded-beyond-its-original-intent-incentivizes-consolidation",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "A new brief lays out the administration's views and critiques of the controversial hospital subsidy program, and includes a data analysis suggesting that a proposed reimbursement cut will limit spending growth.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "Chutes & Ladders—WellSpan, Beth Israel Lahey unveil next CEOs",
+      "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "'Blue Conspiracy'—Michigan attorney general hits BCBSM with antitrust suit",
+      "url": "https://www.fiercehealthcare.com/payers/michigan-ag-hits-bcbsm-antitrust-suit",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "Michigan Attorney General Dana Nessel has filed suit against Blue Cross Blue Shield of Michigan, alleging that the insurer operated as a monopoly in the state.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Fierce Healthcare Fundraising Tracker '26: Outro clinches $7M for deprescribing; Rightway pulls in $155M to expand pharmacy benefits tech",
+      "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "Keep up with all the venture capital dollars being funneled into the health tech and digital health industries.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Suki launches ‘Ask’ feature for clinical decision support driven by Wolters Kluwer UpToDate AI API",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/suki-launches-ask-feature-clinical-decision-support-driven-wolters-kluwer",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "Ask integrates evidence-based clinical reasoning directly into workflows and can provide answers grounded in UpToDate’s proprietary content.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Healthleap banks $38M for AI screening platform that catches undiagnosed conditions",
+      "url": "https://www.fiercehealthcare.com/finance/healthleap-banks-38m-funding-backed-sequoia-capital-first-round-capital-and-hummingbird",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "Healthleap says its platform is the first and only validated AI malnutrition screening tool that contains EHR-integrated screening layers, executives say.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "PhRMA launches new legal challenge as CMS brings 'most favored nation' pricing to Medicare Part B",
+      "url": "https://www.fiercehealthcare.com/pharma/phrma-launches-new-legal-challenge-cms-brings-most-favored-nation-pricing-medicare-part-b",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "As the Trump administration advances plans to bring its “most favored nation” drug pricing model to Medicare Part B, the pharmaceutical industry’s top lobbying group is pushing back in court.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "18 physician residency programs launching or expanding in 2026",
+      "url": "https://www.beckershospitalreview.com/physician-workforce/4-new-physician-residency-programs/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-12",
+      "summary": "Numerous hospitals and health systems have announced new or expanded physician residency programs in 2026 to broaden training opportunities for medical students and strengthen their market&#8217;s pipeline of future physicians. Below are 18 hospitals and health systems launching, announcing or restructuring programs in 2026.",
+      "category": "ai_tech",
       "categoryLabel": "AI & Digital Tech"
     },
     {
@@ -4253,18 +4487,6 @@
       "categoryLabel": "Policy & Reimbursement"
     },
     {
-      "title": "Infusion Set Recall: BD and CareFusion 303, Inc. Remove BD Alaris Pump Infusion Sets",
-      "summary": "BD Alaris Pump Infusion Sets are being removed and discontinued; Alaris Pump Module model 8100 has updated performance data",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-set-recall-bd-and-carefusion-303-inc-remove-bd-alaris-pump-infusion-sets",
-      "source": "FDA MedWatch RSS",
-      "sourceType": "rss",
-      "sourceId": "fda_medwatch_rss",
-      "publishedAt": "2026-10-05",
-      "category": "general_market",
-      "relevance": 100,
-      "categoryLabel": "General Market"
-    },
-    {
       "title": "IV Tubing Set Correction: ICU Medical Updates Use Instructions for IV Tubing Sets",
       "summary": "Black specks and particulate reported in drip chambers of certain ICU Medical IV tubing sets does not affect device safety, performance, or intended use.",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/iv-tubing-set-correction-icu-medical-updates-use-instructions-iv-tubing-sets",
@@ -4275,6 +4497,18 @@
       "category": "ai_tech",
       "relevance": 100,
       "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Infusion Set Recall: BD and CareFusion 303, Inc. Remove BD Alaris Pump Infusion Sets",
+      "summary": "BD Alaris Pump Infusion Sets are being removed and discontinued; Alaris Pump Module model 8100 has updated performance data",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-set-recall-bd-and-carefusion-303-inc-remove-bd-alaris-pump-infusion-sets",
+      "source": "FDA MedWatch RSS",
+      "sourceType": "rss",
+      "sourceId": "fda_medwatch_rss",
+      "publishedAt": "2026-10-05",
+      "category": "general_market",
+      "relevance": 100,
+      "categoryLabel": "General Market"
     },
     {
       "title": "Advisory Council on Alzheimer's Research, Care, and Services; Meeting",
@@ -4635,240 +4869,6 @@
       "summary": "Vaxcyte said its experimental pneumococcal vaccine hit the primary endpoints in a Phase 3 clinical trial, setting up the biotech to compete with Pfizer and Merck.",
       "category": "ai_tech",
       "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Could we one day vaccinate against every cancer?",
-      "url": "https://www.statnews.com/2026/10/05/health-news-could-we-one-day-vaccinate-against-every-cancer/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-05",
-      "summary": "What science says so far about which cancers can be beat by vaccines — and which will require more creative approaches.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "2026 Nobel Prize in Medicine awarded for brain research tool called optogenetics",
-      "url": "https://www.statnews.com/2026/10/05/nobel-prize-medicine-2026-winner-deisseroth-hegemann-nagel/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-05",
-      "summary": "Karl Deisseroth, Peter Hegemann, and Georg Nagel are the joint recipients of the 2026 Nobel Prize in Physiology or Medicine “for their discoveries concerning light-gated ion channels and optogenetics,...",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "STAT+: Are stem cells the next peptides? These advocates think RFK Jr. could make it happen",
-      "url": "https://www.statnews.com/2026/10/05/stem-cell-industry-seeks-fda-regulation-like-peptides/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-05",
-      "summary": "Peptides gained legitimacy at the FDA after being embraced by MAHA. Advocates hope stem cell treatments will follow the same path.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Opinion: Will Claude ever win a Nobel Prize for medicine?",
-      "url": "https://www.statnews.com/2026/10/05/could-ai-win-nobel-prize-medicine/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-05",
-      "summary": "“Are we entering a world in which some (or all) Nobels will be awarded to Claude, ChatGPT, or their AI successors, rather than human scientists?” asks Jeffrey Flier.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "STAT+: Divergent trial results on cancer vaccines have the field grappling with hard questions",
-      "url": "https://www.statnews.com/2026/10/05/cancer-vaccines-mrna-clinical-trials/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-05",
-      "summary": "A melanoma vaccine succeeded in a late-stage clinical trial. The question now is whether other cancer vaccines will work — and whether mRNA is up to the task.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "STAT+: Hospital and pharmaceutical prices are smothering America’s businesses",
-      "url": "https://www.statnews.com/2026/10/05/hospital-bills-drug-prices-insurance-premiums-spiral-part-5-out-of-pocket-series/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-05",
-      "summary": "Workers and employers are drowning in their health insurance premiums. The reason for that deluge: the health care industry’s high and inscrutable prices.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Opinion: Energy drinks’ new college sports partnerships make them more dangerous than ever",
-      "url": "https://www.statnews.com/2026/10/05/energy-drinks-public-health-college-sports-partnerships-research/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-05",
-      "summary": "“In the absence of population-based evidence, the energy drink cabal is having an easy time of it,” writes Kent Sepkowitz.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Trump pledges to send $90 Medicare Part B rebates to seniors",
-      "url": "https://www.healthcaredive.com/news/trump-medicare-part-b-premium-rebate-pledge/832100/",
-      "source": "Healthcare Dive",
-      "publishedAt": "2026-10-05",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Why patient access problems are workflow problems",
-      "url": "https://www.healthcaredive.com/spons/why-patient-access-problems-are-workflow-problems/831721/",
-      "source": "Healthcare Dive",
-      "publishedAt": "2026-10-05",
-      "summary": "<p>Patient access problems often start with fragmented workflows, not staffing alone.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "The real opportunity for agentic AI in health insurance",
-      "url": "https://www.healthcaredive.com/spons/the-real-opportunity-for-agentic-ai-in-health-insurance/831573/",
-      "source": "Healthcare Dive",
-      "publishedAt": "2026-10-05",
-      "summary": "<p>The health insurance industry does not simply need another point solution. It needs the connective tissue that allows existing investments to collaborate.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "White House to dispense Part B rebates to more than 20M enrollees",
-      "url": "https://www.fiercehealthcare.com/regulatory/white-house-dispense-part-b-rebates-more-20m-enrollees",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "On the heels of news that the White House would offer rebates to nearly 1 million people enrolled in Affordable Care Act plans, the Trump administration said Monday that it will pay out $90 rebates to more than 20 million Medicare Part B enrollees.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "iRhythm acquires VitalConnect in $237.5M all-cash deal",
-      "url": "https://www.fiercehealthcare.com/finance/irhythm-acquires-vitalconnect-2375m-all-cash-deal",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "iRhythm provides end-to-end cardiac monitoring services while VitalConnect’s monitoring platform supports multiple modalities.",
-      "category": "mergers_mna",
-      "categoryLabel": "Mergers & M&A"
-    },
-    {
-      "title": "Independence Blue Cross to pay $22.5M in Medicare Advantage inaccurate diagnoses allegations settlement",
-      "url": "https://www.fiercehealthcare.com/regulatory/independence-blue-cross-pay-225m-medicare-advantage-inaccurate-diagnoses-allegations",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "The settlement resolves allegations from 2017 to 2021 that the company submitted “inaccurate and untruthful” diagnoses data to CMS.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Datavant, ID.me partner on digital identity verification for medical records",
-      "url": "https://www.fiercehealthcare.com/health-tech/datavant-idme-partner-digital-identity-verification-medical-records",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "Datavant has teamed up with ID.me to streamline medical records requests, enabling patients to verify their identities digitally and access records faster.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "The Hidden Cost of Fragmented Provider Data: A shared provider data foundation, finally within reach.",
-      "url": "https://www.fiercehealthcare.com/sponsored/hidden-cost-fragmented-provider-data",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "Fragmented provider data compounds costs, provider burden, and member access gaps in Medicaid. Learn why shared infrastructure matters.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Hospital and pharmaceutical prices are smothering America’s businesses",
-      "url": "https://www.statnews.com/2026/10/05/hospital-bills-drug-prices-insurance-premiums-spiral-part-5-out-of-pocket-series/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-05",
-      "summary": "Workers and employers are drowning in their health insurance premiums. The reason for that deluge: the health care industry’s high and inscrutable prices.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "How Optum, Owensboro Health teamed up to build a virtual nursing program",
-      "url": "https://www.fiercehealthcare.com/payers/how-optum-owensboro-health-teamed-build-virtual-nursing-program",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "Owensboro Health is teaming up with Optum Insight to pair bedside nurses with virtual nurses to free up frontline clinicians to dedicate more time to patient care.",
-      "category": "capacity_expansion",
-      "categoryLabel": "Capacity & Expansion"
-    },
-    {
-      "title": "HRSA names 10 drugmakers for revised 340B rebate pilot ahead of 2027 launch",
-      "url": "https://www.fiercehealthcare.com/regulatory/hrsa-announces-drugmakers-products-revised-340b-rebate-pilot",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "The list of approved participants and drugs is larger than the controversial pilot's first attempted launch. It comes the same day that CMS launched a soon-to-be-mandatory data repository for Part D 340B claim submissions.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "MultiCare Health System to launch new health plan",
-      "url": "https://www.fiercehealthcare.com/payers/multicare-health-system-launch-new-health-plan",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "The plan will be available to Medicare-eligible patients in Washington state’s Pierce, Thurston and Spokane counties, the organization says.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Industry Voices—Transforming primary care requires precision and orchestration",
-      "url": "https://www.fiercehealthcare.com/providers/industry-voices-transforming-primary-care-requires-precision-and-orchestration",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "The next era of primary care will require intelligence that moves directly into the workflow, writes Sentara Health's head of ambulatory care.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Weekly Rundown: Duke University launches digital twin program; Welldoc unveils AI-powered care loop",
-      "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-yosi-health-integrates-scheduling-intake-google-services-grindr-acquires",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "The latest news from Yosi Health, Grindr, K Health, Welldoc, Duke University and more.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "WVU Health System closes acquisition of 5-hospital Independence Health System",
-      "url": "https://www.fiercehealthcare.com/providers/western-pennylvanias-independence-health-system-join-wvu-health-system-2026",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "The deal grows the West Virginia University Health System to more than $10 billion annual total operating revenue.",
-      "category": "mergers_mna",
-      "categoryLabel": "Mergers & M&A"
-    },
-    {
-      "title": "RFK Jr.'s AI claims spark physician backlash as debate over medical AI intensifies",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/doctors-push-back-after-rfk-jr-turns-heat-debate-over-ais-role-medicine",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "Robert F. Kennedy Jr.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "SCAN unveils 2027 MA slate, including launch of co-branded Costco plans",
-      "url": "https://www.fiercehealthcare.com/payers/scan-unveils-2027-ma-slate-including-launch-co-branded-costco-plans",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "SCAN Health Plan has unveiled its product offerings for the 2027 plan year, and the slate includes the first launch in its partnership with Costco.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "AKASA debuts autonomous AI platform for inpatient medical coding and clinical documentation",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/akasa-debuts-autonomous-ai-platform-inpatient-medical-coding-cdi",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "Health tech company AKASA is pushing deeper into AI-powered revenue cycle workflows, launching an autonomous AI platform for inpatient medical coding and clinical documentation integrity.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "HHS awards nearly $250M in addiction treatment, overdose prevention grants",
-      "url": "https://www.fiercehealthcare.com/regulatory/hhs-awards-nearly-250m-addiction-treatment-overdose-prevention-grants",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-05",
-      "summary": "Projects supported include those to strengthen mental health support in schools, expand trauma treatment for families and children and more.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
     }
   ]
 }

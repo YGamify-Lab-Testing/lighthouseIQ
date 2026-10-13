@@ -43,6 +43,76 @@
       "silent_signal_flag": false
     },
     {
+      "notice_id": "58a626be656141a7",
+      "state": "CA",
+      "employer_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (74 N. Pasadena Ave.)",
+      "parent_system": "Kaiser Foundation Hospitals and Kaiser Foundation Health",
+      "facility_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (74 N. Pasadena Ave.)",
+      "notice_date": "2026-11-05",
+      "effective_date": "2026-13-04",
+      "lead_time_days": null,
+      "expected_lead_days": null,
+      "early_warning": false,
+      "nursing_score": 0,
+      "silent_signal_flag": false
+    },
+    {
+      "notice_id": "8f8e5df44030ba8f",
+      "state": "CA",
+      "employer_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (393 E. Walnut St.)",
+      "parent_system": "Kaiser Foundation Hospitals and Kaiser Foundation Health",
+      "facility_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (393 E. Walnut St.)",
+      "notice_date": "2026-11-05",
+      "effective_date": "2026-13-04",
+      "lead_time_days": null,
+      "expected_lead_days": null,
+      "early_warning": false,
+      "nursing_score": 0,
+      "silent_signal_flag": false
+    },
+    {
+      "notice_id": "904726431df1cfb0",
+      "state": "CA",
+      "employer_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
+      "parent_system": "Kaiser Foundation Hospitals and Kaiser Foundation Health",
+      "facility_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
+      "notice_date": "2026-11-05",
+      "effective_date": "2026-13-04",
+      "lead_time_days": null,
+      "expected_lead_days": null,
+      "early_warning": false,
+      "nursing_score": 0,
+      "silent_signal_flag": false
+    },
+    {
+      "notice_id": "904726431df1cfb0",
+      "state": "CA",
+      "employer_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
+      "parent_system": "Kaiser Foundation Hospitals and Kaiser Foundation Health",
+      "facility_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
+      "notice_date": "2026-11-05",
+      "effective_date": "2026-13-04",
+      "lead_time_days": null,
+      "expected_lead_days": null,
+      "early_warning": false,
+      "nursing_score": 0,
+      "silent_signal_flag": false
+    },
+    {
+      "notice_id": "904726431df1cfb0",
+      "state": "CA",
+      "employer_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
+      "parent_system": "Kaiser Foundation Hospitals and Kaiser Foundation Health",
+      "facility_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
+      "notice_date": "2026-11-05",
+      "effective_date": "2026-13-04",
+      "lead_time_days": null,
+      "expected_lead_days": null,
+      "early_warning": false,
+      "nursing_score": 0,
+      "silent_signal_flag": false
+    },
+    {
       "notice_id": "6d2e6ec23d3aed7d",
       "state": "MN",
       "employer_name": "Lake Crystal Pharmacy Lake Crystal Health Care/Social Assist",
@@ -197,6 +267,6 @@
       "silent_signal_flag": false
     }
   ],
-  "count": 14,
-  "lastUpdated": "2026-10-12T21:45:53.900Z"
+  "count": 19,
+  "lastUpdated": "2026-10-13T02:55:45.739Z"
 }
