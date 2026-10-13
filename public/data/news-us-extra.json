@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T10:19:04.133Z",
+  "lastUpdated": "2026-10-13T18:09:43.425Z",
   "scope": "US healthcare",
   "sourceManifestVersion": "1.0.0",
   "sourceHealth": [
@@ -268,6 +268,28 @@
       "publishedAt": "2026-10-13",
       "category": "ai_tech",
       "relevance": 100
+    },
+    {
+      "title": "RNs in Tennessee, Arizona, Illinois, and California file petitions for union elections",
+      "summary": "Registered nurses across the country continue to build our union movement, asserting our collective power against a profit-driven health care system and a corporate-aligned federal government. CNA/NNOC announced today that nurses at four hospitals – which in total employ 4,500 nurses and serve more than 1.7 million patients annually – filed petitions over the past week with the National Labor Relations Board (NLRB) for union elections.",
+      "url": "https://www.nationalnursesunited.org/press/rns-in-tennessee-arizona-illinois-and-california-file-petitions-for-union-elections",
+      "source": "National Nurses United RSS",
+      "sourceType": "rss",
+      "sourceId": "nnu_rss",
+      "publishedAt": "2026-10-13",
+      "category": "labor_unions",
+      "relevance": 100
+    },
+    {
+      "title": "Convenience Kit Recall: Medline Removes Convenience Kits Affected by BD ChloraPrep Applicator Recall",
+      "summary": "Certain Medline convenience kits containing recalled BD ChloraPrep applicators should be removed from use due to potential fungal contamination",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-medline-removes-convenience-kits-affected-bd-chloraprep-applicator-recall",
+      "source": "FDA MedWatch RSS",
+      "sourceType": "rss",
+      "sourceId": "fda_medwatch_rss",
+      "publishedAt": "2026-10-13",
+      "category": "quality_safety",
+      "relevance": 98
     },
     {
       "title": "UNH 8-K filing - UnitedHealth Group Incorporated",
@@ -842,9 +864,9 @@
       "relevance": 100
     },
     {
-      "title": "Convenience Kit Correction: Becton Dickinson Issues Correction for Kits and Procedure Trays Containing Recalled Sodium Chloride Ampules",
-      "summary": "BD is correcting convenience kits and procedural trays containing recalled Huons Co. sodium chloride ampules",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-becton-dickinson-issues-correction-kits-and-procedure-trays-containing",
+      "title": "Heart Pump Controller Recall: Abiomed Removes Automated Impella Controllers",
+      "summary": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -853,9 +875,9 @@
       "relevance": 98
     },
     {
-      "title": "Heart Pump Controller Recall: Abiomed Removes Automated Impella Controllers",
-      "summary": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers",
+      "title": "Convenience Kit Correction: Becton Dickinson Issues Correction for Kits and Procedure Trays Containing Recalled Sodium Chloride Ampules",
+      "summary": "BD is correcting convenience kits and procedural trays containing recalled Huons Co. sodium chloride ampules",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-becton-dickinson-issues-correction-kits-and-procedure-trays-containing",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -897,9 +919,9 @@
       "relevance": 100
     },
     {
-      "title": "Otsuka ICU Medical LLC Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection, USP Due To a Product Mix-up with 10 mEq Potassium Chloride Injection",
-      "summary": "Otsuka ICU Medical LLC is issuing a voluntary recall for one lot of 0.9% SODIUM CHLORIDE Injection, USP, 100mL single pack to the user level due to a potential mix-up. The affected lot of 0.9% SODIUM CHLORIDE Injection, USP (NDC: 0990-7984-23 Lot 1042188) may potentially contain the overwrap with la",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/otsuka-icu-medical-llc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-due",
+      "title": "Convenience Kit Correction: AVID Medical Issues Correction for Kits Containing Huons Sodium Chloride Ampules",
+      "summary": "AVID Medical is correcting convenience kits containing recalled Huons Co. sodium chloride ampules.",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-huons-sodium-chloride",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -919,9 +941,9 @@
       "relevance": 100
     },
     {
-      "title": "Convenience Kit Correction: AVID Medical Issues Correction for Kits Containing Huons Sodium Chloride Ampules",
-      "summary": "AVID Medical is correcting convenience kits containing recalled Huons Co. sodium chloride ampules.",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-huons-sodium-chloride",
+      "title": "Otsuka ICU Medical LLC Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection, USP Due To a Product Mix-up with 10 mEq Potassium Chloride Injection",
+      "summary": "Otsuka ICU Medical LLC is issuing a voluntary recall for one lot of 0.9% SODIUM CHLORIDE Injection, USP, 100mL single pack to the user level due to a potential mix-up. The affected lot of 0.9% SODIUM CHLORIDE Injection, USP (NDC: 0990-7984-23 Lot 1042188) may potentially contain the overwrap with la",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/otsuka-icu-medical-llc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-due",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -1014,17 +1036,6 @@
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
       "publishedAt": "2026-09-15",
-      "category": "quality_safety",
-      "relevance": 98
-    },
-    {
-      "title": "Centric Compounding Issues Nationwide Recall of Glutathione, Myer’s Cocktail, and Tri-Immune Boost Due to Elevated Endotoxin Levels",
-      "summary": "FOR IMMEDIATE RELEASE – 9/9/2026 – Houston, Texas, Centric Compounding is voluntarily recalling 6 lots of Glutathione 200mg/mL, Myer’s Cocktail, and Tri-Immune Boost injectable vials to the consumer level. The products have been found to be compounded with a Glutathione API containing elevated endot",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/centric-compounding-issues-nationwide-recall-glutathione-myers-cocktail-and-tri-immune-boost-due",
-      "source": "FDA MedWatch RSS",
-      "sourceType": "rss",
-      "sourceId": "fda_medwatch_rss",
-      "publishedAt": "2026-09-13",
       "category": "quality_safety",
       "relevance": 98
     },
@@ -1392,6 +1403,28 @@
       "relevance": 100
     },
     {
+      "title": "Read more about Trump Administration Announces New Funding to Support Rural Healthcare Workers and Expand Maternal Care Across Missouri",
+      "summary": "",
+      "url": "https://www.cms.gov/newsroom/press-releases/trump-administration-announces-new-funding-support-rural-healthcare-workers-expand-maternal-care",
+      "source": "CMS Newsroom",
+      "sourceType": "html",
+      "sourceId": "cms_newsroom",
+      "publishedAt": "",
+      "category": "policy_reimbursement",
+      "relevance": 100
+    },
+    {
+      "title": "Read more about Trump Administration Announces More Than $177 Million to Recruit Rural Healthcare Workers, Expand Mobile Care, and Modernize Services Across Nebraska",
+      "summary": "",
+      "url": "https://www.cms.gov/newsroom/press-releases/trump-administration-announces-more-177-million-recruit-rural-healthcare-workers-expand-mobile-care",
+      "source": "CMS Newsroom",
+      "sourceType": "html",
+      "sourceId": "cms_newsroom",
+      "publishedAt": "",
+      "category": "policy_reimbursement",
+      "relevance": 100
+    },
+    {
       "title": "Read more about Trump Administration Announces $37.7 Million to Train and Recruit More Rural Healthcare Workers Across Louisiana",
       "summary": "",
       "url": "https://www.cms.gov/newsroom/press-releases/trump-administration-announces-37-7-million-train-recruit-more-rural-healthcare-workers-across",
@@ -1700,17 +1733,6 @@
       "relevance": 100
     },
     {
-      "title": "Governor Newsom fails Californians by refusing to sign law protecting nurses who challenge unsafe A.I.",
-      "summary": "Governor Gavin Newsom's veto of AB 2575 gives hospital corporations a green light to discipline nurses who override unsafe artificial intelligence (A.I.) to protect their patients, enabling tech companies to blame health care workers when tech products cause harm.",
-      "url": "https://www.nationalnursesunited.org/press/governor-newsom-fails-californians-by-refusing-to-sign-ai-protection-law",
-      "source": "National Nurses United RSS",
-      "sourceType": "rss",
-      "sourceId": "nnu_rss",
-      "publishedAt": "",
-      "category": "ai_tech",
-      "relevance": 100
-    },
-    {
       "title": "Save Healthcare Services",
       "summary": "",
       "url": "https://www.nysna.org/campaigns/save-healthcare-services",
@@ -1777,17 +1799,6 @@
       "relevance": 98
     },
     {
-      "title": "FTC Publishes Proposed 2027 Budget for Horseracing Integrity and Safety Authority",
-      "summary": "",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-publishes-proposed-2027-budget-horseracing-integrity-safety-authority",
-      "source": "FTC Press Releases",
-      "sourceType": "html",
-      "sourceId": "ftc_press_releases",
-      "publishedAt": "",
-      "category": "quality_safety",
-      "relevance": 98
-    },
-    {
       "title": "Adirondack Medical Center Nurses Hold First Picket in 25 Years",
       "summary": "",
       "url": "https://www.nysna.org/news/adirondack-medical-center-nurses-hold-first-picket-25-years",
@@ -1797,17 +1808,6 @@
       "publishedAt": "",
       "category": "labor_unions",
       "relevance": 98
-    },
-    {
-      "title": "Read more about Transparency in Coverage Final Rules (CMS 9882-F)",
-      "summary": "",
-      "url": "https://www.cms.gov/newsroom/fact-sheets/transparency-coverage-final-rules-cms-9882-f",
-      "source": "CMS Newsroom",
-      "sourceType": "html",
-      "sourceId": "cms_newsroom",
-      "publishedAt": "",
-      "category": "policy_reimbursement",
-      "relevance": 97
     },
     {
       "title": "Vulnerability Disclosure Policy",
@@ -2316,6 +2316,17 @@
       "relevance": 93
     },
     {
+      "title": "View all Competition Matters Blog posts",
+      "summary": "",
+      "url": "https://www.ftc.gov/enforcement/competition-matters",
+      "source": "FTC Press Releases",
+      "sourceType": "html",
+      "sourceId": "ftc_press_releases",
+      "publishedAt": "",
+      "category": "mergers_mna",
+      "relevance": 93
+    },
+    {
       "title": "Journal of the New York State Nurses Association",
       "summary": "",
       "url": "https://www.nysna.org/nursing-resources/journal-new-york-state-nurses-association",
@@ -2580,9 +2591,9 @@
       "relevance": 88
     },
     {
-      "title": "NYSNA Update: October 2, 2026",
+      "title": "NYSNA Update: October 9, 2026",
       "summary": "",
-      "url": "https://www.nysna.org/newsletters/nysna-update-october-2-2026",
+      "url": "https://www.nysna.org/newsletters/nysna-update-october-9-2026",
       "source": "NYSNA RSS",
       "sourceType": "rss",
       "sourceId": "nysna_rss",

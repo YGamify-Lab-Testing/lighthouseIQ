@@ -10,7 +10,7 @@
     "touchedMetros": 0
   },
   "summary": {
-    "runAt": "2026-10-13T10:16:40.786Z",
+    "runAt": "2026-10-13T18:04:47.377Z",
     "okCount": 12,
     "staleCount": 3,
     "missingCount": 0,
@@ -18,19 +18,19 @@
       {
         "file": "hospital-rankings.json",
         "timestamp": "2026-05-08T06:11:43.705Z",
-        "ageDays": 158.17,
+        "ageDays": 158.5,
         "maxAgeDays": 31
       },
       {
         "file": "rural-closures.json",
         "timestamp": "2026-02-10T00:00:00.000Z",
-        "ageDays": 245.43,
+        "ageDays": 245.76,
         "maxAgeDays": 120
       },
       {
         "file": "relocation.json",
         "timestamp": "2026-02-09T01:57:41Z",
-        "ageDays": 246.35,
+        "ageDays": 246.68,
         "maxAgeDays": 120
       }
     ],

@@ -1,126 +1,131 @@
 {
-  "lastUpdated": "2026-10-13T10:19:04.203Z",
+  "lastUpdated": "2026-10-13T18:09:43.500Z",
   "scope": "US healthcare",
   "retentionDays": 90,
   "maxArticles": 500,
   "sourceHealth": {
-    "totalSources": 9,
-    "staleSources": 3,
-    "healthySources": 6,
+    "totalSources": 10,
+    "staleSources": 2,
+    "healthySources": 8,
     "sources": [
       {
         "source": "Fierce Healthcare",
-        "articleCount": 233,
+        "articleCount": 239,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 10,
+        "staleHours": 18,
         "status": "ok"
       },
       {
         "source": "Becker's Hospital Review",
-        "articleCount": 120,
-        "latestPublishedAt": "2026-10-12T00:00:00.000Z",
-        "staleHours": 34,
+        "articleCount": 115,
+        "latestPublishedAt": "2026-10-13T00:00:00.000Z",
+        "staleHours": 18,
         "status": "ok"
       },
       {
         "source": "STAT News",
-        "articleCount": 54,
+        "articleCount": 61,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 10,
+        "staleHours": 18,
         "status": "ok"
       },
       {
         "source": "Federal Register - HHS",
-        "articleCount": 50,
+        "articleCount": 36,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 10,
+        "staleHours": 18,
+        "status": "ok"
+      },
+      {
+        "source": "Healthcare Dive",
+        "articleCount": 17,
+        "latestPublishedAt": "2026-10-13T00:00:00.000Z",
+        "staleHours": 18,
         "status": "ok"
       },
       {
         "source": "Federal Register - FDA",
         "articleCount": 14,
         "latestPublishedAt": "2026-10-09T00:00:00.000Z",
-        "staleHours": 106,
+        "staleHours": 114,
         "status": "stale"
-      },
-      {
-        "source": "Healthcare Dive",
-        "articleCount": 13,
-        "latestPublishedAt": "2026-10-12T00:00:00.000Z",
-        "staleHours": 34,
-        "status": "ok"
       },
       {
         "source": "FDA MedWatch RSS",
-        "articleCount": 6,
-        "latestPublishedAt": "2026-10-10T00:00:00.000Z",
-        "staleHours": 82,
-        "status": "stale"
+        "articleCount": 7,
+        "latestPublishedAt": "2026-10-13T00:00:00.000Z",
+        "staleHours": 18,
+        "status": "ok"
       },
       {
         "source": "SEC Healthcare Filings",
         "articleCount": 5,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 10,
+        "staleHours": 18,
         "status": "ok"
       },
       {
         "source": "Federal Register - CMS",
         "articleCount": 5,
         "latestPublishedAt": "2026-10-08T00:00:00.000Z",
-        "staleHours": 130,
+        "staleHours": 138,
         "status": "stale"
+      },
+      {
+        "source": "National Nurses United RSS",
+        "articleCount": 1,
+        "latestPublishedAt": "2026-10-13T00:00:00.000Z",
+        "staleHours": 18,
+        "status": "ok"
       }
     ]
   },
   "categoryCoverage": {
     "closures_layoffs": {
       "label": "Closures & Layoffs",
-      "count": 10
+      "count": 8
     },
     "mergers_mna": {
       "label": "Mergers & M&A",
-      "count": 20
+      "count": 22
     },
     "labor_unions": {
       "label": "Labor & Unions",
-      "count": 2
+      "count": 4
     },
     "policy_reimbursement": {
       "label": "Policy & Reimbursement",
-      "count": 103
+      "count": 104
     },
     "quality_safety": {
       "label": "Quality & Safety",
-      "count": 10
+      "count": 7
     },
     "capacity_expansion": {
       "label": "Capacity & Expansion",
-      "count": 14
+      "count": 13
     },
     "ai_tech": {
       "label": "AI & Digital Tech",
-      "count": 148
+      "count": 150
     },
     "general_market": {
       "label": "General Market",
-      "count": 193
+      "count": 192
     }
   },
   "quality": {
-    "status": "warning",
-    "failedChecks": [
-      "maxStaleSources"
-    ],
+    "status": "pass",
+    "failedChecks": [],
     "checks": {
       "minUniqueSources": {
         "threshold": 8,
-        "actual": 9,
+        "actual": 10,
         "pass": true
       },
       "minArticles24h": {
         "threshold": 20,
-        "actual": 36,
+        "actual": 65,
         "pass": true
       },
       "minRequiredCategoriesCovered": {
@@ -130,8 +135,8 @@
       },
       "maxStaleSources": {
         "threshold": 2,
-        "actual": 3,
-        "pass": false
+        "actual": 2,
+        "pass": true
       }
     }
   },
@@ -209,6 +214,30 @@
       "categoryLabel": "AI & Digital Tech"
     },
     {
+      "title": "RNs in Tennessee, Arizona, Illinois, and California file petitions for union elections",
+      "summary": "Registered nurses across the country continue to build our union movement, asserting our collective power against a profit-driven health care system and a corporate-aligned federal government. CNA/NNOC announced today that nurses at four hospitals – which in total employ 4,500 nurses and serve more than 1.7 million patients annually – filed petitions over the past week with the National Labor Relations Board (NLRB) for union elections.",
+      "url": "https://www.nationalnursesunited.org/press/rns-in-tennessee-arizona-illinois-and-california-file-petitions-for-union-elections",
+      "source": "National Nurses United RSS",
+      "sourceType": "rss",
+      "sourceId": "nnu_rss",
+      "publishedAt": "2026-10-13",
+      "category": "labor_unions",
+      "relevance": 100,
+      "categoryLabel": "Labor & Unions"
+    },
+    {
+      "title": "Convenience Kit Recall: Medline Removes Convenience Kits Affected by BD ChloraPrep Applicator Recall",
+      "summary": "Certain Medline convenience kits containing recalled BD ChloraPrep applicators should be removed from use due to potential fungal contamination",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-medline-removes-convenience-kits-affected-bd-chloraprep-applicator-recall",
+      "source": "FDA MedWatch RSS",
+      "sourceType": "rss",
+      "sourceId": "fda_medwatch_rss",
+      "publishedAt": "2026-10-13",
+      "category": "ai_tech",
+      "relevance": 98,
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
       "title": "UNH 8-K filing - UnitedHealth Group Incorporated",
       "summary": "UnitedHealth Group Incorporated filed 8-K with the SEC.",
       "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000255/unh-20261013.htm",
@@ -230,6 +259,159 @@
       "publishedAt": "2026-10-13",
       "category": "general_market",
       "relevance": 85,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "UnitedHealth reports $4.1B in profit, launches AI recommendations for Medicare Advantage plans",
+      "url": "https://www.beckershospitalreview.com/finance/unitedhealth-reports-4-1b-in-profit-launches-ai-recommendations-for-medicare-advantage-plans/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-13",
+      "summary": "UnitedHealth Group reported $4.1 billion in profit for the third quarter of 2026, up 75% year over year, according to an Oct.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "Orlando Health in final stages of demolishing former Steward hospital",
+      "url": "https://www.beckershospitalreview.com/finance/orlando-health-in-final-stages-of-demolishing-former-steward-hospital/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-13",
+      "summary": "Orlando (Fla.) Health is in the final stages of its demolition plan at its shuttered Rockledge (Fla.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Inspira Health CEO to retire; successor named",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/inspira-health-ceo-to-retire-successor-named/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-13",
+      "summary": "Amy Mansue plans to retire at the end of 2026 as CEO of Mullica Hill, N.J.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "CommonSpirit Texas hospital names CEO",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/commonspirit-texas-hospital-names-ceo/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-13",
+      "summary": "Cody Barnhart was named CEO of CommonSpirit – St. Luke’s Hospital – Brazosport in Lake Jackson, Texas, in October, according to his LinkedIn profile.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "HCA Florida hospital names COO",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/hca-florida-hospital-names-coo-11/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-13",
+      "summary": "Brock Aberle has been appointed COO of HCA Florida University Hospital in Davie. In his new role, Mr.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Joint Commission names 1st nurse COO in its 75-year history",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/joint-commission-names-1st-nurse-coo-in-its-75-year-history/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-13",
+      "summary": "Ken Grubbs, DNP, RN, has been named COO of the Joint Commission, making him the first nurse to hold the role in the organization’s 75-year history. The Joint Commission announced the leadership appointment Oct.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Humana strikes $2.8B CenterWell senior clinic deal with BlackRock",
+      "url": "https://www.beckershospitalreview.com/hospital-transactions-and-valuation/humana-strikes-2-8b-centerwell-senior-clinic-deal-with-blackrock/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-13",
+      "summary": "Humana has agreed to form a new joint venture with investment management firm BlackRock to own and operate nearly 150 CenterWell Senior Primary Care clinics, replacing CenterWell’s existing joint ventures with private equity firm Welsh, Carson, Anderson &#38; Stowe.&#160; Funds and accounts managed by HPS Investment Partners, part of BlackRock, will acquire Welsh Carson’s equity [&#8230;] The post Humana strikes $2.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
+    },
+    {
+      "title": "Medical supply company owner gets 14 years in $30M telehealth scheme",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/telehealth/medical-supply-company-owner-gets-14-years-in-30m-telehealth-scheme/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-13",
+      "summary": "Mark Loftis, a Cushing, Okla.-based chiropractor and medical supply company owner, has been sentenced to 14 years in prison for a telemedicine-driven scheme that billed federal health programs more than $30 million for durable medical equipment that beneficiaries did not want or need.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "2 deaths reported to FDA after people took products claiming to be Eli Lilly&#8217;s retatrutide: Report",
+      "url": "https://www.beckershospitalreview.com/glp-1s/2-deaths-reported-to-fda-after-people-took-products-claiming-to-be-eli-lillys-retatrutide-report/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-13",
+      "summary": "The FDA has received reports in recent months that two people died after taking illicit products claiming to be retatrutide, Eli Lilly&#8217;s experimental weight loss drug, according to FDA documents reviewed by CBS News in an Oct. 13 report.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "12 revenue cycle leaders on the traits a resume can’t show",
+      "url": "https://www.beckershospitalreview.com/finance/revenue-cycle-management/12-revenue-cycle-leaders-on-the-traits-a-resume-cant-show/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-13",
+      "summary": "Ask a Revenue Cycle Leader is a new series featuring insights from health system and hospital revenue cycle executives nationwide. Becker’s poses questions on the most pressing issues in healthcare finance — from payer relations and automation to workforce and patient experience.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "STAT+: Many patient, consumer reps on FDA advisory panels have ties to groups funded by pharma, analysis finds",
+      "url": "https://www.statnews.com/pharmalot/2026/10/13/many-patient-and-consumer-reps-on-fda-advisory-committees-ties-to-groups-funded-by-pharma/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-13",
+      "summary": "Nearly 40% of FDA advisory committee meetings over a 20-year period included either a patient or consumer rep with active ties to an advocacy group funded by pharma companies.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: Animosity in North Carolina, and MA shooting stars",
+      "url": "https://www.statnews.com/2026/10/13/animosity-in-north-carolina-and-ma-shooting-stars-health-care-inc/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-13",
+      "summary": "In this edition of Health Care Inc., we examine the controversy around the health plan covering North Carolina's public workers and retirees, and more.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: Doctors are giving generously to doctors running for office",
+      "url": "https://www.statnews.com/2026/10/13/health-policy-news-doctor-donations-maha-midterms/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-13",
+      "summary": "Doctors have a lot on the line in the next couple years, and they are donating big to doctors running for political office.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: FTC demands Martin Shkreli divest his pharma stocks",
+      "url": "https://www.statnews.com/2026/10/13/martin-shkreli-pharma-bro-ftc-contempt-stock-trades/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-13",
+      "summary": "The FTC asked a federal court to hold Martin Shkreli in contempt for violating a court order banning him from working in the pharmaceutical industry",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We&#8217;re reading about concerns over a rare disease drug, pharma payments to docs, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/10/13/neurocrine-rare-disease-drug-concerns-pharma-payments-to-doctors/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-13",
+      "summary": "Patient advocates and some experts are expressing growing alarm over the perceived risks of a Neurocrine Biosciences rare disease drug",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: Takeaways from an evaluation of Google&#8217;s diagnostic chatbot, AMIE",
+      "url": "https://www.statnews.com/2026/10/13/google-amie-diagnostic-chatbot-study-lancet-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-13",
+      "summary": "In this edition of STAT Health Tech: A look at a study recently published in The Lancet about Google's diagnostic chatbot, AMIE.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "How many ways can the Trump administration clamp down on international researchers?",
+      "url": "https://www.statnews.com/2026/10/13/health-news-trump-admin-clamps-down-on-international-researchers/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-13",
+      "summary": "In the span of two days last week, the Trump administration issued two sweeping announcements meant to crack down on international students and scholars, who make up a sizable portion&#8230;",
+      "category": "general_market",
       "categoryLabel": "General Market"
     },
     {
@@ -258,6 +440,96 @@
       "summary": "“Hordes of brilliant, graduate-degree-holding professionals in their 40s, 50s, and beyond act helpless at work,” writes STAT columnist Frances Mei Hardin.",
       "category": "general_market",
       "categoryLabel": "General Market"
+    },
+    {
+      "title": "Humana enters $2.8B primary care joint venture with BlackRock",
+      "url": "https://www.healthcaredive.com/news/humana-enters-28b-primary-care-joint-venture-with-blackrock/832872/",
+      "source": "Healthcare Dive",
+      "publishedAt": "2026-10-13",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
+    },
+    {
+      "title": "Suki raises $90M in Series E round to create AI agents",
+      "url": "https://www.healthcaredive.com/news/suki-raises-90m-in-series-e-round-to-create-ai-agents/832862/",
+      "source": "Healthcare Dive",
+      "publishedAt": "2026-10-13",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Alignment sues CMS over 2027 Medicare Advantage star ratings crash",
+      "url": "https://www.healthcaredive.com/news/alignment-lawsuit-2027-medicare-advantage-star-ratings-cms/832774/",
+      "source": "Healthcare Dive",
+      "publishedAt": "2026-10-13",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "UnitedHealth eyes Medicare Advantage opportunities, bolstered by Q3 profit growth",
+      "url": "https://www.healthcaredive.com/news/unitedhealth-q3-2026-profits-soar-medicare-advantage-strategy/832827/",
+      "source": "Healthcare Dive",
+      "publishedAt": "2026-10-13",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "UnitedHealth Group execs detail continued improvements at Optum Health",
+      "url": "https://www.fiercehealthcare.com/payers/unitedhealth-group-beats-street-41b-profit-q3",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "Another round of healthcare industry earnings reports kicked off Tuesday morning, with UnitedHealth Group reporting $4.1 billion in profit for the third quarter.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "UNMC, Nebraska Medicine teaching hospital project upgrades to $2.75B planned investment",
+      "url": "https://www.fiercehealthcare.com/hospitals/unmc-nebraska-medicine-teaching-hospital-project-upgrades-275b-planned-investment",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "The project’s new scope reflects an approximate $500 million increase from its initial estimate.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Chutes & Ladders—Joint Commission names COO; Beth Israel Lahey unveils next CEO",
+      "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Samaritan Health Services, MultiCare Health System merger to close Nov. 1",
+      "url": "https://www.fiercehealthcare.com/providers/samaritan-health-services-join-multicare-health-system",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "The affiliation approved by the nonprofits' boards will create an 18-hospital system with more than $7.5 billion in revenue—and give MultiCare an acute-care foothold in Oregon.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
+    },
+    {
+      "title": "Humana, BlackRock strike $2.8B deal to manage CenterWell clinics",
+      "url": "https://www.fiercehealthcare.com/payers/humana-blackrock-strike-28b-deal-manage-centerwell-clinics",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "Humana will enter into a joint venture with investment firm BlackRock to manage and operate its CenterWell primary care clinics for seniors, swapping out its current partner Welsh, Carson, Anderson &amp; Stowe.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
+    },
+    {
+      "title": "Brigham and Women's nurses postpone open-ended strike",
+      "url": "https://www.fiercehealthcare.com/providers/brigham-and-womens-nurses-authorize-open-ended-strike",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-13",
+      "summary": "With contract talks stalled since August, unionized Mass General Brigham employees had voted 93% in favor of a 4,000-nurse demonstration that could've become the largest in Massachusetts history.",
+      "category": "labor_unions",
+      "categoryLabel": "Labor & Unions"
     },
     {
       "title": "Alignment Healthcare sues CMS over its 2027 Medicare Advantage star ratings",
@@ -4572,309 +4844,6 @@
       "category": "general_market",
       "relevance": 100,
       "categoryLabel": "General Market"
-    },
-    {
-      "title": "Center for Scientific Review; Amended Notice of Meeting",
-      "summary": "",
-      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20370/center-for-scientific-review-amended-notice-of-meeting",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-05",
-      "category": "general_market",
-      "relevance": 96,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Center for Scientific Review; Amended Notice of Meeting",
-      "summary": "",
-      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20368/center-for-scientific-review-amended-notice-of-meeting",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-05",
-      "category": "general_market",
-      "relevance": 96,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Center for Scientific Review; Notice of Closed Meetings",
-      "summary": "",
-      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20366/center-for-scientific-review-notice-of-closed-meetings",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-05",
-      "category": "general_market",
-      "relevance": 96,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
-      "summary": "This notice announces the intention of the Agency for Healthcare Research and Quality (AHRQ) to request that the Office of Management and Budget (OMB) approve the extension without change of the previously approved information collection project \"Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery\" (0935- 0179). This information collection was previously published in the Federal Register on July 30, 2026, and allowed 60 days for public comment. AHRQ did not receive any comments. The purpose of this notice is to allow an additional 30 days for public comment.",
-      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20361/agency-information-collection-activities-proposed-collection-comment-request",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-05",
-      "category": "quality_safety",
-      "relevance": 100,
-      "categoryLabel": "Quality & Safety"
-    },
-    {
-      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
-      "summary": "This notice announces the intention of the Agency for Healthcare Research and Quality (AHRQ) to request that the Office of Management and Budget (OMB) approve the revision of a currently approved information collection project \"AHRQ Consumer Assessment of Healthcare Providers and Systems (CAHPS) Database for Health Plans\" (OMB No. 0935-0165). This information collection was previously published in the Federal Register on July 30, 2028, and allowed 60 days for public comment. AHRQ did not receive any comments. The purpose of this notice is to allow an additional 30 days for public comment.",
-      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20357/agency-information-collection-activities-proposed-collection-comment-request",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-05",
-      "category": "quality_safety",
-      "relevance": 100,
-      "categoryLabel": "Quality & Safety"
-    },
-    {
-      "title": "Center For Scientific Review; Notice of Closed Meetings",
-      "summary": "",
-      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20365/center-for-scientific-review-notice-of-closed-meetings",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-05",
-      "category": "general_market",
-      "relevance": 96,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Submission for Office of Management and Budget Review; Federal Case Registry",
-      "summary": "The Office of Child Support Enforcement (OCSE), Administration for Children and Families (ACF), is requesting a three-year extension of the Federal Case Registry (FCR) (Office of Management and Budget (OMB) # 0970-0421, expiration November 30, 2026) There are no changes requested to the FGR.",
-      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20363/submission-for-office-of-management-and-budget-review-federal-case-registry",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-05",
-      "category": "general_market",
-      "relevance": 96,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Proposed Data Collection Submitted for Public Comment and Recommendations",
-      "summary": "The Centers for Disease Control and Prevention (CDC), as part of its continuing effort to reduce public burden and maximize the utility of government information, invites the general public and other federal agencies the opportunity to comment on a continuing information collection, as required by the Paperwork Reduction Act of 1995. This notice invites comment on a proposed information collection project titled Respiratory Protective Devices--42 CFR 84. The purpose of this data collection is to enable 42 CFR part 84 respirator approval certification activities.",
-      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20348/proposed-data-collection-submitted-for-public-comment-and-recommendations",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-05",
-      "category": "general_market",
-      "relevance": 100,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Proposed Data Collection Submitted for Public Comment and Recommendations",
-      "summary": "The Centers for Disease Control and Prevention (CDC), as part of its continuing effort to reduce public burden and maximize the utility of government information, invites the general public and other federal agencies the opportunity to comment on a proposed information collection, as required by the Paperwork Reduction Act of 1995. This notice invites comment on a proposed information collection project titled Public Health Crisis Response (PHCR) Cooperative Agreement. The Public Health Crisis Response (PHCR) Cooperative Agreement provides rapid funding to help existing public health programs respond to major public health emergencies and crises.",
-      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20344/proposed-data-collection-submitted-for-public-comment-and-recommendations",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-05",
-      "category": "mergers_mna",
-      "relevance": 100,
-      "categoryLabel": "Mergers & M&A"
-    },
-    {
-      "title": "Submission for Office of Management and Budget Review; Mental Health Assessment Form and Onsite Health Intervention Form",
-      "summary": "The Administration for Children and Families (ACF) Office of Refugee Resettlement (ORR) is requesting a 3-year extension with changes of the Mental Health Assessment Form and Onsite Health Intervention Form (formerly Public Health Investigation Form: Non-TB Illness, and Public Health Investigation Form: Active TB, OMB #0970- 0509, expiration 9/30/2026). Proposed revisions include merging two forms (Public Health Investigation Forms, Active TB and Non-TB Illness) into the single Onsite Health Intervention (OHI) Form. The proposed restructuring and revisions will improve transparency, lessen burden, improve data quality, and ensure alignment with ORR requirements. In addition, to ensure continuity of care, the request has been revised to include the sharing of health information with the Department of Homeland Security (DHS) in specific circumstances.",
-      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20314/submission-for-office-of-management-and-budget-review-mental-health-assessment-form-and-onsite",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-05",
-      "category": "quality_safety",
-      "relevance": 100,
-      "categoryLabel": "Quality & Safety"
-    },
-    {
-      "title": "Agency Forms Undergoing Paperwork Reduction Act Review",
-      "summary": "",
-      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20351/agency-forms-undergoing-paperwork-reduction-act-review",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-05",
-      "category": "general_market",
-      "relevance": 96,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Agency Forms Undergoing Paperwork Reduction Act Review",
-      "summary": "",
-      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20346/agency-forms-undergoing-paperwork-reduction-act-review",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-05",
-      "category": "general_market",
-      "relevance": 96,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Reforming Federal Reporting and Assessments in Child Welfare",
-      "summary": "ACF proposes to remove regulations that implement title IV-B of the Social Security Act (the Act) because they are outdated and refer to dates that have passed, have been superseded by subsequent amendments to the Act, duplicate or restate requirements already in title IV-B of the Act or other Federal law, and/or impose administrative and reporting requirements on agencies that do not meaningfully support Federal program oversight and administration of title IV-B programs. Four of these regulatory requirements are redesignated to the regulations addressing titles IV-E and IV-B plan requirements. ACF also proposes to remove the regulation that articulates the principles of child and family services reviews because it does not prescribe any requirements that states and tribes must follow, but rather provides unenforceable recommendations, and to remove redundant cross-references.",
-      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20329/reforming-federal-reporting-and-assessments-in-child-welfare",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-05",
-      "category": "general_market",
-      "relevance": 96,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Center For Scientific Review; Notice of Closed Meetings",
-      "summary": "",
-      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20284/center-for-scientific-review-notice-of-closed-meetings",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-05",
-      "category": "general_market",
-      "relevance": 96,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Intermountain exits Colorado care network joint venture with UCHealth",
-      "url": "https://www.beckershospitalreview.com/finance/intermountain-exits-colorado-care-network-joint-venture-with-uchealth/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-05",
-      "summary": "Salt Lake City-based Intermountain Health is exiting Trinsic, a Colorado clinically integrated network it operates as a joint venture with Aurora, Colo.-based UCHealth, with UCHealth taking over the network after Dec.",
-      "category": "mergers_mna",
-      "categoryLabel": "Mergers & M&A"
-    },
-    {
-      "title": "11th XenVision AI Kiosk Installed at Jacksonville Spine Clinic",
-      "url": "https://www.beckershospitalreview.com/care-coordination/11th-xenvision-ai-kiosk-installed-at-jacksonville-spine-clinic/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-05",
-      "summary": "A Jacksonville, Florida.-based neurosurgery practice has become the 11th U.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "AHA: Medicare Advantage prior auth keeps discharge-ready patients in acute care beds",
-      "url": "https://www.beckershospitalreview.com/finance/aha-medicare-advantage-prior-auth-keeps-discharge-ready-patients-in-acute-care-beds/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-05",
-      "summary": "Medicare Advantage beneficiaries use less post-acute care and stay longer in acute care hospitals than their fee-for-service counterparts, preliminary findings from the Medicare Payment Advisory Commission show, and the American Hospital Association is pointing to prior authorization as the reason. The AHA sent comments to MedPAC responding to the commission&#8217;s September discussion of post-acute care [&#8230;] The post AHA: Medicare Advantage prior auth keeps discharge-ready patients in acute care beds appeared first on Becker&#039;s Hospital Review | Healthcare News & Analysis.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Carle Health taps technology chief from Renown",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/carle-health-taps-technology-chief-from-renown/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-05",
-      "summary": "Steven Ramirez, former chief information security and technology officer of Reno, Nev.-based Renown Health, has joined Urbana, Ill.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "10 most in-demand physician specialties",
-      "url": "https://www.beckershospitalreview.com/quality/hospital-physician-relationships/10-most-in-demand-physician-specialties-2/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-05",
-      "summary": "Hematology/oncology is the most in-demand physician specialty when ranked by job openings relative to workforce size, according to AMN Healthcare&#8217;s 2026 Review of Physician and Advanced Practitioner Recruiting Incentives released Sept. 16.",
-      "category": "capacity_expansion",
-      "categoryLabel": "Capacity & Expansion"
-    },
-    {
-      "title": "Providence, MultiCare to pay $155.5M to settle alleged unnecessary spine surgery lawsuits",
-      "url": "https://www.beckershospitalreview.com/legal-regulatory-issues/providence-multicare-to-pay-155-5m-to-settle-spine-surgery-lawsuits/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-05",
-      "summary": "Providence and MultiCare Health System have agreed to pay a combined $155.5 million to settle two class-action lawsuits brought by former patients of Jason Dreyer, DO, a neurosurgeon accused of performing unnecessary spine surgeries to boost his productivity, according to court documents reviewed by Becker&#8217;s.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "The C-suite blind spot only 27 hospitals have addressed",
-      "url": "https://www.beckershospitalreview.com/workforce/the-c-suite-blind-spot-only-27-hospitals-have-addressed/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-05",
-      "summary": "Advanced practice providers are projected to make up 50% of the employed clinician workforce nationwide by 2033, Britney Broyhill, DNP, ACNP-BC, vice president of advanced practice for the North Carolina and Georgia division at Charlotte, N.C.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Novant Health pivots from urgent to virtual care",
-      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/digital-health/novant-health-pivots-from-urgent-to-virtual-care/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-05",
-      "summary": "Winston-Salem, N.C.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "BJC regional president to retire",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/bjc-regional-president-to-retire/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-05",
-      "summary": "Bob Cannon, president of St. Louis-based BJC Health&#8217;s East Region, plans to retire April 1.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "CMS finalizes price transparency overhaul for payers: 6 things to know",
-      "url": "https://www.beckershospitalreview.com/finance/cms-finalizes-price-transparency-overhaul-for-payers-6-things-to-know/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-05",
-      "summary": "The Trump administration is overhauling federal price transparency rules for payers and self-insured employers, including cutting so-called &#8220;ghost rates,&#8221; expanding out-of-network price disclosures and requiring executives to vouch for the accuracy of the data. The final rule, released Oct.",
-      "category": "closures_layoffs",
-      "categoryLabel": "Closures & Layoffs"
-    },
-    {
-      "title": "CMS flags rising costs, payment delays in No Surprises Act arbitration: 5 notes",
-      "url": "https://www.beckershospitalreview.com/finance/cms-flags-rising-costs-payment-delays-in-no-surprises-act-arbitration-5-notes/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-05",
-      "summary": "CMS is raising concerns about growing costs and payment problems in the federal independent dispute resolution process created by the No Surprises Act. The agency met with every certified independent dispute resolution entity Oct.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "University of Miami Health System taps UChicago Medicine exec as associate CFO",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/university-of-miami-health-system-taps-uchicago-medicine-exec-as-associate-cfo/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-05",
-      "summary": "Phillip Kaufman has been named associate CFO of University of Miami Health System and the University of Miami Leonard M. Miller School of Medicine, according to an Oct.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "UPMC&#8217;s program that closes the &#8216;white space&#8217; in care",
-      "url": "https://www.beckershospitalreview.com/post-acute/upmcs-program-that-closes-the-white-space-in-care/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-05",
-      "summary": "UPMC has launched a new home care program, UPMC Your Care, designed to fill the gaps between traditional care settings and home. &#8220;Sometimes our biggest opportunity isn&#8217;t inside the hospital or the physician&#8217;s office; it&#8217;s closing the space between transitions of care,&#8221; Jennifer Vennare, DNP, RN, vice president of population health and president of UPMC [&#8230;] The post UPMC&#8217;s program that closes the &#8216;white space&#8217; in care appeared first on Becker&#039;s Hospital Review | Healthcare News & Analysis.",
-      "category": "closures_layoffs",
-      "categoryLabel": "Closures & Layoffs"
-    },
-    {
-      "title": "Why WVU Medicine runs its health plan as a cost center",
-      "url": "https://www.beckershospitalreview.com/finance/why-wvu-medicine-runs-its-health-plan-as-a-cost-center/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-05",
-      "summary": "Most health systems that build insurance arms aim to generate margin. Morgantown, W.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "What AI KPIs should CEOs track? 6 health system leaders weigh in",
-      "url": "https://www.beckershospitalreview.com/hospital-management-administration/what-ai-kpis-should-ceos-track-6-health-system-leaders-weigh-in/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-05",
-      "summary": "Health systems are spending heavily on AI, but proving what it delivers remains a challenge. Only 4% of systems have scaled AI with measurable outcomes, and 4 in 5 IT leaders struggle to measure AI&#8217;s return, according to an April report from Qventus.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
     }
   ]
 }
