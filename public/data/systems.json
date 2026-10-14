@@ -89,7 +89,7 @@
       "states": [
         "MN"
       ],
-      "last_notice_date": "2026-10-14T18:22:23.913Z"
+      "last_notice_date": "2026-10-14T22:06:48.074Z"
     },
     {
       "system_name": "Sibley- Suburban Home Health Agency, Inc. d/b/a Potomac Home Health Care",
@@ -270,7 +270,7 @@
       "states": [
         "MN"
       ],
-      "last_notice_date": "2026-10-14T18:22:23.913Z"
+      "last_notice_date": "2026-10-14T22:06:48.074Z"
     },
     {
       "system_name": "Mayo Clinic Le Sueur 2023 Le Sueur Health",
@@ -279,7 +279,7 @@
       "states": [
         "MN"
       ],
-      "last_notice_date": "2026-10-14T18:22:23.913Z"
+      "last_notice_date": "2026-10-14T22:06:48.074Z"
     },
     {
       "system_name": "Long Term Care Unit - Northfield Hospital Northfield Health",
@@ -288,7 +288,7 @@
       "states": [
         "MN"
       ],
-      "last_notice_date": "2026-10-14T18:22:23.913Z"
+      "last_notice_date": "2026-10-14T22:06:48.074Z"
     },
     {
       "system_name": "ProMedica Hospice 2023 Toledo Health",
@@ -297,7 +297,7 @@
       "states": [
         "MN"
       ],
-      "last_notice_date": "2026-10-14T18:22:23.913Z"
+      "last_notice_date": "2026-10-14T22:06:48.074Z"
     },
     {
       "system_name": "The Good Clinic-Metro Area 2023 Minneapolis Health",
@@ -306,7 +306,7 @@
       "states": [
         "MN"
       ],
-      "last_notice_date": "2026-10-14T18:22:23.913Z"
+      "last_notice_date": "2026-10-14T22:06:48.074Z"
     },
     {
       "system_name": "U of M Practitioner Clinic 2024 Minneapolis Health",
@@ -315,7 +315,7 @@
       "states": [
         "MN"
       ],
-      "last_notice_date": "2026-10-14T18:22:23.913Z"
+      "last_notice_date": "2026-10-14T22:06:48.074Z"
     },
     {
       "system_name": "River's Edge Hospital child center 2024 St Peter Health",
@@ -324,7 +324,7 @@
       "states": [
         "MN"
       ],
-      "last_notice_date": "2026-10-14T18:22:23.913Z"
+      "last_notice_date": "2026-10-14T22:06:48.074Z"
     },
     {
       "system_name": "PrimeSource Health Care",
@@ -505,7 +505,7 @@
       "states": [
         "IN"
       ],
-      "last_notice_date": "2026-10-14T18:21:53.914Z"
+      "last_notice_date": "2026-10-14T22:06:11.775Z"
     },
     {
       "system_name": "Hickory Creek Healthcare",
@@ -545,13 +545,22 @@
       "last_notice_date": "2005-09-02"
     },
     {
+      "system_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health",
+      "total_notices": 3,
+      "total_affected": 4,
+      "states": [
+        "CA"
+      ],
+      "last_notice_date": "2026-11-05"
+    },
+    {
       "system_name": "Meadow Lane Healthcare",
       "total_notices": 1,
       "total_affected": 28,
       "states": [
         "MN"
       ],
-      "last_notice_date": "2026-10-14T18:22:23.913Z"
+      "last_notice_date": "2026-10-14T22:06:48.074Z"
     },
     {
       "system_name": "Lakewood Health System",
@@ -560,7 +569,7 @@
       "states": [
         "MN"
       ],
-      "last_notice_date": "2026-10-14T18:22:23.913Z"
+      "last_notice_date": "2026-10-14T22:06:48.074Z"
     },
     {
       "system_name": "Lake Region Healthcare",
@@ -569,7 +578,7 @@
       "states": [
         "MN"
       ],
-      "last_notice_date": "2026-10-14T18:22:23.913Z"
+      "last_notice_date": "2026-10-14T22:06:48.074Z"
     },
     {
       "system_name": "Health Care",
@@ -578,7 +587,7 @@
       "states": [
         "MI"
       ],
-      "last_notice_date": "2026-10-14T18:21:54.739Z"
+      "last_notice_date": "2026-10-14T22:06:12.348Z"
     },
     {
       "system_name": "Pourlessoins, LLC d/b/a Synergy Health Services and Zomleben, LLC d/b/a Synergy Healthcare",
@@ -662,6 +671,6 @@
       "last_notice_date": "2003-10-27"
     }
   ],
-  "count": 73,
-  "lastUpdated": "2026-10-14T18:25:02.891Z"
+  "count": 74,
+  "lastUpdated": "2026-10-14T22:11:05.526Z"
 }

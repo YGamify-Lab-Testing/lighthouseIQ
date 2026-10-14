@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T18:29:47.312Z",
+  "lastUpdated": "2026-10-14T22:13:22.605Z",
   "scope": "US healthcare",
   "sourceManifestVersion": "1.0.0",
   "sourceHealth": [
@@ -2066,17 +2066,6 @@
       "title": "CMS issues first report on states spending Rural Health Transformation Program funding",
       "summary": "",
       "url": "https://www.aha.org/news/headline/2026-10-09-cms-issues-first-report-states-spending-rural-health-transformation-program-funding",
-      "source": "AHA News",
-      "sourceType": "html",
-      "sourceId": "aha_news",
-      "publishedAt": "",
-      "category": "policy_reimbursement",
-      "relevance": 96
-    },
-    {
-      "title": "Senate passes Health Care Cybersecurity and Resilience Act",
-      "summary": "",
-      "url": "https://www.aha.org/news/headline/2026-10-05-senate-passes-health-care-cybersecurity-and-resilience-act",
       "source": "AHA News",
       "sourceType": "html",
       "sourceId": "aha_news",

@@ -261,8 +261,8 @@
       "total_affected": 120,
       "avg_affected": 120,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-14T18:22:23.913Z",
-      "last_notice_date": "2026-10-14T18:22:23.913Z",
+      "first_notice_date": "2026-10-14T22:06:48.074Z",
+      "last_notice_date": "2026-10-14T22:06:48.074Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -1521,8 +1521,8 @@
       "total_affected": 30,
       "avg_affected": 30,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-14T18:22:23.913Z",
-      "last_notice_date": "2026-10-14T18:22:23.913Z",
+      "first_notice_date": "2026-10-14T22:06:48.074Z",
+      "last_notice_date": "2026-10-14T22:06:48.074Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -1539,8 +1539,8 @@
       "total_affected": 0,
       "avg_affected": 0,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-14T18:22:23.913Z",
-      "last_notice_date": "2026-10-14T18:22:23.913Z",
+      "first_notice_date": "2026-10-14T22:06:48.074Z",
+      "last_notice_date": "2026-10-14T22:06:48.074Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -1557,8 +1557,8 @@
       "total_affected": 3,
       "avg_affected": 3,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-14T18:22:23.913Z",
-      "last_notice_date": "2026-10-14T18:22:23.913Z",
+      "first_notice_date": "2026-10-14T22:06:48.074Z",
+      "last_notice_date": "2026-10-14T22:06:48.074Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -1575,8 +1575,8 @@
       "total_affected": 3,
       "avg_affected": 3,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-14T18:22:23.913Z",
-      "last_notice_date": "2026-10-14T18:22:23.913Z",
+      "first_notice_date": "2026-10-14T22:06:48.074Z",
+      "last_notice_date": "2026-10-14T22:06:48.074Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -1593,8 +1593,8 @@
       "total_affected": 1,
       "avg_affected": 1,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-14T18:22:23.913Z",
-      "last_notice_date": "2026-10-14T18:22:23.913Z",
+      "first_notice_date": "2026-10-14T22:06:48.074Z",
+      "last_notice_date": "2026-10-14T22:06:48.074Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -1611,8 +1611,8 @@
       "total_affected": 1,
       "avg_affected": 1,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-14T18:22:23.913Z",
-      "last_notice_date": "2026-10-14T18:22:23.913Z",
+      "first_notice_date": "2026-10-14T22:06:48.074Z",
+      "last_notice_date": "2026-10-14T22:06:48.074Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -1629,8 +1629,8 @@
       "total_affected": 1,
       "avg_affected": 1,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-14T18:22:23.913Z",
-      "last_notice_date": "2026-10-14T18:22:23.913Z",
+      "first_notice_date": "2026-10-14T22:06:48.074Z",
+      "last_notice_date": "2026-10-14T22:06:48.074Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -2710,7 +2710,7 @@
       "avg_affected": 59,
       "avg_lead_time_days": 73,
       "first_notice_date": "2014-04-15",
-      "last_notice_date": "2026-10-14T18:21:53.914Z",
+      "last_notice_date": "2026-10-14T22:06:11.775Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 1,
@@ -2863,6 +2863,24 @@
       }
     },
     {
+      "employer_id": "CA:kaiser-foundation-hospitals-and-kaiser-foundation-health",
+      "employer_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
+      "parent_system": "Kaiser Foundation Hospitals and Kaiser Foundation Health",
+      "state": "CA",
+      "total_notices": 3,
+      "total_affected": 4,
+      "avg_affected": 1,
+      "avg_lead_time_days": null,
+      "first_notice_date": "2026-11-05",
+      "last_notice_date": "2026-11-05",
+      "quarter_counts": {
+        "Q1": 0,
+        "Q2": 0,
+        "Q3": 0,
+        "Q4": 3
+      }
+    },
+    {
       "employer_id": "MN:meadow-lane-healthcare",
       "employer_name": "Meadow Lane Healthcare 2023 Benson Health/Social Assist",
       "parent_system": "Meadow Lane Healthcare",
@@ -2871,8 +2889,8 @@
       "total_affected": 28,
       "avg_affected": 28,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-14T18:22:23.913Z",
-      "last_notice_date": "2026-10-14T18:22:23.913Z",
+      "first_notice_date": "2026-10-14T22:06:48.074Z",
+      "last_notice_date": "2026-10-14T22:06:48.074Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -2889,8 +2907,8 @@
       "total_affected": 1,
       "avg_affected": 1,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-14T18:22:23.913Z",
-      "last_notice_date": "2026-10-14T18:22:23.913Z",
+      "first_notice_date": "2026-10-14T22:06:48.074Z",
+      "last_notice_date": "2026-10-14T22:06:48.074Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -2907,8 +2925,8 @@
       "total_affected": 9,
       "avg_affected": 9,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-14T18:22:23.913Z",
-      "last_notice_date": "2026-10-14T18:22:23.913Z",
+      "first_notice_date": "2026-10-14T22:06:48.074Z",
+      "last_notice_date": "2026-10-14T22:06:48.074Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -2925,8 +2943,8 @@
       "total_affected": 0,
       "avg_affected": 0,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-14T18:21:54.739Z",
-      "last_notice_date": "2026-10-14T18:21:54.739Z",
+      "first_notice_date": "2026-10-14T22:06:12.348Z",
+      "last_notice_date": "2026-10-14T22:06:12.348Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -2943,8 +2961,8 @@
       "total_affected": 0,
       "avg_affected": 0,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-14T18:21:54.739Z",
-      "last_notice_date": "2026-10-14T18:21:54.739Z",
+      "first_notice_date": "2026-10-14T22:06:12.348Z",
+      "last_notice_date": "2026-10-14T22:06:12.348Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -2961,8 +2979,8 @@
       "total_affected": 0,
       "avg_affected": 0,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-14T18:21:54.739Z",
-      "last_notice_date": "2026-10-14T18:21:54.739Z",
+      "first_notice_date": "2026-10-14T22:06:12.348Z",
+      "last_notice_date": "2026-10-14T22:06:12.348Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -2979,8 +2997,8 @@
       "total_affected": 0,
       "avg_affected": 0,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-14T18:21:54.739Z",
-      "last_notice_date": "2026-10-14T18:21:54.739Z",
+      "first_notice_date": "2026-10-14T22:06:12.348Z",
+      "last_notice_date": "2026-10-14T22:06:12.348Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -2997,8 +3015,8 @@
       "total_affected": 0,
       "avg_affected": 0,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-14T18:21:54.739Z",
-      "last_notice_date": "2026-10-14T18:21:54.739Z",
+      "first_notice_date": "2026-10-14T22:06:12.348Z",
+      "last_notice_date": "2026-10-14T22:06:12.348Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -3015,8 +3033,8 @@
       "total_affected": 0,
       "avg_affected": 0,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-14T18:21:54.739Z",
-      "last_notice_date": "2026-10-14T18:21:54.739Z",
+      "first_notice_date": "2026-10-14T22:06:12.348Z",
+      "last_notice_date": "2026-10-14T22:06:12.348Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -3033,8 +3051,8 @@
       "total_affected": 0,
       "avg_affected": 0,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-14T18:21:54.739Z",
-      "last_notice_date": "2026-10-14T18:21:54.739Z",
+      "first_notice_date": "2026-10-14T22:06:12.348Z",
+      "last_notice_date": "2026-10-14T22:06:12.348Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -3277,6 +3295,6 @@
       }
     }
   ],
-  "count": 182,
-  "lastUpdated": "2026-10-14T18:25:02.890Z"
+  "count": 183,
+  "lastUpdated": "2026-10-14T22:11:05.525Z"
 }

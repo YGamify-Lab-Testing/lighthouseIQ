@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T18:29:47.378Z",
+  "lastUpdated": "2026-10-14T22:13:22.666Z",
   "scope": "US healthcare",
   "retentionDays": 90,
   "maxArticles": 500,
@@ -10,72 +10,72 @@
     "sources": [
       {
         "source": "Fierce Healthcare",
-        "articleCount": 237,
+        "articleCount": 225,
         "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 18,
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "Becker's Hospital Review",
-        "articleCount": 114,
+        "articleCount": 124,
         "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 18,
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "STAT News",
-        "articleCount": 62,
+        "articleCount": 63,
         "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 18,
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "Federal Register - HHS",
         "articleCount": 36,
         "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 18,
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "Healthcare Dive",
-        "articleCount": 18,
+        "articleCount": 19,
         "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 18,
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "Federal Register - FDA",
         "articleCount": 17,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 42,
+        "staleHours": 46,
         "status": "ok"
       },
       {
         "source": "FDA MedWatch RSS",
         "articleCount": 7,
         "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 18,
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "SEC Healthcare Filings",
         "articleCount": 5,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 42,
+        "staleHours": 46,
         "status": "ok"
       },
       {
         "source": "Federal Register - CMS",
         "articleCount": 3,
         "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 18,
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "National Nurses United RSS",
         "articleCount": 1,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 42,
+        "staleHours": 46,
         "status": "ok"
       }
     ]
@@ -87,15 +87,15 @@
     },
     "mergers_mna": {
       "label": "Mergers & M&A",
-      "count": 27
+      "count": 28
     },
     "labor_unions": {
       "label": "Labor & Unions",
-      "count": 4
+      "count": 5
     },
     "policy_reimbursement": {
       "label": "Policy & Reimbursement",
-      "count": 87
+      "count": 82
     },
     "quality_safety": {
       "label": "Quality & Safety",
@@ -103,11 +103,11 @@
     },
     "capacity_expansion": {
       "label": "Capacity & Expansion",
-      "count": 10
+      "count": 9
     },
     "ai_tech": {
       "label": "AI & Digital Tech",
-      "count": 156
+      "count": 160
     },
     "general_market": {
       "label": "General Market",
@@ -125,7 +125,7 @@
       },
       "minArticles24h": {
         "threshold": 20,
-        "actual": 77,
+        "actual": 94,
         "pass": true
       },
       "minRequiredCategoriesCovered": {
@@ -358,6 +358,276 @@
       "categoryLabel": "General Market"
     },
     {
+      "title": "Are health systems slowing down AI? 9 tech leaders weigh in",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/are-health-systems-slowing-down-ai-9-tech-leaders-weigh-in/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-14",
+      "summary": "The AI industry’s leaders spent the past month warning that their models are gaining capabilities faster than anyone can verify they’re safe. Health systems are deploying versions of that same technology in places where mistakes reach patients.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "5 healthcare vendor breaches each affecting more than 1 million people",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/cybersecurity/5-healthcare-vendor-breaches-each-affecting-more-than-1-million-people/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-14",
+      "summary": "Five healthcare vendors disclosed in 2026 that breaches of their systems each affected more than 1 million people. Their reported totals add up to more than 30 million, led by Oracle Health at nearly 20 million.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Nurses at 4 hospitals file for union elections",
+      "url": "https://www.beckershospitalreview.com/hr/nurses-at-4-hospitals-file-for-union-elections/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-14",
+      "summary": "Registered nurses at hospitals in four states have filed petitions with the National Labor Relations Board seeking union elections to join the California Nurses Association/National Nurses Organizing Committee. The petitions were filed over the past week at Providence St.",
+      "category": "labor_unions",
+      "categoryLabel": "Labor & Unions"
+    },
+    {
+      "title": "Wisconsin hospital CEO to retire",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/wisconsin-hospital-ceo-to-retire-2/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-14",
+      "summary": "Bruce Roesler, president and CEO of The Richland Hospital and Clinics in Richland Center, Wis., plans to retire in April.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Beth Israel Lahey hospital taps dual president, COO",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/beth-israel-lahey-hospital-taps-dual-president-coo/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-14",
+      "summary": "Megan Gray, DNP, RN, has been appointed president and COO of Anna Jaques Hospital in Newburyport, Mass.&#160; Dr.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Hospital M&#038;A on pace for busiest year since pandemic as megamergers mount",
+      "url": "https://www.beckershospitalreview.com/hospital-transactions-and-valuation/hospital-ma-on-pace-for-busiest-year-since-pandemic-as-megamergers-mount/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-14",
+      "summary": "Announced hospital and health system mergers and acquisitions in 2026 have already surpassed the total number in 2025 and are on track for the most transactions since the start of the COVID-19 pandemic, according to an Oct. 13 report from Kaufman Hall.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
+    },
+    {
+      "title": "AdventHealth breaks ground on $475M Colorado hospital",
+      "url": "https://www.beckershospitalreview.com/capital/adventhealth-breaks-ground-on-475m-colorado-hospital/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-14",
+      "summary": "Altamonte Springs, Fla.-based AdventHealth broke ground Oct.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "2 new medical schools earn preliminary accreditation",
+      "url": "https://www.beckershospitalreview.com/quality/hospital-physician-relationships/xavier-ochsner-medical-school-earns-preliminary-accreditation/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-14",
+      "summary": "The Liaison Committee on Medical Education has granted preliminary accreditation to two new medical schools, one in New Orleans and one in Provo, Utah. Both can now recruit their first classes, which will start in summer 2027.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Data governance is a strategy issue, not an IT project, Deaconess Illinois CFO says",
+      "url": "https://www.beckershospitalreview.com/finance/data-governance-is-a-strategy-issue-not-an-it-project-deaconess-illinois-cfo-says/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-14",
+      "summary": "While many hospitals and health systems are zeroing in on expanding their use of AI, Jason Hinkle, CFO of Marion-based Deaconess Illinois, said some finance leaders are not focused enough on the work that determines whether these tools can succeed.&#160; &#8220;Data governance is a strategy issue.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "UCHealth breaks ground on $463M hospital expansion project",
+      "url": "https://www.beckershospitalreview.com/capital/uchealth-breaks-ground-on-463m-hospital-expansion-project/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-14",
+      "summary": "Aurora, Colo.-based UCHealth broke ground Oct.",
+      "category": "capacity_expansion",
+      "categoryLabel": "Capacity & Expansion"
+    },
+    {
+      "title": "STAT+: Trump administration delays new rule that could restrict imported medicines from Canada and overseas",
+      "url": "https://www.statnews.com/pharmalot/2026/10/14/trump-administration-delays-new-rule-that-could-restrict-imported-meds-from-canad-and-overseas/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-14",
+      "summary": "The Trump administration is delaying by 90 days a federal rule that could prevent Americans from obtaining prescription drugs from licensed international pharmacies.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "How consumer tech company Whoop is building for Medicare patients",
+      "url": "https://www.statnews.com/2026/10/14/whoop-ami-bhatt-population-health-stat-summit-boston-2026/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-14",
+      "summary": "Whoop's chief medical officer, said the company's work with Medicare is an opportunity to prove its ability to improve health at the population level.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "STAT+: FDA adcomm members&#8217; ties to industry under scrutiny",
+      "url": "https://www.statnews.com/2026/10/14/biotech-news-fda-adcomm-member-ties-to-industry-under-scrutiny/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-14",
+      "summary": "New research found that nearly 40% of FDA advisory meetings held over a recent 20-year period included either a patient or consumer rep with active ties to an advocacy group&#8230;",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We&#8217;re reading about Sanofi settling an EU antitrust probe, &#8216;pharma bro&#8217; Shkreli, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/10/14/sanofi-settling-european-antitrust-probe-pharma-bro-shkreli/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-14",
+      "summary": "The FTC asked a U.S.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: The startup chasing ‘general biological intelligence’",
+      "url": "https://www.statnews.com/2026/10/14/the-startup-chasing-general-biological-intelligence-ai-prognosis/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-14",
+      "summary": "In this edition of AI Prognosis, Brittany Trang talks to Eric Nguyen, the CEO of Radical Numerics, a startup pursuing \"general biological intelligence.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "STAT+: Sanofi avoids fine as EU accepts offer to end antitrust probe over disparaging rival vaccine",
+      "url": "https://www.statnews.com/pharmalot/2026/10/14/sanofi-avoids-fine-as-eu-accepts-offer-ends-antitrust-probe-over-disparaging-rival-vaccine/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-14",
+      "summary": "E.U.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "New study examines GLP-1 impact on interactions with criminal justice system, employment, housing stability",
+      "url": "https://www.statnews.com/2026/10/14/health-news-glp-1-study-impact-interactions-with-criminal-justice-system-employment/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-14",
+      "summary": "A wave of clinical trials have begun to test the ability of GLP-1 weight loss drugs to quell various substance use disorders, with some promising results.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: Lobbyists and trade groups fight to shape how states regulate medical AI",
+      "url": "https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-14",
+      "summary": "Lobbying groups for doctors and hospitals and trade groups are working behind the scenes on how to regulate AI in medicine.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Opinion: How states can resist the potential Trump vaccine shortages",
+      "url": "https://www.statnews.com/2026/10/14/state-vaccine-factories-trump-shortages-vicp/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-14",
+      "summary": "“States can serve as a last line of defense against the Trump administration’s anti-vaccine policy,” writes Joel Dodge.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Opinion: We think a baby’s gut microbiome could be key to lifelong brain health",
+      "url": "https://www.statnews.com/2026/10/14/gut-microbiome-baby-brain-health-research/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-14",
+      "summary": "“We need more rigorous, large-scale research into the gut-brain axis across the life course,” write Holly Baines and George Vradenburg.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Trump administration boots 189,000 deceased, duplicate enrollees off ACA subsidies",
+      "url": "https://www.healthcaredive.com/news/trump-administration-boots-189000-deceased-duplicate-enrollees-off-aca-su/833037/",
+      "source": "Healthcare Dive",
+      "publishedAt": "2026-10-14",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Centene joins insurers waiving prior authorizations for top providers",
+      "url": "https://www.healthcaredive.com/news/centene-joins-insurers-waiving-prior-authorizations-for-top-providers/832975/",
+      "source": "Healthcare Dive",
+      "publishedAt": "2026-10-14",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "MultiCare, Samaritan combination to close in November",
+      "url": "https://www.healthcaredive.com/news/multicare-samaritan-combination-close-november/832973/",
+      "source": "Healthcare Dive",
+      "publishedAt": "2026-10-14",
+      "summary": "<p>The nonprofits will merge on Nov. 1 after securing approval from state regulators, the systems announced this week.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
+    },
+    {
+      "title": "CVS to pay $315M to settle opioid prescribing allegations",
+      "url": "https://www.healthcaredive.com/news/cvs-pay-315-million-settle-opioid-prescribing-allegations/832969/",
+      "source": "Healthcare Dive",
+      "publishedAt": "2026-10-14",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Big-ticket hospital deals are becoming the M&A story of 2026",
+      "url": "https://www.fiercehealthcare.com/providers/big-ticket-hospital-deals-are-becoming-ma-story-2026",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-14",
+      "summary": "For a third consecutive quarter, the hospital industry has hosted multiple new transactions in which the smaller party's annual revenue exceeds $1 billion, per Kaufman Hall's quarterly report. The news comes alongside signs of worsening operating performance in August.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
+    },
+    {
+      "title": "Walmart to expand health benefits for employees, including $0 prescriptions, rare disease care",
+      "url": "https://www.fiercehealthcare.com/retail/walmart-expand-health-benefits-employees-including-over-250-zero-dollar-prescriptions",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-14",
+      "summary": "The new offerings include “zero cost” prescriptions, expanded Centers of Excellence for rare conditions and paid NICU leave.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Zodoc acquires health tech company Sohar Health for automated benefits eligibility checks",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/zodoc-acquires-health-tech-company-sohar-health-automated-benefits",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-14",
+      "summary": "Zocdoc acquired insurance technology company Sohar Health as it pushes to evolve beyond an appointment-booking marketplace into broader healthcare access infrastructure.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
+    },
+    {
+      "title": "Fierce Healthcare Fundraising Tracker '26: Allswell nabs $7M to expand LGBTQ therapy; Outro clinches $7M for deprescribing",
+      "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-14",
+      "summary": "Keep up with all the venture capital dollars being funneled into the health tech and digital health industries.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Centene unveils national provider gold card program",
+      "url": "https://www.fiercehealthcare.com/payers/centene-unveils-national-provider-gold-card-program",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-14",
+      "summary": "Centene is aiming to simplify the prior authorization process with the launch of a new nationwide gold card program.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Readily secures $11M series A to continue building out AI regulatory compliance platform",
+      "url": "https://www.fiercehealthcare.com/finance/readily-secures-11m-series-continue-building-out-ai-regulatory-compliance-platform",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-14",
+      "summary": "Artificial intelligence compliance platform Readily raised $11 million in series A funding to support development of its enterprise oversight platform.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
       "title": "HR executives&#8217; defining words for 2027",
       "url": "https://www.beckershospitalreview.com/workforce/hr-executives-defining-words-for-2027/",
       "source": "Becker's Hospital Review",
@@ -446,123 +716,6 @@
       "summary": "Health systems are generating more patient data than at any point in their history. Bedside monitors, ambulatory devices and home care technologies are producing a continuous stream of readings, signals and clinical indicators.",
       "category": "capacity_expansion",
       "categoryLabel": "Capacity & Expansion"
-    },
-    {
-      "title": "How consumer tech company Whoop is building for Medicare patients",
-      "url": "https://www.statnews.com/2026/10/14/whoop-ami-bhatt-population-health-stat-summit-boston-2026/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-14",
-      "summary": "Whoop's chief medical officer, said the company's work with Medicare is an opportunity to prove its ability to improve health at the population level.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "STAT+: FDA adcomm members&#8217; ties to industry under scrutiny",
-      "url": "https://www.statnews.com/2026/10/14/biotech-news-fda-adcomm-member-ties-to-industry-under-scrutiny/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-14",
-      "summary": "New research found that nearly 40% of FDA advisory meetings held over a recent 20-year period included either a patient or consumer rep with active ties to an advocacy group&#8230;",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "STAT+: Pharmalittle: We&#8217;re reading about Sanofi settling an EU antitrust probe, &#8216;pharma bro&#8217; Shkreli, and more",
-      "url": "https://www.statnews.com/pharmalot/2026/10/14/sanofi-settling-european-antitrust-probe-pharma-bro-shkreli/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-14",
-      "summary": "The FTC asked a U.S.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "STAT+: The startup chasing ‘general biological intelligence’",
-      "url": "https://www.statnews.com/2026/10/14/the-startup-chasing-general-biological-intelligence-ai-prognosis/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-14",
-      "summary": "In this edition of AI Prognosis, Brittany Trang talks to Eric Nguyen, the CEO of Radical Numerics, a startup pursuing \"general biological intelligence.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "STAT+: Sanofi avoids fine as EU accepts offer to end antitrust probe over disparaging rival vaccine",
-      "url": "https://www.statnews.com/pharmalot/2026/10/14/sanofi-avoids-fine-as-eu-accepts-offer-ends-antitrust-probe-over-disparaging-rival-vaccine/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-14",
-      "summary": "E.U.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "New study examines GLP-1 impact on interactions with criminal justice system, employment, housing stability",
-      "url": "https://www.statnews.com/2026/10/14/health-news-glp-1-study-impact-interactions-with-criminal-justice-system-employment/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-14",
-      "summary": "A wave of clinical trials have begun to test the ability of GLP-1 weight loss drugs to quell various substance use disorders, with some promising results.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "STAT+: Lobbyists and trade groups fight to shape how states regulate medical AI",
-      "url": "https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-14",
-      "summary": "Lobbying groups for doctors and hospitals and trade groups are working behind the scenes on how to regulate AI in medicine.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Opinion: How states can resist the potential Trump vaccine shortages",
-      "url": "https://www.statnews.com/2026/10/14/state-vaccine-factories-trump-shortages-vicp/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-14",
-      "summary": "“States can serve as a last line of defense against the Trump administration’s anti-vaccine policy,” writes Joel Dodge.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Opinion: We think a baby’s gut microbiome could be key to lifelong brain health",
-      "url": "https://www.statnews.com/2026/10/14/gut-microbiome-baby-brain-health-research/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-14",
-      "summary": "“We need more rigorous, large-scale research into the gut-brain axis across the life course,” write Holly Baines and George Vradenburg.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Centene joins insurers waiving prior authorizations for top providers",
-      "url": "https://www.healthcaredive.com/news/centene-joins-insurers-waiving-prior-authorizations-for-top-providers/832975/",
-      "source": "Healthcare Dive",
-      "publishedAt": "2026-10-14",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "MultiCare, Samaritan combination to close in November",
-      "url": "https://www.healthcaredive.com/news/multicare-samaritan-combination-close-november/832973/",
-      "source": "Healthcare Dive",
-      "publishedAt": "2026-10-14",
-      "summary": "<p>The nonprofits will merge on Nov. 1 after securing approval from state regulators, the systems announced this week.",
-      "category": "mergers_mna",
-      "categoryLabel": "Mergers & M&A"
-    },
-    {
-      "title": "CVS to pay $315M to settle opioid prescribing allegations",
-      "url": "https://www.healthcaredive.com/news/cvs-pay-315-million-settle-opioid-prescribing-allegations/832969/",
-      "source": "Healthcare Dive",
-      "publishedAt": "2026-10-14",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Readily secures $11M series A to continue building out AI regulatory compliance platform",
-      "url": "https://www.fiercehealthcare.com/finance/readily-secures-11m-series-continue-building-out-ai-regulatory-compliance-platform",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-14",
-      "summary": "Artificial intelligence compliance platform Readily raised $11 million in series A funding to support development of its enterprise oversight platform.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
     },
     {
       "title": "CMS takes aim at duplicative ACA, Medicaid enrollments",
@@ -4694,159 +4847,6 @@
       "summary": "The nonprofits had launched Trinsic in 2023 as a push toward value-based care and improved care coordination. UCHealth will be its sole owner and operator come December.",
       "category": "ai_tech",
       "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Lawmakers press CMS to roll back proposed restrictions on remote patient monitoring",
-      "url": "https://www.fiercehealthcare.com/health-tech/lawmakers-press-cms-roll-back-proposed-restrictions-remote-patient-monitoring",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-07",
-      "summary": "A bipartisan group of 32 House lawmakers is pressing CMS Administrator Mehmet Oz to reconsider proposed Medicare payment rule changes that would restrict how remote patient monitoring services are staffed and delivered.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Highmark taps Karen Hanlon as CEO, David Holmberg to transition to executive chairperson",
-      "url": "https://www.fiercehealthcare.com/payers/highmark-taps-karen-hanlon-ceo-david-holmberg-transition-executive-chairman",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-07",
-      "summary": "Highmark is making a change at the top, with Karen Hanlon stepping into the role of CEO on Jan. 1.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "CD&R, McKesson acquiring infusion therapy provider Option Care Health for $5.8B",
-      "url": "https://www.fiercehealthcare.com/finance/cdr-mckesson-acquiring-infusion-therapy-provider-option-care-health-58b",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-07",
-      "summary": "Option Care Health, the country's largest independent provider of at-home and alternate site infusion services, would go private in the deal, which is expected to close in the first half of 2027.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Vitalize secures $31M to scale AI-powered operating system for hospital staffing and scheduling",
-      "url": "https://www.fiercehealthcare.com/health-tech/vitalize-secures-31m-scale-ai-powered-operating-system-hospital-staffing-and-scheduling",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-07",
-      "summary": "Vitalize positions its software as an \"air traffic control\" system for healthcare operations, helping health systems automate staffing, forecast demand, manage capacity and reduce reliance on overtime and agency labor.",
-      "category": "capacity_expansion",
-      "categoryLabel": "Capacity & Expansion"
-    },
-    {
-      "title": "Proposed nuclear safety rules threaten to stall Novartis’ Pluvicto expansion",
-      "url": "https://www.fiercehealthcare.com/pharma/proposed-nuclear-safety-rules-threaten-stall-novartis-pluvicto-expansion",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-07",
-      "summary": "Novartis’ flagship radioligand therapy Pluvicto entered a rapid growth phase recently, driven by FDA approvals in earlier-stage prostate cancer and broader uptake in community settings. But a regulatory overhaul proposed by federal nuclear authorities now threatens to derail that momentum, potentially raising administrative hurdles that experts say could force clinics to rethink patient care while deterring others from adopting the therapy altogether.",
-      "category": "capacity_expansion",
-      "categoryLabel": "Capacity & Expansion"
-    },
-    {
-      "title": "Healthcare Dealmakers—Minnesota health system mergers, Grindr's HIV telehealth push and more",
-      "url": "https://www.fiercehealthcare.com/finance/healthcare-dealmakers-minnesota-health-system-mergers-grindrs-hiv-telehealth-push-and-more",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-07",
-      "summary": "HealthPartners and Essentia Health unveil 22-hospital combination, Waystar go-private reports and more healthcare merger and acquisition news from September.",
-      "category": "mergers_mna",
-      "categoryLabel": "Mergers & M&A"
-    },
-    {
-      "title": "Trinity Health improves to 1.1% operating margin in FY2026",
-      "url": "https://www.fiercehealthcare.com/providers/trinity-health-improves-11-operating-margin-fy2026",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-07",
-      "summary": "The 91-hospital system credited volume gains and greater rates for its 5.2% operating revenue growth and expense management, including a reduction in full-time equivalents and checked cost growth \"well below the medical rate of inflation.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Texas AG Ken Paxton launches investigations into UnitedHealth Group, BCBSTX",
-      "url": "https://www.fiercehealthcare.com/payers/texas-ag-ken-paxton-launches-investigations-unitedhealth-group-bcbstx",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-07",
-      "summary": "Texas Attorney General Ken Paxton announced on Monday that he would launch an investigation into industry giant UnitedHealth Group for \"engaging in deceptive and unlawful practices\" that may have denied care to Texans.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "FTC sends price transparency warning letters to 24 large hospital systems",
-      "url": "https://www.fiercehealthcare.com/regulatory/ftc-sends-price-transparency-warning-letters-24-large-hospital-systems-price",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-07",
-      "summary": "Letters sent Monday warn that CMS guidances on price transparency are \"a regulatory floor.\" Hospitals are also subject to the FTC Act's prohibitions on unfair or deceptive marketplace practices, which could apply to incomplete or inaccurate pricing information, the regulator said.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "CMS finalizes updates to price transparency regulations that aim to improve usability",
-      "url": "https://www.fiercehealthcare.com/regulatory/cms-finalizes-updates-price-transparency-regulations-aim-improve-usability",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-07",
-      "summary": "The Trump administration on Monday finalized a rule that aims to make the data files mandated under price transparency regulations more usable.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "White House to dispense Part B rebates to more than 20M enrollees",
-      "url": "https://www.fiercehealthcare.com/regulatory/white-house-dispense-part-b-rebates-more-20m-enrollees",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-07",
-      "summary": "On the heels of news that the White House would offer rebates to nearly 1 million people enrolled in Affordable Care Act plans, the Trump administration said Monday that it will pay out $90 rebates to more than 20 million Medicare Part B enrollees.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "iRhythm closes $287M VitalConnect deal, including $237M in cash and $50M in stock",
-      "url": "https://www.fiercehealthcare.com/finance/irhythm-acquires-vitalconnect-2375m-all-cash-deal",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-07",
-      "summary": "iRhythm provides end-to-end cardiac monitoring services, while VitalConnect’s monitoring platform supports multiple modalities.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Independence Blue Cross to pay $22.5M in Medicare Advantage inaccurate diagnoses allegations settlement",
-      "url": "https://www.fiercehealthcare.com/regulatory/independence-blue-cross-pay-225m-medicare-advantage-inaccurate-diagnoses-allegations",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-07",
-      "summary": "The settlement resolves allegations from 2017 to 2021 that the company submitted “inaccurate and untruthful” diagnoses data to CMS.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Datavant, ID.me partner on digital identity verification for medical records",
-      "url": "https://www.fiercehealthcare.com/health-tech/datavant-idme-partner-digital-identity-verification-medical-records",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-07",
-      "summary": "Datavant has teamed up with ID.me to streamline medical records requests, enabling patients to verify their identities digitally and access records faster.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "The Hidden Cost of Fragmented Provider Data: A shared provider data foundation, finally within reach.",
-      "url": "https://www.fiercehealthcare.com/sponsored/hidden-cost-fragmented-provider-data",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-07",
-      "summary": "Fragmented provider data compounds costs, provider burden, and member access gaps in Medicaid. Learn why shared infrastructure matters.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Healthcare's alignment gap isn't what you think",
-      "url": "https://www.fiercehealthcare.com/sponsored/healthcares-alignment-gap-isnt-what-you-think",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-07",
-      "summary": "Payers and providers agree on the challenges. The next step is turning shared understanding into shared action.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Grindr acquires HIV prevention telehealth provider for $250M",
-      "url": "https://www.fiercehealthcare.com/health-tech/grindr-acquires-hiv-prevention-telehealth-provider-250m",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-07",
-      "summary": "Executives say the transaction marks the “first major acquisition” since its founding and underscores the company's ambition to evolve beyond dating and expand into health and wellness.",
-      "category": "mergers_mna",
-      "categoryLabel": "Mergers & M&A"
     }
   ]
 }
