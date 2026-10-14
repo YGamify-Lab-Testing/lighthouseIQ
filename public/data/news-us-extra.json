@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T13:34:06.788Z",
+  "lastUpdated": "2026-10-14T18:29:47.312Z",
   "scope": "US healthcare",
   "sourceManifestVersion": "1.0.0",
   "sourceHealth": [
@@ -322,6 +322,39 @@
       "sourceId": "federal_register_hhs",
       "publishedAt": "2026-10-14",
       "category": "ai_tech",
+      "relevance": 100
+    },
+    {
+      "title": "Convenience Kit Recall: AVID Medical Removes Convenience Kits Affected by BD ChloraPrep Applicator Recall",
+      "summary": "Avid Medical is removing certain convenience kits affected by the BD ChloraPrep Applicator Recall that may be contaminated with Aspergillus penicillioides.",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-avid-medical-removes-convenience-kits-affected-bd-chloraprep-applicator-0",
+      "source": "FDA MedWatch RSS",
+      "sourceType": "rss",
+      "sourceId": "fda_medwatch_rss",
+      "publishedAt": "2026-10-14",
+      "category": "quality_safety",
+      "relevance": 100
+    },
+    {
+      "title": "Par Health Issues Voluntary Nationwide Recall of Argatroban Injection Due to the Presence of Particulate Matter",
+      "summary": "FOR IMMEDIATE RELEASE - ROCHESTER, MI– October 13, 2026 – Par Health is recalling 22 lots of Argatroban Injection 250 mg/2.5 mL (100 mg/mL) to the hospital/user level. This recall is being conducted due to the presence of particulate matter, identified as cellulose, polystyrene, polyethylene terepht",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-argatroban-injection-due-presence-particulate-matter",
+      "source": "FDA MedWatch RSS",
+      "sourceType": "rss",
+      "sourceId": "fda_medwatch_rss",
+      "publishedAt": "2026-10-14",
+      "category": "quality_safety",
+      "relevance": 100
+    },
+    {
+      "title": "Infusion Set Recall: BD and CareFusion 303, Inc. Remove BD Alaris Pump Infusion Sets",
+      "summary": "BD Alaris Pump Infusion Sets are being removed and discontinued; Alaris Pump Module model 8100 has updated performance data",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-set-recall-bd-and-carefusion-303-inc-remove-bd-alaris-pump-infusion-sets",
+      "source": "FDA MedWatch RSS",
+      "sourceType": "rss",
+      "sourceId": "fda_medwatch_rss",
+      "publishedAt": "2026-10-14",
+      "category": "quality_safety",
       "relevance": 100
     },
     {
@@ -743,17 +776,6 @@
       "relevance": 100
     },
     {
-      "title": "Infusion Set Recall: BD and CareFusion 303, Inc. Remove BD Alaris Pump Infusion Sets",
-      "summary": "BD Alaris Pump Infusion Sets are being removed and discontinued; Alaris Pump Module model 8100 has updated performance data",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-set-recall-bd-and-carefusion-303-inc-remove-bd-alaris-pump-infusion-sets",
-      "source": "FDA MedWatch RSS",
-      "sourceType": "rss",
-      "sourceId": "fda_medwatch_rss",
-      "publishedAt": "2026-10-05",
-      "category": "quality_safety",
-      "relevance": 100
-    },
-    {
       "title": "IV Tubing Set Correction: ICU Medical Updates Use Instructions for IV Tubing Sets",
       "summary": "Black specks and particulate reported in drip chambers of certain ICU Medical IV tubing sets does not affect device safety, performance, or intended use.",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/iv-tubing-set-correction-icu-medical-updates-use-instructions-iv-tubing-sets",
@@ -996,9 +1018,9 @@
       "relevance": 100
     },
     {
-      "title": "Otsuka ICU Medical LLC Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection, USP Due To a Product Mix-up with 10 mEq Potassium Chloride Injection",
-      "summary": "Otsuka ICU Medical LLC is issuing a voluntary recall for one lot of 0.9% SODIUM CHLORIDE Injection, USP, 100mL single pack to the user level due to a potential mix-up. The affected lot of 0.9% SODIUM CHLORIDE Injection, USP (NDC: 0990-7984-23 Lot 1042188) may potentially contain the overwrap with la",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/otsuka-icu-medical-llc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-due",
+      "title": "Par Health Issues Voluntary Nationwide Recall of Two Lots of Dexmedetomidine HCl in 0.9% Sodium Chloride Injection Due to the Presence of Particulate Matter",
+      "summary": "ROCHESTER, MI– September 18, 2026 –Par Health is voluntarily recalling two lots of Dexmedetomidine HCl in 0.9% Sodium Chloride Injection 400 mcg/100 mL (4 mcg/mL) to the hospital level. The product is being recalled due to the presence of particulate matter identified as cellulose or stopper materia",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-two-lots-dexmedetomidine-hcl-09-sodium-chloride",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -1007,9 +1029,9 @@
       "relevance": 100
     },
     {
-      "title": "Par Health Issues Voluntary Nationwide Recall of Two Lots of Dexmedetomidine HCl in 0.9% Sodium Chloride Injection Due to the Presence of Particulate Matter",
-      "summary": "ROCHESTER, MI– September 18, 2026 –Par Health is voluntarily recalling two lots of Dexmedetomidine HCl in 0.9% Sodium Chloride Injection 400 mcg/100 mL (4 mcg/mL) to the hospital level. The product is being recalled due to the presence of particulate matter identified as cellulose or stopper materia",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-two-lots-dexmedetomidine-hcl-09-sodium-chloride",
+      "title": "Otsuka ICU Medical LLC Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection, USP Due To a Product Mix-up with 10 mEq Potassium Chloride Injection",
+      "summary": "Otsuka ICU Medical LLC is issuing a voluntary recall for one lot of 0.9% SODIUM CHLORIDE Injection, USP, 100mL single pack to the user level due to a potential mix-up. The affected lot of 0.9% SODIUM CHLORIDE Injection, USP (NDC: 0990-7984-23 Lot 1042188) may potentially contain the overwrap with la",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/otsuka-icu-medical-llc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-due",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -1027,17 +1049,6 @@
       "publishedAt": "2026-09-21",
       "category": "quality_safety",
       "relevance": 98
-    },
-    {
-      "title": "Sodium Chloride Flush Recall: Spectra Medical Removes Sodium Chloride Injection USP Ampules",
-      "summary": "Spectra Medical Devices is removing Sodium Chloride Flush products that were manufactured by Huons Co,. Ltd.",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/sodium-chloride-flush-recall-spectra-medical-removes-sodium-chloride-injection-usp-ampules",
-      "source": "FDA MedWatch RSS",
-      "sourceType": "rss",
-      "sourceId": "fda_medwatch_rss",
-      "publishedAt": "2026-09-18",
-      "category": "quality_safety",
-      "relevance": 100
     },
     {
       "title": "Nitric Oxide Delivery System Correction: NOxBOX Updates Use Instructions for NOxBOXi Nitric Oxide Delivery System",
@@ -1082,17 +1093,6 @@
       "publishedAt": "2026-09-16",
       "category": "policy_reimbursement",
       "relevance": 85
-    },
-    {
-      "title": "Esophageal pH Monitoring Capsule Recall: Medtronic and Given Imaging Remove Esophageal pH Monitoring Capsule Delivery Device",
-      "summary": "The Medtronic and Given Imaging Bravo CF esophageal pH monitoring capsule can fail to attach to the esophagus or detach from its delivery device.",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring",
-      "source": "FDA MedWatch RSS",
-      "sourceType": "rss",
-      "sourceId": "fda_medwatch_rss",
-      "publishedAt": "2026-09-15",
-      "category": "quality_safety",
-      "relevance": 98
     },
     {
       "title": "ELV 8-K filing - Elevance Health, Inc.",
@@ -1458,6 +1458,17 @@
       "relevance": 100
     },
     {
+      "title": "Read more about Trump Administration Delivers Second Year of Savings by Stopping Taxpayer Payments for Duplicate and Deceased Enrollees in Obamacare",
+      "summary": "",
+      "url": "https://www.cms.gov/newsroom/press-releases/trump-administration-delivers-second-year-savings-stopping-taxpayer-payments-duplicate-deceased",
+      "source": "CMS Newsroom",
+      "sourceType": "html",
+      "sourceId": "cms_newsroom",
+      "publishedAt": "",
+      "category": "policy_reimbursement",
+      "relevance": 100
+    },
+    {
       "title": "Read more about Trump Administration Announces New Funding to Support Rural Healthcare Workers and Expand Maternal Care Across Missouri",
       "summary": "",
       "url": "https://www.cms.gov/newsroom/press-releases/trump-administration-announces-new-funding-support-rural-healthcare-workers-expand-maternal-care",
@@ -1502,28 +1513,6 @@
       "relevance": 100
     },
     {
-      "title": "Read more about 2027 Medicare Advantage and Part D Star Ratings",
-      "summary": "",
-      "url": "https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings",
-      "source": "CMS Newsroom",
-      "sourceType": "html",
-      "sourceId": "cms_newsroom",
-      "publishedAt": "",
-      "category": "policy_reimbursement",
-      "relevance": 100
-    },
-    {
-      "title": "September 17, 2026 - FDA Approves First Gene Therapy for Pediatric Patients with Sanfilippo Syndrome Type A",
-      "summary": "",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-pediatric-patients-sanfilippo-syndrome-type",
-      "source": "FDA Newsroom",
-      "sourceType": "html",
-      "sourceId": "fda_newsroom",
-      "publishedAt": "",
-      "category": "quality_safety",
-      "relevance": 100
-    },
-    {
       "title": "Quality and Patient Safety",
       "summary": "",
       "url": "https://www.aha.org/advocacy/quality-and-patient-safety",
@@ -1565,6 +1554,28 @@
       "sourceId": "aha_news",
       "publishedAt": "",
       "category": "policy_reimbursement",
+      "relevance": 100
+    },
+    {
+      "title": "National Nurses United endorses Rep. Ramirez’s Reimagining Safety Act",
+      "summary": "National Nurses United (NNU), the largest union of registered nurses in the United States with more than 225,000 members, is proud to endorse Representative Delia Ramirez’s Reimagining Safety Act to abolish ICE, reinvest in care.",
+      "url": "https://www.nationalnursesunited.org/press/national-nurses-united-endorses-rep-ramirezs-reimagining-safety-act",
+      "source": "National Nurses United RSS",
+      "sourceType": "rss",
+      "sourceId": "nnu_rss",
+      "publishedAt": "",
+      "category": "labor_unions",
+      "relevance": 100
+    },
+    {
+      "title": "Wichita nurses ratify new contract with strong measures to improve patient safety and nurse retention",
+      "summary": "Registered nurses at Ascension Via Christi St. Francis and St. Joseph hospitals in Wichita, Kansas, voted overwhelmingly in favor of ratifying a new three-year contract today, winning protections to improve patient safety and nurse retention.",
+      "url": "https://www.nationalnursesunited.org/press/wichita-nurses-ratify-new-contract-with-strong-measures-to-improve-patient-safety-and-nurse",
+      "source": "National Nurses United RSS",
+      "sourceType": "rss",
+      "sourceId": "nnu_rss",
+      "publishedAt": "",
+      "category": "quality_safety",
       "relevance": 100
     },
     {
@@ -1744,28 +1755,6 @@
       "relevance": 100
     },
     {
-      "title": "Union nurses reinstated at Prime hospital in Illinois",
-      "summary": "Four formerly suspended registered nurses at Olympia Fields Hospital in Olympia Fields, Ill. have been reinstated and will return to work this week. By Sept. 15, Prime Healthcare had suspended or fired six nurses at Olympia Fields Hospital.",
-      "url": "https://www.nationalnursesunited.org/press/union-nurses-reinstated-at-prime-hospital-in-illinois",
-      "source": "National Nurses United RSS",
-      "sourceType": "rss",
-      "sourceId": "nnu_rss",
-      "publishedAt": "",
-      "category": "labor_unions",
-      "relevance": 100
-    },
-    {
-      "title": "Nurses celebrate massive, historic victory against disgusting Kaiser wage theft",
-      "summary": "Registered nurses at Kaiser Permanente hospitals across California are celebrating a historic victory against wage theft committed by their employer. California Nurses Association successfully won an arbitration agreement that mandates Kaiser pay stolen wages dating back to at least 2021, potentially totalling a sum in the tens of millions of dollars to be paid out to more than 1,000 nurses.",
-      "url": "https://www.nationalnursesunited.org/press/nurses-celebrate-massive-historic-victory-against-disgusting-kaiser-wage-theft",
-      "source": "National Nurses United RSS",
-      "sourceType": "rss",
-      "sourceId": "nnu_rss",
-      "publishedAt": "",
-      "category": "ai_tech",
-      "relevance": 100
-    },
-    {
       "title": "Save Healthcare Services",
       "summary": "",
       "url": "https://www.nysna.org/campaigns/save-healthcare-services",
@@ -1843,6 +1832,17 @@
       "relevance": 98
     },
     {
+      "title": "NYP-Gracie Square Hospital Nurses Picket for a Fair Contract",
+      "summary": "",
+      "url": "https://www.nysna.org/news/nyp-gracie-square-hospital-nurses-picket-fair-contract",
+      "source": "NYSNA RSS",
+      "sourceType": "rss",
+      "sourceId": "nysna_rss",
+      "publishedAt": "",
+      "category": "ai_tech",
+      "relevance": 98
+    },
+    {
       "title": "Read more about Trump Administration Announces New Funding to Support Early Career Physicians Who Choose to Work in Rural Delaware",
       "summary": "",
       "url": "https://www.cms.gov/newsroom/press-releases/trump-administration-announces-new-funding-support-early-career-physicians-who-choose-work-rural",
@@ -1873,6 +1873,28 @@
       "sourceId": "fda_newsroom",
       "publishedAt": "",
       "category": "quality_safety",
+      "relevance": 96
+    },
+    {
+      "title": "October 14, 2026 - FDA Launches the Rare Disease Framework Initiative to Develop a Holistic, Fit-For-Purpose Framework for Rare Disease Drug Development",
+      "summary": "",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-launches-rare-disease-framework-initiative-develop-holistic-fit-purpose-framework-rare-disease",
+      "source": "FDA Newsroom",
+      "sourceType": "html",
+      "sourceId": "fda_newsroom",
+      "publishedAt": "",
+      "category": "quality_safety",
+      "relevance": 96
+    },
+    {
+      "title": "October 14, 2026 - FDA Approves First Treatment for Certain People With BCG-Unresponsive Bladder Cancer",
+      "summary": "",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-certain-people-bcg-unresponsive-bladder-cancer",
+      "source": "FDA Newsroom",
+      "sourceType": "html",
+      "sourceId": "fda_newsroom",
+      "publishedAt": "",
+      "category": "ai_tech",
       "relevance": 96
     },
     {
@@ -1945,17 +1967,6 @@
       "title": "September 21, 2026 - FDA Updates Regulations to Advance Innovative Alternatives to Animal Testing",
       "summary": "",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-updates-regulations-advance-innovative-alternatives-animal-testing",
-      "source": "FDA Newsroom",
-      "sourceType": "html",
-      "sourceId": "fda_newsroom",
-      "publishedAt": "",
-      "category": "quality_safety",
-      "relevance": 96
-    },
-    {
-      "title": "September 15, 2026 - FDA Launches Expedited IND Pilot, Begins Accepting Applications",
-      "summary": "",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-launches-expedited-ind-pilot-begins-accepting-applications",
       "source": "FDA Newsroom",
       "sourceType": "html",
       "sourceId": "fda_newsroom",
@@ -2099,17 +2110,6 @@
       "title": "The Economic Impact of Health Disparities: Why It Matters for Hospitals and Health Systems",
       "summary": "",
       "url": "https://www.aha.org/news/blog/2026-08-27-economic-impact-health-disparities-why-it-matters-hospitals-and-health-systems",
-      "source": "AHA News",
-      "sourceType": "html",
-      "sourceId": "aha_news",
-      "publishedAt": "",
-      "category": "policy_reimbursement",
-      "relevance": 96
-    },
-    {
-      "title": "America’s Hospitals Are Transforming Care for an Aging Nation",
-      "summary": "",
-      "url": "https://www.aha.org/news/blog/2026-08-18-americas-hospitals-are-transforming-care-aging-nation",
       "source": "AHA News",
       "sourceType": "html",
       "sourceId": "aha_news",
@@ -2437,17 +2437,6 @@
       "relevance": 93
     },
     {
-      "title": "TOMORROW: Adirondack Nurses to Hold First Informational Picket in 25 Years",
-      "summary": "",
-      "url": "https://www.nysna.org/press/tomorrow-adirondack-nurses-hold-first-informational-picket-25-years",
-      "source": "NYSNA RSS",
-      "sourceType": "rss",
-      "sourceId": "nysna_rss",
-      "publishedAt": "",
-      "category": "labor_unions",
-      "relevance": 93
-    },
-    {
       "title": "Report Fraud, Waste, & Abuse",
       "summary": "",
       "url": "https://oig.hhs.gov/fraud/report-fraud/",
@@ -2583,6 +2572,17 @@
       "title": "The Value of Health Systems",
       "summary": "",
       "url": "https://www.aha.org/hospital-mergers",
+      "source": "AHA News",
+      "sourceType": "html",
+      "sourceId": "aha_news",
+      "publishedAt": "",
+      "category": "policy_reimbursement",
+      "relevance": 91
+    },
+    {
+      "title": "The 340B Drug Pricing Program",
+      "summary": "",
+      "url": "https://www.aha.org/340b-drug-pricing-program",
       "source": "AHA News",
       "sourceType": "html",
       "sourceId": "aha_news",

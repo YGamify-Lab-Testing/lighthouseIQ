@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-10-14T13:34:06.897Z",
+  "lastCheckedAt": "2026-10-14T18:29:47.414Z",
   "strict": false,
   "status": "pass",
   "failedChecks": [],
@@ -21,7 +21,7 @@
     },
     "minArticles24h": {
       "threshold": 20,
-      "actual": 52,
+      "actual": 77,
       "pass": true
     },
     "minCategoryBuckets": {
