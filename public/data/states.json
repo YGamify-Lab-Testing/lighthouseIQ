@@ -22,7 +22,7 @@
     },
     {
       "state": "CO",
-      "count": 1
+      "count": 0
     },
     {
       "state": "CT",
@@ -42,7 +42,7 @@
     },
     {
       "state": "GA",
-      "count": 1
+      "count": 0
     },
     {
       "state": "HI",
@@ -162,7 +162,7 @@
     },
     {
       "state": "RI",
-      "count": 1
+      "count": 0
     },
     {
       "state": "SC",
@@ -209,5 +209,5 @@
       "count": 0
     }
   ],
-  "lastUpdated": "2026-10-14T01:42:24.246Z"
+  "lastUpdated": "2026-10-14T07:15:40.743Z"
 }
