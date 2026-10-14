@@ -753,7 +753,7 @@
       "state": "FL",
       "city": "PORT SAINT LUCIE",
       "total_notices": 1,
-      "notices_last_90_days": 1,
+      "notices_last_90_days": 0,
       "risk_level": "green"
     },
     {
@@ -979,13 +979,6 @@
       "total_notices": 1,
       "notices_last_90_days": 0,
       "risk_level": "green"
-    },
-    {
-      "state": "CA",
-      "city": null,
-      "total_notices": 5,
-      "notices_last_90_days": 5,
-      "risk_level": "yellow"
     },
     {
       "state": "MI",
@@ -1247,6 +1240,6 @@
       "risk_level": "green"
     }
   ],
-  "count": 178,
-  "lastUpdated": "2026-10-13T22:39:15.536Z"
+  "count": 177,
+  "lastUpdated": "2026-10-14T01:42:24.285Z"
 }
