@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T07:17:56.808Z",
+  "lastUpdated": "2026-10-14T13:34:06.788Z",
   "scope": "US healthcare",
   "sourceManifestVersion": "1.0.0",
   "sourceHealth": [
@@ -1513,17 +1513,6 @@
       "relevance": 100
     },
     {
-      "title": "Read more about Trump Administration Announces More Than $17 Million for New Mental Health Clinics, Mobile Crisis Teams, and Expanded Addiction Treatment in North Carolina",
-      "summary": "",
-      "url": "https://www.cms.gov/newsroom/press-releases/trump-administration-announces-more-17-million-new-mental-health-clinics-mobile-crisis-teams",
-      "source": "CMS Newsroom",
-      "sourceType": "html",
-      "sourceId": "cms_newsroom",
-      "publishedAt": "",
-      "category": "policy_reimbursement",
-      "relevance": 100
-    },
-    {
       "title": "September 17, 2026 - FDA Approves First Gene Therapy for Pediatric Patients with Sanfilippo Syndrome Type A",
       "summary": "",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-pediatric-patients-sanfilippo-syndrome-type",
@@ -1852,6 +1841,17 @@
       "publishedAt": "",
       "category": "labor_unions",
       "relevance": 98
+    },
+    {
+      "title": "Read more about Trump Administration Announces New Funding to Support Early Career Physicians Who Choose to Work in Rural Delaware",
+      "summary": "",
+      "url": "https://www.cms.gov/newsroom/press-releases/trump-administration-announces-new-funding-support-early-career-physicians-who-choose-work-rural",
+      "source": "CMS Newsroom",
+      "sourceType": "html",
+      "sourceId": "cms_newsroom",
+      "publishedAt": "",
+      "category": "policy_reimbursement",
+      "relevance": 97
     },
     {
       "title": "Vulnerability Disclosure Policy",

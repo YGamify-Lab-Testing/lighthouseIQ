@@ -150,7 +150,7 @@
     },
     {
       "state": "OR",
-      "count": 1
+      "count": 0
     },
     {
       "state": "PA",
@@ -209,5 +209,5 @@
       "count": 0
     }
   ],
-  "lastUpdated": "2026-10-14T07:15:40.743Z"
+  "lastUpdated": "2026-10-14T13:29:42.449Z"
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T07:17:56.884Z",
+  "lastUpdated": "2026-10-14T13:34:06.857Z",
   "scope": "US healthcare",
   "retentionDays": 90,
   "maxArticles": 500,
@@ -10,72 +10,72 @@
     "sources": [
       {
         "source": "Fierce Healthcare",
-        "articleCount": 236,
+        "articleCount": 237,
         "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 7,
+        "staleHours": 13,
         "status": "ok"
       },
       {
         "source": "Becker's Hospital Review",
-        "articleCount": 115,
-        "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 31,
+        "articleCount": 111,
+        "latestPublishedAt": "2026-10-14T00:00:00.000Z",
+        "staleHours": 13,
         "status": "ok"
       },
       {
         "source": "STAT News",
-        "articleCount": 57,
-        "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 31,
+        "articleCount": 60,
+        "latestPublishedAt": "2026-10-14T00:00:00.000Z",
+        "staleHours": 13,
         "status": "ok"
       },
       {
         "source": "Federal Register - HHS",
         "articleCount": 38,
         "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 7,
+        "staleHours": 13,
         "status": "ok"
       },
       {
         "source": "Federal Register - FDA",
         "articleCount": 25,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 31,
+        "staleHours": 37,
         "status": "ok"
       },
       {
         "source": "Healthcare Dive",
         "articleCount": 15,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 31,
+        "staleHours": 37,
         "status": "ok"
       },
       {
         "source": "FDA MedWatch RSS",
         "articleCount": 5,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 31,
+        "staleHours": 37,
         "status": "ok"
       },
       {
         "source": "SEC Healthcare Filings",
         "articleCount": 5,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 31,
+        "staleHours": 37,
         "status": "ok"
       },
       {
         "source": "Federal Register - CMS",
         "articleCount": 3,
         "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 7,
+        "staleHours": 13,
         "status": "ok"
       },
       {
         "source": "National Nurses United RSS",
         "articleCount": 1,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 31,
+        "staleHours": 37,
         "status": "ok"
       }
     ]
@@ -95,7 +95,7 @@
     },
     "policy_reimbursement": {
       "label": "Policy & Reimbursement",
-      "count": 92
+      "count": 93
     },
     "quality_safety": {
       "label": "Quality & Safety",
@@ -103,15 +103,15 @@
     },
     "capacity_expansion": {
       "label": "Capacity & Expansion",
-      "count": 10
+      "count": 9
     },
     "ai_tech": {
       "label": "AI & Digital Tech",
-      "count": 154
+      "count": 157
     },
     "general_market": {
       "label": "General Market",
-      "count": 198
+      "count": 195
     }
   },
   "quality": {
@@ -125,7 +125,7 @@
       },
       "minArticles24h": {
         "threshold": 20,
-        "actual": 40,
+        "actual": 52,
         "pass": true
       },
       "minRequiredCategoriesCovered": {
@@ -322,6 +322,114 @@
       "categoryLabel": "General Market"
     },
     {
+      "title": "Six years, 23 new health systems",
+      "url": "https://www.beckershospitalreview.com/finance/six-years-23-new-health-systems/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-14",
+      "summary": "At least 23 health systems have formed or taken a new identity since 2020 through mergers, new launches or rebrands, according to ownership data from the Lown Institute and Becker’s coverage.&#160; The systems range from Advocate Health, a 69-hospital system created in 2022 when Advocate Aurora Health and Atrium Health combined, to Memorial Health System [&#8230;] The post Six years, 23 new health systems appeared first on Becker&#039;s Hospital Review | Healthcare News & Analysis.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
+    },
+    {
+      "title": "‘A big risk and a big waste’: The leadership exits systems ignore",
+      "url": "https://www.beckershospitalreview.com/hospital-management-administration/a-big-risk-and-a-big-waste-the-leadership-exits-systems-ignore/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-14",
+      "summary": "Physician leaders should begin planning their exit from their first day on the administrative role, much like how clinicians plan patient discharge at admission, Jim Keller, MD, former chief medical officer of Park Ridge, Ill.-based Advocate Lutheran General Hospital and a practicing maternal-fetal medicine physician, said in an upcoming episode of &#8220;Becker&#8217;s Healthcare Podcast.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "197 top hospitals for physician communication",
+      "url": "https://www.beckershospitalreview.com/rankings-and-ratings/208-top-hospitals-for-physician-communication/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-14",
+      "summary": "Eleven fewer hospitals received a five-star physician communication rating than in May, according to CMS&#8217; Hospital Consumer Assessment of Healthcare Providers and Systems data. CMS shares 10 HCAHPS star ratings based on publicly reported HCAHPS measures.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "PeaceHealth taps nurse leader as chief executive of Oregon region",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/peacehealth-taps-nurse-leader-as-chief-executive-of-oregon-region/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-14",
+      "summary": "Vancouver, Wash.-based PeaceHealth named Heather Wall, MSN, RN, chief executive of its Oregon region.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We&#8217;re reading about Sanofi settling an EU antitrust probe, &#8216;pharma bro&#8217; Shkreli, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/10/14/sanofi-settling-european-antitrust-probe-pharma-bro-shkreli/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-14",
+      "summary": "The FTC asked a U.S.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: The startup chasing ‘general biological intelligence’",
+      "url": "https://www.statnews.com/2026/10/14/the-startup-chasing-general-biological-intelligence-ai-prognosis/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-14",
+      "summary": "In this edition of AI Prognosis, Brittany Trang talks to Eric Nguyen, the CEO of Radical Numerics, a startup pursuing \"general biological intelligence.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "STAT+: Sanofi avoids fine as EU accepts offer to end antitrust probe over disparaging rival vaccine",
+      "url": "https://www.statnews.com/pharmalot/2026/10/14/sanofi-avoids-fine-as-eu-accepts-offer-ends-antitrust-probe-over-disparaging-rival-vaccine/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-14",
+      "summary": "E.U.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "New study examines GLP-1 impact on interactions with criminal justice system, employment, housing stability",
+      "url": "https://www.statnews.com/2026/10/14/health-news-glp-1-study-impact-interactions-with-criminal-justice-system-employment/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-14",
+      "summary": "A wave of clinical trials have begun to test the ability of GLP-1 weight loss drugs to quell various substance use disorders, with some promising results.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: Lobbyists and trade groups fight to shape how states regulate medical AI",
+      "url": "https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-14",
+      "summary": "Lobbying groups for doctors and hospitals and trade groups are working behind the scenes on how to regulate AI in medicine.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Opinion: How states can resist the potential Trump vaccine shortages",
+      "url": "https://www.statnews.com/2026/10/14/state-vaccine-factories-trump-shortages-vicp/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-14",
+      "summary": "“States can serve as a last line of defense against the Trump administration’s anti-vaccine policy,” writes Joel Dodge.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Opinion: We think a baby’s gut microbiome could be key to lifelong brain health",
+      "url": "https://www.statnews.com/2026/10/14/gut-microbiome-baby-brain-health-research/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-14",
+      "summary": "“We need more rigorous, large-scale research into the gut-brain axis across the life course,” write Holly Baines and George Vradenburg.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Confido Health nabs $12.5M to scale agentic AI across PE-backed medical groups",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/confido-health-expands-beyond-voice-ai-agentic-platform-medical-practices",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-14",
+      "summary": "The company secured a $12.5 million series A extension following its $10 million series A round announced in September to continue scaling an AI platform for end-to-end healthcare operations.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
       "title": "Judge rejects NC State Health Plan's request to block Atrium Health's affordability program",
       "url": "https://www.fiercehealthcare.com/payers/judge-rejects-nc-state-health-plans-request-block-atrium-affordability-program",
       "source": "Fierce Healthcare",
@@ -340,20 +448,20 @@
       "categoryLabel": "Mergers & M&A"
     },
     {
-      "title": "Measles update: US passes 4,000 cases, Pennsylvania reports sixth death",
-      "url": "https://www.fiercehealthcare.com/providers/measles-update-us-passes-4000-cases-pennsylvania-reports-sixth-death",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-14",
-      "summary": "Experts have pointed to sagging vaccination rates and friction between federal health leadership and the broader public health community as contributors to this year’s outbreaks of the vaccine-preventable disease.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
       "title": "CVS, DOJ reach $315M settlement in opioid prescription case",
       "url": "https://www.fiercehealthcare.com/payers/cvs-doj-reach-315m-settlement-opioid-prescription-case",
       "source": "Fierce Healthcare",
       "publishedAt": "2026-10-14",
       "summary": "CVS Health has reached a $315 million settlement with the Department of Justice that resolves allegations the pharmacy giant knowingly filled unlawful opioid prescriptions.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Measles update: US passes 4,000 cases, Pennsylvania reports sixth death",
+      "url": "https://www.fiercehealthcare.com/providers/measles-update-us-passes-4000-cases-pennsylvania-reports-sixth-death",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-14",
+      "summary": "Experts have pointed to sagging vaccination rates and friction between federal health leadership and the broader public health community as contributors to this year’s outbreaks of the vaccine-preventable disease.",
       "category": "general_market",
       "categoryLabel": "General Market"
     },
@@ -4761,114 +4869,6 @@
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-06",
       "summary": "Karen Hanlon has been appointed president and CEO of Pittsburgh-based Highmark Health, effective Jan. 1.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "The most in-demand providers — and their salaries by region",
-      "url": "https://www.beckershospitalreview.com/compensation-issues/the-most-in-demand-providers-and-their-salaries-by-region/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-06",
-      "summary": "AMN Healthcare&#8217;s five most requested providers are anesthesiologists, family medicine physicians, hematologists/oncologists, nurse practitioners and OB-GYNs. Their pay varies widely by region, according to the firm&#8217;s &#8220;2026 Review of Physician and Advanced Practitioner Recruiting Incentives,&#8221; released Sept.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Physician noncompete crackdown: A 50-state guide",
-      "url": "https://www.beckershospitalreview.com/quality/hospital-physician-relationships/physician-noncompete-crackdown-a-50-state-guide/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-06",
-      "summary": "Eighteen states now generally ban or void noncompete agreements for physicians, according to a September 2026 state-by-state guide from law firm Tucker Arensberg. The firm sorts the rest into three groups.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "UNC Health VP of managed care retiring after 30 years with system",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/unc-health-vp-of-managed-care-retiring-after-30-years-with-system/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-06",
-      "summary": "Scott Trott, vice president of managed care at Chapel Hill, N.C.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "8 called-off hospital deals",
-      "url": "https://www.beckershospitalreview.com/hospital-transactions-and-valuation/6-called-off-hospital-deals-2/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-06",
-      "summary": "Several hospital and health system partnerships, affiliations and proposed transactions have been called off or unwound this year, reflecting shifting strategic priorities, financial considerations and evolving market dynamics.&#160; From merger discussions that ended after years of negotiations to the dissolution of longstanding clinical collaborations and joint ventures, health systems across the country are reevaluating plans [&#8230;] The post 8 called-off hospital deals appeared first on Becker&#039;s Hospital Review | Healthcare News & Analysis.",
-      "category": "mergers_mna",
-      "categoryLabel": "Mergers & M&A"
-    },
-    {
-      "title": "Intermountain lands $50M for $1B children&#8217;s hospital",
-      "url": "https://www.beckershospitalreview.com/capital/intermountain-lands-50m-for-1b-childrens-hospital/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-06",
-      "summary": "Intermountain Healthcare Foundation received a $50 million commitment from Larry and Heidi Canarelli to help develop Nevada&#8217;s first freestanding children&#8217;s hospital. Five things to know: 1.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Sutter hospital names CEO",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/sutter-hospital-names-ceo/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-06",
-      "summary": "Sacramento, Calif.-based Sutter Health has named Tara Overmiller CEO of Sutter Lakeside Hospital in Lakeport, Calif.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Northeast Georgia Health System adds 4 executives",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/northeast-georgia-health-system-adds-4-executives/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-06",
-      "summary": "Gainesville-based Northeast Georgia Health System has added four executives as it expands services across the region, according to a news release shared with Becker&#8217;s. Stephanie Jones, DNP, RN, joined July 27 as chief nursing officer of Northeast Georgia Medical Center Gainesville, where she oversees all nursing operations, the release said.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Ascension looks to &#8216;build reps&#8217; through 3-year community health goals",
-      "url": "https://www.beckershospitalreview.com/strategy/ascension-looks-to-build-reps-through-3-year-community-health-goals/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-06",
-      "summary": "Three years ago, St. Louis-based Ascension set out to close gaps in breast and colorectal cancer screenings, with a focus on communities facing medium-to-high social vulnerability.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "STAT+: AstraZeneca opens new Boston site",
-      "url": "https://www.statnews.com/2026/10/06/biotech-news-astrazeneca-opens-new-boston-site/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-06",
-      "summary": "AstraZeneca opened a new R&#038;D site in Kendall Square yesterday, celebrating a $1 billion investment in the unsettled center of U.S.",
-      "category": "capacity_expansion",
-      "categoryLabel": "Capacity & Expansion"
-    },
-    {
-      "title": "STAT+: Are stem cell treatments about to have their day?",
-      "url": "https://www.statnews.com/2026/10/06/trump-medicare-checks-stem-cell-treatments-fda-dc-diagnosis/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-06",
-      "summary": "Stem cells might be the next peptides, and how Trump's $90 checks will play out after the election.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "What are hospital longevity programs, and what can they tell you about your health?",
-      "url": "https://www.statnews.com/2026/10/06/hospital-longevity-programs-health-status-report-alex-hogan/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-06",
-      "summary": "What can hospital longevity clinics can tell you about your health? STAT's Sarah Todd went to one to find out.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "STAT+: FDA spells out 2027 AI guidance plans",
-      "url": "https://www.statnews.com/2026/10/06/fda-spells-out-2027-ai-guidance-plans-health-tech/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-06",
-      "summary": "In this edition of STAT Health Tech: New AI guidances expected from the the FDA in 2027, Utah expanding its AI sandbox, and more.",
       "category": "ai_tech",
       "categoryLabel": "AI & Digital Tech"
     }
