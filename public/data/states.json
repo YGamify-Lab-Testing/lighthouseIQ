@@ -18,7 +18,7 @@
     },
     {
       "state": "CA",
-      "count": 4
+      "count": 0
     },
     {
       "state": "CO",
@@ -42,7 +42,7 @@
     },
     {
       "state": "GA",
-      "count": 1
+      "count": 0
     },
     {
       "state": "HI",
@@ -162,7 +162,7 @@
     },
     {
       "state": "RI",
-      "count": 0
+      "count": 1
     },
     {
       "state": "SC",
@@ -209,5 +209,5 @@
       "count": 0
     }
   ],
-  "lastUpdated": "2026-10-15T07:07:52.394Z"
+  "lastUpdated": "2026-10-15T13:11:59.336Z"
 }

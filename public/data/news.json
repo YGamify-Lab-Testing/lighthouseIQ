@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T07:10:08.349Z",
+  "lastUpdated": "2026-10-15T13:13:58.883Z",
   "scope": "US healthcare",
   "retentionDays": 90,
   "maxArticles": 500,
@@ -10,72 +10,72 @@
     "sources": [
       {
         "source": "Fierce Healthcare",
-        "articleCount": 241,
+        "articleCount": 244,
         "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 7,
+        "staleHours": 13,
         "status": "ok"
       },
       {
         "source": "Becker's Hospital Review",
-        "articleCount": 116,
-        "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 31,
+        "articleCount": 109,
+        "latestPublishedAt": "2026-10-15T00:00:00.000Z",
+        "staleHours": 13,
         "status": "ok"
       },
       {
         "source": "STAT News",
-        "articleCount": 52,
+        "articleCount": 56,
         "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 7,
+        "staleHours": 13,
         "status": "ok"
       },
       {
         "source": "Federal Register - HHS",
         "articleCount": 41,
         "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 7,
+        "staleHours": 13,
         "status": "ok"
       },
       {
         "source": "Federal Register - FDA",
         "articleCount": 18,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 55,
+        "staleHours": 61,
         "status": "ok"
       },
       {
         "source": "Healthcare Dive",
         "articleCount": 16,
         "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 31,
+        "staleHours": 37,
         "status": "ok"
       },
       {
         "source": "FDA MedWatch RSS",
         "articleCount": 7,
         "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 31,
+        "staleHours": 37,
         "status": "ok"
       },
       {
         "source": "SEC Healthcare Filings",
         "articleCount": 5,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 55,
+        "staleHours": 61,
         "status": "ok"
       },
       {
         "source": "Federal Register - CMS",
         "articleCount": 3,
         "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 31,
+        "staleHours": 37,
         "status": "ok"
       },
       {
         "source": "National Nurses United RSS",
         "articleCount": 1,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 55,
+        "staleHours": 61,
         "status": "ok"
       }
     ]
@@ -83,7 +83,7 @@
   "categoryCoverage": {
     "closures_layoffs": {
       "label": "Closures & Layoffs",
-      "count": 12
+      "count": 13
     },
     "mergers_mna": {
       "label": "Mergers & M&A",
@@ -95,15 +95,15 @@
     },
     "policy_reimbursement": {
       "label": "Policy & Reimbursement",
-      "count": 81
+      "count": 80
     },
     "quality_safety": {
       "label": "Quality & Safety",
-      "count": 8
+      "count": 9
     },
     "capacity_expansion": {
       "label": "Capacity & Expansion",
-      "count": 10
+      "count": 8
     },
     "ai_tech": {
       "label": "AI & Digital Tech",
@@ -111,7 +111,7 @@
     },
     "general_market": {
       "label": "General Market",
-      "count": 194
+      "count": 195
     }
   },
   "quality": {
@@ -125,7 +125,7 @@
       },
       "minArticles24h": {
         "threshold": 20,
-        "actual": 32,
+        "actual": 42,
         "pass": true
       },
       "minRequiredCategoriesCovered": {
@@ -214,6 +214,69 @@
       "categoryLabel": "General Market"
     },
     {
+      "title": "13 recent hospital, health system CEO exits",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/5-recent-hospital-health-system-ceo-exits-3/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "Several hospital and health system CEOs have recently exited their roles, including through retirements and transitions to new organizations. CEO turnover has continued in 2026, with hospitals reporting 74 CEO exits through the first half of the year, up from 68 during the same period in 2025, according to a July 23 report from global [&#8230;] The post 13 recent hospital, health system CEO exits appeared first on Becker&#039;s Hospital Review | Healthcare News & Analysis.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Leaders not spared from health system layoffs in 2026",
+      "url": "https://www.beckershospitalreview.com/finance/leaders-not-spared-from-health-system-layoffs-in-2026/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "At least 13 hospitals and health systems have cut leadership or management roles in 2026 as financial pressures and realignments push organizations to restructure for long-term sustainability. Becker’s covered six hospital layoffs involving leaders in September alone, compared to at least eight throughout all of 2025.",
+      "category": "closures_layoffs",
+      "categoryLabel": "Closures & Layoffs"
+    },
+    {
+      "title": "Kenya reports second Ebola case",
+      "url": "https://www.statnews.com/2026/10/15/health-news-kenya-reports-second-ebola-case/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-15",
+      "summary": "Kenya reports a second Ebola case. Meanwhile, the situation in Congo is still quite dire.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: On Wall Street, there&#8217;s trouble stirring for biotech",
+      "url": "https://www.statnews.com/2026/10/15/wall-street-biotech-trouble-stirring/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-15",
+      "summary": "On Wall Street, the real trouble for biotech, and the reason for investor angst, lies below the surface.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Forty percent of high school students report binge eating in new CDC survey",
+      "url": "https://www.statnews.com/2026/10/15/teenage-binge-eating-cdc-survey-finds-alarming-rate/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-15",
+      "summary": "About 40% of high school students reported binge-eating in the past month in a new CDC survey, highlighting how widespread this form of disordered eating is among young people.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Opinion: MyChart said I could opt out of sharing my health data. Figuring out how was maddening",
+      "url": "https://www.statnews.com/2026/10/15/health-data-privacy-medical-record-opt-out-barriers-investigated/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-15",
+      "summary": "Want to opt out of sharing your personal health data? You may need a notary, writes Alex Rosenblat.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Opinion: My daughter’s death changed how I understood the nursing shortage",
+      "url": "https://www.statnews.com/2026/10/15/nursing-shortage-workforce-direct-support-home-care-workers-group-home/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-15",
+      "summary": "Health systems invest in training, but lose early-career nurses within a few years.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
       "title": "Compass Pathways CEO: Psychedelics company will &#8216;go slow before we go fast&#8217;",
       "url": "https://www.statnews.com/2026/10/14/compass-pathways-psychedelics-stat-summit/?utm_campaign=rss",
       "source": "STAT News",
@@ -221,6 +284,33 @@
       "summary": "The CEO of Compass Pathways said the company, whose psychedelic therapy is set for regulatory review this year, is prepared to “go slow before we go fast.",
       "category": "ai_tech",
       "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Elevance Health Foundation launched a prize program for patient safety initiatives. Here's why",
+      "url": "https://www.fiercehealthcare.com/payers/elevance-health-foundation-launched-prize-program-patient-safety-initiatives-heres-why",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-15",
+      "summary": "The Elevance Health Foundation has launched a new prize program aimed at supporting solutions aimed at improving patient safety, with the first crop of winners targeting challenges like health literacy, fall prevention and medication errors.",
+      "category": "quality_safety",
+      "categoryLabel": "Quality & Safety"
+    },
+    {
+      "title": "American Academy of Family Physicians joins physician social network Roon",
+      "url": "https://www.fiercehealthcare.com/providers/american-academy-family-physicians-joins-physician-social-network-roon",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-15",
+      "summary": "AAFP members will be able to use the platform to connect with peers as part of the collaboration.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "As prior auth becomes an AI ‘arms race,’ Otter Health raises $8M for a different approach",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/otter-health-launches-8m-take-prior-authorization",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-15",
+      "summary": "The company built an AI-powered real-time clinical quality platform to better manage healthcare utilization by influencing care decisions rather than requiring clinicians to get permission for them.",
+      "category": "quality_safety",
+      "categoryLabel": "Quality & Safety"
     },
     {
       "title": "Big-ticket hospital deals are becoming the M&A story of 2026",
@@ -4773,96 +4863,6 @@
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-07",
       "summary": "Coral Gables, Fla.-based Baptist Health broke ground Oct.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Mount Sinai taps Dr. Livia Agnes Veress for 2 pediatric leadership roles",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/mount-sinai-taps-dr-livia-agnes-veress-for-2-pediatric-leadership-roles/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-07",
-      "summary": "New York City-based Mount Sinai Health System named Livia Agnes Veress, MD, vice chair for research in its Jack and Lucy Clark Department of Pediatrics and system chief of pediatric pulmonology, effective Sept. 1.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Louisiana hospital to close labor and delivery unit",
-      "url": "https://www.beckershospitalreview.com/finance/louisiana-hospital-to-close-labor-and-delivery-unit/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-07",
-      "summary": "Lane Regional Medical Center in Zachary, La., will close its inpatient labor and delivery unit Oct.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "DME fraud cases top $1.5B since May",
-      "url": "https://www.beckershospitalreview.com/post-acute/1-5b-in-dme-fraud-cases-mount/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-07",
-      "summary": "Federal prosecutors have secured guilty pleas or prison sentences in at least six durable medical equipment fraud cases tied to more than $1.5 billion in claims since late May, and CMS has barred 11 DME suppliers from Medicare Advantage payments.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Fewer than half of hospitals use catheter reminders to prevent CAUTIs: 20-year study",
-      "url": "https://www.beckershospitalreview.com/quality/patient-safety-outcomes/fewer-than-half-of-hospitals-use-catheter-reminders-to-prevent-cautis-20-year-study/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-07",
-      "summary": "Hospitals&#8217; use of two high-yield practices for preventing catheter-associated urinary tract infections, commonly known as CAUTIs, has stalled or slipped since 2017, according to research published Oct. 6 in JAMA Network Open.",
-      "category": "quality_safety",
-      "categoryLabel": "Quality & Safety"
-    },
-    {
-      "title": "How Optum helped build a Kentucky health system&#8217;s virtual nursing program",
-      "url": "https://www.beckershospitalreview.com/quality/nursing/how-optum-helped-build-a-kentucky-health-systems-virtual-nursing-program/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-07",
-      "summary": "A bedside nurse facing competing demands may have to weigh spending their time building a discharge plan for one patient against attending to another patient&#8217;s immediate needs. But at Owensboro Health, much of that first job now goes to a nurse on a screen.",
-      "category": "capacity_expansion",
-      "categoryLabel": "Capacity & Expansion"
-    },
-    {
-      "title": "Baylor Scott &#038; White physician leader joins Albany Med as clinical chief",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/baylor-scott-white-physician-leader-joins-albany-med-as-clinical-chief/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-07",
-      "summary": "Albany (N.Y.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Encompass Health opens 50-bed rehab hospital in Maine",
-      "url": "https://www.beckershospitalreview.com/capital/encompass-health-opens-50-bed-rehab-hospital-in-maine/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-07",
-      "summary": "Birmingham, Ala.-based Encompass Health has opened a 50-bed inpatient rehabilitation hospital in Bangor, Maine.",
-      "category": "capacity_expansion",
-      "categoryLabel": "Capacity & Expansion"
-    },
-    {
-      "title": "Leadership strategies shaping 5 health system turnarounds",
-      "url": "https://www.beckershospitalreview.com/finance/leadership-strategies-shaping-5-health-system-turnarounds/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-07",
-      "summary": "Health systems facing financial pressure are focused on approaches that move the needle in a meaningful way, and for several large organizations, those approaches have led to swings of hundreds of millions of dollars in operating performance. Becker&#8217;s talked to leaders and reported on turnarounds at five systems that were posting operating losses in recent [&#8230;] The post Leadership strategies shaping 5 health system turnarounds appeared first on Becker&#039;s Hospital Review | Healthcare News & Analysis.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "AI is uncovering healthcare security flaws",
-      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/cybersecurity/ai-is-uncovering-healthcare-security-flaws/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-07",
-      "summary": "AI-powered testing is uncovering security weaknesses in healthcare technology, from EHR configurations that could permit undetected record access to hospital websites that could expose patient information. Epic and Google-owned cybersecurity company Wiz illustrates how AI is being used to search for vulnerabilities across both healthcare software and hospitals’ public-facing systems.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Trump administration proposes $70,000 fee for popular international student work program",
-      "url": "https://www.statnews.com/2026/10/07/trump-administration-proposes-fee-targeting-interational-students-optional-practical-training/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-07",
-      "summary": "The Trump administration has proposed a $70,000 fee for a popular work authorization program meant to give students professional experience",
       "category": "general_market",
       "categoryLabel": "General Market"
     }

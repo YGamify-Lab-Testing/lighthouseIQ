@@ -141,20 +141,6 @@
       "silent_signal_flag": false
     },
     {
-      "notice_id": "904726431df1cfb0",
-      "state": "CA",
-      "employer_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
-      "parent_system": "Kaiser Foundation Hospitals and Kaiser Foundation Health",
-      "facility_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
-      "notice_date": "2026-11-05",
-      "effective_date": "2026-13-04",
-      "lead_time_days": null,
-      "expected_lead_days": null,
-      "early_warning": false,
-      "nursing_score": 0,
-      "silent_signal_flag": false
-    },
-    {
       "notice_id": "e64598f47d40c44f",
       "state": "MN",
       "employer_name": "Meadow Lane Healthcare 2023 Benson Health/Social Assist",
@@ -337,6 +323,6 @@
       "silent_signal_flag": false
     }
   ],
-  "count": 24,
-  "lastUpdated": "2026-10-15T07:07:52.433Z"
+  "count": 23,
+  "lastUpdated": "2026-10-15T13:11:59.375Z"
 }

@@ -1013,13 +1013,6 @@
       "notices_count": 1
     },
     {
-      "state": "CA",
-      "city": null,
-      "estimated_nurses_available": 0,
-      "specialties": [],
-      "notices_count": 1
-    },
-    {
       "state": "MI",
       "city": null,
       "estimated_nurses_available": 0,
@@ -1279,6 +1272,6 @@
       "notices_count": 1
     }
   ],
-  "count": 178,
-  "lastUpdated": "2026-10-15T07:07:52.433Z"
+  "count": 177,
+  "lastUpdated": "2026-10-15T13:11:59.375Z"
 }
