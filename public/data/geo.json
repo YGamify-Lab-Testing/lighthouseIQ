@@ -983,8 +983,8 @@
     {
       "state": "CA",
       "city": null,
-      "total_notices": 2,
-      "notices_last_90_days": 2,
+      "total_notices": 1,
+      "notices_last_90_days": 1,
       "risk_level": "green"
     },
     {
@@ -1248,5 +1248,5 @@
     }
   ],
   "count": 178,
-  "lastUpdated": "2026-10-15T01:18:37.051Z"
+  "lastUpdated": "2026-10-15T07:07:52.433Z"
 }

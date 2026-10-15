@@ -141,20 +141,6 @@
       "silent_signal_flag": false
     },
     {
-      "notice_id": "58a626be656141a7",
-      "state": "CA",
-      "employer_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (74 N. Pasadena Ave.)",
-      "parent_system": "Kaiser Foundation Hospitals and Kaiser Foundation Health",
-      "facility_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (74 N. Pasadena Ave.)",
-      "notice_date": "2026-11-05",
-      "effective_date": "2026-13-04",
-      "lead_time_days": null,
-      "expected_lead_days": null,
-      "early_warning": false,
-      "nursing_score": 0,
-      "silent_signal_flag": false
-    },
-    {
       "notice_id": "904726431df1cfb0",
       "state": "CA",
       "employer_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
@@ -351,6 +337,6 @@
       "silent_signal_flag": false
     }
   ],
-  "count": 25,
-  "lastUpdated": "2026-10-15T01:18:37.051Z"
+  "count": 24,
+  "lastUpdated": "2026-10-15T07:07:52.433Z"
 }

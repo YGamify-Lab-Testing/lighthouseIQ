@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T01:20:39.952Z",
+  "lastUpdated": "2026-10-15T07:10:08.277Z",
   "scope": "US healthcare",
   "sourceManifestVersion": "1.0.0",
   "sourceHealth": [
@@ -204,6 +204,72 @@
   ],
   "articles": [
     {
+      "title": "Authorization of Emergency Use for Four Animal Drugs for the Prevention and Treatment of New World Screwworm; Availability",
+      "summary": "The Food and Drug Administration (FDA or the Agency) is announcing the issuance of four Emergency Use Authorizations (EUA or Authorization) under the Federal Food, Drug, and Cosmetic Act (FD&C Act) for new animal products. FDA has issued one EUA for an animal product as requested by Elanco US Inc. for application on or around wounds for the prevention of infestations caused by New World screwworm (Cochliomyia hominivorax; NWS) larvae (myiasis) in sheep, cattle, goats, swine, camelids, and the following captive and captured wildlife species: cervids, American bison, bighorn sheep, and Sonoran pronghorn. FDA has issued one EUA for an animal product as requested by Zoetis Inc. for the treatment of infestations caused by NWS (myiasis) in dogs and puppies. FDA has issued one EUA for an animal product as requested by Bimeda Animal Health Ltd. for the prevention of infestations caused by NWS (myiasis) in cattle. FDA has issued one EUA for an animal product as requested by Sergeant's Pet Care Products LLC for the treatment and prevention of infestations caused by NWS (myiasis) in dogs, puppies, cats and kittens 2 pounds of body weight or greater and 4 weeks of age and older. The Authorizations contain, among other things, conditions on the emergency use of the authorized products. The Authorizations follow the August 18, 2025, determination by the Secretary of Health and Human Services (HHS) that there is a significant potential for a public health emergency that has a significant potential to affect national security or the health and security of U.S. citizens living abroad and that involves NWS. On the basis of such determination, the Secretary of HHS declared on August 18, 2025, that circumstances exist justifying the authorization of emergency use of animal drugs to treat or prevent NWS myiasis in animals. The Authorizations, which include an explanation of the reasons for issuance, are reprinted in this document.",
+      "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21084/authorization-of-emergency-use-for-four-animal-drugs-for-the-prevention-and-treatment-of-new-world",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-15",
+      "category": "policy_reimbursement",
+      "relevance": 100
+    },
+    {
+      "title": "Order Under Sections 362 and 365 of the Public Health Service Act Continuing the Suspension of the Right To Introduce Certain Persons From Countries Where a Quarantinable Communicable Disease Exists",
+      "summary": "The Centers for Disease Control and Prevention (CDC), a component of the Department of Health and Human Services (HHS), announces it is issuing an Order under Sections 362 and 365 of the Public Health Service Act, and associated implementing regulations, continuing the suspension of the right to introduce certain persons from countries where an outbreak of a quarantinable communicable disease exists. This Order was issued on October 11 and shall remain in effect through 4:59 p.m. Eastern Daylight Time (EDT) on Tuesday, November 10, 2026. This Order may be amended or rescinded prior to that time at the discretion of the Director.",
+      "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21036/order-under-sections-362-and-365-of-the-public-health-service-act-continuing-the-suspension-of-the",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-15",
+      "category": "policy_reimbursement",
+      "relevance": 100
+    },
+    {
+      "title": "Request for Nominations for Voting Members on a Public Advisory Committee; Tobacco Products Scientific Advisory Committee (TPSAC)",
+      "summary": "The Food and Drug Administration (FDA) is requesting nominations for members to serve on the Tobacco Products Scientific Advisory Committee (TPSAC), in the Center for Tobacco Products. FDA seeks to include the views of qualified individuals on its advisory committees and therefore encourages nominations of appropriately qualified candidates. Specifically, TPSAC is seeking to fill 2 voting member vacancies with physicians, dentists, scientists, or health care professionals practicing in the areas of oncology, pulmonology, cardiology, toxicology, pharmacology, addiction, engineering, or any other relevant specialty.",
+      "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21027/request-for-nominations-for-voting-members-on-a-public-advisory-committee-tobacco-products",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-15",
+      "category": "policy_reimbursement",
+      "relevance": 100
+    },
+    {
+      "title": "Center for Scientific Review; Amended Notice of Meeting",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21099/center-for-scientific-review-amended-notice-of-meeting",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-15",
+      "category": "policy_reimbursement",
+      "relevance": 96
+    },
+    {
+      "title": "National Institute on Drug Abuse; Notice of Closed Meeting",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21098/national-institute-on-drug-abuse-notice-of-closed-meeting",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-15",
+      "category": "policy_reimbursement",
+      "relevance": 96
+    },
+    {
+      "title": "Agency Information Collection Activities: Submission for OMB Review; Comment Request",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21057/agency-information-collection-activities-submission-for-omb-review-comment-request",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-15",
+      "category": "policy_reimbursement",
+      "relevance": 96
+    },
+    {
       "title": "Statement of Delegation of Authority",
       "summary": "",
       "url": "https://www.federalregister.gov/documents/2026/10/14/2026-21001/statement-of-delegation-of-authority",
@@ -314,17 +380,6 @@
       "relevance": 100
     },
     {
-      "title": "Division of Program Coordination, Planning, and Strategic Initiatives, Office of the Director Notice of Proposed Reorganization",
-      "summary": "The Division of Program Coordination, Planning, and Strategic Initiatives (DPCPSI) in the Office of the Director (OD), National Institutes of Health (NIH) is seeking public comment regarding its proposal to establish the Office of the NIH Chief Artificial Intelligence Officer (OCAIO) within DPCPSI and move the Office of Dietary Supplements (ODS) under the Office of Nutrition Research (ONR) within DPCPSI in OD, NIH.",
-      "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20891/division-of-program-coordination-planning-and-strategic-initiatives-office-of-the-director-notice-of",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-14",
-      "category": "ai_tech",
-      "relevance": 100
-    },
-    {
       "title": "Convenience Kit Recall: AVID Medical Removes Convenience Kits Affected by BD ChloraPrep Applicator Recall",
       "summary": "Avid Medical is removing certain convenience kits affected by the BD ChloraPrep Applicator Recall that may be contaminated with Aspergillus penicillioides.",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-avid-medical-removes-convenience-kits-affected-bd-chloraprep-applicator-0",
@@ -402,56 +457,12 @@
       "relevance": 96
     },
     {
-      "title": "Agency Information Collection Activities: Submission to OMB for Review and Approval; Public Comment Request; Healthy Start Evaluation and Quality Improvement, OMB No. 0915-0338-Revision",
-      "summary": "In compliance with the Paperwork Reduction Act of 1995, HRSA submitted an Information Collection Request (ICR) to the Office of Management and Budget (OMB) for review and approval. Comments submitted during the first public review of this ICR will be provided to OMB. OMB will accept further comments from the public during the review and approval period. OMB may act on HRSA's ICR only after the 30-day comment period for this notice has closed.",
-      "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20867/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-13",
-      "category": "quality_safety",
-      "relevance": 100
-    },
-    {
       "title": "Use of Salt Substitutes To Reduce the Sodium Content in Standardized Foods",
       "summary": "The Food and Drug Administration (FDA or we) is issuing a final rule to amend our standard of identity regulations that specify salt (sodium chloride) as a required or optional ingredient to permit the use of salt substitutes in standardized foods, to reduce the sodium content. Reducing sodium may help reduce the risk of hypertension, a major risk factor for heart disease and stroke. The rule will help support a healthier food supply by providing flexibility to facilitate industry innovation in the production of standardized foods lower in sodium while maintaining the basic nature and essential characteristics of the foods.",
       "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20848/use-of-salt-substitutes-to-reduce-the-sodium-content-in-standardized-foods",
-      "source": "Federal Register - HHS",
+      "source": "Federal Register - FDA",
       "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-13",
-      "category": "policy_reimbursement",
-      "relevance": 100
-    },
-    {
-      "title": "Announcing Solicitation of Written Comments To Inform the Physical Activity Guidelines for Americans, 2nd Edition Supplement: 2027 Steps and Muscle-Strengthening Guidance",
-      "summary": "The Department of Health and Human Services (HHS) announces the solicitation of public comments to inform the development of the Physical Activity Guidelines for Americans, 2nd edition Supplement: 2027 Steps and Muscle-Strengthening Guidance (2027 Steps and Muscle- Strengthening Guidance).",
-      "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20833/announcing-solicitation-of-written-comments-to-inform-the-physical-activity-guidelines-for-americans",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-13",
-      "category": "policy_reimbursement",
-      "relevance": 100
-    },
-    {
-      "title": "2025-2026 IACC Summary of Advances",
-      "summary": "The Interagency Autism Coordinating Committee (IACC) is preparing its Summary of Advances, a statutorily mandated report that highlights the most consequential autism research of the past year. The Committee is seeking suggested research articles to highlight for this report. On behalf of the IACC, the National Institute of Mental Health (NIMH) Office of Autism Research Coordination (OARC) is collecting research article suggestions from members of the public.",
-      "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20825/2025-2026-iacc-summary-of-advances",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-13",
-      "category": "policy_reimbursement",
-      "relevance": 100
-    },
-    {
-      "title": "National Institute of Environmental Health Sciences; Notice of Meeting",
-      "summary": "",
-      "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20824/national-institute-of-environmental-health-sciences-notice-of-meeting",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
+      "sourceId": "federal_register_fda",
       "publishedAt": "2026-10-13",
       "category": "policy_reimbursement",
       "relevance": 100
@@ -630,28 +641,6 @@
       "sourceId": "federal_register_fda",
       "publishedAt": "2026-10-09",
       "category": "quality_safety",
-      "relevance": 100
-    },
-    {
-      "title": "Requirements for Additional Traceability Records for Certain Foods: Enforcement Policy for Certain Retail Food Establishments and Restaurants; Draft Guidance for Industry; Availability",
-      "summary": "The Food and Drug Administration (FDA, we, or the Agency) is announcing the availability of a draft guidance for industry titled \"Requirements for Additional Traceability Records for Certain Foods: Enforcement Policy for Certain Retail Food Establishments and Restaurants.\" The draft guidance states that, at this time and based on our current understanding of the risks, FDA does not intend to enforce certain regulatory requirements as they apply to certain entities and/or activities. The applicable requirements are established in our regulation titled \"Requirements for Additional Traceability Records for Certain Foods.\"",
-      "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20721/requirements-for-additional-traceability-records-for-certain-foods-enforcement-policy-for-certain",
-      "source": "Federal Register - FDA",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_fda",
-      "publishedAt": "2026-10-09",
-      "category": "policy_reimbursement",
-      "relevance": 100
-    },
-    {
-      "title": "Challenges and Solutions in Lot-Level Food Traceability; Public Meeting",
-      "summary": "The Food and Drug Administration (FDA, the Agency, or we) is announcing a public meeting titled \"Challenges and Solutions in Lot- Level Food Traceability.\" The purpose of the meeting is to provide a forum for the public to share information on continued implementation of the \"Requirements for Additional Traceability Records for Certain Foods\" final rule and areas of concern, especially as they relate to lot-level tracking, and identify potential flexibilities to support compliance.",
-      "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20720/challenges-and-solutions-in-lot-level-food-traceability-public-meeting",
-      "source": "Federal Register - FDA",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_fda",
-      "publishedAt": "2026-10-09",
-      "category": "policy_reimbursement",
       "relevance": 100
     },
     {

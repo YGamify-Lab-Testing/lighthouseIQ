@@ -49,7 +49,7 @@
         "medium_event_50plus"
       ],
       "silent_signal_flag": false,
-      "retrieved_at": "2026-10-15T01:16:57.527Z"
+      "retrieved_at": "2026-10-15T07:06:17.749Z"
     },
     {
       "id": "c737a25b822c3a0e",
@@ -97,9 +97,9 @@
         "nursing_keywords"
       ],
       "silent_signal_flag": true,
-      "retrieved_at": "2026-10-15T01:16:57.527Z"
+      "retrieved_at": "2026-10-15T07:06:17.749Z"
     }
   ],
   "count": 2,
-  "lastUpdated": "2026-10-15T01:18:37.052Z"
+  "lastUpdated": "2026-10-15T07:07:52.434Z"
 }

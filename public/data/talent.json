@@ -1017,7 +1017,7 @@
       "city": null,
       "estimated_nurses_available": 0,
       "specialties": [],
-      "notices_count": 2
+      "notices_count": 1
     },
     {
       "state": "MI",
@@ -1280,5 +1280,5 @@
     }
   ],
   "count": 178,
-  "lastUpdated": "2026-10-15T01:18:37.052Z"
+  "lastUpdated": "2026-10-15T07:07:52.433Z"
 }
