@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T18:13:05.939Z",
+  "lastUpdated": "2026-10-15T22:08:15.579Z",
   "scope": "US healthcare",
   "retentionDays": 90,
   "maxArticles": 500,
@@ -10,72 +10,72 @@
     "sources": [
       {
         "source": "Fierce Healthcare",
-        "articleCount": 235,
+        "articleCount": 222,
         "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 18,
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "Becker's Hospital Review",
-        "articleCount": 113,
+        "articleCount": 123,
         "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 18,
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "STAT News",
-        "articleCount": 63,
+        "articleCount": 65,
         "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 18,
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "Federal Register - HHS",
         "articleCount": 37,
         "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 18,
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "Healthcare Dive",
         "articleCount": 20,
         "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 18,
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "Federal Register - FDA",
         "articleCount": 17,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 66,
+        "staleHours": 70,
         "status": "ok"
       },
       {
         "source": "FDA MedWatch RSS",
-        "articleCount": 7,
-        "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 42,
+        "articleCount": 8,
+        "latestPublishedAt": "2026-10-15T00:00:00.000Z",
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "SEC Healthcare Filings",
         "articleCount": 5,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 66,
+        "staleHours": 70,
         "status": "ok"
       },
       {
         "source": "Federal Register - CMS",
         "articleCount": 2,
         "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 42,
+        "staleHours": 46,
         "status": "ok"
       },
       {
         "source": "National Nurses United RSS",
         "articleCount": 1,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 66,
+        "staleHours": 70,
         "status": "ok"
       }
     ]
@@ -87,7 +87,7 @@
     },
     "mergers_mna": {
       "label": "Mergers & M&A",
-      "count": 34
+      "count": 36
     },
     "labor_unions": {
       "label": "Labor & Unions",
@@ -95,7 +95,7 @@
     },
     "policy_reimbursement": {
       "label": "Policy & Reimbursement",
-      "count": 75
+      "count": 73
     },
     "quality_safety": {
       "label": "Quality & Safety",
@@ -103,15 +103,15 @@
     },
     "capacity_expansion": {
       "label": "Capacity & Expansion",
-      "count": 6
+      "count": 7
     },
     "ai_tech": {
       "label": "AI & Digital Tech",
-      "count": 161
+      "count": 156
     },
     "general_market": {
       "label": "General Market",
-      "count": 197
+      "count": 201
     }
   },
   "quality": {
@@ -125,7 +125,7 @@
       },
       "minArticles24h": {
         "threshold": 20,
-        "actual": 64,
+        "actual": 78,
         "pass": true
       },
       "minRequiredCategoriesCovered": {
@@ -178,6 +178,18 @@
       "categoryLabel": "General Market"
     },
     {
+      "title": "Early Alert: Transcatheter Mitral Valve Delivery System Issue from Edwards Lifesciences",
+      "summary": "Potential balloon burst during inflation can lead to embolism or the need for surgery.",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-transcatheter-mitral-valve-delivery-system-issue-edwards-lifesciences",
+      "source": "FDA MedWatch RSS",
+      "sourceType": "rss",
+      "sourceId": "fda_medwatch_rss",
+      "publishedAt": "2026-10-15",
+      "category": "general_market",
+      "relevance": 98,
+      "categoryLabel": "General Market"
+    },
+    {
       "title": "Center for Scientific Review; Amended Notice of Meeting",
       "summary": "",
       "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21099/center-for-scientific-review-amended-notice-of-meeting",
@@ -214,94 +226,112 @@
       "categoryLabel": "General Market"
     },
     {
-      "title": "RWJBarnabas wrongfully diverted business from Saint Peter&#8217;s: Lawsuit",
-      "url": "https://www.beckershospitalreview.com/legal-regulatory-issues/rwjbarnabas-wrongfully-diverted-business-from-saint-peters-lawsuit/",
+      "title": "Public health emergencies declared after Hurricane Isaias: 7 notes for hospitals",
+      "url": "https://www.beckershospitalreview.com/quality/public-health/public-health-emergencies-declared-after-hurricane-isaias-7-notes-for-hospitals/",
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-15",
-      "summary": "New Brunswick, N.J.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
+      "summary": "HHS has declared public health emergencies in Florida and Alabama following Hurricane Isaias, allowing hospitals and other healthcare providers affected by the storm to access temporary federal regulatory flexibilities. HHS Secretary Robert F.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
     },
     {
-      "title": "RWJBarnabas creates new exec role for physician improvement",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/rwjbarnabas-creates-new-exec-role-for-physician-improvement/",
+      "title": "California hospital hits 8 days of cash on hand, faces &#8216;serious financial gap&#8217;",
+      "url": "https://www.beckershospitalreview.com/finance/california-hospital-hits-8-days-of-cash-on-hand-faces-serious-financial-gap/",
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-15",
-      "summary": "RWJBarnabas Health, a 14-hospital system based in West Orange, N.J.",
+      "summary": "Watsonville (Calif.) Community Hospital has about eight days of cash on hand and faces &#8220;a serious financial gap&#8221; that could close the hospital within six to 12 months without action, according to an Oct.",
       "category": "general_market",
       "categoryLabel": "General Market"
     },
     {
-      "title": "31 NFL teams partner with health systems: 34 to know",
-      "url": "https://www.beckershospitalreview.com/digital-marketing/31-nfl-teams-partner-with-health-systems-34-to-know/",
+      "title": "Bayhealth plans $250M hospital expansion as part of 7-project strategy",
+      "url": "https://www.beckershospitalreview.com/capital/bayhealth-plans-250m-hospital-expansion-as-part-of-7-project-strategy/",
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-15",
-      "summary": "Hospitals and health systems have partnerships spanning at least 31 of the NFL’s 32 teams for the 2026 season, ranging from player medical care and practice facility naming rights to pediatric programs and training camp sponsorships. Some teams have changed partners recently.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
+      "summary": "Dover, Del.-based Bayhealth plans to grow its Kent campus inpatient facility from four floors to 10 in a $250 million project, the largest piece of a seven-project investment strategy, NPR affiliate WHYY reported Oct.",
+      "category": "capacity_expansion",
+      "categoryLabel": "Capacity & Expansion"
     },
     {
-      "title": "The best Medicare Advantage companies for 2027: US News",
-      "url": "https://www.beckershospitalreview.com/rankings-and-ratings/the-best-medicare-advantage-companies-for-2027-us-news/",
+      "title": "HHS sends peptide compounding plan to White House: 5 things to know",
+      "url": "https://www.beckershospitalreview.com/glp-1s/hhs-sends-peptide-compounding-plan-to-white-house-5-things-to-know/",
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-15",
-      "summary": "Kaiser Permanente led the 2027 U.S.",
+      "summary": "HHS has submitted a peptide &#8220;interim access policy&#8221; to the White House Office of Management and Budget for review, according to a listing on OMB&#8217;s regulatory review site. Here are five things to know: The post HHS sends peptide compounding plan to White House: 5 things to know appeared first on Becker&#039;s Hospital Review | Healthcare News & Analysis.",
       "category": "policy_reimbursement",
       "categoryLabel": "Policy & Reimbursement"
     },
     {
-      "title": "UNM Hospital names next CEO",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/unm-hospital-names-next-ceo/",
+      "title": "UK HealthCare breaks ground on $275M medical office building",
+      "url": "https://www.beckershospitalreview.com/capital/uk-healthcare-breaks-ground-on-275m-medical-office-building/",
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-15",
-      "summary": "The University of New Mexico in Albuquerque has named Steve McLaughlin, MD, CEO of UNM Hospital and vice president of clinical affairs, effective Dec. 6.",
+      "summary": "Lexington, Ky.-based UK HealthCare broke ground Oct.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "St. David&#8217;s HealthCare CEO to retire",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/st-davids-healthcare-ceo-to-retire/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "David Huffstutler, president and CEO of Austin, Texas-based St. David&#8217;s HealthCare, has shared plans to retire in March 2027, according to an Oct.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "California&#8217;s early flu season: How 4 systems are responding",
+      "url": "https://www.beckershospitalreview.com/quality/public-health/californias-early-flu-season-how-4-systems-are-responding/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "Flu activity in California is running weeks ahead of a typical season, and emergency departments are feeling it first.&#160; Four California health systems told Becker&#8217;s what they are seeing so far: more ED visits and positive tests, admissions rising and open questions about whether the early surge will fade or overlap with COVID-19 and respiratory [&#8230;] The post California&#8217;s early flu season: How 4 systems are responding appeared first on Becker&#039;s Hospital Review | Healthcare News & Analysis.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
+    },
+    {
+      "title": "Medical group CEO pay climbs as health systems grow physician enterprises",
+      "url": "https://www.beckershospitalreview.com/compensation-issues/medical-group-ceo-pay-climbs-as-health-systems-grow-physician-enterprises/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "As health systems widen the reach of the physician groups they own, the executives running those groups are seeing their pay rise, with incentive pay doing most of the lifting. Median total cash compensation for presidents and CEOs of health system-owned medical groups rose 7.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "HCA hospital CEO leaves Florida post for Texas hospital",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/hca-hospital-ceo-leaves-florida-post-for-texas-hospital/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "Chase Christianson was named CEO of HCA Houston Healthcare Kingwood, a 451-bed hospital in Texas that is part of Nashville, Tenn.-based HCA Healthcare, effective Oct.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "MyMichigan Health investigates data theft claims",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/cybersecurity/mymichigan-health-investigates-data-theft-claims/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "Midland, Mich.-based MyMichigan Health is investigating claims of data theft made by a group calling itself MetaEncryptor, though the health system said it has found no evidence of unauthorized access to its systems or compromised patient information.",
       "category": "ai_tech",
       "categoryLabel": "AI & Digital Tech"
     },
     {
-      "title": "UAB Medicine logo to appear on UAB basketball jerseys in 5-year deal",
-      "url": "https://www.beckershospitalreview.com/digital-marketing/uab-medicine-logo-to-appear-on-uab-basketball-jerseys-in-5-year-deal/",
-      "source": "Becker's Hospital Review",
+      "title": "Trump administration advances plan for peptide drugs favored by RFK Jr.",
+      "url": "https://www.statnews.com/2026/10/15/trump-administration-advances-plan-peptides-rfk-jr/?utm_campaign=rss",
+      "source": "STAT News",
       "publishedAt": "2026-10-15",
-      "summary": "Birmingham, Ala.-based UAB Medicine will put its logo on the primary game jerseys of the University of Alabama at Birmingham’s men’s and women’s basketball teams under an expanded five-year partnership with UAB Athletics.",
+      "summary": "U.S.",
       "category": "general_market",
       "categoryLabel": "General Market"
     },
     {
-      "title": "Annual new dementia cases projected to more than double by 2050: Study",
-      "url": "https://www.beckershospitalreview.com/post-acute/annual-new-dementia-cases-projected-to-more-than-double-by-2050-study/",
-      "source": "Becker's Hospital Review",
+      "title": "Merck and Moderna have ‘lot of exploring to do’ after initial cancer vaccine success",
+      "url": "https://www.statnews.com/2026/10/15/moderna-merck-keytruda-mrna-cancer-vaccine-strategy/?utm_campaign=rss",
+      "source": "STAT News",
       "publishedAt": "2026-10-15",
-      "summary": "New dementia cases worldwide are projected to more than double by 2050, from an estimated 11.4 million in 2023 to 24.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "OpenEvidence drew 271M queries from 952,000 clinicians in 2.5 years",
-      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/openevidence-drew-271m-queries-from-952000-clinicians-in-2-5-years/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-15",
-      "summary": "OpenEvidence drew 271 million queries from 952,008 U.S.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Ohio State Wexner Medical Center names chief communications and marketing officer",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/ohio-state-wexner-medical-center-names-chief-communications-and-marketing-officer/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-15",
-      "summary": "Columbus-based Ohio State University Wexner Medical Center has named Molly Biwer its next chief communications and marketing officer, pending approval from the university’s board of trustees. Ms.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Can patients actually opt out of Epic’s Care Everywhere?",
-      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ehrs/can-patients-actually-opt-out-of-epics-care-everywhere/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-15",
-      "summary": "Patients who want to stop their medical records from being shared through Epic’s Care Everywhere network must opt out separately with each provider, and front-line staff may give them wrong information along the way, an Oct. 15 investigation by The Markup, which is part of CalMatters, found.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
+      "summary": "Stephen Hoge and Dean Li, at the STAT Summit, spoke of how Merck and Moderna will pair Keytruda with personalized mRNA vaccines to target tumors.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
     },
     {
       "title": "The Trump administration is doubling down on health care fraud investigations",
@@ -455,6 +485,105 @@
       "summary": "<figure><div><img src=\"https://imgproxy.divecdn.",
       "category": "mergers_mna",
       "categoryLabel": "Mergers & M&A"
+    },
+    {
+      "title": "Epic teams up with Amazon Pharmacy, Eli Lilly and Mark Cuban to launch prescription drug pricing tool",
+      "url": "https://www.fiercehealthcare.com/health-tech/epic-teams-amazon-pharmacy-mark-cuban-launch-prescription-drug-pricing-tool",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-15",
+      "summary": "Epic is bringing pharmacy price shopping directly into the doctor's office and the prescribing workflow.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "RWJBarnabas wrongfully diverted business from Saint Peter&#8217;s: Lawsuit",
+      "url": "https://www.beckershospitalreview.com/legal-regulatory-issues/rwjbarnabas-wrongfully-diverted-business-from-saint-peters-lawsuit/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "New Brunswick, N.J.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "RWJBarnabas creates new exec role for physician improvement",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/rwjbarnabas-creates-new-exec-role-for-physician-improvement/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "RWJBarnabas Health, a 14-hospital system based in West Orange, N.J.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "31 NFL teams partner with health systems: 34 to know",
+      "url": "https://www.beckershospitalreview.com/digital-marketing/31-nfl-teams-partner-with-health-systems-34-to-know/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "Hospitals and health systems have partnerships spanning at least 31 of the NFL’s 32 teams for the 2026 season, ranging from player medical care and practice facility naming rights to pediatric programs and training camp sponsorships. Some teams have changed partners recently.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "The best Medicare Advantage companies for 2027: US News",
+      "url": "https://www.beckershospitalreview.com/rankings-and-ratings/the-best-medicare-advantage-companies-for-2027-us-news/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "Kaiser Permanente led the 2027 U.S.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "UNM Hospital names next CEO",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/unm-hospital-names-next-ceo/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "The University of New Mexico in Albuquerque has named Steve McLaughlin, MD, CEO of UNM Hospital and vice president of clinical affairs, effective Dec. 6.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "UAB Medicine logo to appear on UAB basketball jerseys in 5-year deal",
+      "url": "https://www.beckershospitalreview.com/digital-marketing/uab-medicine-logo-to-appear-on-uab-basketball-jerseys-in-5-year-deal/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "Birmingham, Ala.-based UAB Medicine will put its logo on the primary game jerseys of the University of Alabama at Birmingham’s men’s and women’s basketball teams under an expanded five-year partnership with UAB Athletics.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Annual new dementia cases projected to more than double by 2050: Study",
+      "url": "https://www.beckershospitalreview.com/post-acute/annual-new-dementia-cases-projected-to-more-than-double-by-2050-study/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "New dementia cases worldwide are projected to more than double by 2050, from an estimated 11.4 million in 2023 to 24.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "OpenEvidence drew 271M queries from 952,000 clinicians in 2.5 years",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/openevidence-drew-271m-queries-from-952000-clinicians-in-2-5-years/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "OpenEvidence drew 271 million queries from 952,008 U.S.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Ohio State Wexner Medical Center names chief communications and marketing officer",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/ohio-state-wexner-medical-center-names-chief-communications-and-marketing-officer/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "Columbus-based Ohio State University Wexner Medical Center has named Molly Biwer its next chief communications and marketing officer, pending approval from the university’s board of trustees. Ms.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Can patients actually opt out of Epic’s Care Everywhere?",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ehrs/can-patients-actually-opt-out-of-epics-care-everywhere/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "Patients who want to stop their medical records from being shared through Epic’s Care Everywhere network must opt out separately with each provider, and front-line staff may give them wrong information along the way, an Oct. 15 investigation by The Markup, which is part of CalMatters, found.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
     },
     {
       "title": "Chutes & Ladders—Inspira Health outlines leadership transition; Joint Commission names COO",
@@ -4721,132 +4850,6 @@
       "summary": "Following an arbitration agreement, more than 1,000 nurses will be compensated for a payment error that began in 2021, the California Nurses Association said. The major nonprofit confirmed the plans but did not comment on the total amount.",
       "category": "ai_tech",
       "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "After ICE raids, hospitals saw fewer ED visits, more admissions among foreign-born: study",
-      "url": "https://www.fiercehealthcare.com/providers/after-ice-raids-hospitals-saw-fewer-ed-visits-more-admissions-among-foreign-born-study",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-08",
-      "summary": "Studies published this week outline changes in care-seeking behavior tied to heightened federal immigration policy and rhetoric, with ramifications for patient outcomes and healthcare spending.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Cigna unveils new customer experience platform, Health Sense",
-      "url": "https://www.fiercehealthcare.com/payers/cigna-unveils-new-customer-experience-platform-health-sense",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-08",
-      "summary": "Cigna is rolling out a new patient experience platform that aims to harness the power of data to drive greater personalization.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "General Medicine banks $120M backed by a16z, Eli Lilly and Mercy Health to build out healthcare storefront",
-      "url": "https://www.fiercehealthcare.com/health-tech/general-medicine-banks-120m-backed-a16z-eli-lilly-and-mercy-health",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-08",
-      "summary": "General Medicine, started by the founding team that built PillPack and Amazon Pharmacy, is an online marketplace where customers can search, compare and buy care, see insurance and cash prices before deciding, and get guidance from a licensed clinician.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Chutes & Ladders—WellSpan unveils its next CEO; UnitedHealthcare names president",
-      "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-08",
-      "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Utah expands healthcare AI sandbox with August AI, Nolla Health pilots, adds third-party evaluators",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/utah-taps-august-ai-nolla-health-healthcare-ai-sandbox-program-adds-third",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-08",
-      "summary": "Utah is expanding the state's AI regulatory sandbox program with new pilots to test AI-supported prescription renewals, dermatology and physical therapy, while adding physician oversight and independent third-party evaluators.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Senators question Kennedy on 'major break' from USPSTF appointment norms",
-      "url": "https://www.fiercehealthcare.com/regulatory/senators-express-concerns-over-new-uspstf-appointments-seek-information-rfk-jr",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-08",
-      "summary": "The lawmakers expressed concerns over the panel’s ability to make recommendations, the transparency of the application process and more.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "The future of independent contracting in healthcare",
-      "url": "https://www.fiercehealthcare.com/providers/future-independent-contracting-healthcare",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-08",
-      "summary": "More clinicians are turning to independent contracting for greater flexibility, but uncertainty around worker classification can complicate those arrangements. This week on \"Podnosis,\" Senior Writer Anastassia Gliadkovskaya talks with ShiftKey’s Regan Parker about the Department of Labor’s proposed independent contractor rule, portable benefits and what the future of independent contracting could look like in healthcare.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "SCAN, Walmart are teaming up for co-branded MA plans. Here's why",
-      "url": "https://www.fiercehealthcare.com/payers/scan-walmart-are-teaming-co-branded-ma-plans-heres-why",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-08",
-      "summary": "Last month, SCAN Health Plan revealed that it would team up with Walmart to launch co-branded Medicare Advantage plans in two states. Now, the partners are offering a deeper look at how those benefits have taken shape, and why they saw potential in coming together.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Infinitus launches AI agents to help pharma teams reach more providers",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/infinitus-launches-agentic-ai-solution-aid-provider-engagement-pharma",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-08",
-      "summary": "The agents—dubbed FieldForce—provide support sales representatives and field reimbursement managers.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Teladoc Health unveils new AI capabilities within Solo platform for hospitals",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/teladoc-health-unveils-2-new-ai-capabilities-within-solo-platform",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-08",
-      "summary": "The two new tools aim to help health systems surface timely patient insights into their care environments while reducing technology fragmentation, executives say.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Intermountain stepping back from clinically integrated network jointly run, owned with UCHealth",
-      "url": "https://www.fiercehealthcare.com/providers/intermountain-stepping-back-clinically-integrated-network-jointly-run-owned-uchealth",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-08",
-      "summary": "The nonprofits had launched Trinsic in 2023 as a push toward value-based care and improved care coordination. UCHealth will be its sole owner and operator come December.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Lawmakers press CMS to roll back proposed restrictions on remote patient monitoring",
-      "url": "https://www.fiercehealthcare.com/health-tech/lawmakers-press-cms-roll-back-proposed-restrictions-remote-patient-monitoring",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-08",
-      "summary": "A bipartisan group of 32 House lawmakers is pressing CMS Administrator Mehmet Oz to reconsider proposed Medicare payment rule changes that would restrict how remote patient monitoring services are staffed and delivered.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Highmark taps Karen Hanlon as CEO, David Holmberg to transition to executive chairperson",
-      "url": "https://www.fiercehealthcare.com/payers/highmark-taps-karen-hanlon-ceo-david-holmberg-transition-executive-chairman",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-08",
-      "summary": "Highmark is making a change at the top, with Karen Hanlon stepping into the role of CEO on Jan. 1.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "CD&R, McKesson acquiring infusion therapy provider Option Care Health for $5.8B",
-      "url": "https://www.fiercehealthcare.com/finance/cdr-mckesson-acquiring-infusion-therapy-provider-option-care-health-58b",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-08",
-      "summary": "Option Care Health, the country's largest independent provider of at-home and alternate site infusion services, would go private in the deal, which is expected to close in the first half of 2027.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
     }
   ]
 }
