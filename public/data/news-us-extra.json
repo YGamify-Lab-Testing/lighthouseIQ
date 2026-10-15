@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T13:13:58.809Z",
+  "lastUpdated": "2026-10-15T18:13:05.873Z",
   "scope": "US healthcare",
   "sourceManifestVersion": "1.0.0",
   "sourceHealth": [
@@ -941,9 +941,9 @@
       "relevance": 100
     },
     {
-      "title": "Heart Pump Controller Recall: Abiomed Removes Automated Impella Controllers",
-      "summary": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers",
+      "title": "Convenience Kit Correction: Becton Dickinson Issues Correction for Kits and Procedure Trays Containing Recalled Sodium Chloride Ampules",
+      "summary": "BD is correcting convenience kits and procedural trays containing recalled Huons Co. sodium chloride ampules",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-becton-dickinson-issues-correction-kits-and-procedure-trays-containing",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -952,9 +952,9 @@
       "relevance": 98
     },
     {
-      "title": "Convenience Kit Correction: Becton Dickinson Issues Correction for Kits and Procedure Trays Containing Recalled Sodium Chloride Ampules",
-      "summary": "BD is correcting convenience kits and procedural trays containing recalled Huons Co. sodium chloride ampules",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-becton-dickinson-issues-correction-kits-and-procedure-trays-containing",
+      "title": "Heart Pump Controller Recall: Abiomed Removes Automated Impella Controllers",
+      "summary": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -996,9 +996,9 @@
       "relevance": 100
     },
     {
-      "title": "Par Health Issues Voluntary Nationwide Recall of Two Lots of Dexmedetomidine HCl in 0.9% Sodium Chloride Injection Due to the Presence of Particulate Matter",
-      "summary": "ROCHESTER, MI– September 18, 2026 –Par Health is voluntarily recalling two lots of Dexmedetomidine HCl in 0.9% Sodium Chloride Injection 400 mcg/100 mL (4 mcg/mL) to the hospital level. The product is being recalled due to the presence of particulate matter identified as cellulose or stopper materia",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-two-lots-dexmedetomidine-hcl-09-sodium-chloride",
+      "title": "Convenience Kit Correction: AVID Medical Issues Correction for Kits Containing Huons Sodium Chloride Ampules",
+      "summary": "AVID Medical is correcting convenience kits containing recalled Huons Co. sodium chloride ampules.",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-huons-sodium-chloride",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -1007,9 +1007,9 @@
       "relevance": 100
     },
     {
-      "title": "Convenience Kit Correction: AVID Medical Issues Correction for Kits Containing Huons Sodium Chloride Ampules",
-      "summary": "AVID Medical is correcting convenience kits containing recalled Huons Co. sodium chloride ampules.",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-huons-sodium-chloride",
+      "title": "Par Health Issues Voluntary Nationwide Recall of Two Lots of Dexmedetomidine HCl in 0.9% Sodium Chloride Injection Due to the Presence of Particulate Matter",
+      "summary": "ROCHESTER, MI– September 18, 2026 –Par Health is voluntarily recalling two lots of Dexmedetomidine HCl in 0.9% Sodium Chloride Injection 400 mcg/100 mL (4 mcg/mL) to the hospital level. The product is being recalled due to the presence of particulate matter identified as cellulose or stopper materia",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-two-lots-dexmedetomidine-hcl-09-sodium-chloride",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -1040,15 +1040,15 @@
       "relevance": 98
     },
     {
-      "title": "Sodium Chloride Flush Recall: Spectra Medical Removes Sodium Chloride Injection USP Ampules",
-      "summary": "Spectra Medical Devices is removing Sodium Chloride Flush products that were manufactured by Huons Co,. Ltd.",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/sodium-chloride-flush-recall-spectra-medical-removes-sodium-chloride-injection-usp-ampules",
+      "title": "Nitric Oxide Delivery System Correction: NOxBOX Updates Use Instructions for NOxBOXi Nitric Oxide Delivery System",
+      "summary": "The NOxBOX NOxBOXi System may leak oxygen during inhaled nitric oxide therapy",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/nitric-oxide-delivery-system-correction-noxbox-updates-use-instructions-noxboxi-nitric-oxide",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
       "publishedAt": "2026-09-18",
       "category": "quality_safety",
-      "relevance": 100
+      "relevance": 98
     },
     {
       "title": "Medicare and Medicaid Programs; Application From DNV Healthcare USA Inc. (DNV) for Continued CMS-Approval of its Hospital Accreditation Program",
@@ -1447,6 +1447,17 @@
       "relevance": 100
     },
     {
+      "title": "Read more about CMS News: Trump Administration Announces $78 Million for Rural Healthcare Workforce, Chronic Disease Prevention, and Facility Upgrades Across Texas",
+      "summary": "",
+      "url": "https://www.cms.gov/newsroom/cms-roundup/cms-news-trump-administration-announces-78-million-rural-healthcare-workforce-chronic-disease",
+      "source": "CMS Newsroom",
+      "sourceType": "html",
+      "sourceId": "cms_newsroom",
+      "publishedAt": "",
+      "category": "policy_reimbursement",
+      "relevance": 100
+    },
+    {
       "title": "Read more about Trump Administration Delivers Second Year of Savings by Stopping Taxpayer Payments for Duplicate and Deceased Enrollees in Obamacare",
       "summary": "",
       "url": "https://www.cms.gov/newsroom/press-releases/trump-administration-delivers-second-year-savings-stopping-taxpayer-payments-duplicate-deceased",
@@ -1483,17 +1494,6 @@
       "title": "Read more about Trump Administration Announces $37.7 Million to Train and Recruit More Rural Healthcare Workers Across Louisiana",
       "summary": "",
       "url": "https://www.cms.gov/newsroom/press-releases/trump-administration-announces-37-7-million-train-recruit-more-rural-healthcare-workers-across",
-      "source": "CMS Newsroom",
-      "sourceType": "html",
-      "sourceId": "cms_newsroom",
-      "publishedAt": "",
-      "category": "ai_tech",
-      "relevance": 100
-    },
-    {
-      "title": "Read more about Trump Administration Announces $209 Million to Expand Advanced Medical Care, Maternal Telehealth, and Cancer Prevention Across Rural Iowa",
-      "summary": "",
-      "url": "https://www.cms.gov/newsroom/press-releases/trump-administration-announces-209-million-expand-advanced-medical-care-maternal-telehealth-cancer",
       "source": "CMS Newsroom",
       "sourceType": "html",
       "sourceId": "cms_newsroom",

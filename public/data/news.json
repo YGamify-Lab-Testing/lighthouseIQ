@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T13:13:58.883Z",
+  "lastUpdated": "2026-10-15T18:13:05.939Z",
   "scope": "US healthcare",
   "retentionDays": 90,
   "maxArticles": 500,
@@ -10,72 +10,72 @@
     "sources": [
       {
         "source": "Fierce Healthcare",
-        "articleCount": 244,
+        "articleCount": 235,
         "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 13,
+        "staleHours": 18,
         "status": "ok"
       },
       {
         "source": "Becker's Hospital Review",
-        "articleCount": 109,
+        "articleCount": 113,
         "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 13,
+        "staleHours": 18,
         "status": "ok"
       },
       {
         "source": "STAT News",
-        "articleCount": 56,
+        "articleCount": 63,
         "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 13,
+        "staleHours": 18,
         "status": "ok"
       },
       {
         "source": "Federal Register - HHS",
-        "articleCount": 41,
+        "articleCount": 37,
         "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 13,
-        "status": "ok"
-      },
-      {
-        "source": "Federal Register - FDA",
-        "articleCount": 18,
-        "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 61,
+        "staleHours": 18,
         "status": "ok"
       },
       {
         "source": "Healthcare Dive",
-        "articleCount": 16,
-        "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 37,
+        "articleCount": 20,
+        "latestPublishedAt": "2026-10-15T00:00:00.000Z",
+        "staleHours": 18,
+        "status": "ok"
+      },
+      {
+        "source": "Federal Register - FDA",
+        "articleCount": 17,
+        "latestPublishedAt": "2026-10-13T00:00:00.000Z",
+        "staleHours": 66,
         "status": "ok"
       },
       {
         "source": "FDA MedWatch RSS",
         "articleCount": 7,
         "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 37,
+        "staleHours": 42,
         "status": "ok"
       },
       {
         "source": "SEC Healthcare Filings",
         "articleCount": 5,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 61,
+        "staleHours": 66,
         "status": "ok"
       },
       {
         "source": "Federal Register - CMS",
-        "articleCount": 3,
+        "articleCount": 2,
         "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 37,
+        "staleHours": 42,
         "status": "ok"
       },
       {
         "source": "National Nurses United RSS",
         "articleCount": 1,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 61,
+        "staleHours": 66,
         "status": "ok"
       }
     ]
@@ -87,7 +87,7 @@
     },
     "mergers_mna": {
       "label": "Mergers & M&A",
-      "count": 33
+      "count": 34
     },
     "labor_unions": {
       "label": "Labor & Unions",
@@ -95,23 +95,23 @@
     },
     "policy_reimbursement": {
       "label": "Policy & Reimbursement",
-      "count": 80
+      "count": 75
     },
     "quality_safety": {
       "label": "Quality & Safety",
-      "count": 9
+      "count": 8
     },
     "capacity_expansion": {
       "label": "Capacity & Expansion",
-      "count": 8
+      "count": 6
     },
     "ai_tech": {
       "label": "AI & Digital Tech",
-      "count": 156
+      "count": 161
     },
     "general_market": {
       "label": "General Market",
-      "count": 195
+      "count": 197
     }
   },
   "quality": {
@@ -125,7 +125,7 @@
       },
       "minArticles24h": {
         "threshold": 20,
-        "actual": 42,
+        "actual": 64,
         "pass": true
       },
       "minRequiredCategoriesCovered": {
@@ -214,22 +214,157 @@
       "categoryLabel": "General Market"
     },
     {
-      "title": "13 recent hospital, health system CEO exits",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/5-recent-hospital-health-system-ceo-exits-3/",
+      "title": "RWJBarnabas wrongfully diverted business from Saint Peter&#8217;s: Lawsuit",
+      "url": "https://www.beckershospitalreview.com/legal-regulatory-issues/rwjbarnabas-wrongfully-diverted-business-from-saint-peters-lawsuit/",
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-15",
-      "summary": "Several hospital and health system CEOs have recently exited their roles, including through retirements and transitions to new organizations. CEO turnover has continued in 2026, with hospitals reporting 74 CEO exits through the first half of the year, up from 68 during the same period in 2025, according to a July 23 report from global [&#8230;] The post 13 recent hospital, health system CEO exits appeared first on Becker&#039;s Hospital Review | Healthcare News & Analysis.",
+      "summary": "New Brunswick, N.J.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "RWJBarnabas creates new exec role for physician improvement",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/rwjbarnabas-creates-new-exec-role-for-physician-improvement/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "RWJBarnabas Health, a 14-hospital system based in West Orange, N.J.",
       "category": "general_market",
       "categoryLabel": "General Market"
     },
     {
-      "title": "Leaders not spared from health system layoffs in 2026",
-      "url": "https://www.beckershospitalreview.com/finance/leaders-not-spared-from-health-system-layoffs-in-2026/",
+      "title": "31 NFL teams partner with health systems: 34 to know",
+      "url": "https://www.beckershospitalreview.com/digital-marketing/31-nfl-teams-partner-with-health-systems-34-to-know/",
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-15",
-      "summary": "At least 13 hospitals and health systems have cut leadership or management roles in 2026 as financial pressures and realignments push organizations to restructure for long-term sustainability. Becker’s covered six hospital layoffs involving leaders in September alone, compared to at least eight throughout all of 2025.",
-      "category": "closures_layoffs",
-      "categoryLabel": "Closures & Layoffs"
+      "summary": "Hospitals and health systems have partnerships spanning at least 31 of the NFL’s 32 teams for the 2026 season, ranging from player medical care and practice facility naming rights to pediatric programs and training camp sponsorships. Some teams have changed partners recently.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "The best Medicare Advantage companies for 2027: US News",
+      "url": "https://www.beckershospitalreview.com/rankings-and-ratings/the-best-medicare-advantage-companies-for-2027-us-news/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "Kaiser Permanente led the 2027 U.S.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "UNM Hospital names next CEO",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/unm-hospital-names-next-ceo/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "The University of New Mexico in Albuquerque has named Steve McLaughlin, MD, CEO of UNM Hospital and vice president of clinical affairs, effective Dec. 6.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "UAB Medicine logo to appear on UAB basketball jerseys in 5-year deal",
+      "url": "https://www.beckershospitalreview.com/digital-marketing/uab-medicine-logo-to-appear-on-uab-basketball-jerseys-in-5-year-deal/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "Birmingham, Ala.-based UAB Medicine will put its logo on the primary game jerseys of the University of Alabama at Birmingham’s men’s and women’s basketball teams under an expanded five-year partnership with UAB Athletics.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Annual new dementia cases projected to more than double by 2050: Study",
+      "url": "https://www.beckershospitalreview.com/post-acute/annual-new-dementia-cases-projected-to-more-than-double-by-2050-study/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "New dementia cases worldwide are projected to more than double by 2050, from an estimated 11.4 million in 2023 to 24.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "OpenEvidence drew 271M queries from 952,000 clinicians in 2.5 years",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/openevidence-drew-271m-queries-from-952000-clinicians-in-2-5-years/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "OpenEvidence drew 271 million queries from 952,008 U.S.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Ohio State Wexner Medical Center names chief communications and marketing officer",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/ohio-state-wexner-medical-center-names-chief-communications-and-marketing-officer/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "Columbus-based Ohio State University Wexner Medical Center has named Molly Biwer its next chief communications and marketing officer, pending approval from the university’s board of trustees. Ms.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Can patients actually opt out of Epic’s Care Everywhere?",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ehrs/can-patients-actually-opt-out-of-epics-care-everywhere/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "Patients who want to stop their medical records from being shared through Epic’s Care Everywhere network must opt out separately with each provider, and front-line staff may give them wrong information along the way, an Oct. 15 investigation by The Markup, which is part of CalMatters, found.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "The Trump administration is doubling down on health care fraud investigations",
+      "url": "https://www.statnews.com/2026/10/15/healthcare-fraud-new-doj-policy-rewards-self-disclosure/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-15",
+      "summary": "At the STAT Summit, the Department of Justice offered up a warning for health care executives: Don’t be another Theranos.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Mass. lawmaker Auchincloss favors boosting U.S. biotech over targeting China",
+      "url": "https://www.statnews.com/2026/10/15/auchincloss-us-biotech-vs-china-protectionism/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-15",
+      "summary": "Rep. Jake Auchincloss (D-Mass.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: Former FDA commissioners Califf, Gottlieb, Sharpless lay into current HHS leadership",
+      "url": "https://www.statnews.com/2026/10/15/health-policy-news-fda-califf-gottlieb-sharpless-criticize-hhs-leadership/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-15",
+      "summary": "Former FDA commissioners Rob Califf (Obama and Biden administrations), Scott Gottlieb, and Ned Sharpless (both from the first Trump administration) criticized the officials who ran the agency during a...",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "STAT+: Verastem&#8217;s KRAS inhibitor shows promise in pancreatic cancer",
+      "url": "https://www.statnews.com/2026/10/15/biotech-news-verastem-kras-inhibitor-shows-promise-in-pancreatic-cancer/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-15",
+      "summary": "Verastem Oncology reports encouraging early results for its KRAS G12D inhibitor, which it’s studying in more than 200 patients with advanced solid tumors like metastatic pancreatic ductal adenocarcino...",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "After a melanoma diagnosis, mRNA cancer vaccine delivered a patient hope — and a path forward",
+      "url": "https://www.statnews.com/2026/10/15/melanoma-diagnosis-mrna-cancer-vaccine-stat-summit-boston-2026/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-15",
+      "summary": "A schoolteacher diagnosed with melanoma provides an inside look at what it was like to be treated with a cancer vaccine developed by Merck and Moderna.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We&#8217;re reading about former FDA head calling DOGE a &#8216;disaster,&#8217; an AstraZeneca AI deal, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/10/15/former-fda-commissioner-califf-criticized-doge-astrazeneca-ai-deal/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-15",
+      "summary": "Three former FDA chiefs lit into the Trump administration, criticizing the now former FDA officials who oversaw a massive staff exodus",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "STAT+: &#8216;AI sandboxes&#8217; are all the rage. Advocates scramble to control their future",
+      "url": "https://www.statnews.com/2026/10/15/scramble-to-shape-regulations-around-state-ai-sandboxes-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-15",
+      "summary": "In this edition of STAT's Health Tech newsletter: The groups vying to shape regulations that'd govern state AI sandboxes, and more.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
     },
     {
       "title": "Kenya reports second Ebola case",
@@ -286,6 +421,51 @@
       "categoryLabel": "AI & Digital Tech"
     },
     {
+      "title": "Zocdoc acquires Sohar Health in latest push to scale tech infrastructure",
+      "url": "https://www.healthcaredive.com/news/zocdoc-acquires-sohar-health-in-latest-push-to-scale-tech-infrastructure/833129/",
+      "source": "Healthcare Dive",
+      "publishedAt": "2026-10-15",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
+    },
+    {
+      "title": "AMA releases governance framework for agentic AI in healthcare",
+      "url": "https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/",
+      "source": "Healthcare Dive",
+      "publishedAt": "2026-10-15",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "FDA ‘reset’ continues with new plan for reviewing rare disease drugs",
+      "url": "https://www.healthcaredive.com/news/fda-rare-disease-framework-initiative-drug-development/833119/",
+      "source": "Healthcare Dive",
+      "publishedAt": "2026-10-15",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Rush, Endeavor to merge into Illinois powerhouse",
+      "url": "https://www.healthcaredive.com/news/rush-endeavor-to-merge-illinois-hospital-powerhouse/833089/",
+      "source": "Healthcare Dive",
+      "publishedAt": "2026-10-15",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
+    },
+    {
+      "title": "Chutes & Ladders—Inspira Health outlines leadership transition; Joint Commission names COO",
+      "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-15",
+      "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
       "title": "Elevance Health Foundation launched a prize program for patient safety initiatives. Here's why",
       "url": "https://www.fiercehealthcare.com/payers/elevance-health-foundation-launched-prize-program-patient-safety-initiatives-heres-why",
       "source": "Fierce Healthcare",
@@ -302,6 +482,24 @@
       "summary": "AAFP members will be able to use the platform to connect with peers as part of the collaboration.",
       "category": "general_market",
       "categoryLabel": "General Market"
+    },
+    {
+      "title": "13 recent hospital, health system CEO exits",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/5-recent-hospital-health-system-ceo-exits-3/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "Several hospital and health system CEOs have recently exited their roles, including through retirements and transitions to new organizations. CEO turnover has continued in 2026, with hospitals reporting 74 CEO exits through the first half of the year, up from 68 during the same period in 2025, according to a July 23 report from global [&#8230;] The post 13 recent hospital, health system CEO exits appeared first on Becker&#039;s Hospital Review | Healthcare News & Analysis.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Leaders not spared from health system layoffs in 2026",
+      "url": "https://www.beckershospitalreview.com/finance/leaders-not-spared-from-health-system-layoffs-in-2026/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-15",
+      "summary": "At least 13 hospitals and health systems have cut leadership or management roles in 2026 as financial pressures and realignments push organizations to restructure for long-term sustainability. Becker’s covered six hospital layoffs involving leaders in September alone, compared to at least eight throughout all of 2025.",
+      "category": "closures_layoffs",
+      "categoryLabel": "Closures & Layoffs"
     },
     {
       "title": "As prior auth becomes an AI ‘arms race,’ Otter Health raises $8M for a different approach",
@@ -4647,222 +4845,6 @@
       "source": "Fierce Healthcare",
       "publishedAt": "2026-10-08",
       "summary": "Option Care Health, the country's largest independent provider of at-home and alternate site infusion services, would go private in the deal, which is expected to close in the first half of 2027.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Vitalize secures $31M to scale AI-powered operating system for hospital staffing and scheduling",
-      "url": "https://www.fiercehealthcare.com/health-tech/vitalize-secures-31m-scale-ai-powered-operating-system-hospital-staffing-and-scheduling",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-08",
-      "summary": "Vitalize positions its software as an \"air traffic control\" system for healthcare operations, helping health systems automate staffing, forecast demand, manage capacity and reduce reliance on overtime and agency labor.",
-      "category": "capacity_expansion",
-      "categoryLabel": "Capacity & Expansion"
-    },
-    {
-      "title": "Proposed nuclear safety rules threaten to stall Novartis’ Pluvicto expansion",
-      "url": "https://www.fiercehealthcare.com/pharma/proposed-nuclear-safety-rules-threaten-stall-novartis-pluvicto-expansion",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-08",
-      "summary": "Novartis’ flagship radioligand therapy Pluvicto entered a rapid growth phase recently, driven by FDA approvals in earlier-stage prostate cancer and broader uptake in community settings. But a regulatory overhaul proposed by federal nuclear authorities now threatens to derail that momentum, potentially raising administrative hurdles that experts say could force clinics to rethink patient care while deterring others from adopting the therapy altogether.",
-      "category": "capacity_expansion",
-      "categoryLabel": "Capacity & Expansion"
-    },
-    {
-      "title": "Healthcare Dealmakers—Minnesota health system mergers, Grindr's HIV telehealth push and more",
-      "url": "https://www.fiercehealthcare.com/finance/healthcare-dealmakers-minnesota-health-system-mergers-grindrs-hiv-telehealth-push-and-more",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-08",
-      "summary": "HealthPartners and Essentia Health unveil 22-hospital combination, Waystar go-private reports and more healthcare merger and acquisition news from September.",
-      "category": "mergers_mna",
-      "categoryLabel": "Mergers & M&A"
-    },
-    {
-      "title": "Trinity Health improves to 1.1% operating margin in FY2026",
-      "url": "https://www.fiercehealthcare.com/providers/trinity-health-improves-11-operating-margin-fy2026",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-08",
-      "summary": "The 91-hospital system credited volume gains and greater rates for its 5.2% operating revenue growth and expense management, including a reduction in full-time equivalents and checked cost growth \"well below the medical rate of inflation.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Texas AG Ken Paxton launches investigations into UnitedHealth Group, BCBSTX",
-      "url": "https://www.fiercehealthcare.com/payers/texas-ag-ken-paxton-launches-investigations-unitedhealth-group-bcbstx",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-08",
-      "summary": "Texas Attorney General Ken Paxton announced on Monday that he would launch an investigation into industry giant UnitedHealth Group for \"engaging in deceptive and unlawful practices\" that may have denied care to Texans.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "FTC sends price transparency warning letters to 24 large hospital systems",
-      "url": "https://www.fiercehealthcare.com/regulatory/ftc-sends-price-transparency-warning-letters-24-large-hospital-systems-price",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-08",
-      "summary": "Letters sent Monday warn that CMS guidances on price transparency are \"a regulatory floor.\" Hospitals are also subject to the FTC Act's prohibitions on unfair or deceptive marketplace practices, which could apply to incomplete or inaccurate pricing information, the regulator said.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "CMS finalizes updates to price transparency regulations that aim to improve usability",
-      "url": "https://www.fiercehealthcare.com/regulatory/cms-finalizes-updates-price-transparency-regulations-aim-improve-usability",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-08",
-      "summary": "The Trump administration on Monday finalized a rule that aims to make the data files mandated under price transparency regulations more usable.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "White House to dispense Part B rebates to more than 20M enrollees",
-      "url": "https://www.fiercehealthcare.com/regulatory/white-house-dispense-part-b-rebates-more-20m-enrollees",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-08",
-      "summary": "On the heels of news that the White House would offer rebates to nearly 1 million people enrolled in Affordable Care Act plans, the Trump administration said Monday that it will pay out $90 rebates to more than 20 million Medicare Part B enrollees.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "iRhythm closes $287M VitalConnect deal, including $237M in cash and $50M in stock",
-      "url": "https://www.fiercehealthcare.com/finance/irhythm-acquires-vitalconnect-2375m-all-cash-deal",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-08",
-      "summary": "iRhythm provides end-to-end cardiac monitoring services, while VitalConnect’s monitoring platform supports multiple modalities.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Independence Blue Cross to pay $22.5M in Medicare Advantage inaccurate diagnoses allegations settlement",
-      "url": "https://www.fiercehealthcare.com/regulatory/independence-blue-cross-pay-225m-medicare-advantage-inaccurate-diagnoses-allegations",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-08",
-      "summary": "The settlement resolves allegations from 2017 to 2021 that the company submitted “inaccurate and untruthful” diagnoses data to CMS.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Agency Information Collection Activities: Submission for OMB Review; Comment Request",
-      "summary": "The Centers for Medicare & Medicaid Services (CMS) is announcing an opportunity for the public to comment on CMS' intention to collect information from the public. Under the Paperwork Reduction Act of 1995 (PRA), federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information, including each proposed extension or reinstatement of an existing collection of information, and to allow a second opportunity for public comment on the notice. Interested persons are invited to send comments regarding the burden estimate or any other aspect of this collection of information, including the necessity and utility of the proposed information collection for the proper performance of the agency's functions, the accuracy of the estimated burden, ways to enhance the quality, utility, and clarity of the information to be collected, and the use of automated collection techniques or other forms of information technology to minimize the information collection burden.",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20546/agency-information-collection-activities-submission-for-omb-review-comment-request",
-      "source": "Federal Register - CMS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_cms",
-      "publishedAt": "2026-10-07",
-      "category": "policy_reimbursement",
-      "relevance": 100,
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Determination That Oxandrin (Oxandrolone) Tablets, 2.5 Milligrams and 10 Milligrams, Were Withdrawn From Sale for Reasons of Safety or Effectiveness; Correction",
-      "summary": "The Food and Drug Administration (FDA) is correcting a notice that appeared in the Federal Register of September 13, 2023 (88 FR 62799). The notice announced the determination that Oxandrin (oxandrolone) tablets, 2.5 milligrams (mg) and 10 mg, were withdrawn from sale for reasons of safety or effectiveness. The notice did not include the determination that the abbreviated new drug applications (ANDAs) referencing Oxandrin (oxandrolone) tablets, 2.5 mg and 10 mg, were also determined to be withdrawn from sale for reasons of safety or effectiveness and that these ANDAs would be removed from \"Approved Drug Products With Therapeutic Equivalence Evaluations,\" which is known generally as the \"Orange Book.\" This notice corrects that error.",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20503/determination-that-oxandrin-oxandrolone-tablets-25-milligrams-and-10-milligrams-were-withdrawn-from",
-      "source": "Federal Register - FDA",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_fda",
-      "publishedAt": "2026-10-07",
-      "category": "general_market",
-      "relevance": 100,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Clinical Center; Notice of Closed Meeting",
-      "summary": "",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20557/clinical-center-notice-of-closed-meeting",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-07",
-      "category": "general_market",
-      "relevance": 100,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Center for Scientific Review; Notice of Closed Meetings",
-      "summary": "",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20562/center-for-scientific-review-notice-of-closed-meetings",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-07",
-      "category": "general_market",
-      "relevance": 96,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Center for Scientific Review; Notice of Closed Meetings",
-      "summary": "",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20561/center-for-scientific-review-notice-of-closed-meetings",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-07",
-      "category": "general_market",
-      "relevance": 96,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Center for Scientific Review; Notice of Closed Meetings",
-      "summary": "",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20558/center-for-scientific-review-notice-of-closed-meetings",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-07",
-      "category": "general_market",
-      "relevance": 96,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Three Payer Contracting Considerations AHS Leaders Can’t Afford to Ignore",
-      "url": "https://www.beckershospitalreview.com/strategy/three-payer-contracting-considerations-ahs-leaders-cant-afford-to-ignore/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-07",
-      "summary": "Academic health systems (AHSs) deliver capabilities few other organizations can replicate, but their payer contracts do not always reflect that value. Their advanced services, specialized expertise, and essential community role carry costs that must be clearly understood and appropriately addressed in negotiations.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "HCA hospitals escalate payment fight with insurers",
-      "url": "https://www.beckershospitalreview.com/finance/hca-hospitals-escalate-payment-fight-with-insurers/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-07",
-      "summary": "Hospitals affiliated with Nashville, Tenn.-based HCA Healthcare have sued multiple insurers over alleged claim denials and reimbursement issues in 2025 and 2026.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "White House plans $100M PhD push as NIH loses scientists: Bloomberg",
-      "url": "https://www.beckershospitalreview.com/legal-regulatory-issues/white-house-plans-100m-stem-phd-push-as-nih-loses-scientists-bloomberg/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-07",
-      "summary": "The Trump administration plans to put more than $100 million toward education programs for U.S.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "CMS penalizes 2,334 hospitals for high readmissions: 6 things to know",
-      "url": "https://www.beckershospitalreview.com/finance/cms-penalizes-2334-hospitals-for-high-readmissions-6-things-to-know/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-07",
-      "summary": "CMS is penalizing 2,334 hospitals, about 80% of those evaluated, under the Hospital Readmissions Reduction Program in fiscal 2027, according to new CMS data. The penalties took effect on Oct.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "For-profit hospitals tied to more deaths, nurse understaffing: Study",
-      "url": "https://www.beckershospitalreview.com/quality/patient-safety-outcomes/for-profit-hospitals-tied-to-more-deaths-nurse-understaffing-study/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-07",
-      "summary": "Patients at for-profit hospitals had higher 30-day mortality and readmission rates than patients at nonprofit hospitals, according to a study led by researchers at the University of Pennsylvania School of Nursing in Philadelphia. Nurses at for-profit hospitals were also more likely to rate their staffing as unsafe, which the researchers linked to part of the [&#8230;] The post For-profit hospitals tied to more deaths, nurse understaffing: Study appeared first on Becker&#039;s Hospital Review | Healthcare News & Analysis.",
-      "category": "quality_safety",
-      "categoryLabel": "Quality & Safety"
-    },
-    {
-      "title": "Baptist Health breaks ground on neuroscience hub after $75M in gifts",
-      "url": "https://www.beckershospitalreview.com/capital/baptist-health-breaks-ground-on-neuroscience-hub-after-75m-in-gifts/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-07",
-      "summary": "Coral Gables, Fla.-based Baptist Health broke ground Oct.",
       "category": "general_market",
       "categoryLabel": "General Market"
     }
