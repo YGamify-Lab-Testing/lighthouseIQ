@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T22:13:17.190Z",
+  "lastUpdated": "2026-10-15T01:20:31.478Z",
   "states": {
     "AL": [
       {
@@ -28,6 +28,13 @@
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91dmhFQVpTZXBjbnZrei1HeHdiLXliX3hWdzRqNUhIZWRaVm5HeW04RkFvd3F2ZlFpVXBkRVVrc2RDbktHVWcxY2t4RG9YUlYwa3BPTHpUUkFqSkFSRmp0SUNrM2NNelV3aWhYazVCelA2X01abVotVmM5dS1KN03SAZMBQVVfeXFMTTNxVnl3TDJEUWliZVpuSGhNY29EOTJsQ1NXT1RhSFd3UTZSTEltNTk1eWJKLTJyclFIREZWU1o1YV9CSExpazBHaGpISWFweEVmWVlpTTk0T0R2Q1lqRTVHMXhYcEhnZDRsT19xRm92Y0FPR1RxS2RUclV4eU53ZFNBTm1YVzJJbHFEVU5YNHBEaXI4?oc=5",
         "source": "Google News - Alabama Healthcare",
         "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Nightingale Scholarship Supports South Nursing Student’s Leadership Journey - University of South Alabama",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMXVaY29oczdJSE1DaDh6SnV2X3NoTGRpdXdYMkE4Y1VYSm5DQjU1ZWRMYkVyZkRJYnd0Z3RHdVA5cVVveHJfZ1RGUUkyczR5d2ttT2NHX2F0Y09nT2NVQmVISnNfTjIwNjZkaDRkVl8za185cEZTazl1bEdfNXBjdGlrbE9Xd1NkUnNWMzlXR1BLaEpjTjh3T0Vicmxrd2pNYnNlMlNhY2ltZw?oc=5",
+        "source": "Google News - Alabama Healthcare",
+        "publishedAt": "2026-10-13",
         "summary": "<a href=\"https://news.google."
       },
       {
@@ -87,7 +94,7 @@
         "summary": "<a href=\"https://news.google."
       },
       {
-        "title": "Alabama nursing board says data was downloaded in breach - WVTM Channel 13",
+        "title": "Alabama nursing board says data was downloaded in breach - wvtm",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVkozTW1Hd25yT1BtU2pVXzR2NEM4aGhsblVrRUdlSlgtU2hnTG5iZ0VYNWd3cmNfd2IydkNkNXNMSlNOcFF1THJ4dk9RbjlxSG40aGFpM29GSm9BdzREUFBQTmxKUHNUWFRYaHM0cnFZSnhNZnR2cEFhNlZYbWc3eXNjbDFKaS05ODczMXNR?oc=5",
         "source": "Google News - Alabama Healthcare",
         "publishedAt": "2026-10-02",
@@ -98,13 +105,6 @@
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNak85dG51T3R6VTl5VzQ2cDRNdGlhdzRuWktxM2JtWnN2V3o5M1dZZ0xEQ056cGxmaFVyV3FUUkpVUnJFQk4yOERkTlRtVmhtOGpnVmN1ZVJmeldTMGZBSTU5eC0zaWdpaDZ5UWhqZlhsbmFNWHpBWk1nX3pNR1cxOFNXZF9MOU5ZVnVnOEhjekR0ajBVZE5OMDM2azR3S1dLbk1DSk8wU01iRXN2bjg1YkozdzRkQzJFSENnRFVGYjFhUXV1aHRNRWo0V3R1NXJ1QVZGdWtkaVRuckU5eXJHM0pCN1oyTU5pZWw0NVZ2ODI?oc=5",
         "source": "Google News - Alabama Healthcare",
         "publishedAt": "2026-10-01",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "DCH says Fayette Medical Center lease can't continue as is - wvtm",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWVlNalhmSXkyY2pLR0RiOTRQcHdwamsxTUZJbl9kUFdSeWtUU3o4Sk93UGd1WlNuUFdUYzczOFAweVR6NDE4UE5yWlFNTWwzUEN3SXlKVEJYMFZFeWcyZ1ZQdmpkTFlaMFVlcjQ2WDJNREh6MUZtRG1UV2RLaXpnMTRxbG9hOENuekRQUg?oc=5",
-        "source": "Google News - Alabama Healthcare",
-        "publishedAt": "2026-09-25",
         "summary": "<a href=\"https://news.google."
       }
     ],
@@ -124,15 +124,15 @@
         "summary": "<a href=\"https://news.google."
       },
       {
-        "title": "Bear wanders Alaska hospital at 2 a.m., raids Halloween candy - KTVF Fairbanks",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVl4cC0xRktReEg5Rm5mR3BCTmJaRE9ndk9DYnNZM1Y0b21EVHBXbVI1M19LeFI5c0xQc0dhR05Xemp0UmpZQVFuZm90U3dCOGtmOEhTdUM4VmlSaFVWZDVoQzdTVEc5akRRRzhqSGViR1A4azUybGtGN19aaW8yWGdIWW9OWFh5ejRiSUpaaUY3ejhHSWVLZlNiSW5WNjZENUJucHRpZmwzZE94?oc=5",
+        "title": "Bear Chows Down On Halloween Candy After Invading Hospital On Military Base In Alaska (Video) - BroBible",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORDhKSkZlVjdDekpObVlITWR1RXFQSlhaSElwd3pSODExTmtwRm1FNXRuYklQY0FqdzRQdTB0WXE5dlMzVlVaZDdsWUFvdzZRRjBGUlFEUml0Si1qUzM3XzFoUmdqSzVLSExZM09MVU81WWxlMG83MUhyQVgzLUtQd1dHNndITXNoOU1qZGdnN2pPMUdEeUlF?oc=5",
         "source": "Google News - Alaska Healthcare",
         "publishedAt": "2026-10-14",
         "summary": "<a href=\"https://news.google."
       },
       {
-        "title": "Bear Chows Down On Halloween Candy After Invading Hospital On Military Base In Alaska (Video) - BroBible",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORDhKSkZlVjdDekpObVlITWR1RXFQSlhaSElwd3pSODExTmtwRm1FNXRuYklQY0FqdzRQdTB0WXE5dlMzVlVaZDdsWUFvdzZRRjBGUlFEUml0Si1qUzM3XzFoUmdqSzVLSExZM09MVU81WWxlMG83MUhyQVgzLUtQd1dHNndITXNoOU1qZGdnN2pPMUdEeUlF?oc=5",
+        "title": "Bear wanders Alaska hospital at 2 a.m., raids Halloween candy - KTVF Fairbanks",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVl4cC0xRktReEg5Rm5mR3BCTmJaRE9ndk9DYnNZM1Y0b21EVHBXbVI1M19LeFI5c0xQc0dhR05Xemp0UmpZQVFuZm90U3dCOGtmOEhTdUM4VmlSaFVWZDVoQzdTVEc5akRRRzhqSGViR1A4azUybGtGN19aaW8yWGdIWW9OWFh5ejRiSUpaaUY3ejhHSWVLZlNiSW5WNjZENUJucHRpZmwzZE94?oc=5",
         "source": "Google News - Alaska Healthcare",
         "publishedAt": "2026-10-14",
         "summary": "<a href=\"https://news.google."
@@ -145,8 +145,8 @@
         "summary": "<a href=\"https://news.google."
       },
       {
-        "title": "Alaska Air National Guardsmen rescue two avalanche victims north of Anchorage - Alaska Army National Guard (.mil)",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOV8wRGtLUUtXVl9KcmUwMjJWTUpsc2dfdUkyYWx5SC1ROTlIZkNJMC1td2FMaExTYnFiN0ZiRURZekwwXzRodURzakJ5RzBQU1p0bWNkaVNUV3NraUh2UEpCa25kYUdPbUw3eGNWY1ZsendCcFJtaS05NTZCRjJpWlRGY2NxTU9INERjRFlCbFJQeXF0UUFTWWF0ZVBNZDlnRGhMa1hnNGlSTVBiWWZ4RGFjYzNMZ1dqb2ZUR3ZRNHEtdDZXNFRZOHdTTGhfUHV6SXc?oc=5",
+        "title": "Alaska Air National Guardsmen rescue plane crash victim north of Anchorage - Alaska Army National Guard (.mil)",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTXhVOUdJNDVkM0lJcmRSS3VHSDFmS0VZc0ZnYk1pWUxXUUh3XzBQUlJ4bExtaENCUGRJQkxucFRsQWJ2dmVKdW81QUY4OEVWTnktVHlMV2JmVng2QmhzWmhYQ3ZvNkM4Mmlyd0szT2hHVHc2N3RkeGhod0lsaTJOYmxGbGhNdzRJQ3I2WmtKLTd0YmxzMWhKalo3XzNQQ0wtakQxX0JsLWdsYkFRS1prUjdiQjVoQjBrQW80QmJoVnlqUUpHU0tOOTJWMlFHQQ?oc=5",
         "source": "Google News - Alaska Healthcare",
         "publishedAt": "2026-10-14",
         "summary": "<a href=\"https://news.google."
@@ -154,6 +154,13 @@
       {
         "title": "Claman picks healthcare executive for his running mate - Alaska Story",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObUVtRENRQ1lzZEtNQWlaRzZIRHVzckJPaldRSzRNaDZ1akVSYXJxNGc2S2dnRFhxY2tPb3F6bE9rY2VmdkpTbmgxXzdRRlN3TDB0eENHRDdSc1FvblRsWS1UV1l2a090YkFQaGNZLUU4M0xPUmhmdFFiaDNaM05pWXJ3MG44Um52QlE?oc=5",
+        "source": "Google News - Alaska Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Alaska Air National Guardsmen rescue two avalanche victims north of Anchorage - Alaska Army National Guard (.mil)",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOV8wRGtLUUtXVl9KcmUwMjJWTUpsc2dfdUkyYWx5SC1ROTlIZkNJMC1td2FMaExTYnFiN0ZiRURZekwwXzRodURzakJ5RzBQU1p0bWNkaVNUV3NraUh2UEpCa25kYUdPbUw3eGNWY1ZsendCcFJtaS05NTZCRjJpWlRGY2NxTU9INERjRFlCbFJQeXF0UUFTWWF0ZVBNZDlnRGhMa1hnNGlSTVBiWWZ4RGFjYzNMZ1dqb2ZUR3ZRNHEtdDZXNFRZOHdTTGhfUHV6SXc?oc=5",
         "source": "Google News - Alaska Healthcare",
         "publishedAt": "2026-10-14",
         "summary": "<a href=\"https://news.google."
@@ -205,13 +212,6 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY0NTRjJjQkZuYXpJN0tibVhCdkRySkZCMXdFdV8yUkhVMjBfN2RiU2ZoNjd6NTczazlOZUJJS1U4VGhiblpIdDgwMU14ajhpeXE1TVFSN19QM3ROdlNnMHU0TXFhZkd4cVBpN0g5QlZVOFV3NURxVWNsOEZlaVpyUVM3ZTlaMkJyN2N6XzJrUjRJeUphaFAwNA?oc=5",
         "source": "Google News - Alaska Healthcare",
         "publishedAt": "2026-09-18",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Alaska gubernatorial forum puts healthcare at center stage - Alaska Beacon",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LRW11bGt2YzNtamtNOS1rNW5FWXJabWI5V3JnX3VSV19kYm9INE9jNFJVZklIYjQyTXBfaWdNSXR4b045d0RBMzZ6NFVyc0dXWU5vSzc4WDNFZVZmbkZWUmdFZFBwM04wcC1KeWpJSC0?oc=5",
-        "source": "Google News - Alaska Healthcare",
-        "publishedAt": "2026-09-17",
         "summary": "<a href=\"https://news.google."
       }
     ],
@@ -373,13 +373,6 @@
         "summary": "<a href=\"https://news.google."
       },
       {
-        "title": "Deals tracker: Harbor Health to buy 27 Village Medical clinics - Modern Healthcare",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFRqZk11amFzZnlZQnpGLWRMLUZDaXF3bUJGcUVMSTRXNVoxQzRzY2FHY3FpWjM2WWV3LVFReTJmQ0R6X2NWa3RwQ1BTcVBnT3pjV0JabVRaQ1QwNTd4MVZXeDNzR1MyRFdwT1ZXRHd0cDNJbUluYnFoUGNxM2s0dXZpNC1vaXN4ZEY4SWdHQjE?oc=5",
-        "source": "Google News - Arkansas Healthcare",
-        "publishedAt": "2026-10-07",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
         "title": "Arkansas Children’s Northwest unveils major hospital expansion in Springdale - Northwest Arkansas Democrat-Gazette",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUGhXcVc1Y253M3h0ZHRLWWFkalhNbHVKMHl3T2dCd1BERU8zczd3Y0htdURuaEpiZ0pTQzVwSUw2dDFhLWV1V2FTOG1JRjBWb05TTWxlNFkwejdsOEhFeDZaNjk1RW5PbmI2d0QzaGltZlFmXzkzQ2ZBZXR0SXp3MXFDSy1KNU5sQzlyS2ZnVQ?oc=5",
         "source": "Google News - Arkansas Healthcare",
@@ -427,6 +420,13 @@
         "source": "Google News - Arkansas Healthcare",
         "publishedAt": "2026-10-02",
         "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Central Arkansas VA breaks ground on New Mountain Home clinic - KARK",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUE5PcFZYakdPd0pCREk4SjdzZmFyZ0tIT3E1WGZ5MFVEM3hJZnZQdjFaTmk4X3pDVXNha3YxTEFwNGxmbXROZFI4cW42aThjbGVxcjFOMU5WMWdTVmp2ZW1Wc0dma25TYzFhWGNJdVlSSElVSXlBYm1ZU1hPTUVCTjZpd055a05faFZzVmJGOW1aSkxod3A5VkVkalRYUDl3?oc=5",
+        "source": "Google News - Arkansas Healthcare",
+        "publishedAt": "2026-10-02",
+        "summary": "<a href=\"https://news.google."
       }
     ],
     "CA": [
@@ -463,13 +463,6 @@
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMHBVdWZIV2JuLWdIX0lvcEZqMXJRVWU1ajROMGlzXy05UExyTV9iUkZwbTZoRVpSZHVMZ1NYbmQ3YW1OOUtxcE1tTUQ0OGYxWXIzSkZvMzV6NXhGRkYwNHZ2Y202MkFoQ3ZCUTdMZmxuT1FkZS1nbnRfcDhvb1YtcjU5blpwV3BkRThZOGEwVWpScU9USTVXdFBWMGlXOWdkUzh3bDBR?oc=5",
         "source": "Google News - California Healthcare",
         "publishedAt": "2026-10-13",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Woman In Wheelchair Hit By Vehicle In California, Taken To Hospital - The BayNet",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ0VTbHhac0o5ZWNyY295eG9uTmRxN2o0N1BsNnhfTzQzWFB1TFpCLUpXZDJPdHctQnVvNUNzclRzTmctcklvVGdUN0NPOE9BdGphWTJxSm5Ic09oZ29FV01GdkFjYjFMTTV2eE5DZnozWE9xbkhJUHIxalZSWDc1RU15ajlTTjZRbUNlWHdsM1Jobms?oc=5",
-        "source": "Google News - California Healthcare",
-        "publishedAt": "2026-10-10",
         "summary": "<a href=\"https://news.google."
       },
       {
@@ -534,9 +527,23 @@
         "source": "Google News - California Healthcare",
         "publishedAt": "2026-10-01",
         "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "California Hospital Association announces next president and CEO - American Hospital Association",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXFOQ1B3VFQ5N2NLZ0tZV29VTTV0TEdmMVdPNENsQk9HaFV3YVNqMDdtTWhxeGpmLV94Z084YkxYREtLV0UzT0hoaXRoaTRNS1ZLS0Y3clZrVmt4UTNaY1NPUTJIRUpBRHVIM0pMQUFNclduUWxhN2UxeXBnYk16T01KVndIRlZBOGxPZ3lta0IwRlRXZDZmamU4SFo1WHYxdWhRUWJ3X2d5cVA4cnc?oc=5",
+        "source": "Google News - California Healthcare",
+        "publishedAt": "2026-09-18",
+        "summary": "<a href=\"https://news.google."
       }
     ],
     "CO": [
+      {
+        "title": "Hospital cuts staff, citing $25 million in as-yet unpaid insurance claims. 34 laid off Monday; additional 43 positions lost by attrition and left unfilled - Montrose Daily Press",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNUDRUcmNnYklGd3paLU5fX3F0NWJIbnZLeE40Tko1OXdocGhnX0tERXU2bjFVV0Q3eDNsRWJSVU02Z3p3MUljT1pnSXduUDQycDRmVk9uVks1dDJmb2c1MjNOM0lxUTF1YU5FYnhUR1VXbUFNaFRWUzNWbWd4c3BVcC1NTUlLdlBtWG44VmlCZlFXMmdDQ0FkRFlUeVQ1dW40YjRwMFgtdXllTzdhdjRCT1VUU1E3WFpvQWpOVEMzdzFLdk5BMll5Nnd4ektndmQ2ZUlHWFllZGtYb0l1NHVxczVJUzI2cWs2cXctaDFVX0o1b0xJUy03bTY3VUdjbDlJdUEzOE9R?oc=5",
+        "source": "Google News - Colorado Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
       {
         "title": "Custer Hospital District awarded $1,051,994 from Colorado Rural Health Transformation Program - Wet Mountain Tribune",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONHU4WUFUcTJ2eDlSNHVOWW1oUXpzY3A5ZklOZkx2SzJrZGsxbWtpakhjWE1leklBMV9kSnFtVlEzRnNraENKVkptbEtiSk5TZ0hTQ2ZsQVhYbGtCQ25teGxpSmV1Y3hIMUNuWDNSZHJsSjJxbG5KUkx5VXhLbWFUZWdhc1NabDFiN1dDeXY3Q1lmbl82eFN0bHNDaEdjcGJjSTlXV2RodkVoUTF2SkVEVDM4dWNTVUtXVUZmekQxQ0dEV3o1Y1lhNDRjOWVvUQ?oc=5",
@@ -577,6 +584,13 @@
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWjZwSXdLTkxjUDNMMjBCemxsTlZDNExtcUdrWFJaSmtDSldJTGctTGd5enRKUmRDWWVsMHpyUklaRjRzSlRlODgyQWc5Q0JsN2dKbVlESTBTdUdRYzVjZzAxakV0OUl5aWF2YXVkTGhBTk1HUklaSkVaVUJoMVdIdkdEcEVINnVjMXlDa1lINWFESndBQnVuYnpR?oc=5",
         "source": "Google News - Colorado Healthcare",
         "publishedAt": "2026-10-13",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "EDITORIAL: Pagosa Springs Medical Center on the Financial Frontier, Part One - Pagosa Daily Post",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa3NWQ0w1SjdOdEtqaVc5OE1wNDZWdUhRMXNmYlhsZW54V2dFM1gzWUpnVDk5N1QxVjBQWlZfcHg2YkR0cGZzcDRKS2NGR3k0LWx6NmxRUEhWZHBHQ0dHSjFzSVFJZ3ZPRHR6dGtodGdaSlFjSURMbzhRUlEzeUoweDBwMFZvaDZrcVZkTGVqR3hfVF9LYVIxaV84bEVKUlBicUlKM3JMUkFwT0toTDlEckVCbHM?oc=5",
+        "source": "Google News - Colorado Healthcare",
+        "publishedAt": "2026-10-12",
         "summary": "<a href=\"https://news.google."
       },
       {
@@ -627,20 +641,6 @@
         "source": "Google News - Colorado Healthcare",
         "publishedAt": "2026-09-22",
         "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Someone ‘intentionally disrupted’ main oxygen supply at University of Colorado Hospital - The Guam Daily Post",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQVduM2cwVEROZUJtQm1adk9rZWNTbmlmLWYxXzVkU19GUUVKcHpQSkpJS1g5VXhMR0JydDRtbTFOYXlkZFI2ODNEUjhKNFVDenJ2WTZJbUp0R0xaQTJHeWNta0VzTGRZYktlZTJ1ZmFVZVpmT3NxeE8wdEMwUm9EMGdiU0QtbmJwQ3djaGpEaHhWbm9ndlR2a2c1bVVvZjFJNEk3LW1FOHZja09aMl94YVZwaXdacnJDT2JaUmNBVDU4NGh4WmwtdW9HamtqTkgxTkNMdEdMd0x6YTVGb2pvQ1F2a0x5ZWw4X2NUMDBvRm1BYUVkYzJUTFdRTnJwN2M1a1E?oc=5",
-        "source": "Google News - Colorado Healthcare",
-        "publishedAt": "2026-09-22",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Hospital says oxygen supply was intentionally disrupted - WKRC",
-        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPQXZNQkc1UHBnZ1hNMzc1aXB5VllqN3FpUVN1SEJCZU5xRXFNOHhZOGNhZ215c3lOQnN2cU0zRzRQb0FKNi1RRjl2c3ZDVTE3UXM0dmxqc3hyRHFyQmFQcURoS2hzNDh0VEJXY3ZQRHlrV0UwYy04MGUyLWpIQUlhcXFGbFphVF9oam9TODdkTG1GN19EYXI0T1Q0UjJheDlaVXBtUHJuNHRIWXA1c1lJeG84OEt4ZW05ZzNfb3JFVl9IclhnN055RTQ4OVdKTW1SUXdaNHNEdmcxTG5xM19IVlpZRC1Jc3g0VVRLZ3ZDRVo1bWVSTkdlaVhaeGhuczBSbTNrWElVVHdrMXFJSUtDdjBqMVhCNzBSbng5Znl4d1E1QkdlLXNUN0NZekYycF9CdkRtRHJnN2p5cmpYbjB3UGxiVkxuaFBVU3cxbWpSY1ByQzZDWjZDbVBDcEZRM09vbHpzeGRoY283RVhuT1RaUXdsa2NpbnotRDYwcjN4WGdjbFlIYnNoVWo3R2cwa0Z5am5MYVBSQzNaUk9maU5Z?oc=5",
-        "source": "Google News - Colorado Healthcare",
-        "publishedAt": "2026-09-22",
-        "summary": "<a href=\"https://news.google."
       }
     ],
     "CT": [
@@ -668,6 +668,13 @@
       {
         "title": "Connecticut teen was ordered discharged from Solnit. DCF had nowhere to send her but the ER - CT Insider",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQzlET3NGTmQ5S0pQaDNNdHdra1pSN3Z3cmxjZ1NvRnFBVUIzWjF0NVN0My1qeGRvN3RUc0lBUENjVEkzVXhhVU8xS1EzUEFOMDNDbU8teDAxU2RBSmZZQTZUOU10SHJBTFh6S1VwN09YRF9RWmtEMXM0STVucGExdnVKQ3VxX20tMUlTNFBXRVhxNW9KR2cwOWRwT0lMVGY2LXZGSG5MYTk?oc=5",
+        "source": "Google News - Connecticut Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "18-year-old found shot inside car in New London parking lot, dies at hospital: Police - NBC Connecticut",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbFoxR0FJZ0RzcDdzWnZzcnkySTRPUGVUenhLeWNEVkFMUFBxbVNXbGRKcVhqOVBHeW5Xdk9nMTRCb0tfakY5WklTSVpzTWYzOEVwMF9STDV4elgxekJhbUJieGlvajhEbDN4Mzl5UXRaQzF2QlQ5OHlxX044STdhaFQwX2ZUM2F5RWxZelYwSUQzSWhnUmZzSmlxQUNiajl5Qzl5cXNmQ1YxakZHaFl3ek9HWGJZTjJ5Y2c2cHBON0lyT3JrSzJnYnJCTFNFeEnSAdcBQVVfeXFMUF90czFtbENWYzg1ZG5EZHRheTZjSXVGeE0yVUtEakJEOXY0NHpZMUNxcjZhNm1vSVF5bm81SjNVU2lLdFhueTU0Nk1XVURfM1laUkpBOHRMWjJEQllpZlRQaVhJQXV6d0M2dkRQSlpPMHhGcWZwOE4yQWhVNTZ2dkt3dnM1amtoaEdTME56dHQ2a0JWVEJ0X3VNamM4bU9UaVp2cFM3c1ZwVEhBd1pxbnVpbDNFdHpSb3gtbzAzcnNwY3AxM1BpUndYQ2hLeXBhZjEwVEVWODQ?oc=5",
         "source": "Google News - Connecticut Healthcare",
         "publishedAt": "2026-10-14",
         "summary": "<a href=\"https://news.google."
@@ -740,13 +747,6 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRG1ZNG12TFdpZDB0eDZ2NlRSV1Q3cmZnQ2J1djV5ZmJwQWhmT0xiUi05ZWlOSjJyT054WlRoVWlMMktoN1FHdUIwTE43QjhIQnBKblF1dktWbUROVTZFMHdMR0lCazh4eGpVa292LVpTMFVsREx5dHh6cnVDMlpCZUU0UlJIQnlZN0hSa0xHeXcxTWVKWUNDYmxHNlZtX0VzQzBoNXBnNHNST1Vq0gG0AUFVX3lxTE90U2JJVVk4c3A1eUJxbUZHMG5sNUlyTHJ5MTNsNzFkYndNN1BRVWdtcW5zQXM3RF9tMFA0eG5aTjZNcndoZlloVU44X2tOTy1QUHFlMXZVdXFhaTRSV3RkRmhPb251Q2d2SU1vTWlrXzYxRTROZXZnWG9PckZELVd3UVRPeHdPVVI2M3lSd2JIUHI3Qm9vVTRzQXVoMXB0Q1JEN3AyRnEwczF2VHVpSGhCd0oxWQ?oc=5",
         "source": "Google News - Connecticut Healthcare",
         "publishedAt": "2026-09-28",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "A Connecticut healthcare system is raising its minimum wage. It impacts thousands of employees. - Hartford Courant",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZWgwR05QM0ZxbXgxY0ZlVC1KcFhabE5HSklDZnVXS2NBd181c01Yd3JKa3k4dDZYRlBOdUZObVJfZmdvaHZ1cm1rLWE2dExqNnduR0hMejJPT00tcmlTNGM4eTYtaXFpcTZaYXF4RUY3dkt5Vm15Sk1nX3d4c3h6WWZSeGU0R2lJRTJxcE4xRC1QTGdLdUxiekZHRW9BMzQ1ME82RTZHTGhDNGFSNkR6dFd3MWhaMDNTc2w4bWo1SVV2RFFrZTVDeQ?oc=5",
-        "source": "Google News - Connecticut Healthcare",
-        "publishedAt": "2026-09-26",
         "summary": "<a href=\"https://news.google."
       }
     ],
@@ -1015,15 +1015,15 @@
         "summary": "<a href=\"https://news.google."
       },
       {
-        "title": "Panda Express Pledges $391K+ to Support Lee Health Golisano Children’s Through Children’s Miracle Network - Florida Hospital News and Healthcare Report",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYjNoNTQ0cHo0bTFVQ0NuUHJKRmI5NklLSVlkdWNiNmdPekJtNEJETjJPd1ZzZTY0bzNNWlppTXEwWTFoaFpjbnI5WnVVYk1qdmg4d2Ytd1VqbElVb2Z1ODBaNHpvZE43bTJCbUxDYnFuQWtQZGNzaUt1Q2dmcDhCWXFTdWdGTUNQYWt1eFdwTnFFdXFvRGhLdEJ3eS1GTnJRUzVpbVZ4QmtYb3l3c1MtbVFEcG1WTl9jWkZzRW5CV2x3U05KWkVhSll0bFVjMjVOa1V0YUJIbHdMY0dSczRXa2ZJS1U?oc=5",
+        "title": "AI tool reveals what attracts immune cells to tumors and what keeps them away - Florida Hospital News and Healthcare Report",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQWp2U2d4Z0lUUk9xeGxNdXpPVVZSLXBOVXhwcl81UjhUbFFsM1JmX1lEOXhfSFgtX2dLTURVV0o5Z2ZYSXJqYVdOdFN3RXphRURvSGhzeTM1WjExd3N5cjU5SDFGb2hKdHlvTHJudjY2WWZUUVVnZ0JOamd5LVgweWFYSFdMbEJKRGxhUFMtOTA3VVdqcjRZcE1hQmhVMGFBQ2l6ajhoLXVrNkdVOVdjX2xDVmZhaURpTDk0YzBwZVlzLVJR?oc=5",
         "source": "Google News - Florida Healthcare",
         "publishedAt": "2026-10-14",
         "summary": "<a href=\"https://news.google."
       },
       {
-        "title": "AI tool reveals what attracts immune cells to tumors and what keeps them away - Florida Hospital News and Healthcare Report",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQWp2U2d4Z0lUUk9xeGxNdXpPVVZSLXBOVXhwcl81UjhUbFFsM1JmX1lEOXhfSFgtX2dLTURVV0o5Z2ZYSXJqYVdOdFN3RXphRURvSGhzeTM1WjExd3N5cjU5SDFGb2hKdHlvTHJudjY2WWZUUVVnZ0JOamd5LVgweWFYSFdMbEJKRGxhUFMtOTA3VVdqcjRZcE1hQmhVMGFBQ2l6ajhoLXVrNkdVOVdjX2xDVmZhaURpTDk0YzBwZVlzLVJR?oc=5",
+        "title": "Panda Express Pledges $391K+ to Support Lee Health Golisano Children’s Through Children’s Miracle Network - Florida Hospital News and Healthcare Report",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYjNoNTQ0cHo0bTFVQ0NuUHJKRmI5NklLSVlkdWNiNmdPekJtNEJETjJPd1ZzZTY0bzNNWlppTXEwWTFoaFpjbnI5WnVVYk1qdmg4d2Ytd1VqbElVb2Z1ODBaNHpvZE43bTJCbUxDYnFuQWtQZGNzaUt1Q2dmcDhCWXFTdWdGTUNQYWt1eFdwTnFFdXFvRGhLdEJ3eS1GTnJRUzVpbVZ4QmtYb3l3c1MtbVFEcG1WTl9jWkZzRW5CV2x3U05KWkVhSll0bFVjMjVOa1V0YUJIbHdMY0dSczRXa2ZJS1U?oc=5",
         "source": "Google News - Florida Healthcare",
         "publishedAt": "2026-10-14",
         "summary": "<a href=\"https://news.google."
@@ -1308,6 +1308,13 @@
         "summary": "<a href=\"https://news.google."
       },
       {
+        "title": "Idaho lawmakers tee up bill to reform prior authorization, and more health insurance issues - Idaho Capital Sun",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMDFSZUFLd1FLdlBqeGpmOFlFS0ZwV3VrVHBhYWN5VXpzS3BWUEoyUGViNVZQNFB4eFQxWkI4aWRlc2pMZGNPTVhsUEtNS0lFZTBfZzR2WW9pUU5PUFM0aEp0cktDM3pEVk9YZmp3T3JnZTI4VmxDQWo1VU5pTV80MXB6djdlY2lhNllPaTVXem1FSHRJbWdxSTM5bW11T1F5dGdmTUl0bUd5WTJReHR5NmcxZEtkRzBNbURHUGQyZlFIRlI1bXIwVjV3?oc=5",
+        "source": "Google News - Idaho Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
         "title": "Semitruck driver dies in hospital after I-84 crash east of Boise - Idaho Statesman",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FbVRkTUZYSUl3clpTRGNFcDlPZmk0aHZYRGxuS1ZkT3U1OC1KRldWRUo0TDZ6VUFReDVudjRLcm9HV2RBS3p6alFhSTNOUEtBZFJ5V2pNdU9yR0JhUmluVF85OWN6VGFQTWRHRUttUnZneGQ0WHdabnJVY9IBe0FVX3lxTE9wSGhXVTB0Ymsyd08xUU5STlVBZVBGY3lianN5TkFBak5zWGJBODd1bGZSQTJCZUxIbjg1cWJKQ00zVHdzejcyXzd1NmQ0dm4yRkp5N2NuNWczejI5NTJkbEhoczJMb1JrLVd0VDUyR3VBcG9ZUDNhOGlpVQ?oc=5",
         "source": "Google News - Idaho Healthcare",
@@ -1343,6 +1350,13 @@
         "summary": "<a href=\"https://news.google."
       },
       {
+        "title": "Pocatello Animal Services partners with Phil Meador Subaru for Low-Cost Vaccine & Microchip Clinic - Idaho State Journal",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNNmpjMWJYRVJBeHlDVDdwUDkzUXhPTFhXS3NLazFtS0hyb1Z3eDdGQTlWV0plQlE0dFVKMHhLd0E1NWFiSXBUbUJyZUhsTEt0b2JXb3VsQnczaWxoVlhKR05VTkxZTnBPMHNEVzdhMURUMlUxTnNPWDdMeFF4cGxCbTlubFFreFJpd3lnQ01fcE0zckYzQmprV3Njb2ZreGdFY1pZeGl3emJyNGN6SU10M3ZaVUg4QTZyejZwam9kVGU0YThPMjg4VGVQRGc3ZEpOczZwSWo4ekZTNWNTaTctVGN0eGw0TTVfcTZ6N3B0RkpnRUF4SFN2MmlSVkxPUC1jYXFvUmJSbUI4LVVBZ21ZQkt3?oc=5",
+        "source": "Google News - Idaho Healthcare",
+        "publishedAt": "2026-10-12",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
         "title": "Pope will be admitted to hospital Tuesday for lung nodule surgery, Vatican says - Idaho State Journal",
         "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdDNVaVVjcDhuSlQwX2EzTUFMeTJjZFE4X05HMnhZUVByc0dpN3NxRmxnaGJOYl94WGZMZlZ1aC14a3FKdnFpNkNWaDRIZGVUZmZFRldWWGV2OUNYcWdEbm1KNUNGdGVFa1lteEVjUkduSnVFekNsWmlwMjdrQnlSRTFXdGl0eGJrY2JOUEU0ak40Mm1DdmVEck9oSk9lb1hfZEpaVUhDNjY3eTBNYzlTc3h5NlJfcXV3Z0wxanUzWW9IM2paYnZzX0o3Tl81WHlIZWMtYlYyNFNlM2Q2YTNrT2tERUUzWTVJaGJiVnA0b1Q4ckFHYjRHZmh4Qndtck5RdE1r?oc=5",
         "source": "Google News - Idaho Healthcare",
@@ -1371,35 +1385,14 @@
         "summary": "<a href=\"https://news.google."
       },
       {
-        "title": "Christa Pike is discharged from a hospital after surviving execution attempt, her attorneys say - East Idaho News",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSEcxc21BNGhWSmdwZjRVa0VnZU9LV25acFhvNEZxZlZRQU9NYkVhUmMwcmt1b054TVBWOVFjM2I3Ymx1dnV5akotcWVORWpJTE14YWRRdUlxRVBmMUZaeWxxaWxXUkNsLUwybnNZYjFTUzJ2QzA0VkhhN1pnbE0tMDNmMmNIVTRUenIyNXd4eHg3bTRKUHFQQVJSZVJPdFNTTkFVbDRDOFNkRC1wOFJGd3B5ZktQNG5QYlFRTUlXSG1qa3ltSTZ3N0RlYi1KZw?oc=5",
-        "source": "Google News - Idaho Healthcare",
-        "publishedAt": "2026-10-10",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
         "title": "Inmate who walked away from Boise hospital turns himself in, police say - KTVB",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOczlULXo4Q1pWX3Z4R0g1eTFndFlPRnA0aVREU1hobE5DcnEwYXpua3VfWDhpeHg0TUM5emZ3V3JzbzExaGxhNEROVFhOeWRocE5VcGt6TmFFR21sSGJwdEhpMHpRUG14Z1V4TzNMczFOaURKa0dudVFaQ0NEUnB4eTNJMnpwZVh3ZFh3VkJyN1hxbTZmTTBnZHd6N04taW9WNjZucXIzb1pKR0JodEVvT2hZZEVVSi1wSUtKV2Y0S1FyQWppV3FuZ2dEY3phQms?oc=5",
         "source": "Google News - Idaho Healthcare",
         "publishedAt": "2026-10-10",
         "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Idaho man suspected of video voyeurism at chiropractic clinic - East Idaho News",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVnRSRTgyVXlaWDZpS0RHVkhhVDFNV2tPenEyekNfRDZSdmtxZDBFcVp6R2VIZVV3S3JfWEpaVWR0YTA2QTY3YlE3azVfamRGN0U5bnpxSEZESkt5UG53bmFXeDNZdGdMaWZ3LVhHYzZCdGhhUU8zeUhGMDFMQ0g2U0VXWlVJeU9IaWpGN1JNaG5XTDVkS0ZzQndpVlN3X2JIb3c?oc=5",
-        "source": "Google News - Idaho Healthcare",
-        "publishedAt": "2026-10-09",
-        "summary": "<a href=\"https://news.google."
       }
     ],
     "IL": [
-      {
-        "title": "Rush and Endeavor Health Announce Plans to Merge Hospital Systems - WTTW News",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWmFEa0JjQW1ibUhKdmFQQk15T1ZPeEVlTkMyemZGZ0k4UTNvdWlqMXpnX19QYW1DQUo2TWk4d25aemFDYU01d3ZrSWlmZUlZUVFadDZxSzZEMWdyOWdxaWRGbklPdkdaZ3o5Z3FpSVN1bVU5em4zQW5PTm9ENDVvN1hrS1ZhOHVGZGQxeGZJWVdGZjJKMExwVWwyRQ?oc=5",
-        "source": "Google News - Illinois Healthcare",
-        "publishedAt": "2026-10-14",
-        "summary": "<a href=\"https://news.google."
-      },
       {
         "title": "More than a dozen Springfield-area nursing homes fined by the state - The State Journal-Register",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN3o3cEw5a0ZLc0psVlBYeFQtNnczWjNaLVBNUnZPNzM4UmVDcGlScm11Zk1DX3pMdUsxdVU1alNaV0ZKR1F5dWc2aTdqbW1zSEFqNEwtWEJhZVRYY2lmWWtGTEV3YmpzTEl3NVFRMXY1bEt4SXJHZTdLNUxiaGRQcktqTWhzTlZ0aWNQUXQ4TzlNbWVsQ2Vwb1c1ZC0xVUU5V0hmYzd2Xzk1dXhNdDR5dk9RUmhMOC00VFpkU1lUX2I?oc=5",
@@ -1497,9 +1490,23 @@
         "source": "Google News - Illinois Healthcare",
         "publishedAt": "2026-09-09",
         "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Eye On Illinois: Hospital industrial complex could well be collapsing - Shaw Local",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ1VBUGloVHZUOGtQbGJUaTZFODdqUmtqaVNGUkltdFNYdTRpeWtTb3I0RzRJcWQ4cWswUWRjdUhIcVhybXNpa0hjOVpIMlkzeEpwdTBCd3FZWE9lMlZqN3hza0J2WTNUT1VfVE84eU4ySEZieGhjSUliMERxOUZRMjBaUkRtUzF0UWloNmFXU2lOWU1kd3FoWEIxbzdBeWduLUpFUWgwcWZjNUN5M3cwQjRrc0Q?oc=5",
+        "source": "Google News - Illinois Healthcare",
+        "publishedAt": "2026-09-08",
+        "summary": "<a href=\"https://news.google."
       }
     ],
     "IN": [
+      {
+        "title": "Indy healthcare workers balance safety, patient care amid hospital arrests - Mirror Indy",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNTJCSGtsZUFzUE1yc2VTeXJBMHA5MGlGS2FBWGphQ1pYdGZaZTh1OXoyZ3hKNTlUVEdTUTVLbUNWbFdKZmxDaUtEZ05OQTJ4bGFsXzZxTDRqemZPODVkZUM5dXpfQzZnSzdmQVhnd2JYVnN6RzhRYWcyelg5V3FyZjJ4QXdCNjd3X3U1TFVPdG03eERoNFJMODA5bjJlZXoxek9DWUpqcVdJakhVbFpQbFVoME5lWWNJNHJIOERR?oc=5",
+        "source": "Google News - Indiana Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
       {
         "title": "Check in: IU Health Hospital ready to open in May - WANE 15",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRTZoTWVSUXFFX0lLMjZDMm5jNU83RUNBMlBudFhNUDF5MGo4MXAzNUxTZlo2V1BKeF81OC01b2hqQXVFekNRaUMtWmswdUVQa1JPdkhod2p1SEZkVU5PSzM0U1BaS2pUaG0xdmVfTVBtTlVKMmRNZURqNTJpdG5lN2tiWEdWakMtblHSAY8BQVVfeXFMT0ktWUJxMnB6b3YtQ01XWlc4cm5RSnlySS1UaTg5V2RDd0FDcmFucjFqelRzUXpfV2M2dHZOWTMxVUtHalIzNkN5M2xFU3JJSHBFUnp2enZMNWtHSUZWTlAyaHNiRXJsOU5YVG1LQ2hqRUxXN045ZTJYNlRzU1ViQ0RraVU4eFNMdnBOX0dLVmc?oc=5",
@@ -1592,17 +1599,10 @@
         "summary": "<a href=\"https://news.google."
       },
       {
-        "title": "St. Catherine Hospital First Indiana Hospital to Earn Joint Commission Acute Heart Attack Ready Distinction - Building Indiana Business",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVXdmSlV2QTVWZ3o0bEFmN29ndU9EejgycjBKaHFBb3ZSVWFwNHQ1bDNGT1NwS0tDMHdXNVhydXBZaHJONWhia0RscGppVV9zbEswRndtMjM5M195cHpOTXk2bXJDd1hROFU4eVhhOHJtcTA4X2lXd2p4empZQlQzeURrSHJFMjRKZGJyMXl5TUdUb1RjZi04NXFEb3NMREM3cVBOcWtzLVFRSEpyYzNQZERmU1Z5aGNqSWd6NEJ2cnNCM3c5VnY3bjBkbmxXaG5lSFE?oc=5",
+        "title": "Indiana's Sigma Nursing CEO voted out after allegedly caught saying slurs on leaked call - WKRC",
+        "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNU2VQVXNFSVB6WHNGLWpSMk41SDAxNkg0ZXFBMk9DTklnOXh5Ty0zZHo2QVE1ZTdvVURSVzdKVUVmRXBDZlJWenRtaUw2elFCSFRSSXMyWV93TmNCNDNkWEo4dnljd05JMHdHT213Qk9XM2JUeEhMYnN0NG11djk2Y3ZRY1BiQlBETTdUR2M4Vy16VDhuaUk0T0F5aTdwajMxY0NOaTlUeGxid0wwX3dhaFduSjU5YzdFOU9va0ZHN0dUYW5nVlNzOHZwR012bXlCWXpKQV9RV1NFcFNGVmltQ2tpcnRRSVl1WWk3M1pRTjdBSkUzVDV0V29jOG93UTZmczVUMnRiZDRyUWRjcVVDTk5hekN4ZGc3QkhBTWFrY2ZiWHpQZzFJWUZjckhqaDRsSmhRTWpha243WURjT2NmX2NuUXg1VldjRHdmSWNiMXB0V1N0amxzc3dVRGVfUS1mZTRxQ3REeTRsODRuckhSQW42RmxzT0RMNXRoWG1mZw?oc=5",
         "source": "Google News - Indiana Healthcare",
-        "publishedAt": "2026-09-18",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Indiana Court of Appeals Affirms New Trial for Notre Dame Exoneration Justice Clinic Client Jason Hubbell - University of Notre Dame",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc2RZYnFJdjdJVDRobWhIRnhzTmstTS05VWIwNHBEb1VyWVZDQUpwcmdPMjh6RjJINXR2d3FGdjEtZTdTQTRGMkkzR2VHSmdpNDY3ZG5jall2LUZ2YTZCb3dtZ05RbEF2Qk1MdjVNTWtBNkZnakU4Mm1hcklaQkRMbGJhVzE0cTFoQ0owLTdGN2JmUE9qbWtGQThIZ3dJbjJWNEg2WjNrVmRUUHd3QkJtemVMQ1JjNlBxNm05TXdQa3ZRZjRIejdjTkRtd0h5LWE0WnBKYUF0LTRFUQ?oc=5",
-        "source": "Google News - Indiana Healthcare",
-        "publishedAt": "2026-09-18",
+        "publishedAt": "2026-09-22",
         "summary": "<a href=\"https://news.google."
       }
     ],
@@ -1624,6 +1624,13 @@
       {
         "title": "Iowa Law faculty and clinic participate in 2026 Iowa Nonprofit Summit - The University of Iowa - College of Law",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONHQ0cFFGVl91TUI4QmxVdTZqaEU2QThiNkxYRUdkdWVkQm55VzN3RzhIdjRNLU83Mm8xS2JLSkhmSzdiSlRIU3VrM0hIQzRQNjREd3JISWVwMFBIeUNtODFReGZibENTN0ZmY2xNSDBiTjh5WFZOLUhIZWdRQmlTMXdn?oc=5",
+        "source": "Google News - Iowa Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Iowa clinic closures leave Ottumwa residents with fewer options for care - Iowa Starting Line",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWQ5OUQ2UG1ZR0RMQVB5Z081Y2ZRY2p2dFUzR0lMVDAwcDkwSEZtbnkyMzIyR1ZTZUpLb1ZqM091X0FjMzZNU19Lc2NIV2ZkUkJ4bk5ia2pWZ09HRDJrN3BJNDFFblhUSVpUVjZ0STRseC1KZzNlNy1BaXlCWFlLbGlmRTBCVXRQUEVPZUI4WQ?oc=5",
         "source": "Google News - Iowa Healthcare",
         "publishedAt": "2026-10-14",
         "summary": "<a href=\"https://news.google."
@@ -1666,13 +1673,6 @@
       {
         "title": "Morningside University to expand nursing training and support with federal grant funds - Iowa Capital Dispatch",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRHJzWWtqUEEwb0J1bE02WWgwaGVBMVVXSzR5UkUxWkRtV3lrYW1LaHBBc3JRN3I2ZVFpSjAwbGxaNGNEeTM0YzhUemRMZUF2ZWprUmdzUDhFR3RnLWZZdm5VQjlZbVpWZ3ZhWlFjQkcydHl2NXZsT3RzVE1jM3BvTk5vS3FVSm91YTc0TTNfSFhSNTdhb3FocEg5djVpR2xna3FkTktGYVFWX1V3V3pHMmlYMDRwOVFXd3ZXa1FIbkJrRHUyX1A5YW5n?oc=5",
-        "source": "Google News - Iowa Healthcare",
-        "publishedAt": "2026-10-13",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Kim Higginbotham receives second Iowa Hospital Association Hospital Hero Award - News-Press NOW",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPa3dEYzZtZTFmNDdvYkxuWDFRUTRNTFpIX2lPVHE3MkFLcXJpUjZXb2pEVGwtYUNRMkZ6bTg4d3ZfRzNyRG4zc3BhdXl0LVJObU85b3YwNGpuUFRxSGFuY0R2NjZhYWVlV1h4c2dsZ1BpRTFjcGlKci15LUY5bllJZ3FkWFBoWXh4d0FKNnBSR3dxRWZld3plQnRtYlNIQk5OdXBuOExyeC1UbFZnVlFqQmstMVMyWm0wSGh3UEcxR1U2ZDdJSmRCbDVVWTVBWkdqSHRiQ3BGT1FwNXplTzFPUGxrdjVydExDdHlwVjlGQkZHMzliQ2d1ODlJS1NwWTJvRTBPc0xkMA?oc=5",
         "source": "Google News - Iowa Healthcare",
         "publishedAt": "2026-10-13",
         "summary": "<a href=\"https://news.google."
@@ -1750,13 +1750,6 @@
         "summary": "<a href=\"https://news.google."
       },
       {
-        "title": "Kansas City Hospitals Need Nurses Now, And Accelerated BSN Programs Are Helping Fill The Gap - KSIS Radio 1050 AM",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xdjZ1UlV4czZmcjZ5TkQwR2pwWnNrRENJVTlEQTdwODJlN3pCQ29PbnA5MGxzQWR3LTFTdzVKbU9YbDRzUHhNT2NHX0MtZmZwNGZtaTlIaW5VcnBfNkphbUwyRjdFTXNNamU3QUp3?oc=5",
-        "source": "Google News - Kansas Healthcare",
-        "publishedAt": "2026-10-12",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
         "title": "KCFD firefighter taken to hospital after Sunday night apartment fire - FOX4KC.com",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY1NWenF0Q3YwUU9SN1hYV0lEQjQxQjN4M3NySWE4WFd5SEp3S3lQRGxWUmtSQ3NETERaT1U0UXBhTUkyeHBPX2ZmSDBwVDNIYlFzalNvUEl3LVN5bkFwY1l1eDVPZUdfVGt3d1oweTJQb2JmdWVOVERIR0lPb281dWUzZ0Y4TlZvNFdoY2xvZmlIMElMLW53T9IBngFBVV95cUxQUGdhQS1IRlhQaGtCRWlEVjVmWk1GS0xOYTAzbWZySk5xYUpKQWtkemZPT0YxR3JteDhuUUNhdXkxMjJpT1lCR29QSlEyRXluMWZxVENDRWd1eVktOHNTREZhOWN6SW9WVUQ3RV9yQU81V2s5Wk5zbDRZRGk0eDV2VDczalZlRm0yRlo1YjlHeVhhZktyZldiM1RUTTlNQQ?oc=5",
         "source": "Google News - Kansas Healthcare",
@@ -1801,6 +1794,13 @@
       {
         "title": "A new Northeast Kansas clinic to support veterans is now under construction. - WIBW",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLXZKeGoyeU9sY3JvWWV5NEFvVTVwS2lVNWdEWVhCbUlTRllXUE9iMmhwZExnbGM5Q0RZSXoxZ0I2NnhDYlNrZWlzcGs4dTJGSFpIUFQzeXBPdWNQMWFYWTNzYzVhQUNVVWFjVTBPSjBrYVl3Z2pBWlEyVEhzVjFpeGdPZ2VGV29Qa2FkcHZpRFBtOWcwYWZhTTl1eEd5UHdtT0k1ZHlCZFdjUEM1a3c?oc=5",
+        "source": "Google News - Kansas Healthcare",
+        "publishedAt": "2026-10-05",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Construction underway on new VA clinic in Junction City - WIBW",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ2FKdUpUNzlxZWZzRlJtUGdDUnBDSm45ZjNOZDlqMS1MZWVPN19xOXZhZ3N1SU15NXBNSXlzWWxzTHVlaXE2djg2Q0JxRHo1WVMwdEpDTkRLSllhRG9aUnBva0d2X1lMX3pzaGtadnF4cGNOdUVIWVV0cU55b3VvbWVwcXlhcWpwTkHSAZ4BQVVfeXFMUEs2aHBpTV9pTmdaMlU2SkRxNjV1Q3JVaGhPbURsNTZWNGtrNFYzYlMzamFwVWszZ3RSaFNrd2o3ZnhWQTNEQ3pRaG1zYURzNWRxRHBFRWl6ckxaUUdFLWdJbk5HYTNPd2hBSFhaZXRlWHBFWlhxY3RMY3ZCWFYzVVdjY0FMSkFvbTZCN0VMQmE4QlhqeGlReUxNQUl4T1E?oc=5",
         "source": "Google News - Kansas Healthcare",
         "publishedAt": "2026-10-05",
         "summary": "<a href=\"https://news.google."
@@ -1899,6 +1899,13 @@
         "summary": "<a href=\"https://news.google."
       },
       {
+        "title": "Central Kentucky OB-GYN resident trades hospital scrubs for Fiji beaches on ‘Survivor’ Season 51 - KJCT",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSml0Tnd2Wl9EZUd2QVE4b2dtd1Azc1F3NnA3eGtheUJiVHFUemplenhTZUhIQWFLS3FqVFAzcjJmaVhiSlFobWZKQVlxRllkYUFwWXdNWmRWdGFHeUhaOHIxZFpYaWZuOGZTS1otNEVEZGYtdFE3aUFUQU9UdmNLeld0TkVJaGxDRHVmSjBoUHdzT2ZwS0dDM21LeVU3VUhKb0tsUkxBVXNQb1ZNS1pncUZQaWdxV0lUeGRKTW9zM3FPbTE2bXc?oc=5",
+        "source": "Google News - Kentucky Healthcare",
+        "publishedAt": "2026-09-23",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
         "title": "Central Kentucky OB-GYN resident trades hospital scrubs for Fiji beaches on ‘Survivor’ Season 51 - WALB.com",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNck94dEJQM3VJN000NmtzYjk1bExyMzJFSmtITjVha01hbU8xTU1Lb2otY1dEM2lYYTNWeWZSOGhidmI0QXdnRmNyNnZtMnFCaGhybXRPYUZsczQxSE55Yzk5UExEWElYaDNRS3hGN0J1SF9JVHdEaUNpeWV6TTFaMEh0bWZ2enBhemxISG04QW9uYThZTm5yOE1rcTRIS2ZDRTAyQ1A3X0JqcHRRWWtEbEEzanZWcHU3RUtwSFJHTGdNcDlY?oc=5",
         "source": "Google News - Kentucky Healthcare",
@@ -1911,23 +1918,9 @@
         "source": "Google News - Kentucky Healthcare",
         "publishedAt": "2026-09-23",
         "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Central Kentucky OB-GYN resident trades hospital scrubs for Fiji beaches on ‘Survivor’ Season 51 - KGNS",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ3BLU1p3MDB3MHpaRE4tZTVQeDN6QUZuVDlvQm1yMmtsWjFtMDRJX0xWTjdwM1NfZTNTX1pyV01UeU40WDFkY1pxZXhsV2hfWFdHc25DRmdOVWx0UGFMWHNqLTBOY25vYTZQaEZfTnZHem42TmhPbklfblJlekUtQmRWVHJnc3BJUWpvOHp4YjVGRTZkTjFMRjJ6TlQzVEl1WGZmT1RKYjhzQ0xLWlZMNjRRZHM3amp2Z3lITE1oTVZmZmM?oc=5",
-        "source": "Google News - Kentucky Healthcare",
-        "publishedAt": "2026-09-23",
-        "summary": "<a href=\"https://news.google."
       }
     ],
     "LA": [
-      {
-        "title": "After a yearlong closure, Planned Parenthood reopens New Orleans clinic and makes Louisiana return - NOLA.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNVlLajN0d2EwbnRJc0FPdDFFcHNVS3ZKLTJlVlBwckFVV3lPc1dnTE5sLXhWNkRQV1dpdDdUOHdha1ZBazh3bFhTa3RkMDEzOG05RHZZWEg4aURiUWFoYTZSc1FCOEFkY2xBSFYtU3VCWnNwR2pHLVRQVWtCRFZrNWxveGhrMk1QcS1QaWllQWE5bGcyMFd1dXNuZlFPaVRnalpkM2U5WGFpN3lpTVJSbldrb9IBuAFBVV95cUxPLXlTTi1aYWE4SndDVTBtVTBUTmF4czVLZFVTT1JLS1JOaVBXdlZzc0hMcVhCdnQ4SHZuYjF4Sy15TVpRX2thcnc1eEMzcGJSeE5tM2xmVlhMMVhJclEtZWZZTTlxOXJ6RUdpTjdRb0NDTk1XQ09JRG9WYWFMS1hncVA1OFpFcXpvaXpVcldLdkRhZFBFa3FQNmFMYzAwT3dSR2UwQ2ZoOTU2QWN3WWluSjVhNmh4dDBf?oc=5",
-        "source": "Google News - Louisiana Healthcare",
-        "publishedAt": "2026-10-14",
-        "summary": "<a href=\"https://news.google."
-      },
       {
         "title": "Five alleged violations found at Northern Louisiana Medical Center - KNOE",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOWlnNU1WVzNWT0lUeXZGOS1YZzdVd2lBNnlBei1LUHRBTTdyc2ZFakZJZUYyXy1rWnM1UG5DQWxuR0JEUWxyTlZRWFR2Yjg4cE83ZEU1RDUtNGJpTTRkaGlkWW9rTWhwLTdFWDNzU2JNREpsT2JxZ3BMMFo2V21NY0pxb25zcno2cUl4V1UyX0Z2SThmNEhrZGNqbkQ?oc=5",
@@ -1978,13 +1971,6 @@
         "summary": "<a href=\"https://news.google."
       },
       {
-        "title": "Northern Louisiana Medical Center to be sold along with three other Louisiana hospitals - KNOE",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOGtrZ3lIYndEUFVTWEVHMzVtN2dpT2E4TkUyMUkxNzh0VDBiSnVuNmQyM1Z0bFJGekN4dTZHWWpYaG05Z25tQkRfTHpQM3NKeXRYSV85aEl6dWwwOUZ0MnRYMFJPYjFkeEFPMzN2bHdmcmhNWDdyZTM3WUx4R3B1T2pMQWFqOGpsVXEzMHl6bm1KR2ZKNlBuSEtfNDBjR0djdHphMnJ6azNBUkUwdm5Tb3Q0ak5DVkotSzRMeFZfZTc?oc=5",
-        "source": "Google News - Louisiana Healthcare",
-        "publishedAt": "2026-10-06",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
         "title": "Northern Louisiana Medical Center to be sold along with four other Louisiana hospitals - KNOE",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRTEtZnZxeEJrQ3o5V0tUekRLUXJSSmVEOUYwWWNxUkdPaTA1YkZTckVjZXZ3MTBFcWVmNFl0QU00eERrdG4tcG9tazY2VkVxdEp1ek9ydG0xSE9GWGRxRkRzd3hHbjZCTWw5RHNSRDZWTzhLVUpGd0FwZUN5cTNrLTBGajhZX2E0djdjN3BHRDMyMUpQUWpySzh1M2lrQnJKS1c2dHZhMUNOenMzQmhyQUh5ektpR0wxNXNWT2dsRQ?oc=5",
         "source": "Google News - Louisiana Healthcare",
@@ -2024,6 +2010,20 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUgxZU5PZ1ZfbGdPdjJhVTRncDFCTnpOWWc4VTQwZDZKMk8wbFVTMDM5TDY4SFJUVHdwWXNHd0tlRjR6T3drbUpDRlhoclduMUZoV1JQRUpFcmFxNVh0ei1VaDlIWFNyTUpDbDZzYW1xeHE0R21RRWNPY0YtUFFTdTcxZUY4NnF4eUx2UmtKRElQZS1BZU9RS2JpVnFJZw?oc=5",
         "source": "Google News - Louisiana Healthcare",
         "publishedAt": "2026-09-21",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "'Hospital of Emotions' immersive art exhibit takes over shuttered LA Hospital - Spectrum News",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVFJOSVZDZVFycEVLX2FRcVM3X1RXWE01N1Uxa2lmeVJPZ3kyMkdxM1Zfb2JsRTZub0NraWFJM09WaFhwSzVpdU00VkUzMXpILWo2T19hc0pRelR3OE82SlJUVWVqbFE0NEd1NTZ6R2ZwOUxmTHl5dTRKeEdPaGNtWlMwRmFZcHpSVkNBcW80Skk?oc=5",
+        "source": "Google News - Louisiana Healthcare",
+        "publishedAt": "2026-09-17",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "La Rabida Children's Hospital seeks to be named America's Most Beautiful - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTThoUFJkaFpDTDVpVE9Ma1lQYV9jenBtTDhkcVR1VFYybVkycTQxYlppZnlVN2hhRFpkWWU3M1BfcVFaRWZGaktvMW5XX2ktTlBNVXp2TnNRZzdLZFhUQkVDNndwSVktVHdfZlZyUVVhSzZfbFh4Z2xRYVRZOE16NDMtODVrYXdfcGUwNGpZbnFlTGxSQnZxcTRXakdiUGswbDdLWg?oc=5",
+        "source": "Google News - Louisiana Healthcare",
+        "publishedAt": "2026-09-16",
         "summary": "<a href=\"https://news.google."
       }
     ],
@@ -2113,15 +2113,8 @@
         "summary": "<a href=\"https://news.google."
       },
       {
-        "title": "Pedestrian Struck By Vehicle On Route 3 In Palermo, Maine Early Tuesday Morning - Q106.5",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ENUVnZkdRTl9wMkswdXNSLThsUWI0djlrS2Vsd2ZyWTdlSndpRmlsSzJZY1dYTHRhWjA2TWl1eGpxeTh6ZVFEZVFOUDVPeXJZQTJ0QnBtSmdJTmRMcGZrM2VvRFRRRlExcDlldldOdw?oc=5",
-        "source": "Google News - Maine Healthcare",
-        "publishedAt": "2026-10-13",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Traffic stop results in crash in Auburn - newscentermaine.com",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVWFmNmRXeHI0V1pvekkxcVdvLUJROE16aFVJd3gzNDU2d0F6b1VKNW9QVXAxYzFkVHlBWjdZUmVIUGlGWE1wbFoycHQ1MGJsQ2JqczJzTFNlZVhRMjhBU1dmVWlnZ2F5cFYtckJjZmhFd1R3NlRkRU03QXN6QnlOTDJ1dUhQUFF1dklYWDFYTXQwYnZDTXpjWnBjLWdkc3dLbDBxVmN2dklhVHVINFJ0SFdwc3Z1dC1pWi1JWGlNMGo3Wkt5VnRKek9VeVpuUlJydjlLcGhJZWFFRHlDMHdvS2ZhOFY?oc=5",
+        "title": "One seriously injured in Auburn crash after attempted traffic stop - WMTW",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWJodkJ4WUNUQ0FSaTZSR3ZCYzJMSHZZX000TFlPSkdPY3dlejdXcTh4SWpSdlVDcW5iMDBCQlBIWl9kMi1qbkVwb285QW1BMHdNN0YybTlDM0lYLXZMRWNYaGtMLVpaNDBpUU9Qb0pmRHo3NjJHRGRmaENkc0w5WXBhS2tKVC1EOUgxUmI1dw?oc=5",
         "source": "Google News - Maine Healthcare",
         "publishedAt": "2026-10-13",
         "summary": "<a href=\"https://news.google."
@@ -2129,6 +2122,13 @@
       {
         "title": "Man struck by vehicle on Route 3 in Palermo; Maine State Police investigating - WMTW",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcm5HOUhITG5zN2EtODRBSzdkcExYbnlaaUcxTnJmbzExZmtnMHp5dXRNa29HX0JCcllROWZjdnNlblZDYVhUTFU5SWtiaDFlWm5UUjhLVWNFWlR6bzdqb0tETmJpNS1PeW5LQVlMMHJNWm0taG9zUmd0UVR0SFN4d3lwSVFIcmljZFpwWDdLZ1Z0cF9RYl9WM0NYTQ?oc=5",
+        "source": "Google News - Maine Healthcare",
+        "publishedAt": "2026-10-13",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Traffic stop results in crash in Auburn - newscentermaine.com",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVWFmNmRXeHI0V1pvekkxcVdvLUJROE16aFVJd3gzNDU2d0F6b1VKNW9QVXAxYzFkVHlBWjdZUmVIUGlGWE1wbFoycHQ1MGJsQ2JqczJzTFNlZVhRMjhBU1dmVWlnZ2F5cFYtckJjZmhFd1R3NlRkRU03QXN6QnlOTDJ1dUhQUFF1dklYWDFYTXQwYnZDTXpjWnBjLWdkc3dLbDBxVmN2dklhVHVINFJ0SFdwc3Z1dC1pWi1JWGlNMGo3Wkt5VnRKek9VeVpuUlJydjlLcGhJZWFFRHlDMHdvS2ZhOFY?oc=5",
         "source": "Google News - Maine Healthcare",
         "publishedAt": "2026-10-13",
         "summary": "<a href=\"https://news.google."
@@ -2143,15 +2143,15 @@
         "summary": "<a href=\"https://news.google."
       },
       {
-        "title": "2 flown to the hospital after collision near Maryland state line: dispatch - WHP Harrisburg",
-        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOZmtKdHJJdklTY0xrdnRzU1FPNWlVeVVWUjBZcGZ0dEVqLXVsTkxoV1hWNFZnaWprWDI0blV0Uk0zaDE5MDhCc3p3c1NWSENYN1JYQkYweUNqT1ZGZ3lHTjItVm5GYzB0UWVITUl4ZHNNam4xdmVYZ0JQTEJYSUJLMUFJOE5oOEV2a1BKVV9wdE9YSS1VZ1BsM3U3UUhuRG1QdS00N0tEdzZsU0RkcjZ2ckIyaHVCS0ZDQzlDTVV5YWtFeTluRkoxaVJVM1BGZFRPcVlRSFFjNzVSTmVfNHR0OTRnVzFLZFFqTFJFTHZqV1N4aFppTkgtM1FXeEtGUmVpc1BVRnd4M1BScmtzdGtwcWFNdkFtSnlfZEQ0MGhfemJIcjVxQVF3UEJnV1IwMmRJTU1yNDRDWQ?oc=5",
+        "title": "2 flown to the hospital after collision near Maryland state line: dispatch - local21news.com",
+        "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNSk1QQXBtUEd1U3lmZU9YU0p4NjZHeTQ3Y2lkejlsTHgycXl1ZGZLR2ZtcUxBN0tQbmgzb2VLb0w0ZXgxbld2clJ2X2ptX3lHYnVkMFVqaTBRTGh1UjlkNDhvSEh0STJza3YyS1cyNkIxRS1KUzZmYjJ6Ri1VdjdWLTRFUU5XVGtfTng4QVZJS0JRQ3p0enRMRm0zMGtfdUJwdmxXMl9CdVRJdXJxRF9jRVZmMTc1bi1URXZNSkVndzN2M2I4SjFjZkxXdUtSV1Vqdlp3NENxOXFOdVFMOG1ReEptbV9ZWDZ0VGJEWE9NY3l4T05WakJ1R2xJYWwxd3hIY0JVdTdkZFlzSVRmSk5XaXlnMnpvVmhPTTVRQTZOMUFBN0RVWkpfZEJoakJwUjZkbGY1QTZySE1RTmRyZ0pZ?oc=5",
         "source": "Google News - Maryland Healthcare",
         "publishedAt": "2026-10-14",
         "summary": "<a href=\"https://news.google."
       },
       {
-        "title": "2 flown to the hospital after collision near Maryland state line: dispatch - local21news.com",
-        "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNSk1QQXBtUEd1U3lmZU9YU0p4NjZHeTQ3Y2lkejlsTHgycXl1ZGZLR2ZtcUxBN0tQbmgzb2VLb0w0ZXgxbld2clJ2X2ptX3lHYnVkMFVqaTBRTGh1UjlkNDhvSEh0STJza3YyS1cyNkIxRS1KUzZmYjJ6Ri1VdjdWLTRFUU5XVGtfTng4QVZJS0JRQ3p0enRMRm0zMGtfdUJwdmxXMl9CdVRJdXJxRF9jRVZmMTc1bi1URXZNSkVndzN2M2I4SjFjZkxXdUtSV1Vqdlp3NENxOXFOdVFMOG1ReEptbV9ZWDZ0VGJEWE9NY3l4T05WakJ1R2xJYWwxd3hIY0JVdTdkZFlzSVRmSk5XaXlnMnpvVmhPTTVRQTZOMUFBN0RVWkpfZEJoakJwUjZkbGY1QTZySE1RTmRyZ0pZ?oc=5",
+        "title": "2 flown to the hospital after collision near Maryland state line: dispatch - WHP Harrisburg",
+        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOZmtKdHJJdklTY0xrdnRzU1FPNWlVeVVWUjBZcGZ0dEVqLXVsTkxoV1hWNFZnaWprWDI0blV0Uk0zaDE5MDhCc3p3c1NWSENYN1JYQkYweUNqT1ZGZ3lHTjItVm5GYzB0UWVITUl4ZHNNam4xdmVYZ0JQTEJYSUJLMUFJOE5oOEV2a1BKVV9wdE9YSS1VZ1BsM3U3UUhuRG1QdS00N0tEdzZsU0RkcjZ2ckIyaHVCS0ZDQzlDTVV5YWtFeTluRkoxaVJVM1BGZFRPcVlRSFFjNzVSTmVfNHR0OTRnVzFLZFFqTFJFTHZqV1N4aFppTkgtM1FXeEtGUmVpc1BVRnd4M1BScmtzdGtwcWFNdkFtSnlfZEQ0MGhfemJIcjVxQVF3UEJnV1IwMmRJTU1yNDRDWQ?oc=5",
         "source": "Google News - Maryland Healthcare",
         "publishedAt": "2026-10-14",
         "summary": "<a href=\"https://news.google."
@@ -2168,6 +2168,13 @@
         "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPdnBiMDlXaHRWN09VNDd3ZXg1ZGp4ekFaRFFaRC0xSFR2SFFuMENXemF4bTYtRDNsei02SmdmaU45alBSUEMzSjl1VGhqR3dIU2pjRTRDNjZuTFp3ZldEYkRzR3F4MHdqdlNSSUpqbWNQZWxfdDdINVhMNVZVWTI4bGFOWHRKa1cwSG9hNVRDSHRvX05qQmpSWjk0VHhzLUF6WmRJdUpUSTBpYy1BemJseGFfeWJpb0hSUDFfVXZNYUpkUFVGZUJFNkFxM3dMZVBwSkhNdjBaZ2g1Vk1SeFkzbzhLcTNtMWJHbzV5YzYtSl9HU3hOdThPR0NpQnhnVnlWVEhwTjdXaGZBZTJPd21TM1BubTFQeUExZVl0S1phbDN4dUFGazQ5TGJzQ0hnTTZIU3BHRGNnNzg5R1lGZ21kdS13?oc=5",
         "source": "Google News - Maryland Healthcare",
         "publishedAt": "2026-10-13",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Commentary: I opened a primary care practice. Now I see why doctors are giving up. - Maryland Matters",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTGg3ODEzbXJWV3JPY1Q0b2FkcDNYOVJqWlROWmZIVUJuWnBBenBGTldSNjRiMllxWUozcE1OMmxTTlJCUkVDdG1uUjMyWkdDYUQzay11amZHMkV1b09MNGNBYi04VXozeWZHNks3SHBVbXJFUHVrTUJWdVZCem1zaVV2dl9XYXlybzFxLTgtdkYydUxGRkFrMXQ1WUhMQmZQc1dseC03N3ptTWNn?oc=5",
+        "source": "Google News - Maryland Healthcare",
+        "publishedAt": "2026-10-11",
         "summary": "<a href=\"https://news.google."
       },
       {
@@ -2232,26 +2239,12 @@
         "source": "Google News - Maryland Healthcare",
         "publishedAt": "2026-10-01",
         "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Local Infusion opens Western MD clinic - Maryland Daily Record",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNEFXNGpsbXNlNkxsNVNlc21OS2RNdmNEZ0NHTHFCUll2LUpvXzQzM2NNV3FCQlZqTjg5M19EVTNLMWZ0UDdSY1VkSVFUTVd4ODZ0LUF1eEk5NkxPRkJlbnNsMk1yeVFuZEs3ZFZDTEFocDFvamJzaTQtcjNsNjNScExSOUcwZw?oc=5",
-        "source": "Google News - Maryland Healthcare",
-        "publishedAt": "2026-09-29",
-        "summary": "<a href=\"https://news.google."
       }
     ],
     "MA": [
       {
         "title": "Massachusetts adopts regulations strengthening nursing home oversight - The New Bedford Light",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQlZ4eno4YTVuV3J5a1NDSWtnYVFfQzFvNUN3RUdmdjZlMGx1WnRuRjd5a05DRklHMG03aWR5V1R0cE5nWTIyNlM2SXJmaU5Ld0xuYXZvalpHNFJ1RmpxRlNleDBfREZRcVJDUTdYYjFmN0lMckhVMVNrYnNEb0FJcmtENmw5ZHJpN1Nwb3lkS3JtMmx1anE0WHd3R2NOT2s?oc=5",
-        "source": "Google News - Massachusetts Healthcare",
-        "publishedAt": "2026-10-14",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Amid nursing home shakeup, Massachusetts regulators establish tougher rules - The Boston Globe",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU2Fkd196S3JUVC1sWHA3akpUak9EdjVrNE9mbnphUzZlanJWTXNvUlBVVE0yWnZNc1d3RDRaVWstYnp1S0NHVTduYlFnNnlVempJMXBjVlZVQjdQTklTZW5pN1gwV3F3N0tzOU1NaVlDVjFUaHJmVEZkSUhkUHBzMjRWckdKdw?oc=5",
         "source": "Google News - Massachusetts Healthcare",
         "publishedAt": "2026-10-14",
         "summary": "<a href=\"https://news.google."
@@ -2271,24 +2264,17 @@
         "summary": "<a href=\"https://news.google."
       },
       {
+        "title": "Amid nursing home shakeup, Massachusetts regulators establish tougher rules - The Boston Globe",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU2Fkd196S3JUVC1sWHA3akpUak9EdjVrNE9mbnphUzZlanJWTXNvUlBVVE0yWnZNc1d3RDRaVWstYnp1S0NHVTduYlFnNnlVempJMXBjVlZVQjdQTklTZW5pN1gwV3F3N0tzOU1NaVlDVjFUaHJmVEZkSUhkUHBzMjRWckdKdw?oc=5",
+        "source": "Google News - Massachusetts Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
         "title": "Person hit by vehicle, rushed to hospital from Abington - NBC Boston",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN1JieXpIYkpSRlBFaTBIUEVCRWZ1c0pBYUdESkgxVnBpQ01WZnhPcVFKckJIbGR1R2pHcjdka0lOSXpoUno2RGZnMlZ6MUhOMWhndG1vNHNtek9kZEtqTW5Qdm5DTGVUZ3hkLW5EWFlJTnlaU19VcFpHSmdBVXJfQ1JB0gGKAUFVX3lxTE9MR2J3WFMzRUtTUU5rMWZTTm5lWlZIS1F5YWxBRjJ4ZGV6OWdHRDV0dFJvdXF5TVYtTnFQNVR6T0RtWS1jT1lIdVY2MmxkRkVFbW04MXRyeFJwZDQ3NVI0WUJrOGFwR2lmbGw4UnhiR1hud1VvWlVGX3lHODc5ai0tSmUzTEZyWXByUQ?oc=5",
         "source": "Google News - Massachusetts Healthcare",
         "publishedAt": "2026-10-14",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Mass. regulators move to seize licenses from RegalCare nursing home chain that was focus of Spotlight report - The Boston Globe",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYWF5UTdBYzUzVGpoY01HMlZ1Smx3NTNua3lpZUYwVmp1R1Jpay1TSHhrbk1pbk9nT1pyTFJSNTliekl5QkFkU0RabG1WYXhVTGFmT2N2bklzaWtwWEl0VVZHQlJTYV9BVnpUWUEtbGNPWHVIVHF1LVhvMDh0ZFQwR2pLeEh0XzFfZUJlUA?oc=5",
-        "source": "Google News - Massachusetts Healthcare",
-        "publishedAt": "2026-10-14",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Massachusetts court releases man convicted of raping an elderly nursing home patient after new rape and kidnapping charges - Fall River Reporter",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORkxHVndob20yM2EwbnJFN3RPRjV2Z3k0eVFLZ3IyQ0l0RVNsaWoyamRLbTlCaDRBa3FWLWlTM2h2dEg3dF9pZUxqT3pFNjc5eV9oQTZIYnhzXy1Xb1JtblBvdkpJeGFQVEM2ZXVYUmY4REpKSno1a056aWVPQUVoUVdRSWJlUWo5Q3FXOVJ1RGtqbS14ZXhXZG40RDRjWFNXdm4tOXkybTcwU3V4cm45SlJ6V3d3QTZZcml6bUc2SHBIRHNpSFdwWThSR1phVURoaFFlNlFadE84cDQyaUwzN1FvRkliVndG?oc=5",
-        "source": "Google News - Massachusetts Healthcare",
-        "publishedAt": "2026-10-13",
         "summary": "<a href=\"https://news.google."
       },
       {
@@ -2299,8 +2285,22 @@
         "summary": "<a href=\"https://news.google."
       },
       {
+        "title": "Massachusetts court releases man convicted of raping an elderly nursing home patient after new rape and kidnapping charges - Fall River Reporter",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORkxHVndob20yM2EwbnJFN3RPRjV2Z3k0eVFLZ3IyQ0l0RVNsaWoyamRLbTlCaDRBa3FWLWlTM2h2dEg3dF9pZUxqT3pFNjc5eV9oQTZIYnhzXy1Xb1JtblBvdkpJeGFQVEM2ZXVYUmY4REpKSno1a056aWVPQUVoUVdRSWJlUWo5Q3FXOVJ1RGtqbS14ZXhXZG40RDRjWFNXdm4tOXkybTcwU3V4cm45SlJ6V3d3QTZZcml6bUc2SHBIRHNpSFdwWThSR1phVURoaFFlNlFadE84cDQyaUwzN1FvRkliVndG?oc=5",
+        "source": "Google News - Massachusetts Healthcare",
+        "publishedAt": "2026-10-13",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
         "title": "Massachusetts state trooper appeared to be sleeping in cruiser while handcuffed prisoner allegedly left alone in hospital - CBS News",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMWVObjhWbWE5UE5fMnd5VlZ0Y1dSVF8yeklPOUhRMzB3TFc1VEZIdzdJa1o5Wkx3YTM0ZFZQZ2h6dl9aS2J5WTlkLTVGS2Myci1yOGZBU3c0ZEJyaVdrWjFSbEhmRTRxTENDWHdUSkgxbzZqcUtiN0V4SGF4R3ZodTVYaF9KRGZsQ2w5dVFVWGdEdw?oc=5",
+        "source": "Google News - Massachusetts Healthcare",
+        "publishedAt": "2026-10-13",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Mass. regulators move to seize licenses from RegalCare nursing home chain that was focus of Spotlight report - The Boston Globe",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYWF5UTdBYzUzVGpoY01HMlZ1Smx3NTNua3lpZUYwVmp1R1Jpay1TSHhrbk1pbk9nT1pyTFJSNTliekl5QkFkU0RabG1WYXhVTGFmT2N2bklzaWtwWEl0VVZHQlJTYV9BVnpUWUEtbGNPWHVIVHF1LVhvMDh0ZFQwR2pLeEh0XzFfZUJlUA?oc=5",
         "source": "Google News - Massachusetts Healthcare",
         "publishedAt": "2026-10-13",
         "summary": "<a href=\"https://news.google."
@@ -2327,6 +2327,13 @@
         "summary": "<a href=\"https://news.google."
       },
       {
+        "title": "NYPD detective who survived stabbing attack makes first public remarks since leaving hospital - Fox News",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOblNxV0ZaM3hIcm5fWWFzeTJmRmpKSTBkQ0UwZlpmNU9RY0xjczJLQVZTOVpOdmk4aC0wai1PTFpic3Z4bU05NlNtQllwR2RIT3ktXy1wc3d4ZjgxNzM5S1hVWnIyMFEzQTZFRXg4S0NuaGlCYktNSURpZkJRYlpzcWNaRmVDenZ4bkZxQ2g1bkk0TDFZTE5XYml3T2lLMHRPbVU5c2thcXlaLUhjRVo00gG0AUFVX3lxTFB3WnJ4MlBka1BNaGR6N3hqRk1IMDF5clRHamNGaUxxZWQ5MkJ6LUlJWGtwUjNCVVk0Y2JOMWxBNVk1bjFrZnhUdHQtcDhPOFFoRFNxUVNwQUFGTTZHUUlZNEU3WlZTZTBsQW1qTkFjT1V4OEE1ZEhBNkRLTXRTYVJoY295UmxfYTZOTGcxMU1FcEphQVVjTHA0bDAtU1U3TmdLQjhZaUdYaGhreHA3c2xTejd2Wg?oc=5",
+        "source": "Google News - Massachusetts Healthcare",
+        "publishedAt": "2026-10-13",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
         "title": "Brigham nurses postpone strike to vote on hospital's offer - WBUR",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2lzbk5pT1Ywdzl5b3A4TFFlRlB2YU5VOHpKcWlDc3BycFJVRmxkT0FUNVFVYVBVMGJwczEyNGc2TGFvWlZnbzJoMFVEdmYtRlZGWkFMRWRQUUlUMlRmM0V6dFRpakxZR0RsUEx6TjBqci1KWGtiNVdUbXpwYlRySHN5TXgxanAxRXVIRTNTWGVyRGc5Vzg1aGZR?oc=5",
         "source": "Google News - Massachusetts Healthcare",
@@ -2339,19 +2346,19 @@
         "source": "Google News - Massachusetts Healthcare",
         "publishedAt": "2026-10-11",
         "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Brigham and Women's Hospital prepared for potential nursing strike - Mass General Brigham",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZi1sN2ZOMXQ3UnJkdnhBeEpBREg1cm83aE8waXJUN25vQ2RBWlFpSzRDREltZ002ZUV0RUt1TGdrSzFsWFQ5bnRuN0NxTEI2ZnNPMXlLWk5WWmRwM2xZel9qa1g2Wkw3Y2xxbFYwektIQm1JclN6ZWQ0ZGZIZHNVY2lnS2VVN0hx?oc=5",
-        "source": "Google News - Massachusetts Healthcare",
-        "publishedAt": "2026-10-09",
-        "summary": "<a href=\"https://news.google."
       }
     ],
     "MI": [
       {
         "title": "The doctor is on the road: Traverse City mobile clinic brings medicine to northern Michigan - Interlochen Public Radio",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQ0tkdnIzZEoxRnUxRks4eGRxaWQ5Q3BhWTIyNHA0Nnd0NDRNM1lxaURTREU1ekg3YXFVWnVsLTE4RXctT0xnYWRKY3c4dGhkNk91eEJreTVVTW5UaHM2RUw2WnRSU281Y1oxQjZKTU83bXMxYlVLdU4xMXVoNXpxVTM0M01qSTNTUGZOVzJBNmFYYVVrWWNkLU5zOXRRZGVxWnlBLTQ2WjB1VEFMc0d3YU42b3Z5RkdoeVZCbnhLYl82MHNJNTlLR2l1cFltSy1hczluNFZyYmpMME5ZNFEtdXoxWQ?oc=5",
+        "source": "Google News - Michigan Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Spirit hosts Halloween party at local children’s hospital - WLNS 6 News",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMmhXbnNLVkZKajFwU3RxeXhGSl84ZTBjUEZuUy1pQmx4SUlDcDR4V2N5Rm5uWmZIZGMySGRjMFFLSGU2b1NsajlEbE8zLVhvd1k4WS1hSGJLUGwtbE84VG83VGZrUFRlOTE0VlpXQ3dJRnF6Q043RlJYTkw2N0gwaTl1aGR4RTFFYXJHM1M0d9IBlAFBVV95cUxPaGwycDVPcVVYQUV1ZEhGVDRmTmFNdEJ2d08yRXpCZC1BTnlEQzMySk51UGNCY2lQSWF4ZURBNDF2RE1yWGx1Z1ZpNmtiQjZZa2N5UFRFRTZXM20xTlBaOGNjVTNVQ2pReEFZWFROTE11RTRGN0dYVHFHcUtObkQ3QnI4OHpPajZKQ1BRN2ZfOTRSU1pk?oc=5",
         "source": "Google News - Michigan Healthcare",
         "publishedAt": "2026-10-14",
         "summary": "<a href=\"https://news.google."
@@ -2446,13 +2453,6 @@
         "source": "Google News - Michigan Healthcare",
         "publishedAt": "2026-10-08",
         "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Michigan House Speaker wants AI restrictions for hospital pricing - WTVB",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTXdQcW1xc1lfR0FYQjVZRkhQNTVFQTYyY2QyaTcwbnJmYldNRzdyM21kOHFKcXFzbHBVWVAwT2E3MDlDbUloNVRUcVpsYkJGdTNkc0ZzTGpWdTJ6WGlKOXYxV1lwV0hkdVFTaXVEekZJeTVwVzBncm03RldybHVPSGp3MUU1VDloR05WcFNpdDg1NWtPdF96bFYyUEc?oc=5",
-        "source": "Google News - Michigan Healthcare",
-        "publishedAt": "2026-10-08",
-        "summary": "<a href=\"https://news.google."
       }
     ],
     "MN": [
@@ -2513,6 +2513,13 @@
         "summary": "<a href=\"https://news.google."
       },
       {
+        "title": "Rochester lawmaker speaks out against state leaders, health insurers in home care nursing coverage dispute - Brainerd Dispatch",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVU02TndhUXdKTTVGVEtxUUdBNTJ4OEVDUS13RmdiZF8wVUJSRkIyYW1YM05IQ3BVbV95ZHhZd083VFFmRWlXeVNLWDZSR3NuZkxiMWpfQWF6Mkk1RDk0aFZDal9Gcjl6YVdvZ1MwcFl5UUxRNEpWV3Q2cDgxWGhxc1V0U1E5dEtOSHVTV3RGM1hBLXd3dEVqWDgyS09DV1p1ZWZNbDRhQVlBNUp3LV9nRVZQbmFaZ0pLNzVaWDZxaExPazNOUXhIa2Zwcl80MF9rdlNBVDRnanFaTmxpSkVCaHJBYjJ1aDFR?oc=5",
+        "source": "Google News - Minnesota Healthcare",
+        "publishedAt": "2026-10-13",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
         "title": "Wild's Sturm sent to hospital for exam after puck strikes his head, reminding team of Faber's injury - Oskaloosa Herald",
         "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOcmtfQTVCR1ZGQVR5ZVVlbHotbEttampnWS0tVUJGUXBJeVJCQkJRTU9hV2FpZXFkNURyVDMwZFUxWWRaRWpVTzU2RXAtSWNFSnFZWnRtQmRBeDU5c2N1YWdVLU0zYXZJa0E4Rm13ckNXTkVubEN3cVhrYUgtUjlqd3lUUHB6NWpRTWpSMURmaUw0a1Y2bHJ2N0h5Z1BKSVJLY0JLeF9RSlVmOWR2WTNlM0NrWi01RXd4eDB5aG9VT3REOFRRS2MwVWl6ZWtwTkVvOXZ4VS1xYjBfdk9hMlZITXJ4dFJHV1ZhSWdjemdpcmhfWEhiS3AyRzYtdmVXQXNlUmhrdXdPcmhubm9Nd2VR?oc=5",
         "source": "Google News - Minnesota Healthcare",
@@ -2545,13 +2552,6 @@
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5felYyaHV5alBXMzZBN0dTemU3M0QtSXc0TU80V2pqN2ljLXRzajFKYkltVDZPMlJtWkRqTGloZm9ObGZKYjJjUU1QRnhhbVVvZnZ6RENBUjg5M3FrUWJSYVhaczRwVVY3SHZWMlRnQTl0cGF3Tl9kdQ?oc=5",
         "source": "Google News - Minnesota Healthcare",
         "publishedAt": "2026-10-11",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Minnesota DFL lawmakers raise concerns over hospital mergers - KTTC",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcnZzUG5SU3pLZW5LejlvV3p5b2ZMbE9YVkpGVHdRVVRxeFRzMEFScXRURlZzQnY5cExhQUdxWDBreDlXbEtseU5jbFRGNjdndkVQN2laQkVfUjlNaEpwbnJ5X1RuWnhVQ1VpWUpnNzBYZ3Bab0FuaG1QeG0xbm91SV90eGJWbTM5NE52UlV6ZEJKRTFXWGpFekp1LS1XRzdn?oc=5",
-        "source": "Google News - Minnesota Healthcare",
-        "publishedAt": "2026-10-06",
         "summary": "<a href=\"https://news.google."
       }
     ],
@@ -2671,6 +2671,20 @@
         "summary": "<a href=\"https://news.google."
       },
       {
+        "title": "Topeka Arab Shrine golf benefit pushes organization to reach record donation for children’s hospital - WIBW",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY09uWWtMSUYzR1JUOWY3dlhENndVUDI3TDJQOW5DNFJYRHhZVW1mZnRxbXdnYVE3RzRvd1BQeWxjajNNdnRKYlNIMjlMcTNhQ2E4c012RGtpZXNYUTBGeGMzN2l2TFQwTlhLYmEwSlBlRlRtdXJMMEY5T1UxZE5veEhKeVpGUUhxYmlDT2t0dlFBU2pkVmFMUjhQbUlDRzZQNWZkWGpOWVZtNEdNWEFtOVJVQzVhMmxScS1VbFAtUndWczDSAdcBQVVfeXFMTXJocHpleFppdU83bEcwYmpxS2xHOElycld0cWVUYVEzVExJcW4tVVJUXzZpQVNsV0ladjVOXzdLR3BKd1pkOTRvT2E0Y0JsR2JtTDdXM05waXN4UGdxblIwbmVta3oxd3RVRzNZWEpzaEFZTlVhWWJJTWtudmhuUFBXVlNrT2VjV1JvQV9iZzVhTV9VdXBXWG1CaF9wWkZTUUZKdngyLUlXTFo4SFFpT1N1REVxMUgxR3o5U0dubC1jZmg4bE1hQWVEM25kYm83MVJidm5INFU?oc=5",
+        "source": "Google News - Missouri Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Blood on board: Missouri ambulance services bring transfusions closer to patients - KOMU 8",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPOVdaalVwZjllbGxpdUlIOXpDSTZzU00yVHNSeks1bHFrSlNXUGZ2aU9ZTTh6RXp0RWRULVFHUlhTb1F5aUVrUlowUktNWV9CWXBZaU1CRnJtbUh2VHNyc0RXSnd1RGJCRDZ3RTYwWlUxMDhxQlBxODVRRW1RLTRuc3NkbGZ6NGZEWmhrQkxBeVZzbVdiV2hPYXM4SGVqVi10YVplRnlqVUI2WHRMWGxmWTJjdWZld256TmVtTEVhTU4xWk5uVWZfa2o5NEkwbE9jWFdoUjB6a2pzV3RmaTJRdzFuSVRvSUhfM1FBNy1leWtzbkllZkE?oc=5",
+        "source": "Google News - Missouri Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
         "title": "Patient-Reported Barriers to Ongoing Engagement in Office-Based Buprenorphine Treatment in a Semi-rural Missouri Clinic: A Cross-Sectional Survey - Cureus",
         "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOaXBkZENEaWVIVXo4dFZyWGxCVDhNNks2RVUyS19aRjVjalVLSXRxOVJjWVNqek9JM2FHMTRzV2ZpWWlZWGc5Z1pzYU13My1Yc25mMTZzU2VOOEQwTjVMUWVRR1dXNmZvYUQtUVh0WnpyZWhJUldJRHBuNWlUMXBReUlUVEsyTUhNc2ZXM0VBbzZvRWY5UlNSVzRXQldqRmpnZ2U3TWNoV01yWjVRRWJPakI3QTFmM25UcU9DLVpCVlhQOUlZZFZzdTBRMEhqTnRQcGE4U3R6bllkYTFkcUZGeThCeHVKay01a1FTMDRuUTRIYi16TDJha1FFRmhPeTJtNzdKbEZiMFU5eDZhNmRDUA?oc=5",
         "source": "Google News - Missouri Healthcare",
@@ -2748,24 +2762,10 @@
         "summary": "<a href=\"https://news.google."
       },
       {
-        "title": "Extraordinary Collaboration Leads to Successful Separation of Craniopagus Twins at SSM Health Cardinal Glennon Children's Hospital - SSM Health",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRGlPOTZLM1dfNFdHUjJTcE5zTTdxV3otc2FzMUFOVnc2QkptT2U0OVFsZ0h4NVlCcE12Q2w5QmU2U1htWHZnR1dzVlR3Q3hINzlvZFF0dHVSYjNTdkQtNHl5c1ZpQlB6MEgwOXBUdFlSU0FaYTdnaUc1NUZfcWVFS0ZoVjVpOGVydkNWeDRoUmd4ODdFTXhsaWoyTW1mYkFXZnh0Y3dCaFlESlZtYXFKdGtmTmxHdTNkTm5hemh3dDl4Rnd6TWlFblJNdWY3TWxoRXlnY01iMVJTaUZsRHJuY25qbVVyRWM3VGZrWFhWc2w0d3BEMGtVLXZKUUFCY0ZtVDh0SA?oc=5",
-        "source": "Google News - Missouri Healthcare",
-        "publishedAt": "2026-09-16",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
         "title": "Rural Missouri families face longer drives, riskier births as maternity wards vanish - The Wichita Beacon",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa0FEU3BRbndESExCUDFLcENEX1hJYVlWYmFWSzFxeFBSLXo1MEM5b3BUTHJhZXhJNWdqSDZobXlsYmYwVmxoS2UtZVB0WUJVUXQxazNMRjNwZHNiS21XQVpuUmpNT25qRGdhTVlNVHJhQ2xydlJ2V2lvVWI5OV8wLWpCZEV3dHNHYjgzaWQ3enQxTFYy?oc=5",
         "source": "Google News - Missouri Healthcare",
         "publishedAt": "2026-09-16",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "St. Louis Children’s Hospital again ranked No. 1 children’s hospital in Missouri and St. Louis by U.S. News & World Report - WashU Medicine",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd2JwekpCVUhTbmNwSUdVV2tzTlAzVjdpMEpVS1ZydkVNYlA3bW9OQnJpY2ZaeUNmOVBka1lyR1Q5Tnpfd25pU0tUUG8xOEo5VTFLd0lnQzREcHVRU3RxWUJ0aFQ2Wkhud2x4LVhOYkNwUWg5QTFkbFg4aXlDblpkaExKcVBHRk95VGNVVUdRZWd4dEl5di12ai1yMFBwRFJLbWx0XzJmMjA4YzNkeDgwalIxQ2E3RDk4U3N5VTVFV1VCQ0tmWEMxUHdJOE5MQUxLcjJnVGdFbGhGV1lWMmp1SA?oc=5",
-        "source": "Google News - Missouri Healthcare",
-        "publishedAt": "2026-09-15",
         "summary": "<a href=\"https://news.google."
       }
     ],
@@ -2892,20 +2892,6 @@
         "summary": "<a href=\"https://news.google."
       },
       {
-        "title": "Interprofessional Academy of Educators honors new inductees - University of Nebraska Medical Center",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWERpSFhyR3hPMDA3ZGxlc0VTall1VGl4TnozbDhaUF80d3ZGX0lJZi13OVlxbFNQbjhxaUU0eXNudXlSaGx3NnZHWkkzM2FXS2hpYUxWYmZCRUM0U0twYjBHakJyUEFFZ21KZndkSTJsazhJei1qZEZlSmtyaUMzWnlhV3V0OHY0aVlxUFFDUnJnR0tUWE9XSE9Xalc1cEp2amdV?oc=5",
-        "source": "Google News - Nebraska Healthcare",
-        "publishedAt": "2026-10-13",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Distinguished Scientist: Lynda Harris, PhD - University of Nebraska Medical Center",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOamJVVm1LQ1M4eS02UnJQd1Ywc3k0YUUtdFNtNENmS3oycmdCYk9XLWZwMUpVTm9xa3MwSzNaUWF2Qy1iWW05UDJOUnN5aXh1N1kxM1Vpc3ZGeDZ2X0hCRmVoV0ZzSG5XLUFORE8xMFZfRXdhY3czQ1laVWNvRm1MYTE5X1U3RGxoZUE?oc=5",
-        "source": "Google News - Nebraska Healthcare",
-        "publishedAt": "2026-10-13",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
         "title": "UNK helps grow the healthcare workforce rural Nebraska needs - Central Nebraska Today",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc0lXZUlDUDdCalRhMUFKMWNzMUE0cjAwei1iNG5mX1pTd3VBU2FOcGplaVItQmFnamVuMnZ1UmNmLThCWUEtbER6aURmc3dUcEFtUVQzazNDajlMalhwalVkTUJXNzl2MkNjVHptMkhPbHotLW1WNHJPRDFBWEUzamQ4b2dpNHVXa2ZQV3pyX2NQV0hWbGZ3ajlHUHhFT3o0LWR1cU54TEFIUXloanc?oc=5",
         "source": "Google News - Nebraska Healthcare",
@@ -2927,8 +2913,8 @@
         "summary": "<a href=\"https://news.google."
       },
       {
-        "title": "Southwest Nebraska hospital to grow with $75 million federal loan - KSN-TV",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNnU0NnJteTgzalRYS2dkYlhlT3dCVFJiVFlta19qLUJENmdpQlBTZ1ljM3RzVU1TcGY2R3pkUkpyTWctUVQ1UFhyUlU2TVJaaWxZcGRYX240ZEh3TFFWRkt6YzI1MXBiaVVnVE1BR0g4WHhqU2NsQUNSSXFwd0ZJTkJEVdIBiAFBVV95cUxNTmwybWhXczE1Mkl5RXFyZWdSWFlRM0ZHU0twTUUwTG9nbjNraUlTZjhONkZtRk1CaHR4SHh2MFNIMk1pX2ctVngzVTZYVlhaNDgzOU51UzNnYmdGN1hNd2E0SG1TaG9pRXBWRXJkUG8zdnIzdzZKZkRZeHhhVk13c29nV0FHR2ow?oc=5",
+        "title": "Southwest Nebraska hospital to grow with $75 million federal loan - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVdtYVNub0w1empISTJTT1gtZ1p3T01zTC0wdlFRRWJtZlRsMEpEcFNmTXpiZ1BlMWtObGhIbDRPR3hLS2tNR2x3WUFVSnJWWmQ1Y3hxU2NMRG13YXdIb3JjZU9Rd1JKMWRici16SHpaT09OWkNjUW9GcFhlNEY3NWxpbWx3UQ?oc=5",
         "source": "Google News - Nebraska Healthcare",
         "publishedAt": "2026-10-10",
         "summary": "<a href=\"https://news.google."
@@ -2981,9 +2967,30 @@
         "source": "Google News - Nebraska Healthcare",
         "publishedAt": "2026-10-02",
         "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Flooding near Nebraska Medicine in Bellevue blocks main route, forces ambulances through a neighborhood - KMTV 3 News Now Omaha",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ09DUjhERDlHM2FSQTd3bWVkbG8wUUVTbGNzRDBCOGVfRzcxOHZNbWloZHlzYjZfZEF1UWNpa0VGUDMwdEoySUg5a3h3Q3l2TFREUURwbGU2SURZUlc0VFRyVE1RUXhkRGo4dDdJbkJOUGozYmJUaVd3dS1xQjR5c0xfZDdWRWowV0E0?oc=5",
+        "source": "Google News - Nebraska Healthcare",
+        "publishedAt": "2026-10-01",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "A 2024 law unlocked more Medicaid dollars for Nebraska hospitals. Federal cuts could undo its progress - Nebraska Public Media",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORlM4MWNzOWlkMWlBVlI3X3N4S2FLODhzd2dBRmVjcW5PQnUyRmpVdk0xM1E4TlNEeTUyZnVTMzEtUlRwQ1c1Mkp4ZkVWZ0o2bGpKdlBNcEhEWThCQWxRZThwSkxhNEFDZ1M2Tk0tQWhqbDctY09BaFhXN0tLenpxTFc2Zml6ekFObkhvaERmWnlhU0dpaVdwb0xLd04xcUNQeDluQ25LanFUQ2dqWlMxc2NQNVNBYjZ2dXlQTDNKem96cFM1SXJHRWRXZ2Z1WTFwcWstb2VocE41LURsMlUxSU81b09PTEpSQmtudA?oc=5",
+        "source": "Google News - Nebraska Healthcare",
+        "publishedAt": "2026-09-21",
+        "summary": "<a href=\"https://news.google."
       }
     ],
     "NV": [
+      {
+        "title": "10/14 - 2 Plus You Nevada - NNCCF, Sierra Medical Center, Boosted Diplomas, Plus More! - KTVN",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRFRuV0tycW53LWx6UHhCdFpIeEUwNGZGMFBTclVaLUx3X256WGdoQUUwVjlSM2UzNUpsaFRncDZaMERqak84Q2JwYUdpUlpQUjJhTlJCOGtuM1pqd3R2TTVsUUZMQkZrcUhBUUZXY3dnZXBTYjFqRG9mMzkwZm4tQ3ZwZ1BDNEV5djlOOUxuTUlxczI4OGZ0NUo5YWNhNTU0b1ZyNXU0NlB0NnRMYWlqSGRENWhDMDdZS29xMWk4a0sxQXdBUXdlZm5JOVVMa21nanRfY01xd3hMdTQxY1RFWjNQdTlIZjN6Z0luWG5nSlV6anEy?oc=5",
+        "source": "Google News - Nevada Healthcare",
+        "publishedAt": "2026-10-15",
+        "summary": "<a href=\"https://news.google."
+      },
       {
         "title": "Orvis Nursing receives $1.6M for rural APRN training - University of Nevada, Reno",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWHQzS1ZsN0VDR19zUGRYaWlvV0FEMVRjblBKLVdkcUQ0WnJxMlZPX0tfemRnZFg5WEEyNF9ScFlaTHBBckx1UkQ5bWdMWndmMDR2Y09xQ2tVQXl3UHJFOVUxTHlWVld4UWY1aXlwelpNbVctVU5hTlljeHVLWXFoQ1poWXdjdERib0NR?oc=5",
@@ -3071,13 +3078,6 @@
       {
         "title": "$50 million gift from Larry and Heidi Canarelli advances Nevada’s first stand-alone children’s hospital - Lifestyles Magazine",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT3h2V3ZpRjlEbWRTcElyWFJqTU5idHIxSUJ5aUhmc2JsdXc5WHdFQzdybjI2TjFpSjlRWVluZW5UY25WelM1bDFUTTdyLU85bzlSYXJINnV3YWgzampSbjllMjl5WjNBaVNIWG9yRUpmMlBmVFlWTmF0UXJHWk9wQXVaWk8wTWN4X2diaXhxanRqVVVrenlBWFZRWDFrQ1VRWUNkNlZ5MHRpUkJmRWFFNFNLN1Q5TURsSUthTTJxWlVVQnVobUo3WGRRRFhBWGdRanNMYUthMERwcG0x?oc=5",
-        "source": "Google News - Nevada Healthcare",
-        "publishedAt": "2026-10-07",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Dignity Health Sierra Nevada Memorial Hospital lights up pink in honor of Breast Cancer Awareness Month - TheUnion.com",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUlVnNWlqdi00U2NkejdLbUtqekxzMU5VTXVvR0c2Z2dGaldUbkF6UmZvUU5pTC1vUV9fdzk1bUo2Z2dyc0hRX1I2U0pTdk5oQU16UFItdE04S0MzLTNiRXlhVDkzVW1sNGdsWlgybWRoVEpNS2x1czhGN1pGMlVOdG5zSzVlMldnVnE2UDVjWTczckwzaGl4ZHhDNUFqTm0wQW5RZFY4QjVYWkhIZDFKUE11RzM2bFV5ZUgzNU1lRlprS3RaVGJmNmNOU21aSXplR2dfSUhYQThzckl3MEdGbWppSlhOUVNBeGdnWUVFUnVVZm1RTjlEUjhsS1cwLXRrdGdrank3TUM?oc=5",
         "source": "Google News - Nevada Healthcare",
         "publishedAt": "2026-10-07",
         "summary": "<a href=\"https://news.google."
@@ -3206,13 +3206,6 @@
         "summary": "<a href=\"https://news.google."
       },
       {
-        "title": "Flemington Announces Free Flu Clinic: What Residents Should Know - Patch",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOemZmMloyYWZKQ1NTRHBkUk9QVTNJS2F0TlpTakVTekU1MXA2YWxNemUtbGNQNURLaW9nWFhlUU1FVW9iVjhJUEdCVExjMUNybmVKYkx4aFJCRm8ySkFwWWxSd2I2U2hxcGhqNE8wSGczV0dDczNYLWpNakphWGdMS0pkYVNGcEpiODh3b2VZS1I3YXVBdXIxX0ZlMVZNbU9UcFR4Z0lR0gG3AUFVX3lxTE02X3dYel9acFlhQ2V2cE9IRG0yS29HYkJROGZlM3JiNkxfdkk2YjBxSWh2M3MzaEJOcl95RGE5LXdnTzMtb1JtQXh0NW11NmJ2bC1VOTVpVzdEaDY4T3hmRjJfY0FRVnlKU1pLbUFkNnI2cFM3TF9XMS1mUTJoSGl4ZmhOZVNROHJRTU9GZDNVNXg5YjlWVHd3SWNNb0VDMDRCN1BFLUZFcW56RE1meV9NTk1WOGxTZw?oc=5",
-        "source": "Google News - New Jersey Healthcare",
-        "publishedAt": "2026-10-14",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
         "title": "Drive-By Shooting Kills Man, Sends Woman To Hospital In Bridgeton: Prosecutor - Patch",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMDVMbV94OVI2MUZuY1BYOExuZW9udWtKMEpqOEc3ZjJEVnVjcFhfa0c3VGdKN1BHR0ZENXNlYkxVNnZYOElkb3EyeF9iYnJ6Y1paV3hJamNfV0tfWkFzTTdaSWpKZFQyWTV5Nk9MTnp5SHpEcWg3akN3WEU2N191R1FWRVlCRllYNTA1eXVFeklwVnkwM1NSSTdLczVKOU9heUlwa0xhS3dkX1840gHKAUFVX3lxTE1Fa0FQVVJNS1FuZVQ2TnF6R1o2Z3dfaVZoOEloRzkydHFJT1pwOEp5VWZvbWV3Ul9JUWhRZWVkRUVocFUzb1hqQnhvbFBhOXVSNmh3NHVlVmdkUmZqMVNVLWRZU2xvMEMxX1lfODd4UVkxd2pjNnIwaDlTUjNVWVVzbW5GN0x3b1pKS2NhZ1ZubUtuTUpWejZ2VXNNNi1QOEREcGFxT1ZJNEt6YVFrcnNXUWJxSmxneWZiMmlsSUxmZ0Zack85SWZyU1E?oc=5",
         "source": "Google News - New Jersey Healthcare",
@@ -3245,6 +3238,13 @@
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY2lKXzU5bUJYa3NFZjY0TG9aQUlnaXcwWkNIckIzMDRDRTJWSTVuWnlrZUgwUWFaMTRTVVlnR3BvR0hUVGJGMDQyTjVPQjFFVjJsUDNaLU1lZEdnUTBLTWlqZ1U4enlHVEJKVnBhaUlpRERVNEZQMnI0TnBWeEtBTXZuY2FBeS01V0x2VTdFQm1HTHBsZ1lHTmZvbknSAbYBQVVfeXFMTU9USTBCbkMtZUZOWXJ6UFRiRktpbm1vcDhycFZ5WTRjdlgyc214VWx5MWRxWlg2NTRyRGRGOEtlLS10OG9TY3EzaWtCYnFVZ0EwV20zR2pJcnVUNEhVRDVzVjNyZm1kYlJUeElsQUFnb0JVSF9jdVJIZnNMdEgtaE5rOUlGSmN2NXduSGM3aFpaSkNlcU0yMU9KOHBoRUZmRDV2NW5sMUVkT2I0OTJUMzBCYXNFSXc?oc=5",
         "source": "Google News - New Jersey Healthcare",
         "publishedAt": "2026-10-13",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Diddy rushed to hospital from federal prison after medical emergency: sources - KOMO",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOZGdPV1FkQml0WnFfRXNjQTRUMFE3NGFDcWtxZm1PVkhRemdaanFSRmhKcm5YZTVHYzYyejdCVzdhZ0I1MDdRNDRmczFRZVpUYTA1aFA3bHhBNlg2NHg2dl95ZkdGQVl5LXczcmFUV0lNeEhmZ2xQcDN4S1k0TFlseXlpcEFIWW1wUTQxSDhzZEZIakxhZ0dWeTZFYW5DQXluN2NtR1FXYzVONkw4c1ZWNElVTkRkS3VOWUMxcUZmY1VJS3p3clp4ZHpnZFpkZjFrTUNGNWdsLXgxTWpBN0VjOTZKaWkyOUVSbld6SlUza3AxNlVZWm1fY1lYM3diTlNOc1F0MzZVVWNTOGxiNXI4SXo0Y1pvQQ?oc=5",
+        "source": "Google News - New Jersey Healthcare",
+        "publishedAt": "2026-10-12",
         "summary": "<a href=\"https://news.google."
       },
       {
@@ -3308,6 +3308,13 @@
       {
         "title": "Dr. Steve McLaughlin Named Next CEO of UNM Hospital & VP of Clinical Affairs - UNM HSC Newsroom",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWGcwNDJDLXA1ZkNfa3VVZmpiSzl2bDdlUDBjSXc4b3FiU1JTZjBlNjlBRFVUSDRwc0dsUnEycVhrTUpyV3FtemxQT2xUU0xkM3pYUVA3WGxRQWdQbmtPaFVJN0k2SVJkazI1QURfSU14bjltNmR0LUdYQXBJLU8tM3NFbFFpU2h2QURuOXBHQjlVOF9PRm43V1drMmh6WjN0YVdWWQ?oc=5",
+        "source": "Google News - New Mexico Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "UNM Hospital names new CEO - Albuquerque Journal",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uV1A5TFJtdG9DZmgzMUpxeVBaemk3OE5XUUZSR01fSUhaMmlpYlVHSWFEbURNN3hJVW9HYUxpXzJUZ2VqckxqXzFEU1dvWThTVFJTUWFOLVhBNklMVGxIaWNDRS1EY2Rjd1RlSllyRU9wRU5B?oc=5",
         "source": "Google News - New Mexico Healthcare",
         "publishedAt": "2026-10-14",
         "summary": "<a href=\"https://news.google."
@@ -3402,16 +3409,16 @@
         "source": "Google News - New Mexico Healthcare",
         "publishedAt": "2026-09-15",
         "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "UNM Hospital Receives National Recognitions - UNM HSC Newsroom",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9saF9pYy1TTG5kaFctcnJ4S2dEMzQ1eTBqZU9pMDNfMXY3RGo2RGhFOC1HYU9uR2ZTQkpLTWNQU1k3eWxZcS1rdW5MNXdSM0pmYVBDai1iS1l1ZHVDY2xYMndMY3dzMGVmTXN5TFg2VnFuM3ZldV9NMzN4X2g?oc=5",
-        "source": "Google News - New Mexico Healthcare",
-        "publishedAt": "2026-09-10",
-        "summary": "<a href=\"https://news.google."
       }
     ],
     "NY": [
+      {
+        "title": "Program for Medicaid Patients in New York Seeks Infusion of State Funds - Radio Catskill",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWm5RMnJ2aWs0Zi0xaGxxWUhGQjh1TVVCWGxhb21TZ0NLZ3ZPdG5paGUxbGU2LVBSdW1EVXBmM2NnRnVfQ1VBQ0hRY1pxZ082VndYdXNSbmEtbVljU1FZMGxVU2VZZllkX0RmZmF5NUNSR0w0LWV1eEYwNktXdHdHOHdNRzZvMGZoLVZYRDJZYlNOdlAzdlRWQnhRVUp6TUE?oc=5",
+        "source": "Google News - New York Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
       {
         "title": "St. Joseph’s University New York Receives $160,000 Grant to Transform Nursing Education With 3D Medical Technology - Rebellion Research",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNakpucmttaFZFbUVtd2x3VkFsNV9CbkFsal9tZjVzZmpfWjBaTDVfSG1nUkVwYjBtSXZYR05TWkpkMkU0eUEyeGRfa21YRTV4a2ZubUVRSVlQRlB5WEdtV1d2TEFvN05fYW5nV0JhNHVhU2lvdl9nTnlJeFZiN2lIbEVtX0JadjBpMlRBUGNvRmdSSUVCRnBUU3JycUtoTG56ejIyWkdpdHcyakdWSFMxWkdfUWN6d3p4SVhrWGRCbm5jN3FEb2dEYVJvZ3F1NGtLUGp5bDhSZ2FxVEhq?oc=5",
@@ -3436,6 +3443,13 @@
       {
         "title": "Hospital patient charged with attempted murder for setting another patient on fire in his bed - New York Post",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWXhTWTc3Ymo2dmltQk52QW5qbnIzQWM4TXRWVHJfNElXMTlyMkp6X3NmZ0l2S1RJRDVXVGZnMDdRZHpPVmRobnBhRVlvQTVtbHZ1QXdIVG95Wmk2aHE0dUVSc25Mb2NzRURTdUdSMVpnV1dnMndmd0dVY3NmcF9mbzJwZGJMODhjMG1SRTBXZV85eGxhel9WMlAzYjE2U2dBSW5MWmtsTklNcUpsWjEtYktJaVh1SmV5SGxvUWltMENwMktodTA1alBHY3VfbDhS?oc=5",
+        "source": "Google News - New York Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Bright Spot: Award-winning leadership - 13WHAM-TV",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaEJuZDkyZGZTMThzOGtrRDlFZTJMR3dnLUtuRjEzaHYtRGV2LW9xUW5nRkJpSUEwVXltTnhsZ3BGQmtEYmh5MW1LbTQ2Ynp6emd0TXc3YzJIbXhPa3hITGJuRmFjMkRHUUNrajJlenEzZUZObXY1NzlsWnIweGpkMTlR?oc=5",
         "source": "Google News - New York Healthcare",
         "publishedAt": "2026-10-14",
         "summary": "<a href=\"https://news.google."
@@ -3502,20 +3516,6 @@
         "source": "Google News - New York Healthcare",
         "publishedAt": "2026-10-13",
         "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Carson Schwesinger nursing sprained ankle - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWVdjN19QVzFZRHA3c3N0bV90WXU2YXFmbEo1MENvclVjVVdpVVNjRmtWd1hRQXNyUmd3dDhSSDBadXFudFNpWmE3OUNrWkZnR0xrbG11eWY1Uk4tZTdRVTBIeE9XLTVkdEVGdG9zcVFvdTBkMy1tMnp1N2xBWTIxS01DOXZZWDZYcDN6YlVyU2llLVlH?oc=5",
-        "source": "Google News - New York Healthcare",
-        "publishedAt": "2026-10-13",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Mikel Brown Jr. set for highly anticipated Nets debut after nursing ankle - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ramN4bEo1VjEzX3hOVzh5NTJ6aDN3Tk1Jc1hVRG90Sk9naE5oYy1XUjhyWmMtSFBXYkRHSjkzZ1Z6YmJmTW5ZdnVmYzZoYXhhcEg0aGFoSFhfUng5YzdHQ3lLaVlqYWJMTEVaTFlvTXd6bjhhTkZVQ0ppRU5IOEU?oc=5",
-        "source": "Google News - New York Healthcare",
-        "publishedAt": "2026-10-13",
-        "summary": "<a href=\"https://news.google."
       }
     ],
     "NC": [
@@ -3527,7 +3527,7 @@
         "summary": "<a href=\"https://news.google."
       },
       {
-        "title": "Duke Health, CaroMont plot two Charlotte hospitals - Business North Carolina",
+        "title": "Duke Health, CaroMont Health plot two Charlotte hospitals - Business North Carolina",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5V0kySm43STl2blVPSE01MTRZRHIyY0lLaE5HY2VjTXFBdV9nQ3pybnA1ZEV3S2JXSjdLMHVSc2hIZWhpbTNONFBJLWwzYmYzcTl0OTBpRFJma05uTktkLVdnb2tGR2lvX1c3Q3ZUMGZraENIc2lfRGtpYmo5QQ?oc=5",
         "source": "Google News - North Carolina Healthcare",
         "publishedAt": "2026-10-14",
@@ -3543,13 +3543,6 @@
       {
         "title": "Group asks NC-11 congressional candidates whether they will advance HCA Mission Act - WLOS",
         "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVGlhZGdZVk5HMGhkZUl5Q2c4N3kxRmNvVlVSSm01YVZiYXFnWGFjeC1TbldsSUFzN0MwaDhsa0tTQUM2WGpNR3VVRzNwbUN1VG4zQlRFNmxHZFh0X1Y0MW50U29VRDdfcGJJOG5wY0JiSWE3dEwtM1J3RUZaWi1ENEx3NmhRTnFZdjktMDE3RGlqdUtnWDF1cTM0aGxabDk1WGJObVlIMEFhM05yQk4xTExxQmYtdkhPX1pBSFdrY05hcTMtZXdzNVdOdUNZNVhlbFJkNWp5cnlETHRuZnZUNGRCUEk5WEt0U0lXb3pETklWZHNiMkhJMEszSVBBM2diQlE?oc=5",
-        "source": "Google News - North Carolina Healthcare",
-        "publishedAt": "2026-10-14",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "14 tornadoes touched down in North Carolina amid weekend storms - WLOS",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMDZZdjZyakhWeW9oeWtYa1FNNXdoQXhuNmVxeUlsWVd0SEJ1YUZORkRtQ0VDN2o0Rl9WRlJfcGFtSDAtcnRsWHVnMTJJbE1wQjBUZ2ptM0UtYlBEZjZmZW13QWM0azRVR1UzcElyMkZLaWo1RU8zTmFkNUdSLW5ZZElaUVdxdDd1YXZHTzNYemRrc1NBR2Y4akg0RC1rOGFRQkRISkt6OVVxSGFfdWRsbVFfdUFaOThkX3B6MG5hWkxqVWt3QXVabnpCekgweEtsZWJjdnpYVmpJMHlLZWJERmJaZWZLeFhI?oc=5",
         "source": "Google News - North Carolina Healthcare",
         "publishedAt": "2026-10-14",
         "summary": "<a href=\"https://news.google."
@@ -3622,6 +3615,13 @@
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91aDhiMHVHNzJtTUVNNEVyaUU3aEVISFZEZER4TFA5TW56akNsbkR4N3pkRTlyWnRUaEpGV1ZwRHZIcGZycjk4dk5MMGlyY2hjMFpOQzNFWG9EdHRxY09hWEM5cTM0Z0NzNUZYOWUzazVWRlk?oc=5",
         "source": "Google News - North Carolina Healthcare",
         "publishedAt": "2026-09-22",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "North Carolina Hospital Deal Loathed by Residents Set for Vote - Bloomberg Law News",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa3g2aEZXNi1RRjJwZU5iQ0Nxd1VQQ29WM3BadWhhM3RQTFZlUHNaVmFkR0lMOFZqa3lTckdMNE44RmJkMnA3WjlBQkFZNTFJLWlIMkdRTEotcVRRcERWdmxuSHdBZnJuckwtU2VuZFFrN21aNTBkYlQ5anlsQ2ZXVXVPTjVLbjNnME5BNV9OcGtTQlJESTVpLXdVQy1Da0VWdnRFVnhpdUhVNDIzVzNKTEFwdWwxVHk5?oc=5",
+        "source": "Google News - North Carolina Healthcare",
+        "publishedAt": "2026-09-21",
         "summary": "<a href=\"https://news.google."
       }
     ],
@@ -3734,6 +3734,13 @@
     ],
     "OH": [
       {
+        "title": "How Ken Paxton’s allies ignited an anti-Talarico conspiracy - The Texas Tribune",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc0FWOTRpcVlxYTlhYU1JclU0ekhSZkhFck5uTmJBLVlCZmZxVnVYNXJKVHhyb1drMnAtQkpYZV9kSjhjWll6X2dQaGNPTGhKa0xBc0hGemxNamV5Z0hrUTNuZ3FEMFJLYnRaNXAxd3VJUXdQbWluYWxGTzA5Y3FsZ0xoUnpZVHJabDVEQ2s5ZXF4WVZ5ZnE5b2RHSQ?oc=5",
+        "source": "Google News - Ohio Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
         "title": "Ohio hospital adopts new rapid blood test for infections - WHIO TV",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2h5VHRqdWRFQ2lRT2hTTUIzMmdMbzJIR3I0OGs1OGs4ZFpIdU5EeFB5c1dxOGVlQnRUOWEwWm9EdElVeFBtR09BWVVtcXNHNlVQYmZCRjcxTGlwSXBieEtqd2tSVTNtcnBUaVNMWVV2aFpTd0R1Y2Z2WHlORzRrRTNTZGk3T2dWQ0hyd1dlb3FQU29fWFZKdWVvS08zelJsV2NzTm45OGhsT1VtWThyS0dn0gHGAUFVX3lxTE44dTZYYlBja0lyX2JJSnZaSWppNmo1STNtNjQ2ZHF4N183QnhJdEw1RWJCTk5IZ3BPUDd6cDVLZHdCaEltZThvY2NHRDBIdlNqNVQ0Tkg1ZlcwMjFrcUZhWE55bzk4a1BxbzhGQUI5UTBOdThFSmoxU3l6SkxjUVNHUUFTMGVwUFh5UEEzMGIwQTVTeS0xYzVuQWFKYXpqbl9BS29KLW9VMm5KNVAyS2tYaWFHYjZfZEoxdmpQWUowdjB2aVZqQQ?oc=5",
         "source": "Google News - Ohio Healthcare",
@@ -3827,13 +3834,6 @@
       {
         "title": "Man fatally shoots wife at Ohio nursing home before shooting himself, sheriff says - WBMA",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOXhodGhzbzdDd196TGszdXBDbC1qaWNsSmJzRWRPNjd1SUVSMlB3OHh6Y0NmN0FMSnkxcHh5RzBFTGpnOF90M0ljWmdGc1RCWGdkNjJFMWRybFNmQlVsTDNTdW9TOVY5VWhNRGxpSGNiUmJWVFdTSFdmcm5wRDd1bXczNU9wUWJFYTJmWjNqLVpNcHpkUVZQLTI5dXFwbU5LbmZ5cGdjN3NkcFU?oc=5",
-        "source": "Google News - Ohio Healthcare",
-        "publishedAt": "2026-10-02",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Man fatally shoots wife at Ohio nursing home before shooting himself, sheriff says - WJLA",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa2VNd1dLY296VC1PTG55NlhUR0R4V0RoOWsyWUdYa1JvWWlJZkpLM0VLVlc5TERXc0JUWkJTcDdGb3M2d2xYekpBMS02WUdoWUttVHZwSXI0QmtfbkVLbXpyYWZIbGNOZ2NNd01CRzJFUExHMnRmeG9PS1liQnZqRnZ3aUVyR3plY28yNXpRNHlLVGdYWXFocmpLUEVSTDNVNWRmVVF4VQ?oc=5",
         "source": "Google News - Ohio Healthcare",
         "publishedAt": "2026-10-02",
         "summary": "<a href=\"https://news.google."
@@ -3932,21 +3932,28 @@
         "summary": "<a href=\"https://news.google."
       },
       {
-        "title": "Local clinic director talks suicide prevention on Oklahoma In Focus Episode 7 - KSWO 7News",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWlJvQTluZmVMNkhGUFd2dHhYYkVCb2lSWW90bmV6ZDluc0NYMUkwck44c3hKWkhPM3VPdXRqcTU0TzZFajd2dFBvN3hNNGpIeXVLVUhUVEpHZmdhSjQ1bjVjNFVTRGxTbElZbi1NUThHNTNTQ0FQZkhLY1kxMl8tYTFiWUVXQWo5UzhERkxHY1BuQTRndXYwOElQY05STEtpbWFpeE5yYw?oc=5",
-        "source": "Google News - Oklahoma Healthcare",
-        "publishedAt": "2026-09-30",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
         "title": "Oklahoma skilled nursing facilities can be places of possibility | Opinion - Wichita Eagle",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vYmhtRDlqa05sNGZKcnZYODQ4UHRnN2N4TlVRZURGekFJWWptTUZtY0R6OUZLdGFDbHV5MThSRHl3SkV5cXA3Q2pYejN3VzUwVUR0WVFBUzF3RFEtRTZkcnJpaGdEOVh1YzhtZnZLTFUwTV9FNGFJXzBKYw?oc=5",
         "source": "Google News - Oklahoma Healthcare",
         "publishedAt": "2026-09-29",
         "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Oklahoma Hospital Association hosting Virtual Career Expo for students - News 9",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVpqX1RHX1JwcUtkc2MxUmUtam9EaFBJUTlHNnpPeUVaa1NpTGNlZ3NCOG9yYnloZkF1RFNaeVkyclJveTlLSDhEZURnYUVPLTlnVkptVE5SMDhVMEdqS2hGb3loZDFhWmRFcTR6aWlTWFVVUHExcGtEQldyWjFheVZZVGtTc0F2aVhlMi10NTA1a3FIeEhaaE41cjVlSFZXeDQxUWdVXzlCWnZidkpIWQ?oc=5",
+        "source": "Google News - Oklahoma Healthcare",
+        "publishedAt": "2026-09-24",
+        "summary": "<a href=\"https://news.google."
       }
     ],
     "OR": [
+      {
+        "title": "Oregon Humane Expands Access to Care with Mobile Veterinary Clinic - Oregon Business",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDNHaFZ4QjFfY3YySmdLa0puaFNycmY5eWpsMlNfUWpFclJNeHdxc0ZIY0VneUQ2SENzREE5c3hpeDNQYjNPWkdKZDgwV3BJb0pvVzJLNGJ6SmRJRFFGQmpjaW01Z3FzT05RbjZrdy16dEl4YzdQOGNmd1VtQjBwQVBINDd0QU1FZDVBajlnaEMyZGF5UHVBX2ZB?oc=5",
+        "source": "Google News - Oregon Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
       {
         "title": "Pope has 'peaceful' night in hospital following surgery, Vatican says - Central Oregon Daily",
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMmpmeWxPRm9nUVM1NGtIV3NuMlloUnZFS0JIOG03RDNxRHBfekZPRmFHWC1mc2hoRF9zM2daLWpOdnRuQU82SGlfdEQwc0tCLWk5bXpPcHhORXV5OEFMX3BaYXhWTEJzNGJtYzdCUXBuY0g5b1NDVHFTeXBDSkpPQUZKaGlFdWZvLVBiLVJSd19qV2ItM1ppSk12X20zSkZBSzJ2aDVuVTZNZFA3NnlQYWs3VFBMVEJ1QlltWDJMOVV2VEM1ZUxNZTM1WUJWZE1QMU4xRFVZdFl5TDJIX2ZJdDJubmNkYnBzX1YzZzJIRm9BcEVpXy1DQnkxYw?oc=5",
@@ -3964,6 +3971,13 @@
       {
         "title": "Northeastern Oregon births: Oct. 14, 2026 - East Oregonian",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRTBmbUtMbHAxb3IxUWxXa3lDRW1sMUNGd0VCUjN2eDE1X3p5Nl84bE1oVVI1elNON2IwY2tyVWlUZHRvTzgyQ2ZFMk93OWwybGl4Tkw0RUdlZ3pUVGJXcUMzSkJyNHY4bWxFU1BCNExZWHpPRUlRTm5kdmw0Y3V6U053?oc=5",
+        "source": "Google News - Oregon Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "A customer slipped and fell at a Fred Meyer grocery store, then sued for a historic $36 million - OregonLive.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdmdRM3RuM09yby1rdlhnYWNPWjRQTXVHbHh3WTFyZTVVRU90b0ZZVUZoYnpLaHVsc1hTQ2xPWHFoREVBSU1sLUxxQXRXWURhbXJMUTBqbG5vQmlLVGVIbUZfZlJ2OW9pYXNPQ1ZHX1FXajdHZ0Q1SF95MEdlXzREb1M1V0lEcnBndW5YWHAzZFlCak0yNFFpdW9VRWxUNk1TVVB0aDJ0d1ZsczM2T1FUTWFPbm0wejdkcEFCZTFQYmloMzZUXzRsamxES0wzMGdqZkl5Tm1YTQ?oc=5",
         "source": "Google News - Oregon Healthcare",
         "publishedAt": "2026-10-14",
         "summary": "<a href=\"https://news.google."
@@ -4011,13 +4025,6 @@
         "summary": "<a href=\"https://news.google."
       },
       {
-        "title": "Sean 'Diddy' Combs reportedly rushed to hospital for 'medical emergency' - Central Oregon Daily",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQOUt1WGhWSUdhT1VKbERHSmZKazlKLWVURS1oREFKcFNjLWhsQ0JvYlNoWWxTRllvRFNsZnBaVXJpZG1CUG45NHdTUlExUzFOSXFOdjVZM2M1UTJiODNwQlpUM2hham9ucm9Xal9IZ0FpcXdfd3kyb1dpMVVITXJMVzFmTHNmXzNhZVVoM0M3ekpDS240bGUyNjhOanhWM2RjWnlKV0FZNWRocGlPRDNBR1ZWXy1handYcDR6bFJQby1jaVJDaUZsejhGRE5MdjlSN1gzUTZpZ0lfUHlxWmgxMVpWek03MzRpV0Z3YWg5UUhCR1lrUE41dFJaY3dOSUZ1UWc?oc=5",
-        "source": "Google News - Oregon Healthcare",
-        "publishedAt": "2026-10-12",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
         "title": "Carthage College nursing student Olivia Thomas of Oregon earns white coat - Shaw Local",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLUxaM3JjV0p2TkkwQmk4S3NYYWhGbUZJZXFjRVFaU2NFV090em56eDdqUEVBNjZnaVFjaWstVzVUVThNWjJuN0RRYkQ2ZGlzcXRZcHNaUlpOSHpmNzlwMWYycUJoaXRiWjNEeWJYU0pwdGJlNWhJTW9oeXJJa3VzOXpiaGJ1UUVIbE1kTFdON3JDSlhxMEFWN0poMWtrdmxveFY3eEtIekpwUjcxbHVJQzZ3d2REbGJZdTV6d2pxcGtwSzRNbXZJ?oc=5",
         "source": "Google News - Oregon Healthcare",
@@ -4044,16 +4051,30 @@
         "source": "Google News - Oregon Healthcare",
         "publishedAt": "2026-10-12",
         "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Thousands of Oregonians face big Medicare changes. What to know before choosing a 2027 plan - OregonLive.com",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQnNwOS1kWVpYdDJSRzROSXA4TXYzM0JNYnRxQ1dIZVBTbWFCMU5YUkRCYTdTOEdPSk5KU1NuZ3FOV3BuNjlINlhFcWlPRlJKOTlIQVNtWFhaMkNCbUNTOXJ0NW1uZ1RJY2dNd3NsRW9iOUhRaEVhS3VuZjFXSFQ3eWd1VXl1MEYwX0pjeFBkQkhFU0h6cWJWNXFqUUpDTUZzVzg0S2djVzUycFVRRFp5UlZlUG5jMEhtMzNLWGprZjJGVjJ3NWM5R3hwSU5TdWxGbGc?oc=5",
-        "source": "Google News - Oregon Healthcare",
-        "publishedAt": "2026-10-11",
-        "summary": "<a href=\"https://news.google."
       }
     ],
     "PA": [
+      {
+        "title": "Penn State Health Golisano Children's Hospital hosts Spirit of Children Halloween Party - fox43.com",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPRF9KdUthU1hYRVhMaFZpNGV3WWdtUW9mZmdCNXhiaVM0S1ZGQk1jNHY4ZVppUUVqME0zTmRzYzFrVDJnZlUzYlJhOUlySXl5VXdXbTVQOXNsS0k4THFEOHAwSVNJQlRVVmxLTnFncjgteC1YWDY2cTNZU1ZfMERERy1MVkJBMFVxOTBhT2N1UUYwa0UwYU9HYl9LNDczbWwzZjVPWVZOOFRKZWVMZjluOW5UQm8yY09YYl9mTUlXTF8wZUg3MzFpa19STXByd1NnTDVvN0J2cWdtNUNhSGRGdWJoMFlXaHZtY1h4NzA2Yjlpc1FLOThHTUdva2hzcV9XWkR1S2RR?oc=5",
+        "source": "Google News - Pennsylvania Healthcare",
+        "publishedAt": "2026-10-15",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Genesis HealthCare Wins Court Approval for Nearly $1B Sale of 175 Nursing Homes to New Generation Affiliate - Skilled Nursing News",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOUhVelRNYVpXdm9EajlaSWlLS1RHZExYTXpLQ1ZEeDdtbEg1TWxUbmkxOWdIbGk1ckI0Y0d4aVdEUl9QVUlXUFNpYnFrMGdBTzJ1dEZuY3k5ZGNDY2dzVnY2clFzeklaaklPVWVUNl9td2hxV3RvdzJLMjlNUUpCelA2VjlfOFJCWjl2RHkxU2ZDVHNhVklWY240Q2ZwQllzRkFxTVVfVjJYR0UzU0NqbzllNjVnc3pjdDZEWDFUdlQxSVZaSDE5T3p5RkRUN1hLaXYwSktQMjZSNmJZTndj?oc=5",
+        "source": "Google News - Pennsylvania Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "PA launches new program to help nursing students with loan repayment - ABC27",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTWYxdDNJNmNtLVRwMm5jSjMyaWxLbVlsTXFVRzBQSWVqWUt5NHlNaWJ1OFBEaGs0TWFNRV9IYkdRMk5yT0dfY3hjMFptSXBYLVpOaU03WHN4SGFTXzQyTkw2MDc4ck9JQ1dJSDNUcmk2bUhZVzdNQ211M3I4TFFPTk5nZnZDZ0tmN1BsRUdYaWNtbXozc1E3X1VhN0s5N19sY0toazBmTdIBrAFBVV95cUxPUzJBRnJudU03c09nNlE1d3VWTVZLVjF1bG16X1dPUnJLYk4tRTljOE9ial84dVRLby1YblhVX3FETmswRmRwbEpBNG1YZE9LTWVNYkRfcnFWb0RhT2R4NTJ0UTNkWU9rUVllNHdVclNGaGFrZ2dmTHFZNFBlU2lJSFotTGNnTnlqXzF2MmhmTXZlYUd1SUV5N3hxOVEyY2RhRFlrNmdxT3RxTExF?oc=5",
+        "source": "Google News - Pennsylvania Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
       {
         "title": "New program launched to assist aspiring nurses in Pennsylvania - The River Reporter",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNWpsdVF1dDJlZW01VTFHbE1vM29Hb0RiOEJ5cnVuSGVjSzNwWTJoSFNxcmpacjRXUGlpSF90Y1dSTkN4aXlkUWFpdVlqc0dnTWhWTGZsenZ0YzJRN2RNMFBWVHdFTHlwQks0VTY1NWp0V2tvckw0bDBiMGRVT0NXTF9weWZZd0l5RER2QW9QZlJWZjd0c29XQkt0RmdVVlJBTnk4bEdR?oc=5",
@@ -4136,27 +4157,6 @@
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yUXAzSjRFQWlodll5NHQ3QU9KWDlVVlFnMVRibGFmZ3ZoNHdqTk4xRjNTa0R1eTFXZWE5UEh0SjBuNFZSalNWVUdsbzNFUkhUdFBkRHk0cTRWN1pubnI0dGM0a2hOZzV2cm04?oc=5",
         "source": "Google News - Pennsylvania Healthcare",
         "publishedAt": "2026-09-25",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Global Nursing Shortage Requires Better Workplaces, Not Just More Nurses - Penn LDI",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZnhROWR0SE44TXE1NGlzMjhsYkdCcWExTUFFMUxwTXRrckh5eXFQM3k3OFVzWEpkcmJsZWdSNTZpLWNxb29nNEVudFg1VEYtZDlyQ0l4YTBuVnExTmJOTDhHWkU5cnR5VnRrczNMTVpfUTIwTHJ2N1A3QTlGemc4R3BxUGttdzQyT3BlSExBMjVnOUt5ZExpVU5Kbnlfdk15TFBZUXA5YktKYTYtUXplUExyXzZJQUdrcklQQg?oc=5",
-        "source": "Google News - Pennsylvania Healthcare",
-        "publishedAt": "2026-09-23",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Pennsylvania Nursing Home Abuse Attorney Brian P. Murphy Wins Philadelphia-Area Pressure Injury Arbitration - Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQYUh2OGs0bU0xR2oyRWJPdkFjLXNsZ2pEaUFTWWozWUl6dmw5SFJIb2ZiV0RHMTRZNHlWMzAxRnQzS2lYY3lxWFNaaEFWaWJMWV9tS2JNWU1iM1F3eUNMTTdaeGV0b29oaWNlUXh1TUpCVG5DZXJjYTNpY1NuMjByOWo0WkZjMDAxTjUzVEg2OXBoaUQtcXd0UVlTTnZxQ0RGRXNTS19rb2lDaE1uNVVGTXRGSEUyZG1HcWxWXzJGbEhMTDNzdFlBd3FISVh6OWowMnFMc0NieXV3T2NSRjY5MDZFMEF2dWNmQTlfUjhEQkJITHFvUUZwWVlGMA?oc=5",
-        "source": "Google News - Pennsylvania Healthcare",
-        "publishedAt": "2026-09-23",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Pennsylvania hospital giant opens Independence facility with 120 beds - The Business Journals",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQnh3UEJCZEd3aEl4cEw2WXltQ2tzbjlncmpBQU55dElDZDR4dFZGLWMxMjFGbzVrN1ZjMjFrekt3TklYeWkxOUswN1Npa2E2VzBkY2o1LS0zTGk5d2UtS2xyWWczbWxndkZaWDE4OEdRbkg0ZFRpVk5qUko3aFpWMkYzblU5MTM3dVhHdmVkaTM2M2pCMGg3dXNCaWRFemh6Y1E?oc=5",
-        "source": "Google News - Pennsylvania Healthcare",
-        "publishedAt": "2026-09-21",
         "summary": "<a href=\"https://news.google."
       }
     ],
@@ -4332,6 +4332,13 @@
         "summary": "<a href=\"https://news.google."
       },
       {
+        "title": "2 transported to hospital after crash in Carolina Forest area - WPDE",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTkQ5WmVidE1wd0NneUZldEFEVG13T0gwTkFpYUJUbllQOWVSNERVcmpFUFRlOGE5UzhoMlZwU2hHSjZmVGd3M1F4RzdRWmxiOVlWdjgtVTViUE9SdlROckxaUG1YUnUzNEt2MnpyVVhSNTBhWXg3NTFnd25iUEE1aDl1RnNJRWFsQ204Wi1veXBUdHVXeldSQk1BR1lBU3Rfd19QY0xDVWhmMFVjUDFhNWwxSlE4OEhTLW82XzRJZ0JHVjVDVTZ0bFE5Wi16WGFJTlVwR2I5UmlINF94d0JKOVFpbUJHb1M1N21EMFdnSnZXN05yQ3F3YnFqZUlpYkU?oc=5",
+        "source": "Google News - South Carolina Healthcare",
+        "publishedAt": "2026-09-25",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
         "title": "CaroMont Health Plans To Build New Hospital In Lake Wylie, South Carolina - Healthcare Design Magazine",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSVpSRkYzbzRya2hRRTAwREFydUM2aVBZRHprei15VTlYdUYxaVR3SHFLT0diNlRSeVZsVVVuSmItQjhZbEhRb01SZ2tmRUtzdTQ1Z3daZDZRcTJnelRQVmhad19QT3Y3M1dZblRRMnQtdWpYYjFUVDlsUS1hcmxqakM0b2tDRzc4WE9uMVJIUGJDUkpyYzBtbVVRWlUtNTJOcmszdlZsVWNIQV94Zk9BbkpGYWNhLW5XeEZwUjcxOA?oc=5",
         "source": "Google News - South Carolina Healthcare",
@@ -4346,35 +4353,35 @@
         "summary": "<a href=\"https://news.google."
       },
       {
+        "title": "Clemson ranked South Carolina’s top university by Forbes and US News, earns green light for free speech - Clemson News",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQTBEVmNXS19yVVJSaHRVX1haTVVoUFlnQW50Q1ViWlpndmJSUUY2RTFsS3NkV0xFZlhOTUtJdzN0S0JGQVJ1d3R4SndjRXpKMzZ6MGd4TFZyX2FSNkdBc3pNakRkTVhISGxWSmIzeVZTekRyemtiMy1qMXYya09ROXlhaFRhSGpHTnlVbHJiWkVxc0tWd2dUZENlTFNlSk90eV9LM0JYRFV0czFOaUFJeWVQYW52Z2p1d1llRnUzMVRBMkV4U0hz?oc=5",
+        "source": "Google News - South Carolina Healthcare",
+        "publishedAt": "2026-09-22",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Fixing NC’s troubled hospital approval system - WFAE",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbzFIck8xVWdYcDNOYTBLT2NKWmFiVTJIZUoteWdreHQtVnozR1lTbnR6djg0S3VxWnJGSFlkOW1DUFBJd3MyUTBSZjJwb3hEeW0zeEk5N2w5djdLa1VXLURoelBmdWlaTFVvXzZKaF96MzFGTHU0eGozZC0zMkJlUFBNZ1VabXR0dldn?oc=5",
+        "source": "Google News - South Carolina Healthcare",
+        "publishedAt": "2026-09-21",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
         "title": "SC has one of best children’s hospitals in Southeast for 2026, US News & World Report says - The State",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zVXhTUzZvUDhodlFKR1BFVWl1WktGQlFWVjVEdHV6LWNDVjRvVHh5a2UxaGp3U1dPNEtWdTZmbnpQODJqUEFmUG1ab0dKQkNvaU5ldVExbjNZZWc1dDNIM3gtdnZNdlJtbGRuWDd3aHBfQlBpa3ctT3NYSm7SAXxBVV95cUxNOVRoUmNJdUM5NlRaMHlMVktZVFdMakUzWjVXNUN6MlB0Z3RHVGw5S01uTEs1aU9COWFibTB5MjhMdW5aWE9ZQlphVHVYR2Z6NTBfaHRCRjgySTRUV0Jtc3E2LWktUDZ3YlN5ZzNBd202N0dNSkFfZ1h3OFN3?oc=5",
         "source": "Google News - South Carolina Healthcare",
         "publishedAt": "2026-09-18",
         "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Rural South Carolina hospital says inflation, insurance reimbursement rates threaten operations - WTOC",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdlRLS01NSVQtd211ZWtTakkxU0p2VnQzUzJhdUZsSmlxNXdpWkVJWWxrQnZsLW44Y3BJOUViYzh5TVdod0VNS1htMjg1OVdvV2hjam9jZEpLRExLVnI2UVBLa0JTb1J3dW9iMVZBY3BqZ2twNXpyQVU0WktoVEF0WXJjWndEb1pxVktSRWwzRlNmclRRVVlzWFQyek1wdUVCa2lIZG8yOWVIUkZ6NVJRUHc2QmMyRHJ0R0JvUWRIOU9YX3ZXMUHSAdoBQVVfeXFMT1FiRXlEY3ZFa1VHMi13MkRnYkgtOVVtUHVHbG9xWHBzaWFMMUdRb3YydnRuRXM5N3FEWUM4TlZRVGdNYTRjcXhvZ0ZSQkEzT1hpUFpmQlFleUZ1bDhpWFBGUkNEeWdZWWtlQUlJQ0txSHdyZDh0YlpCejFmYW9vOHJ5dGFLNWFtSTVYTGJOQklIZnBIMWhfd09wbTVaWXNFVThmSFlIUndxNmRiNVhrUWVJUms2MGM2QldTdE9Xby11dUo3YUZyYmlRNnJRalNzVGc0MWlYTWRRWHc?oc=5",
-        "source": "Google News - South Carolina Healthcare",
-        "publishedAt": "2026-09-17",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "CaroMont announces plans for new hospital in rapidly growing part of York County - Post and Courier",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOR1JFZWY2dUNCNF9EV21sUGJkV3M1cENSRWdFLXcxaVlxYjFyaUtxRDVnU0hZNWwyWjNEd2hyZWVTQzV2M0Q4dnd6TFlsWTVTbzdxejh4ZzJJUHFrSzhKUHdTQXNEMTBxbzRqY0Y3UEI5cXp3QW5mUlZUa1NoUGZuZ3VFNDVVdnBrZDJTUkNMR2hCRS0taXhwcjBidXZQSmNsY2lWbWdTN2UyaFJ1a293RU9iRXg2TU5LLVpFSUFkcl9FcVI2a2pGcmY4VXBaN2NZcE5ibkp5LUFBeFd6?oc=5",
-        "source": "Google News - South Carolina Healthcare",
-        "publishedAt": "2026-09-17",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "CaroMont Health Announces Plans for New Hospital in York County - CaroMont Health",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX0lZcFN0Vnc4Wk1kbmZORDIyZFhjdzhIbUZFN0tFVU1oSWtJNE13aFRvcEhMelA3QVFuR3dSMENTMGpMRmNGdHJ1anhfeS1LN2JubUN1SXFVNElfMzl4QkJpRWpXd3p2WW1zdkxCUkYtRlZES3RQcjZvYUgxWlZyc3N3cUFNTjN5X1dIRFV1SFRyTmFDZjlwMHBJOA?oc=5",
-        "source": "Google News - South Carolina Healthcare",
-        "publishedAt": "2026-09-16",
-        "summary": "<a href=\"https://news.google."
       }
     ],
     "SD": [
+      {
+        "title": "Davenport recognized with Civil Service/Professional Staff Award for Excellence - South Dakota State University",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZUZOdWMzRk1GV2V0SzhRYWZxUUxNclRCUEVpb3hPZUlXZWdzMXpjLVRyWTZ2OVcxb1Rpbk9yS3F4clBIYzRtUFNzcS1KU04wZDlsTy1XUzdDeno3ano4b2k2dTRtQlpRWDdwV0RvLWJ2Qk1PTVY2WkhLaEVwNDA4eDFLZTJ4WVhkUDMxcGctNk82eXBrTlRfcFVqaDQwT21SYzExeU83VnBuQQ?oc=5",
+        "source": "Google News - South Dakota Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
       {
         "title": "New South Dakota State University Scholarship Targets Behavioral Healthcare, Mental Health Nursing - mykxlg.com",
         "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPaWktOUd5TlJ1VHV5aWpXZElqeUYzYkg1RzhvQTFIRHptYnJqb1ZYa2dTTkplb09VSC1YRndJRUtfQlo0a3lRbFBLaG9TOHhSYmxOVllGSHdFMTNNSW5HTXlFb2Q1VWw2YXVhV3BlUUoyQ0pYT2IwaHd3WVJ5aHZlSU5RREliOUNqUUFvcTYtUkhsMkZyMkxpQnl1LTZIWmtBZWJ5aWdyMUp2dTlONUF5UFQ1Ty1PT2NwUjd4djVjeG5MNml5VXNIalJ5SDE5VWIwbWlEa00wa3gxOGowaTFqeXJVZkpQejF0WUk2NEFOWFkzYnJHemt2ekdjT2ZfY3dzUVY3SHNkc1ptdi0xTFE?oc=5",
@@ -4472,16 +4479,37 @@
         "source": "Google News - South Dakota Healthcare",
         "publishedAt": "2026-09-30",
         "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Documentary tells stories of North Dakota nursing homes - InForum",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTWRSbFJfYnI0ajE2bUsxa185eE4zM0lOQ3B4VnUwMXBnQ2hjRmlQN3lzSUc0TVJhQmFOVkx5bnBnZVhUNGE0andOVW9GZnJfbEJsWGI5TTNKaWhBZE0tcE9WWDMyajZ5Q2VWRFhlZDd1b1FwUHNEY2RyTUFpU0p4ZlJpUEh0eVlJam54am5FRURfWVpTcWN3Y0N3cHRIdw?oc=5",
-        "source": "Google News - South Dakota Healthcare",
-        "publishedAt": "2026-09-29",
-        "summary": "<a href=\"https://news.google."
       }
     ],
     "TN": [
+      {
+        "title": "Tennessee football linebackers coach William Inge released from hospital - Knoxville News Sentinel",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTF9GTHp1OWhsZDhwSlZfNW81UVQzblpaeGE0VV83Xy1CanJzUUpqNFdvamZ0V2ZqX0l5S19sa0hmNXdObGVHNXVuYTFITlh0U21vVkNpUGVPWjMwNXdnUmFJSVhTYWY2RGNLUkZtX19oTVAtalZ3UlhpU0N0STRGOEx1SzQ2UjJvZnRlWUo0NUVmZFkweWxZMl9xcWJDbVNnNXY1UEx5VXk2OTJ1UkMzdVEtQ2xNWF9nbTFWMFZpTVdtMG1zVjBmOTBUMnR4RUFaSUs3ajVZOU1PUS14QklUcXBQaWNpb2xQcExFQmdvYWdzNURGTW5jZXNzVTZWWHc?oc=5",
+        "source": "Google News - Tennessee Healthcare",
+        "publishedAt": "2026-10-15",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Tennessee linebackers coach William Inge released from hospital, begins rehab after life-threatening battle - FootballScoop.com",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaURCaTVRM2lwZDZnWkhnT3VvUmdwcUhOTnM4RHFURURleG9JOXJXeTVHcjRjX2ZWdEZYZm4zWndMbGx6ZS0xYmFxRV9tNTMyYTR1NlNZN2xqMVAyTXFGbk51OTFoWXhfcDhkTXFnQkxuRHRiYmNCSWNJYUJLd0paUEUzbkd5bkdsZXY2aTZqZTlvZzNqbmZHOW5MTUtpVFlua05IU2tBeTFrTGtQOHJmVVJvbkpIX0p5MlRIV2dXVlVWSmtncENaU2tiRXFvSkdvNUhkUkdOQ0I2c05FV05jdg?oc=5",
+        "source": "Google News - Tennessee Healthcare",
+        "publishedAt": "2026-10-15",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Tennessee coach William Inge released from hospital and 'getting stronger by the day' - On3",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRGRlSFhaSEtQSXdITGx5N2RpY09CbGlUN08xempDSkd6YkZnc2lxTXZ3aXRDaFJpTE55eWZkVFQtZWxaWDQyQVhmOEJjQndzM1AwLUprRnI3MF95YXFocW9XZjl2QU9iN3lhY1F2Q195OEJzdWc5QjZxMzYydGgzRDRiSk9IWmNHT1lDZV9qOW56Y3FrZ1pQemhpTncyZlV3NkZfMlRhc0MzS0wxc0I4RExHQm0?oc=5",
+        "source": "Google News - Tennessee Healthcare",
+        "publishedAt": "2026-10-15",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Tennessee LB coach William Inge releases statement on being released from hospital - Saturday Down South",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeDBFMXY0UlBjUVJFcGstc3lPNWtoakVvMDh1ZE5DU3pSOXdJNmFxaFhjbEJ1TFdsYU5pbWl6SFVSeWR3ekZQNXhoODBlaFMyd0NMXzhFTklhNndQaXQtTEVGc2RfQkxWNVlGVHVmbHAxSEMwdU83RUs0aHpuUktuWkNUVTlPbFpOSlpXWGthc0llOWUteU1EWEpmU2dqR0hsRGQ1U2lSc201Z1Jqa004TEZhVEh0RmhOWmdnMVJfUnRGdy1KaktKYUZ5em1ZSWd6cDd2NWFlclZCVmQ0UHYyeQ?oc=5",
+        "source": "Google News - Tennessee Healthcare",
+        "publishedAt": "2026-10-15",
+        "summary": "<a href=\"https://news.google."
+      },
       {
         "title": "Gordon Ferguson Receives Tennessee Hospital Association CEO of Distinction Award - Healthcare | Ascension",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRzRBNHNJM1lwMjBfdFozRFJHdUdOUWEtcFdBamhYSV9vb0Rya3IwN21LWGkzNjVtSzV0SndsV1NNREFMUGdxWGtlS2VEYmZ4TFR1d2s3alU3X1hHWU0wOHhNSmM3czJRUWRGem1MZlYwVjdBYzdFSHR2OG9rZzFwOGF5R2VJeE9oTVhXSGhsclBqWVNNV2psVFhsLVpzYmNKY0NjOHc1X3JEVE45VEg0bGxKc04tTmJKV1V1ZHA3bS1tSnh1NXc?oc=5",
@@ -4499,6 +4527,27 @@
       {
         "title": "San Antonio spine clinic says would-be buyer used deal talks to poach doctors - San Antonio Express-News",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMkRFMHd6bWVDM1FqSnRFeHFpbXg4WVpXTnVYd1luVHN2R2k0MVhwdnUybFFLeENNTVN0TFd3RjEwYXRtUWloVVhIb2Q0d0YxNUJsc1pHb2trX2tnUmxLT2NKbTVUUTRHdm5vOWRxTi1Ca1djMFdudHItLVpuZGd5NjZzVnU5ZV9mUkVJY1hsSDFwdVRaVTJta3JLVU02VjhWVGZJZzZzQ0U?oc=5",
+        "source": "Google News - Tennessee Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Tennessee Titans visit a children's hospital Oct. 6 - The Tennessean",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORE84SnVJR19PcXVKeEVLNFBXWGYwMS1fd0Y3WkVSdV9XX190eDRoWHd5MzZPYjBMOHJaNDRrdTUzNTZYVTkwUXAxUHdjZ0xFRnUwaU1GSWxJMTZVMVhxdlJnb0JmYV9EZU9KeDQ1Q1Z0YnVuNTNKLUdXbVFuTEVyc1czVWNWSHhicTE2NDJNNzFrLXBuamNWSHM3VElGdWNQcDdJMWwtREt5V0dSV3pPNXotQ1NuRk95dEx3cC1vWXU5OHpFbmY0?oc=5",
+        "source": "Google News - Tennessee Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Tennessee Titans visit a children's hospital Oct. 6 - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMk94Q2EyNHpUQVVsV0hFMzdMRXdBcU9YMEJvUTh1ZEY1M1BlY0h4QjRwdnNYZmtadHRXTlZiby1HeWhHS05NV0NPV0FyYy03bUtYUm1icVRJcWF4MTZLdVIwVHl3SDdXcUs0eXN1V3ZjdjFrSGU5eGR5UGNWazFoanplaWJuWjk2blBNbHljeDRsYWRE?oc=5",
+        "source": "Google News - Tennessee Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Tennessee Titans visit a children's hospital Oct. 6 - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeHpObi1PMnBaRDN6M01LQWZlOG9LSU5Rc3pwWUczbDZHaF9fNmZyNUxDalNwV2xJZmFQQ1JWV3RPUDBrQWlxYWsyNzFRTHFKQW5ZM0tzRExkbmlFTnZoMTdyNjQyMmV3N216ajhINEZVZUc1aGRiVllpS05JNW1pb1g5d1lFWUhnSUljVnBscm9Dek9L?oc=5",
         "source": "Google News - Tennessee Healthcare",
         "publishedAt": "2026-10-14",
         "summary": "<a href=\"https://news.google."
@@ -4537,68 +4586,12 @@
         "source": "Google News - Tennessee Healthcare",
         "publishedAt": "2026-10-13",
         "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Jackson-Madison County General Hospital Recognized for Zero Harm in Patient Care - West Tennessee Healthcare",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ0pNcHM1WjFfbTUtNW9RekotOTVhNUR1aFM4OFdfU1Jrc0pnMmk3NFctMVlGOE50dGQ3YlpNcTlJbWt0Vnk4dU53Nm8wUFNmcTh4aTgxbk9SMlZnMFFhdEV0eWNqU1U3aUhrRHlWdkE4V01Cc2hCWmZfVGRBOFN2M19KeGR0dDNyUTJNcHZ0SjBTS25tV3hWdmlsd0FxWWp5MW9YczQ4Qy02UQ?oc=5",
-        "source": "Google News - Tennessee Healthcare",
-        "publishedAt": "2026-10-12",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Tennessee execution survivor Christa Pike released from hospital, returned to prison - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVUJqTFVhVWg5elBKcjljdHFwWXZoQzVYRjE5RHJJNFRZRXJvcFE3ODJTRk44bmY0V2NJdTlmclYxTEZ4cm1QWkdYRFl1alhfLTVPdUZaQmN6aDBfNlp2MVhLYWVVaEZfVl9HamI2QnJyak4tdmYyTTI3NVZOaS1Vd0tOUENNdkN1VFV1Sl9waFNiUnQ1N2JlQWlhVXNUZ2FxNFFwVjZjbzk3TXdKY2hTcnFmZkxvREFPdHJfYkowZGYtT29BWmVZ?oc=5",
-        "source": "Google News - Tennessee Healthcare",
-        "publishedAt": "2026-10-12",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Christa Pike back in prison after released from hospital following botched Tennessee execution - KHOU",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMl9vMy1MXzd2TXBGX0x6Y2tBNnZMd2c0ZU9Bdk9CZFNrR3A2enE2WjRSV1c5ZW4tNjNRRzYwMi1NSUZOUXlPWjRrTFBjdWtZT1BWeDVfcDJOaHlkLXAxWXpfd3Y0LTBRQU5HYzJQdEFwUGxlbGY5TExQaDNmRjJUYlF6RWRlaHZVMG9PWjVhVzUyMERxOGdiX2JyNDIwWXJtYUJ1QkdyN1pwNWtkU1RUTnBPRTdHVEVlcVFKOEpvcmtGVDRTTDdJV2M2MXNZYUdTRmFVdmJiNDFiaWtPdk11NWJ3UnBhSmJPMGFWeUE1WklfUHh3NGxIT0hzdVJqZllzU2hyWFEyWQ?oc=5",
-        "source": "Google News - Tennessee Healthcare",
-        "publishedAt": "2026-10-12",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Christa Pike has left the hospital and is back in prison. Her lawyers want Tennessee to commute her death sentence (with video) - Plataforma Media",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPaVh0SmE2MUllMEVCOS1IbDJhS3BGR3d2LUcyT290b19YVW53ajBPUzdhSW1Id2ktWHRBM3ZBeThjVzYxcjFqUXQ1WFJxVFdXY1NtV2k5NjJJZjdQTHhxNDFnNkpBOG5QaDFjM1dWM3VCVVFLTUFfQkUydmIwbUJSc0xBeWtnZjhhcXhQN2g4ejNOQVVpWnh6TTRzYk4tWTRKM0I4ZkdxZTRhWFByMm1yYWhtNEcxbnM1UUdNOTJIMndQdUcxOWlFTVNhUjJHMGVxQnp1Vzh0YTBza2NNYU42TS15RmpFY05Na2dkXy1sTHFXM0FGRWJoOFYwb0JWN0V5?oc=5",
-        "source": "Google News - Tennessee Healthcare",
-        "publishedAt": "2026-10-12",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Christa Pike discharged from hospital, returns to rehab center in Tennessee - nbc39.com",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMW1oZEYwc1owNElRVmFZcWxwTlFmOTZMYnhSRXlraWF0Z1AtTHQ0bjQ4RTJidUgteERLQTBxY0tQenRWZ2Z6MktHbzRkN1ByckpXSUlLekFvbTQybVlWV2k0TGd0MzBnZlY1d2RpMkNmUERRd2UzbzJpVTBZVUlOci1yZkRLRXBKS1R6cFF5VUk2NklfRklSMW9XTFRWMDhkVC1BZUNFaFltakJZWUZoTGZGd3g0VWdrQTNQUGV4QVRseGVxQ1BxOWxWWUkzcnY4UTVNVGhZU0NqUFFBQTM5SGQtdGMxdw?oc=5",
-        "source": "Google News - Tennessee Healthcare",
-        "publishedAt": "2026-10-12",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM2NweVMwdWlpQmxOSFE2ZE1jNFlka09ZLXpLcFA4b3NUZUlrNkUtSktqUkZIRzVISklCM0dkYk5jUGU4LXA1aHhUYTVHTDVsSFpKYVVZMWJQRUJoQVpYRHRvdzJjNUlxQTJmeUhCRFBqa291eWFhYmtSUl9kVVJmUnhRWFZpWTRqR2JVWlpHeTVFYlFFVEFYdmc3NU5TRXFNMnZQWTZpUGx1RTlsMUhrTHZfV3pMNV94R2g0YUFn?oc=5",
-        "source": "Google News - Tennessee Healthcare",
-        "publishedAt": "2026-10-12",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Josh Heupel calls Tennessee football LB coach William Inge's recovery 'a true miracle' - Knoxville News Sentinel",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMHdtZlZScWpaLUNMYmJpc041eDJRZnRnemVISkxmMnFVV1NhWmd6Mk9oSTJnbTl3RGVYSHM5cHJQRWw5alNOTS0wX1JMTEVWS0RIM1N0R0JVeDlGUzd2UlIwdS1ab2JhTWVXTHU4SS1GU0Q5c25reVcwS1U5alVfdHRnLTcyUVgxYmZGaEE0LW9RWUVoeHY0M2drb1ljaVRtRmprSThrTUFFeTZ0eV9nNk8zVy1RcjMtcEwwbTZLQ3dwdVJGRkpZUExha2VLZXJ5TVZ5OS1KU1dmcF9OblU0blpQLV9jT1AzdjdnN3Bwc3V0Zw?oc=5",
-        "source": "Google News - Tennessee Healthcare",
-        "publishedAt": "2026-10-11",
-        "summary": "<a href=\"https://news.google."
       }
     ],
     "TX": [
       {
         "title": "Meeting the Community Where They Are: At South Texas Health System, providing quality, compassionate healthcare means connecting with the community beyond the walls of our facilities. Representatives from South Texas Health System Behavioral recentl - Instagram",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94b1JpbURmakFCSnpLZGpESXFYZ3pucVR3MjVfNEFjbG90Q2pidWllY1pYcXNaYTgzd0VrUVpOdVRDRS03NjY3bFNMeGN3elVyOXc?oc=5",
-        "source": "Google News - Texas Healthcare",
-        "publishedAt": "2026-10-14",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Deaf Smith County Hospital District receives $750,000 in Rural Texas Strong funding - KFDA | NewsChannel 10",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUUp3b1lqQ2FRWkY4Tnl2N18wS1p3Rlo4bW9UQTlHLXg5dlRTY25yZWJPOFpJYlhLM3p3SGxuWHV5ZWxrYUJ2RlZ3bGE4TlB4Ty11dk1DUzFlZTBwRVdIYTZFeS0wWVZPaXEzelZtSTVqY1l2VjJ0d2ZydTZiV09CZk5uNF9zVkFKVjdqTUstTnlLejJvTzJpVFJBcnRkbnhkQng0U2J1MFdVVkdCbGw4QWFsOW93aGQyenVUQdIB0AFBVV95cUxNbHAxcnEtSUtkZ0ZUalNBWUQtNnQ3NUV1YWxZYlF5ZlU2cGRjcEZvY3d1bUplSXpZbkZaem5UM0RYOTduU1JjclhnVmNwdnJsQVdkcEc1a1JJbHA3WE1jMXpjUnNVX1lzNWVsdERhX28yQ0NlMEFMUXYwOHYzM1dpZzNHYjQwbkNXWXNfOWRLQ3RzWlFRSDBpOWpJUmE2TlpWT0tDczhwVkR5cGgtallzVm5Hcmx6ZU42NEoxRXZhT0Vvc0pBTnRKLWU3ajJtc3Qx?oc=5",
         "source": "Google News - Texas Healthcare",
         "publishedAt": "2026-10-14",
         "summary": "<a href=\"https://news.google."
@@ -4611,7 +4604,21 @@
         "summary": "<a href=\"https://news.google."
       },
       {
-        "title": "Texas hospital uses 'skincubator' to help premature babies & parents get closer sooner - KXAN Austin",
+        "title": "Deaf Smith County Hospital District receives $750,000 in Rural Texas Strong funding - KFDA | NewsChannel 10",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUUp3b1lqQ2FRWkY4Tnl2N18wS1p3Rlo4bW9UQTlHLXg5dlRTY25yZWJPOFpJYlhLM3p3SGxuWHV5ZWxrYUJ2RlZ3bGE4TlB4Ty11dk1DUzFlZTBwRVdIYTZFeS0wWVZPaXEzelZtSTVqY1l2VjJ0d2ZydTZiV09CZk5uNF9zVkFKVjdqTUstTnlLejJvTzJpVFJBcnRkbnhkQng0U2J1MFdVVkdCbGw4QWFsOW93aGQyenVUQdIB0AFBVV95cUxNbHAxcnEtSUtkZ0ZUalNBWUQtNnQ3NUV1YWxZYlF5ZlU2cGRjcEZvY3d1bUplSXpZbkZaem5UM0RYOTduU1JjclhnVmNwdnJsQVdkcEc1a1JJbHA3WE1jMXpjUnNVX1lzNWVsdERhX28yQ0NlMEFMUXYwOHYzM1dpZzNHYjQwbkNXWXNfOWRLQ3RzWlFRSDBpOWpJUmE2TlpWT0tDczhwVkR5cGgtallzVm5Hcmx6ZU42NEoxRXZhT0Vvc0pBTnRKLWU3ajJtc3Qx?oc=5",
+        "source": "Google News - Texas Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Ascend Dallas helps new mothers with free nursing support - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOFYtQ21wMFBhbGNZZWU4UmZTT0xsYVZlVDRualBMRlNreDdlLUxnQ2FaQW1ta0J0UktEVktyeTVac0RSeF9OcEI3YjVUUXEybzluMUhWUVd5NXVGcEZJUmNIc1gwQ2FtdGY4bTJuNkp6TTctZlZaOEVkcVBYUHZ3TUR0cTFVNHVwLTktcENEeE55cWJ1djlQaW5B?oc=5",
+        "source": "Google News - Texas Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Texas hospital uses ‘skincubator’ to help premature babies & parents get closer sooner - KXAN Austin",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTUdWZDN2TDBOYjZwaFZ5eGxEUzZlaUNqWlY4TmZtZFRyR1Z0SmFENm56M1ZpNEVjS2JSTjMtX0lQWHU5dGJxV25ydkwyXzgxSWtYRGExRVJmYzlvTjdObFZlQW1CWnJ0ZlYzNXFtVTlPaTRRN3o0WW4tT2NCc29aMVl3UnlrclMzNnVlYWVqaXBpMVZrd1dvLUllOExrNmVPWEVPMFNkRzYxeUFRdkpzLU9OeGpPaGloLWF3?oc=5",
         "source": "Google News - Texas Healthcare",
         "publishedAt": "2026-10-14",
@@ -4625,8 +4632,8 @@
         "summary": "<a href=\"https://news.google."
       },
       {
-        "title": "Pct. 4: 6-year-old boy critically injured after being hit by family member's vehicle in Spring-area neighborhood - KHOU",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYmZWdVA5bnVoNWhxdlBiUVA1bEJpa3FZTFkzTmVfV2Nodl9PdzJ0VENnbVRlWDhudDd1Z25jMzJEUzhha0I1YWYxVGRXSEdBMW5IZU5Tc2FBcThJMld6MjNSbjkzMG40VkEtV05ueGJ4QTdfU3FtUWRUUjdCak1aX0VHSjc1YVBZbWJBWDNmZ3hjS1BJaVFUSHFqWnlTUmNWMDFDY3RpRDRmbEl0al81OEVoclFmaDlsZGlZbDQ4VEJXY0gzT2NycENn?oc=5",
+        "title": "Plano dad delivers baby in hospital parking lot - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObU5QSXBDU3RfVzdWYUlzdmM4VWJUNGJfZWRETzN5YjZLdTRMaVcwQUItQ2ROWWF3Q241S3J4VlFxNlFuQlA5N0h0TlVaVWFkT3F1bGx3bkd0empXUWkzeVhaYzJISFJUYkoxMmxMSE1Xdl9IZXJmNUVpb2IxVDgwcGhZSnppZ3NhTmc1SQ?oc=5",
         "source": "Google News - Texas Healthcare",
         "publishedAt": "2026-10-14",
         "summary": "<a href=\"https://news.google."
@@ -4634,6 +4641,13 @@
       {
         "title": "From Survivor to Lifesaver: During Breast Cancer Awareness Month, South Texas Health System is encouraging women across the Rio Grande Valley to Think Pink and make routine breast cancer screenings a priority. For Melinda Lopez, a radiologic technol - Instagram",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xRXRfMFBzRjVKUUR0ZXBLZTNlNjJQYnRZV3JVWEF3WTBORTlqbzNOb2RRUGs4OEpnMVBjbFhaby1IdnFDdDl4dGk0a2xmZkJwdHc?oc=5",
+        "source": "Google News - Texas Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Pct. 4: 6-year-old boy critically injured after being hit by family member's vehicle in Spring-area neighborhood - KHOU",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYmZWdVA5bnVoNWhxdlBiUVA1bEJpa3FZTFkzTmVfV2Nodl9PdzJ0VENnbVRlWDhudDd1Z25jMzJEUzhha0I1YWYxVGRXSEdBMW5IZU5Tc2FBcThJMld6MjNSbjkzMG40VkEtV05ueGJ4QTdfU3FtUWRUUjdCak1aX0VHSjc1YVBZbWJBWDNmZ3hjS1BJaVFUSHFqWnlTUmNWMDFDY3RpRDRmbEl0al81OEVoclFmaDlsZGlZbDQ4VEJXY0gzT2NycENn?oc=5",
         "source": "Google News - Texas Healthcare",
         "publishedAt": "2026-10-14",
         "summary": "<a href=\"https://news.google."
@@ -4662,20 +4676,6 @@
       {
         "title": "After report of partying in Dubai with Texas Senate candidate, accused Loretto Hospital fraudsters plead not guilty - Chicago Tribune",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPU1JjeGsyOHNDdWlDNmxMNEx4eUhqNTdadVNlWWRmal8tVndUeDR5aDdXakpEYnYwYUMzOVRUZXJfenc1MDlhaWVlNURiSUtfUVd4a0VKZ1dReGNteTJRSHgxZTl0U1lrZ2tEQnlsWkJiMGJveW5leE5tYTdXdllCMDdpOVJoRGZMcGtyVlBTZmlRNWo1WHJCY3hyZ1FDTTRKY2EyeEFROW84ZVVsVWhxNlc2dUNPN3UwOFlRcnFSNnZtM0FjbW5JbDZsUkF2N2JROWpraDgwRHo3ZUhicFp4ZEM5QUxDUVFlRkdtd0RR?oc=5",
-        "source": "Google News - Texas Healthcare",
-        "publishedAt": "2026-10-13",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Texas court awards Ector County hospital board member more than $11 million in defamation case - CBS7",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU3R5M19pZkZ2UWlSTWpYZFBpeGl2dUdLRVB0TGxqTVhXTVVvZzRRWjg0bkxJM0NuekFSaFlBOEQtSGNITXg5Yl95YVJUUVdzQmdWXzFzMUlOclJBODZzSGhYQUNzTVNIWGNpdUxRcmsyOV9tWUpLYmh4T0h0YzFTQ2xpak5RaDd6TWtNYzd4V0VDdEt5dHFOVDA5emR1MjV1MnNmUC02Tk9JcmpDOXZKelMxb3VkV056WDRHMUFDUEtjakh2ZWo3bldCbWlYUzVFRUE?oc=5",
-        "source": "Google News - Texas Healthcare",
-        "publishedAt": "2026-10-13",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Texas AG Ken Paxton Partied With Fugitive Ex-Loretto Hospital Leader, Pal In Dubai: Report - Block Club Chicago",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS19rSW5OU0d4NmZWZmdXQzNsVkNoMGJSbldnSk5rcC1kMGRQajdtYURWOHh0TUl6WnhkWU9pRHVUNnVoei14V3d5bzZmOU16d0ZwV0t6T00wRUxweW9MY2NRc1VUZE40OEx3X3B4eDcybTVyMHRxVllLajJVRGdQVHVVZG1DT29zeFlWdlhQUW9OdldUQm9fdTBsQkxtMmdzYVA4U21TTjhOWGtJMWhfQ2ducmxoUmNsakRpd2RTR1M4SjNPaUNZbA?oc=5",
         "source": "Google News - Texas Healthcare",
         "publishedAt": "2026-10-13",
         "summary": "<a href=\"https://news.google."
@@ -4804,6 +4804,13 @@
     ],
     "VT": [
       {
+        "title": "UVM Medical Center cuts raise concerns about care for vulnerable patients - WCAX",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSkxPblV2RjdTV0lLbzZ3UmVES0NSQzR0X2dpZ3dWaEktbnEySkgxeFVBSUN0akhJYVJ6aks5UkxLOEU0MUhOY3J4NEpJT3VYQWpHMkRkNnU5YjMwQ3FEYldWQ0pwaXctdkotT2dZVjdhc3YxYnl2TjBjeFF6eHZ3N1ZTWW14Y0M1dEpMSHFJX21RZHVuYXBPdnFGaU4xVFVGWUF0WtIBuAFBVV95cUxNNHlEYWxYYWRSQjlQQlcyQTFUNnoyMU1wQ2g4M2hEcEVhNzNPUk5ZXzBGVld6Ri1kb2JZTHp2TFVtQ3k4SC10OThoQWloMjVKTEFidzk4b3p3b1g1SWd2cDhFdkxjZ2tzSVVKYm9TalBJZUJmdzRNMlRsMXVvSUlsVnVUMThVTXNOQ21nbHBTRGota284RGRxTFdnMXBHeElLcUFwVHpXdW91WjI2QXFSZkdfbi1UbFVa?oc=5",
+        "source": "Google News - Vermont Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
         "title": "UVM Medical Center Cuts Raise Concerns About Care for Vulnerable Patients - Seven Days Vermont",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbkFubEsxTEhCYU1FNTNZazZaWFNZUmplbEdLVjFJOW9iQUxLU1d2R0MzVERxU2x0Z004WWE0eFZva2VVQzBuX2NHVG42c2dfdzAyOEdlYU85VVBRTnVOM18tY2hEQzBVczJ6UDZDVEU2NGd1aGs5VVlLdXNHM2tBNER1MV9HbEhldVZ1ZjlIWlpGc0g4c1huSDlQV0laSERXNk5yTElPZkxjeWpfbUJYQ3N4MEEyNzVESnc?oc=5",
         "source": "Google News - Vermont Healthcare",
@@ -4813,13 +4820,6 @@
       {
         "title": "Traveling nurse charged with using oxycodone prescribed for nursing home patients - Vermont Daily Chronicle",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN2doYmsyLW1WS3RzRE9fcExWa1V3aXJEc1ZpZC1wdmt0dXFqM1kzZXJoRHB2Z1RwclQwQ21uQ3NkWXZjTnhXaGh6YlU4MlFwYmg0NEdqdG8xMXZ4NEkwZlNCMGRTVFZRbFVFU0M3VVY1VzAxb3pnbkpZYnZDUXhOeklOS3FtVk55Y0ctUEQ1dDRHM1U1NEUzejQyeC1EY1ZGNG9rektHdVFpVFFxZUJCSmNlNkJJTDDSAbwBQVVfeXFMTWZZQ1pNR3hoMWdWRWxJWF8zdlBnYlJJemdZN2wyMG1UYjZnaUdqc3lWNlpqbzJFaHo4VEpMeFlRcHVCenk4WDRkZ3BoTFh2U29MLTcwWng5aEViZHREcVdaNmw4RG8zS3FOalBWakxuVXZsVzJ5ZHBENmpYNDBvY194eUxJMm5TWk5JVVFrYVhJa0otVm9yNEk0elV6QWI3cWlPc3gwaHM0bU0wdWwxc2l4Z3pNblpmcVdYZWQ?oc=5",
-        "source": "Google News - Vermont Healthcare",
-        "publishedAt": "2026-10-14",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Tag: southwestern vermont medical center board of governors - Berkshire eagle",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZlVhWGhRckxnS2ZZVG4yVUpyd3lQQV9oTmZqMTFPemd3NDB1V2FYVHVDQy1YRlIydDk3YkxndUZJMEpyREgzX2ZrQlhZNWxHMjBROHRibEJ2dV9kNGxBWWdYdDZyOTVqVEI5bS1uR19feGtRaFVDcl80c2c3V2Z5VER3SEVQVVVlNzNqWUptcG1telZoYmxFWlhWOEJCZzJrTkYw?oc=5",
         "source": "Google News - Vermont Healthcare",
         "publishedAt": "2026-10-14",
         "summary": "<a href=\"https://news.google."
@@ -4918,6 +4918,13 @@
         "summary": "<a href=\"https://news.google."
       },
       {
+        "title": "Vandalia Health Grafton Hospital receives West Virginia Centurion Chamber of Commerce Award - WV News",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOMnZnRHEzM2w5T3dVYVl6Q3pDZjNUYnI5OXNDUV85c0RQQWRiWVpHcV80WkEyODFQd0lVQXZQbEtpcnhhS0tHTWtlOWVmU0JkZUl3SUgyLUVyeU1NYzBNSHBsNnpZX0ZneFdjRm9RWTh1ZEJISk5oQURaMC1pYXRKRVpqT2NCU3UxcjI2QlY1Z2VxeC1ycnpWWVlYQzNQZ2ZwVTdJSHR3Z1RrNm5qSmVkSlBZVElUWUVydDBwVXRSTlE2c1FmSTRFYzRzajBqVE5RcVYxUEZaQVBhYzRWdVpOVXFoam1FQU5zQmxJS3I0NnhpeTh3RFZ5Y2NkVmJEeG5FQVlKTjk4djNxa2c2REZr?oc=5",
+        "source": "Google News - Virginia Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
         "title": "Lawsuit alleges father suffered as Virginia nursing home owners 'siphoned' money, understaffed facility - WTVR.com",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSkNETFZfWkd0Und0VTBGRnRpUWltU2MwVEluVlRUNV85Nm9Va01wcG5LUGZTeHdJNHJZOGdlWmE5RGI4dEU4YnZCWVRzSnFTWkQwcTVUbHRQNmRlV2lUS2NNUTg5OW9MTDJMMGgydEZZNloyVDlrU3VWYU9QeloyNmkycmNIeUlfTy1QWlN0Vk92Tm0tLXZSVUV4SVBnR280NVQ1VlRpd3kzTlpuS2pBd2sxSHRqNHUtdHViNVBaeV81U2ZYOE9jQlVaQVBvZG1wU0RZ?oc=5",
         "source": "Google News - Virginia Healthcare",
@@ -5007,13 +5014,6 @@
         "source": "Google News - Virginia Healthcare",
         "publishedAt": "2026-10-01",
         "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Del. Amy Laufer recognizes UVA’s Nursing Advocacy Initiative - Cville Right Now",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVm4yQnZNTFo1R1EzZXRzbUR3M0pmQXZpOWtZaC14UEZ2clpMUS1SUHFoN3YtVndpMHhXY1BZNHJxMmRlSFZKOXBiOC16TW0wRUg4aWJQelRsUHdjcU5xQXlIOHJxdDdVckxkWUd5YVYyZnZzbUxSdmt1aVNCZ2d3NFl3SjZqMFE4NUU3U3RDQzBXYlVselRyVGhhUzRGWGc?oc=5",
-        "source": "Google News - Virginia Healthcare",
-        "publishedAt": "2026-09-30",
-        "summary": "<a href=\"https://news.google."
       }
     ],
     "WA": [
@@ -5032,17 +5032,17 @@
         "summary": "<a href=\"https://news.google."
       },
       {
-        "title": "Pope Leo’s surgery removed cancerous lung nodule, Vatican says - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUzJFcHNvd05oN1JwZjZGQVd4ZmRiWFQ0UGVGN3RaWmliZ3Z5OWs3QWhxNjJVWHdrZGhkeGx0dlBBbGtmeWhwVDhpNDNyVDNZZEZ3dXJlWklLVm9tdHlSQjhNY3RPUnVKcTRFdUtBWVJsaTRwOVRqY3R6RjJOYTA1Y1Zpa003eEgycGFFVy1tOWk3cUROTndMWA?oc=5",
+        "title": "What to know about pulmonary adenocarcinoma - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRldpS1plN19xSTVGX3V5SnFaSUtwcnNaUmk1N0xBaE1zak5oazdjNGU4UHJpa0F6WEhGUmZwbmRSRFNHRFBXLTFVQ0lEeTlfSzRoUWo3NjZQeGZ5RjB3cTktWUZGRE0wSk1kcldDTktJNWxsY2lYbTI3U2VhV1BDRzNsS1RkZko4Z052RWdQcmM1V3dD?oc=5",
         "source": "Google News - Washington Healthcare",
         "publishedAt": "2026-10-14",
         "summary": "<a href=\"https://news.google."
       },
       {
-        "title": "NLRB Official Rejects Bid To Grow Wash. Nursing Unit - Law360",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUmpWWUF0VFNvV0lhQjB3OUhGNVhuaC1KTElyU2FSMWd1X0tKUUtLa0xRdERmMVJBMTV3WVNOdlNsQzR4UTBIdUVqOHVYb1FoaWJ4Y1ZNTTFQYTlBQ1VnRmh4V19SSl9IYUJCRFZRWGE0RWtUWWQ3M203T1AzWTlqWkF6SkhHOWFCbHQzNi1qOERoODg0c1HSAXJBVV95cUxNY0M2azl3Tm9KRDRWQTQ1QzV2ejJWbUZyWmJuUHpUdFgwTUtlM29lcHhZeTZacXdyR2o2WHNMVHNhU2dYYUxSdXNrb1ZXMnFPSWMzWGpqYlAwLXVXaGFZOGFTOWo2d1J5d1o5S2wyam9ua2c?oc=5",
+        "title": "Pope Leo’s surgery removed cancerous lung nodule, Vatican says - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUzJFcHNvd05oN1JwZjZGQVd4ZmRiWFQ0UGVGN3RaWmliZ3Z5OWs3QWhxNjJVWHdrZGhkeGx0dlBBbGtmeWhwVDhpNDNyVDNZZEZ3dXJlWklLVm9tdHlSQjhNY3RPUnVKcTRFdUtBWVJsaTRwOVRqY3R6RjJOYTA1Y1Zpa003eEgycGFFVy1tOWk3cUROTndMWA?oc=5",
         "source": "Google News - Washington Healthcare",
-        "publishedAt": "2026-10-13",
+        "publishedAt": "2026-10-14",
         "summary": "<a href=\"https://news.google."
       },
       {
@@ -5055,13 +5055,6 @@
       {
         "title": "Oz, Smith visit Memorial Community Hospital - Washington County Enterprise",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR0MzLThZMlowM2F2YklsM05vRDEwb1VLdFAySmU2ZmFRcWcxY1JESUc1U09zclplYmhZejRGVmxCTTRWdTU4Z09yNlVNZ2wtZ1VvcjVROGxXTExOTGhHcVY4ZUtvSTNvMU8zYXRLQmpCNGlwcjJZYkY3bWZUcUNDcEJDY3BjWEd5a1V2endBNA?oc=5",
-        "source": "Google News - Washington Healthcare",
-        "publishedAt": "2026-10-12",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Man dies in hospital after being shot by police during warrant service in Washington County - WPXI",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbDctTVBhNW9BV3hTUERMV0ZrMkI3SDYzU0t3ZF9PTlNva0dGYi12RDZYU21XT004NEdOU1dCZnRGMzRCcHMxaVQyRl81MTZKN2xpekttZ0ZQdFV4T3U0MFNXSnZyaW04c0tNdU9JOXphdkt0emFDZDdoYTBkTTRXVWRWeURlQW1val9kWEdTVndQZHFpOXVrTEZScnlnQTNLZEhCNm40UU03WEZSYzRZRFJmUXIwRnJ5ZDYzYmIxM3N3ako1U0JEOG94S1E1NTJ6MmV2WUpQemlnY3dDVHRzUm5TRjQ?oc=5",
         "source": "Google News - Washington Healthcare",
         "publishedAt": "2026-10-12",
         "summary": "<a href=\"https://news.google."
@@ -5118,6 +5111,13 @@
       {
         "title": "Washington couple sues Salem Health, alleges hospital sent them home with infant son’s body - KPTV",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMU10ZGZzM0tWN19TVHNuMEtTREcyS3hsRUVkTk9lSXRXTXNHQ3R5d1cyZ2xpcml1alBaQUpUdnJsS0JmVnRKbVF3V1ZRQkJEOEs5d01pUjM2VEltUmo2SW54eG4wdnVvVDFiTnI1X3BXdlhEc2ZFTzJhMllnaExicFVqVnRDNXo5bFlTMlQ4WFZmUm1xT3VCT19KR3lnYkpkbHJyS2hDTHBnbU1oVllWRktlWFpidFB1eDJwTTZxNNIB0wFBVV95cUxNTEdGUVZmQ2ZxZGJQMEJlV3cza1YwVGlpanhfY1JMN0pEVFFyLVlSc3VvemZadm56RW9TYzlqQ3k0SmlTSmY5czdmU1pPWFAzQ3I0ZkJvQmV2dEJDVHU0bERHZHEzcGNYUXRycVo3c21oZDhHTGJ6eEVNVGVwVDZpSWo4ZURtTjVsLUh2dDRkSHJQUEhIaHdKSi0yZGFtdmVZTjQ1dGFKcmU3Rnk0Q3Roc2l0QXJ3eXJoX1NlR0c0M2V0YXpkWHUzSmI2Z0xXQUFEeHhj?oc=5",
+        "source": "Google News - Washington Healthcare",
+        "publishedAt": "2026-09-23",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Lawsuit claims Oregon hospital made parents drive dead infant son home - FOX 13 Seattle",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeTVEVFpULV9LNDNDaVdJazRMT0tCX2g0THRmbWM4WjFiUGMxOXYzNzlXeXNRRW9GWXNDZkJNRU8tb2o1M1RMcGV0ZXpTUTgwSWJfWl9GRjZNUEhEYW1HQ1A3TXR2ajVYRFRqdVlHQnlQbDlhcW5QMlNBdDJVeERjajYteHpnZFhGRlHSAY8BQVVfeXFMTTFHalBSMDcwV09OZDVMS1JrdDlLVndVT2JlUlllTXRuakIzSmVXSk5XLXdmSDdQci1rU3FzZDl5WTZqdnlXbGYwcF9aR05YMmZxUzY5dnRlTTBwRU55Ulc1aVBRSEZGVENfencyODE5d3dfLVFjdXlfcGFsYk9RQXRQTFMyczhveVhDUHNQeEU?oc=5",
         "source": "Google News - Washington Healthcare",
         "publishedAt": "2026-09-23",
         "summary": "<a href=\"https://news.google."
@@ -5232,6 +5232,20 @@
     ],
     "WI": [
       {
+        "title": "Green Bay clinic hosts open house for mental health walk-in services - WBAY",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWmgwTjRPWUNlRWM5WTA5cURCVzB5X1NOU3hTNTBJNU81YXAtWDk3ck80WEcxakVMM0lseXJHbXlqVGpMS29QTTFuTDJSMmF4VXRIMXFBZHhzQjlVbS1TcVI2eHFodjVZUWNSdWFxWFJ3b1pKV0hQNzVVd3JXd2ppNHltUnJrWkluNU94d3hBQ0doUmo5bUwzZEQwNnhCZ9IBsgFBVV95cUxQaEZRZmd6cHBuRThpczQ4MHN3a09oZW92eS1Uclp0Y09qQ3J1NXViVUFJRi1fRFA3cGhKWjN0ajFSQXhQeGdsbjFXWEVnZGFHU2xYd0lwbW9Sa2RPbGNpcXowWFh0dXZDd1F2VG4xY05Ya003emd1cUFuelN2N2t0dmk5aGNEUUV6ZXMwbk1kSTl1d1VRSl9oMnVEZHc4eGRiR01WWTVuRHRkOWx6MmowcVpn?oc=5",
+        "source": "Google News - Wisconsin Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
+        "title": "Aspirus Neonatal Clinic opens in Wausau - Spectrum News",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTHRtb0hjeUpMdi1kU3dPSlIwa2R0MkVWVmJFWjIteFJyekdsMEVNTlRsLWFfNTFoYnlXM09NWkpQVE8tSUkyYTlUMEJrTzdXS0ZRY0pXZUtySHByTHNqLXhHSXBhU2ctcEFXdldkMTZnRFhpX0Y5X1FtUkhLTGNjV2R5ay00V2w3azMxTzR3?oc=5",
+        "source": "Google News - Wisconsin Healthcare",
+        "publishedAt": "2026-10-14",
+        "summary": "<a href=\"https://news.google."
+      },
+      {
         "title": "Marshfield Clinic awarded $580,000 grant to address mental health in rural Wisconsin - Wisconsin Rapids City Times",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnAxYU9sdlU5MDFuVzBwUzNENWRSRExFNXIyVTktM3k1Rmtrcjlkbk9zN21JUG5KcThXQXcxbmRaaTJlSDYxd3lKdDBvWDlHOGgwU2xHRUlBVnk4MUhEMDREZll2cG1KdzBGeVZSTk1xMnMwbEp0SEYyY0ZvSEtacE11bTBGM0NCS3ZGTGlFam9MWDIyblUtR1R1TTQ3VktHV0dNT2JqLVVuM1NsVEJ0bkRzZ0pCam52Vl9jbw?oc=5",
         "source": "Google News - Wisconsin Healthcare",
@@ -5318,20 +5332,6 @@
       {
         "title": "UW-Oshkosh nursing students among first to try new electronic health record platform from Epic - Universities of Wisconsin",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMDM4ZzYtdjA0ZEFGbFI5RWxER2F5aWg5enJCZFhQQXMxS2J0alI4THlVOHlTcWdGajhlc0xSbnREWktsWktIRThNMTJoZEJVUnY3aFBleHhqbEFJbXBXYnFqTGF5TzhJN0U3cTVPUHQ5VUhQUUNqdTEzX2FsUEpDR01wS19fWTFveWZaX2ZRRkhJc05BdTAzWWdsa082UDduQkRXaEJ2VWRLMGJCU2o2WkhRdVVDdlo5cGxfZTNub2p2Q1ZHSFlFdXRpTkdjNGQ5bnV0V0trekh2RTV5?oc=5",
-        "source": "Google News - Wisconsin Healthcare",
-        "publishedAt": "2026-10-01",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "Access to cancer care in rural Wisconsin makes a difference - Sanford Health News",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemd0Tm5hQzJBZU1lUVBHTDc5MGprZFM4Sk1mOUNCWmk4emJuZmprT242YzJzbFRMeW10X1JkXzl4bVBLZndoMXFJbzNQam1IX05kb21uUUxiYlJlbVA5SU84VmlWUEpPajhfMTE3YzlCLVJoSjRxSXdmLW94LWJveFpXcWs1NzZYems1Q2F1U0s2ZnRZcjNId3NrM1VwQnM?oc=5",
-        "source": "Google News - Wisconsin Healthcare",
-        "publishedAt": "2026-10-01",
-        "summary": "<a href=\"https://news.google."
-      },
-      {
-        "title": "New Ad Sounds Alarm on Wisconsin’s Healthcare Affordability Crisis - WMC Wisconsin's Chamber - Wisconsin Manufacturers & Commerce",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRWlJTjZ5aVpqTURpbDdBR2FzSVRVYTdDMTByQ2F2MWt3UG1vSUN5RUpLUmRNclVfSFNvQ2dNRDRqSGVqenpWaGdiWlVVa3JWNWxxUndBSEFwTDVzbmVXMHRMZG9aRUhUVDhZaGc4SXVGQ1dzU3JFdzB4aXJGeVlOUTI2aVBzU0RCdmNrb3JrdUMwMk1OaWtneGNzZDJReFFVRnBz?oc=5",
         "source": "Google News - Wisconsin Healthcare",
         "publishedAt": "2026-10-01",
         "summary": "<a href=\"https://news.google."
@@ -5445,7 +5445,7 @@
       }
     ]
   },
-  "lastFilteredAt": "2026-10-14T22:13:23.419Z",
+  "lastFilteredAt": "2026-10-15T01:20:40.638Z",
   "filtering": {
     "version": "1.0.0",
     "maxPerState": 25,

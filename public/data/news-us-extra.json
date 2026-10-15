@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T22:13:22.605Z",
+  "lastUpdated": "2026-10-15T01:20:39.952Z",
   "scope": "US healthcare",
   "sourceManifestVersion": "1.0.0",
   "sourceHealth": [
@@ -1524,6 +1524,28 @@
       "relevance": 100
     },
     {
+      "title": "CMS delegated exclusion authorities for Medicare, Medicaid",
+      "summary": "",
+      "url": "https://www.aha.org/news/headline/2026-10-14-cms-delegated-exclusion-authorities-medicare-medicaid",
+      "source": "AHA News",
+      "sourceType": "html",
+      "sourceId": "aha_news",
+      "publishedAt": "",
+      "category": "policy_reimbursement",
+      "relevance": 100
+    },
+    {
+      "title": "AHA podcast: Leading Healthcare Through Crisis and Change",
+      "summary": "",
+      "url": "https://www.aha.org/news/headline/2026-10-14-aha-podcast-leading-healthcare-through-crisis-and-change",
+      "source": "AHA News",
+      "sourceType": "html",
+      "sourceId": "aha_news",
+      "publishedAt": "",
+      "category": "policy_reimbursement",
+      "relevance": 100
+    },
+    {
       "title": "CMS releases 2027 Medicare Advantage, Part D star ratings",
       "summary": "",
       "url": "https://www.aha.org/news/headline/2026-10-09-cms-releases-2027-medicare-advantage-part-d-star-ratings",
@@ -2052,6 +2074,17 @@
       "relevance": 96
     },
     {
+      "title": "HHS declares public health emergencies for Florida, Alabama following Hurricane Isaias",
+      "summary": "",
+      "url": "https://www.aha.org/news/headline/2026-10-14-hhs-declares-public-health-emergencies-florida-alabama-following-hurricane-isaias",
+      "source": "AHA News",
+      "sourceType": "html",
+      "sourceId": "aha_news",
+      "publishedAt": "",
+      "category": "policy_reimbursement",
+      "relevance": 96
+    },
+    {
       "title": "Chair File: Strengthening Cybersecurity to Protect Patients and Our Hospitals’ Mission",
       "summary": "",
       "url": "https://www.aha.org/news/chairpersons-file/2026-10-12-chair-file-strengthening-cybersecurity-protect-patients-and-our-hospitals-mission",
@@ -2550,28 +2583,6 @@
       "title": "Reducing Disparities in Health Outcomes",
       "summary": "",
       "url": "https://www.aha.org/reducing-disparities-health-outcomes",
-      "source": "AHA News",
-      "sourceType": "html",
-      "sourceId": "aha_news",
-      "publishedAt": "",
-      "category": "policy_reimbursement",
-      "relevance": 91
-    },
-    {
-      "title": "The Value of Health Systems",
-      "summary": "",
-      "url": "https://www.aha.org/hospital-mergers",
-      "source": "AHA News",
-      "sourceType": "html",
-      "sourceId": "aha_news",
-      "publishedAt": "",
-      "category": "policy_reimbursement",
-      "relevance": 91
-    },
-    {
-      "title": "The 340B Drug Pricing Program",
-      "summary": "",
-      "url": "https://www.aha.org/340b-drug-pricing-program",
       "source": "AHA News",
       "sourceType": "html",
       "sourceId": "aha_news",
