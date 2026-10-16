@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-16T15:26:59.296Z",
+  "lastUpdated": "2026-10-16T19:33:00.555Z",
   "version": "2.0.0",
   "shortageSurplusModel": {
     "method": "latest-fetched-sources",
     "refreshEveryDays": 7,
     "strategicVersion": "2026-Q1",
-    "strategicLastUpdated": "2026-10-16T15:25:07.982Z"
+    "strategicLastUpdated": "2026-10-16T19:31:19.356Z"
   },
   "shortageSources": {
     "fetchedAt": "2026-10-10T00:36:51.162Z",

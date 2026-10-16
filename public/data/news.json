@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T15:26:41.663Z",
+  "lastUpdated": "2026-10-16T19:32:42.931Z",
   "scope": "US healthcare",
   "retentionDays": 90,
   "maxArticles": 500,
@@ -10,72 +10,72 @@
     "sources": [
       {
         "source": "Fierce Healthcare",
-        "articleCount": 241,
+        "articleCount": 229,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 15,
+        "staleHours": 19,
         "status": "ok"
       },
       {
         "source": "Becker's Hospital Review",
-        "articleCount": 111,
+        "articleCount": 121,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 15,
+        "staleHours": 19,
         "status": "ok"
       },
       {
         "source": "STAT News",
-        "articleCount": 57,
+        "articleCount": 58,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 15,
+        "staleHours": 19,
         "status": "ok"
       },
       {
         "source": "Federal Register - HHS",
         "articleCount": 37,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 15,
+        "staleHours": 19,
         "status": "ok"
       },
       {
         "source": "Federal Register - FDA",
         "articleCount": 20,
         "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 63,
+        "staleHours": 67,
         "status": "ok"
       },
       {
         "source": "Healthcare Dive",
-        "articleCount": 18,
+        "articleCount": 19,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 15,
+        "staleHours": 19,
         "status": "ok"
       },
       {
         "source": "FDA MedWatch RSS",
         "articleCount": 8,
         "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 39,
+        "staleHours": 43,
         "status": "ok"
       },
       {
         "source": "SEC Healthcare Filings",
         "articleCount": 4,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 87,
+        "staleHours": 91,
         "status": "stale"
       },
       {
         "source": "Federal Register - CMS",
         "articleCount": 3,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 15,
+        "staleHours": 19,
         "status": "ok"
       },
       {
         "source": "National Nurses United RSS",
         "articleCount": 1,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 87,
+        "staleHours": 91,
         "status": "stale"
       }
     ]
@@ -83,11 +83,11 @@
   "categoryCoverage": {
     "closures_layoffs": {
       "label": "Closures & Layoffs",
-      "count": 15
+      "count": 16
     },
     "mergers_mna": {
       "label": "Mergers & M&A",
-      "count": 38
+      "count": 39
     },
     "labor_unions": {
       "label": "Labor & Unions",
@@ -95,7 +95,7 @@
     },
     "policy_reimbursement": {
       "label": "Policy & Reimbursement",
-      "count": 69
+      "count": 66
     },
     "quality_safety": {
       "label": "Quality & Safety",
@@ -107,11 +107,11 @@
     },
     "ai_tech": {
       "label": "AI & Digital Tech",
-      "count": 148
+      "count": 145
     },
     "general_market": {
       "label": "General Market",
-      "count": 207
+      "count": 211
     }
   },
   "quality": {
@@ -125,7 +125,7 @@
       },
       "minArticles24h": {
         "threshold": 20,
-        "actual": 61,
+        "actual": 74,
         "pass": true
       },
       "minRequiredCategoriesCovered": {
@@ -298,6 +298,276 @@
       "categoryLabel": "General Market"
     },
     {
+      "title": "Justice Department, HHS rewrite the rules on fraud self-disclosure",
+      "url": "https://www.beckershospitalreview.com/legal-regulatory-issues/the-new-federal-fraud-disclosure-mistake-that-could-cost-ascs/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-16",
+      "summary": "Hospitals and health systems that uncover potential criminal fraud within their organizations now have one place to report it and still receive credit from two federal agencies. The Justice Department’s National Fraud Enforcement Division and HHS’ Office of Inspector General issued a policy Oct.",
+      "category": "closures_layoffs",
+      "categoryLabel": "Closures & Layoffs"
+    },
+    {
+      "title": "38 hospital M&#038;As finalized in 2026",
+      "url": "https://www.beckershospitalreview.com/hospital-transactions-and-valuation/38-hospital-mas-finalized-in-2026/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-16",
+      "summary": "From West Virginia University Health System acquiring a Pennsylvania system to Sanford Health acquiring North Memorial Health, here are 38 hospital mergers and acquisitions completed in 2026: 1. York (Maine) Hospital officially joined Portland-based MaineHealth Oct.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
+    },
+    {
+      "title": "Ascension&#8217;s CFO on why &#8216;strategy without data is not a strategy&#8217;",
+      "url": "https://www.beckershospitalreview.com/finance/ascensions-cfo-on-why-strategy-without-data-is-not-a-strategy/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-16",
+      "summary": "At St. Louis-based Ascension, Executive Vice President and CFO Saurabh Tripathi said data analytics isn&#8217;t an afterthought in finance — it&#8217;s part of it.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Flu test positivity jumps 28% in 1 week: 6 FluView notes",
+      "url": "https://www.beckershospitalreview.com/quality/public-health/flu-test-positivity-jumps-28-in-1-week-6-fluview-notes/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-16",
+      "summary": "The share of flu tests coming back positive rose from 3.9% to 5% in the week ending Oct.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Confido Health nabs $12.5M to scale agentic AI across PE-backed medical groups",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/confido-health-nabs-12-5m-to-scale-agentic-ai-across-pe-backed-medical-groups/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-16",
+      "summary": "Confido Health is expanding beyond AI voice agents to build out an agentic AI operating system that can execute administrative workflows across a medical practice. The company secured a $12.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "42 recent hospital, health system executive moves",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/42-recent-hospital-health-system-executive-moves-2-2/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-16",
+      "summary": "Hospitals and health systems began 2026 with a flurry of executive moves. Since Jan.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "BJC HealthCare, WashU Medicine name chief of pediatrics",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/bjc-healthcare-washu-medicine-name-chief-of-pediatrics/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-16",
+      "summary": "St. Louis-based WashU Medicine has named Madhusmita Misra, MD, chair of the Edward Mallinckrodt Department of Pediatrics.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Most of What&#8217;s Sold to You as “Agentic AI” Isn&#8217;t Really Agentic AI",
+      "url": "https://www.beckershospitalreview.com/finance/revenue-cycle-management/most-of-whats-sold-to-you-as-agentic-ai-isnt-really-agentic-ai/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-16",
+      "summary": "I sit through vendor demos constantly, and the word &#8220;agentic&#8221; gets attached to almost anything with a modern interface. If you cannot tell the difference in the room, you will buy a rules engine at an AI price.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Most private equity hospital owners exit within 5 years: Study",
+      "url": "https://www.beckershospitalreview.com/finance/most-private-equity-hospital-owners-exit-within-5-years-study/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-16",
+      "summary": "Most private equity firms that buy U.S.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Wisconsin hospital to borrow $25M for EHR as Emplify ends Epic access",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ehrs/wisconsin-hospital-to-borrow-25m-for-ehr-as-emplify-ends-epic-access/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-16",
+      "summary": "Viroqua, Wis.-based Vernon Health plans to borrow $25 million in fiscal 2027 to fund a new EHR, according to S&#38;P Global Ratings.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Hospitals&#8217; next lucrative bet — longevity clinics",
+      "url": "https://www.statnews.com/2026/10/16/readout-loud-podcast-hospitals-longevity-clinics-northwestern/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-16",
+      "summary": "On this week's “The Readout LOUD,” STAT's biotech podcast, we discuss the booming industry of longevity health.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: Up and down the ladder: The latest comings and goings",
+      "url": "https://www.statnews.com/pharmalot/2026/10/16/up-down-ladder-jobs-pharma-biotech-gilead-bausch-sanofi/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-16",
+      "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We&#8217;re reading about an HHS peptide push, Trump&#8217;s pharma stock holdings, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/10/16/hhs-peptide-push-trump-pharma-stock-holdings/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-16",
+      "summary": "The Trump administration is proceeding with a plan to allow compounding pharmacies to produce certain peptides",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "STAT+: RevMed&#8217;s pancreatic cancer drug nears European approval",
+      "url": "https://www.statnews.com/2026/10/16/biotech-news-revmed-pancreatic-cancer-drug-nears-european-approval/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-16",
+      "summary": "Following a green light from the FDA, European regulators have now recommended the approval of Revolution Medicines' Rasonque for pancreatic cancer.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "What to read before you go see that new documentary on Elizabeth Holmes",
+      "url": "https://www.statnews.com/2026/10/16/health-news-what-to-read-before-elizabeth-holmes-you-can-see-everything/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-16",
+      "summary": "Ahead of \"You Can See Everything\" hitting theaters, let's rewind the last decade and review some of the most significant news tied to Elizabeth Holmes, who was convicted in 2022&#8230;",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: Coerced sex or a jealous ex? Jury weighs dueling accounts of star scientist David Sabatini’s downfall",
+      "url": "https://www.statnews.com/2026/10/16/david-sabatini-civil-trial-highlights-permissive-sexual-norms-whitehead-metoo/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-16",
+      "summary": "Was molecular biologist David Sabatini a manipulative mentor who coerced a younger colleague into sex? Or was he the victim of a spurned former lover?",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: In DOGE’s aftermath, federal health workers bristle at new performance reviews",
+      "url": "https://www.statnews.com/2026/10/16/federal-performance-reviews-health-agency-employees-wary-after-doge/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-16",
+      "summary": "Changes to the annual performance review process are the latest flashpoint in tensions between federal workers across the Department of Health and Human Services and the Trump administration, federal...",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Opinion: Is Milton Friedman to blame for America’s health care woes?",
+      "url": "https://www.statnews.com/2026/10/16/neoliberalism-health-care-milton-friedman-john-mcdonough-stuart-butler-debate/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-16",
+      "summary": "Health policy experts John McDonough and Stuart Butler debate where the U.S.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Opinion: I thought I knew why patients stopped taking their medicine. I was wrong",
+      "url": "https://www.statnews.com/2026/10/16/nonadherence-medication-stopped-identity-pharmacist-side-effects-prevent/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-16",
+      "summary": "Patients can understand that medication is necessary and still struggle with what taking it means.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "3 tips to manage soaring health costs",
+      "url": "https://www.healthcaredive.com/news/3-tips-to-manage-soaring-health-costs/833253/",
+      "source": "Healthcare Dive",
+      "publishedAt": "2026-10-16",
+      "summary": "<p>Speaking at the CFO Leadership Council&rsquo;s fall conference in Colorado, Marsh McLennan Senior VP Marybeth Gray shared ideas to keep employees healthy and costs down.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Trade association sues Trump administration over ACA broker, agent freeze",
+      "url": "https://www.healthcaredive.com/news/hhs-cms-aca-broker-freeze-lawsuit-nabip/833209/",
+      "source": "Healthcare Dive",
+      "publishedAt": "2026-10-16",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Industry Voices—How physician practices can grow and succeed without the support of private equity",
+      "url": "https://www.fiercehealthcare.com/providers/industry-voices-how-physician-practices-can-grow-and-succeed-without-support-private",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-16",
+      "summary": "For physicians who want to stay independent, there are several proven strategies to grow a successful practice, legal, financial and clinical experts write.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Weekly Rundown: JAMA Network to add AI journal in 2027; UMass Memorial Health partners with Microsoft, Accenture",
+      "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-97-healthcare-orgs-experienced-cyberattack-past-12-months-proofpoint-inc",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-16",
+      "summary": "The latest news from UMass Memorial Health, Elation Health, HealthTap, JAMA and more.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Fierce Healthcare Regulatory Recap: HHS presses medical groups on gender-affirming care for minors; CMS distributes RHTP funding to 5 states",
+      "url": "https://www.fiercehealthcare.com/regulatory/fierce-healthcare-regulatory-recap-hhs-demands-info-leading-medical-orgs-minor-sex",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-16",
+      "summary": "The latest news from CMS and HHS this week: HHS demands info on ‘sex-rejecting procedures’ for minors, CMS releases more RHTP funds and more.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "Epic teams up with Amazon Pharmacy, LillyDirect and Mark Cuban to launch prescription drug pricing tool",
+      "url": "https://www.fiercehealthcare.com/health-tech/epic-teams-amazon-pharmacy-mark-cuban-launch-prescription-drug-pricing-tool",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-16",
+      "summary": "Epic is bringing pharmacy price shopping directly into the doctor's office and the prescribing workflow.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "NABIP sues CMS over moratorium on new ACA broker registrations",
+      "url": "https://www.fiercehealthcare.com/payers/nabip-sues-cms-over-moratorium-new-aca-broker-registrations",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-16",
+      "summary": "The National Association of Benefits and Insurance Professionals is suing the Trump administration over its moratorium on new brokers entering the Affordable Care Act marketplaces.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "Duke Health, CaroMont Health seek to jointly build, operate 2 Charlotte-area hospitals",
+      "url": "https://www.fiercehealthcare.com/providers/duke-health-caromont-health-seek-jointly-build-operate-2-charlotte-area-hospitals",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-16",
+      "summary": "The pair filed Certificate of Needs with the state to build two hospitals comprising 200 beds in fast-growing North Carolina's Mecklenburg County.",
+      "category": "capacity_expansion",
+      "categoryLabel": "Capacity & Expansion"
+    },
+    {
+      "title": "Drugmakers, PhRMA seek to intervene in hospitals' 340B rebate challenge",
+      "url": "https://www.fiercehealthcare.com/providers/hospital-industry-files-lawsuit-block-hhs-340b-rebate-pilot-again",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-16",
+      "summary": "The American Hospital Association and others have launched a legal rematch with the federal government over the second iteration of a pilot program swapping out safety-net hospitals’ upfront drug discounts for after-the-fact rebates.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "Catching up with Blue Shield of California CEO Mike Stuart one year in",
+      "url": "https://www.fiercehealthcare.com/payers/catching-blue-shield-california-ceo-mike-stuart",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-16",
+      "summary": "In August 2025, Blue Shield of California named Mike Stuart as its CEO. Now, a year later, he's reflecting on months of work toward addressing affordability, member access and the patient journey.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Voice AI startup careCycle rolls out free plan comparison tool for Medicare beneficiaries",
+      "url": "https://www.fiercehealthcare.com/payers/voice-ai-medicare-carecycle-rolls-out-free-plan-comparison-tool",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-16",
+      "summary": "The tool is free to use, takes no payments from payers or commissions and does not sell or share personal information. It surfaces yearly cost estimates and shows nearby plans that keep a patient's doctors in-network.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
       "title": "Minnesota system, university launch MBA in health system leadership",
       "url": "https://www.beckershospitalreview.com/hospital-management-administration/minnesota-system-university-launch-mba-in-health-system-leadership/",
       "source": "Becker's Hospital Review",
@@ -386,159 +656,6 @@
       "summary": "Kaufman Hall has noted a growing M&#38;A trend in 2026 it calls &#8220;clear, active repositioning&#8221; as health systems navigate macroeconomic pressures and headwinds.&#160; In the third quarter, systems kept expanding their existing hospital networks with clear long-term goals in mind, Kaufman Hall said in its quarterly M&#38;A report published Oct.",
       "category": "ai_tech",
       "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "STAT+: Up and down the ladder: The latest comings and goings",
-      "url": "https://www.statnews.com/pharmalot/2026/10/16/up-down-ladder-jobs-pharma-biotech-gilead-bausch-sanofi/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-16",
-      "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "STAT+: Pharmalittle: We&#8217;re reading about an HHS peptide push, Trump&#8217;s pharma stock holdings, and more",
-      "url": "https://www.statnews.com/pharmalot/2026/10/16/hhs-peptide-push-trump-pharma-stock-holdings/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-16",
-      "summary": "The Trump administration is proceeding with a plan to allow compounding pharmacies to produce certain peptides",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "STAT+: RevMed&#8217;s pancreatic cancer drug nears European approval",
-      "url": "https://www.statnews.com/2026/10/16/biotech-news-revmed-pancreatic-cancer-drug-nears-european-approval/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-16",
-      "summary": "Following a green light from the FDA, European regulators have now recommended the approval of Revolution Medicines' Rasonque for pancreatic cancer.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "What to read before you go see that new documentary on Elizabeth Holmes",
-      "url": "https://www.statnews.com/2026/10/16/health-news-what-to-read-before-elizabeth-holmes-you-can-see-everything/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-16",
-      "summary": "Ahead of \"You Can See Everything\" hitting theaters, let's rewind the last decade and review some of the most significant news tied to Elizabeth Holmes, who was convicted in 2022&#8230;",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "STAT+: Coerced sex or a jealous ex? Jury weighs dueling accounts of star scientist David Sabatini’s downfall",
-      "url": "https://www.statnews.com/2026/10/16/david-sabatini-civil-trial-highlights-permissive-sexual-norms-whitehead-metoo/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-16",
-      "summary": "Was molecular biologist David Sabatini a manipulative mentor who coerced a younger colleague into sex? Or was he the victim of a spurned former lover?",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "STAT+: In DOGE’s aftermath, federal health workers bristle at new performance reviews",
-      "url": "https://www.statnews.com/2026/10/16/federal-performance-reviews-health-agency-employees-wary-after-doge/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-16",
-      "summary": "Changes to the annual performance review process are the latest flashpoint in tensions between federal workers across the Department of Health and Human Services and the Trump administration, federal...",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Opinion: Is Milton Friedman to blame for America’s health care woes?",
-      "url": "https://www.statnews.com/2026/10/16/neoliberalism-health-care-milton-friedman-john-mcdonough-stuart-butler-debate/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-16",
-      "summary": "Health policy experts John McDonough and Stuart Butler debate where the U.S.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Opinion: I thought I knew why patients stopped taking their medicine. I was wrong",
-      "url": "https://www.statnews.com/2026/10/16/nonadherence-medication-stopped-identity-pharmacist-side-effects-prevent/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-16",
-      "summary": "Patients can understand that medication is necessary and still struggle with what taking it means.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Trade association sues Trump administration over ACA broker, agent freeze",
-      "url": "https://www.healthcaredive.com/news/hhs-cms-aca-broker-freeze-lawsuit-nabip/833209/",
-      "source": "Healthcare Dive",
-      "publishedAt": "2026-10-16",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Weekly Rundown: JAMA Network to add AI journal in 2027; UMass Memorial Health partners with Microsoft, Accenture",
-      "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-97-healthcare-orgs-experienced-cyberattack-past-12-months-proofpoint-inc",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-16",
-      "summary": "The latest news from UMass Memorial Health, Elation Health, HealthTap, JAMA and more.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Fierce Healthcare Regulatory Recap: HHS presses medical groups on gender-affirming care for minors; CMS distributes RHTP funding to 5 states",
-      "url": "https://www.fiercehealthcare.com/regulatory/fierce-healthcare-regulatory-recap-hhs-demands-info-leading-medical-orgs-minor-sex",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-16",
-      "summary": "The latest news from CMS and HHS this week: HHS demands info on ‘sex-rejecting procedures’ for minors, CMS releases more RHTP funds and more.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Epic teams up with Amazon Pharmacy, LillyDirect and Mark Cuban to launch prescription drug pricing tool",
-      "url": "https://www.fiercehealthcare.com/health-tech/epic-teams-amazon-pharmacy-mark-cuban-launch-prescription-drug-pricing-tool",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-16",
-      "summary": "Epic is bringing pharmacy price shopping directly into the doctor's office and the prescribing workflow.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "NABIP sues CMS over moratorium on new ACA broker registrations",
-      "url": "https://www.fiercehealthcare.com/payers/nabip-sues-cms-over-moratorium-new-aca-broker-registrations",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-16",
-      "summary": "The National Association of Benefits and Insurance Professionals is suing the Trump administration over its moratorium on new brokers entering the Affordable Care Act marketplaces.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Duke Health, CaroMont Health seek to jointly build, operate 2 Charlotte-area hospitals",
-      "url": "https://www.fiercehealthcare.com/providers/duke-health-caromont-health-seek-jointly-build-operate-2-charlotte-area-hospitals",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-16",
-      "summary": "The pair filed Certificate of Needs with the state to build two hospitals comprising 200 beds in fast-growing North Carolina's Mecklenburg County.",
-      "category": "capacity_expansion",
-      "categoryLabel": "Capacity & Expansion"
-    },
-    {
-      "title": "Drugmakers, PhRMA seek to intervene in hospitals' 340B rebate challenge",
-      "url": "https://www.fiercehealthcare.com/providers/hospital-industry-files-lawsuit-block-hhs-340b-rebate-pilot-again",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-16",
-      "summary": "The American Hospital Association and others have launched a legal rematch with the federal government over the second iteration of a pilot program swapping out safety-net hospitals’ upfront drug discounts for after-the-fact rebates.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Catching up with Blue Shield of California CEO Mike Stuart one year in",
-      "url": "https://www.fiercehealthcare.com/payers/catching-blue-shield-california-ceo-mike-stuart",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-16",
-      "summary": "In August 2025, Blue Shield of California named Mike Stuart as its CEO. Now, a year later, he's reflecting on months of work toward addressing affordability, member access and the patient journey.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Voice AI startup careCycle rolls out free plan comparison tool for Medicare beneficiaries",
-      "url": "https://www.fiercehealthcare.com/payers/voice-ai-medicare-carecycle-rolls-out-free-plan-comparison-tool",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-16",
-      "summary": "The tool is free to use, takes no payments from payers or commissions and does not sell or share personal information. It surfaces yearly cost estimates and shows nearby plans that keep a patient's doctors in-network.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
     },
     {
       "title": "Clasp launches national marketplace for loan-linked hiring",
@@ -4740,123 +4857,6 @@
       "source": "Fierce Healthcare",
       "publishedAt": "2026-10-09",
       "summary": "Keep up with all the venture capital dollars being funneled into the health tech and digital health industries.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Suki launches ‘Ask’ feature for clinical decision support driven by Wolters Kluwer UpToDate AI API",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/suki-launches-ask-feature-clinical-decision-support-driven-wolters-kluwer",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-09",
-      "summary": "Ask integrates evidence-based clinical reasoning directly into workflows and can provide answers grounded in UpToDate’s proprietary content.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Healthleap banks $38M for AI screening platform that catches undiagnosed conditions",
-      "url": "https://www.fiercehealthcare.com/finance/healthleap-banks-38m-funding-backed-sequoia-capital-first-round-capital-and-hummingbird",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-09",
-      "summary": "Healthleap says its platform is the first and only validated AI malnutrition screening tool that contains EHR-integrated screening layers, executives say.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "PhRMA launches new legal challenge as CMS brings 'most favored nation' pricing to Medicare Part B",
-      "url": "https://www.fiercehealthcare.com/pharma/phrma-launches-new-legal-challenge-cms-brings-most-favored-nation-pricing-medicare-part-b",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-09",
-      "summary": "As the Trump administration advances plans to bring its “most favored nation” drug pricing model to Medicare Part B, the pharmaceutical industry’s top lobbying group is pushing back in court.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Kaiser Permanente to repay nurses 'potentially tens of millions' in mistakenly withheld wages",
-      "url": "https://www.fiercehealthcare.com/providers/kaiser-permanente-repay-nurses-potentially-tens-millions-mistakenly-withheld-wages",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-09",
-      "summary": "Following an arbitration agreement, more than 1,000 nurses will be compensated for a payment error that began in 2021, the California Nurses Association said. The major nonprofit confirmed the plans but did not comment on the total amount.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "After ICE raids, hospitals saw fewer ED visits, more admissions among foreign-born: study",
-      "url": "https://www.fiercehealthcare.com/providers/after-ice-raids-hospitals-saw-fewer-ed-visits-more-admissions-among-foreign-born-study",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-09",
-      "summary": "Studies published this week outline changes in care-seeking behavior tied to heightened federal immigration policy and rhetoric, with ramifications for patient outcomes and healthcare spending.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Cigna unveils new customer experience platform, Health Sense",
-      "url": "https://www.fiercehealthcare.com/payers/cigna-unveils-new-customer-experience-platform-health-sense",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-09",
-      "summary": "Cigna is rolling out a new patient experience platform that aims to harness the power of data to drive greater personalization.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "General Medicine banks $120M backed by a16z, Eli Lilly and Mercy Health to build out healthcare storefront",
-      "url": "https://www.fiercehealthcare.com/health-tech/general-medicine-banks-120m-backed-a16z-eli-lilly-and-mercy-health",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-09",
-      "summary": "General Medicine, started by the founding team that built PillPack and Amazon Pharmacy, is an online marketplace where customers can search, compare and buy care, see insurance and cash prices before deciding, and get guidance from a licensed clinician.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Utah expands healthcare AI sandbox with August AI, Nolla Health pilots, adds third-party evaluators",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/utah-taps-august-ai-nolla-health-healthcare-ai-sandbox-program-adds-third",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-09",
-      "summary": "Utah is expanding the state's AI regulatory sandbox program with new pilots to test AI-supported prescription renewals, dermatology and physical therapy, while adding physician oversight and independent third-party evaluators.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Senators question Kennedy on 'major break' from USPSTF appointment norms",
-      "url": "https://www.fiercehealthcare.com/regulatory/senators-express-concerns-over-new-uspstf-appointments-seek-information-rfk-jr",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-09",
-      "summary": "The lawmakers expressed concerns over the panel’s ability to make recommendations, the transparency of the application process and more.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "The future of independent contracting in healthcare",
-      "url": "https://www.fiercehealthcare.com/providers/future-independent-contracting-healthcare",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-09",
-      "summary": "More clinicians are turning to independent contracting for greater flexibility, but uncertainty around worker classification can complicate those arrangements. This week on \"Podnosis,\" Senior Writer Anastassia Gliadkovskaya talks with ShiftKey’s Regan Parker about the Department of Labor’s proposed independent contractor rule, portable benefits and what the future of independent contracting could look like in healthcare.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "SCAN, Walmart are teaming up for co-branded MA plans. Here's why",
-      "url": "https://www.fiercehealthcare.com/payers/scan-walmart-are-teaming-co-branded-ma-plans-heres-why",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-09",
-      "summary": "Last month, SCAN Health Plan revealed that it would team up with Walmart to launch co-branded Medicare Advantage plans in two states. Now, the partners are offering a deeper look at how those benefits have taken shape, and why they saw potential in coming together.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Infinitus launches AI agents to help pharma teams reach more providers",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/infinitus-launches-agentic-ai-solution-aid-provider-engagement-pharma",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-09",
-      "summary": "The agents—dubbed FieldForce—provide support sales representatives and field reimbursement managers.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Teladoc Health unveils new AI capabilities within Solo platform for hospitals",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/teladoc-health-unveils-2-new-ai-capabilities-within-solo-platform",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-09",
-      "summary": "The two new tools aim to help health systems surface timely patient insights into their care environments while reducing technology fragmentation, executives say.",
       "category": "ai_tech",
       "categoryLabel": "AI & Digital Tech"
     }
