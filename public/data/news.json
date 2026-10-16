@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T11:03:55.427Z",
+  "lastUpdated": "2026-10-16T15:26:41.663Z",
   "scope": "US healthcare",
   "retentionDays": 90,
   "maxArticles": 500,
@@ -10,72 +10,72 @@
     "sources": [
       {
         "source": "Fierce Healthcare",
-        "articleCount": 243,
+        "articleCount": 241,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 11,
+        "staleHours": 15,
         "status": "ok"
       },
       {
         "source": "Becker's Hospital Review",
-        "articleCount": 104,
-        "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 35,
+        "articleCount": 111,
+        "latestPublishedAt": "2026-10-16T00:00:00.000Z",
+        "staleHours": 15,
         "status": "ok"
       },
       {
         "source": "STAT News",
-        "articleCount": 53,
+        "articleCount": 57,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 11,
+        "staleHours": 15,
         "status": "ok"
       },
       {
         "source": "Federal Register - HHS",
-        "articleCount": 43,
+        "articleCount": 37,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 11,
+        "staleHours": 15,
         "status": "ok"
       },
       {
         "source": "Federal Register - FDA",
-        "articleCount": 22,
+        "articleCount": 20,
         "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 59,
+        "staleHours": 63,
         "status": "ok"
       },
       {
         "source": "Healthcare Dive",
-        "articleCount": 17,
-        "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 35,
+        "articleCount": 18,
+        "latestPublishedAt": "2026-10-16T00:00:00.000Z",
+        "staleHours": 15,
         "status": "ok"
       },
       {
         "source": "FDA MedWatch RSS",
         "articleCount": 8,
         "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 35,
+        "staleHours": 39,
         "status": "ok"
       },
       {
         "source": "SEC Healthcare Filings",
-        "articleCount": 5,
+        "articleCount": 4,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 83,
+        "staleHours": 87,
         "status": "stale"
       },
       {
         "source": "Federal Register - CMS",
-        "articleCount": 4,
+        "articleCount": 3,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 11,
+        "staleHours": 15,
         "status": "ok"
       },
       {
         "source": "National Nurses United RSS",
         "articleCount": 1,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 83,
+        "staleHours": 87,
         "status": "stale"
       }
     ]
@@ -87,7 +87,7 @@
     },
     "mergers_mna": {
       "label": "Mergers & M&A",
-      "count": 37
+      "count": 38
     },
     "labor_unions": {
       "label": "Labor & Unions",
@@ -95,11 +95,11 @@
     },
     "policy_reimbursement": {
       "label": "Policy & Reimbursement",
-      "count": 71
+      "count": 69
     },
     "quality_safety": {
       "label": "Quality & Safety",
-      "count": 10
+      "count": 9
     },
     "capacity_expansion": {
       "label": "Capacity & Expansion",
@@ -111,7 +111,7 @@
     },
     "general_market": {
       "label": "General Market",
-      "count": 205
+      "count": 207
     }
   },
   "quality": {
@@ -125,7 +125,7 @@
       },
       "minArticles24h": {
         "threshold": 20,
-        "actual": 43,
+        "actual": 61,
         "pass": true
       },
       "minRequiredCategoriesCovered": {
@@ -298,6 +298,132 @@
       "categoryLabel": "General Market"
     },
     {
+      "title": "Minnesota system, university launch MBA in health system leadership",
+      "url": "https://www.beckershospitalreview.com/hospital-management-administration/minnesota-system-university-launch-mba-in-health-system-leadership/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-16",
+      "summary": "St. Cloud, Minn.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Who owns the AI bill at health systems?",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/who-owns-the-ai-bill-at-health-systems/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-16",
+      "summary": "As hospitals expand their use of AI, Children’s Nebraska’s CIO is concerned that rising usage-based costs could eventually force physicians to weigh the expense of using the technology against the needs of their patients. Ryan Cameron, executive vice president and chief information and innovation officer at Omaha, Neb.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "20 CHRO exits in 2026: What&#8217;s driving health system HR turnover",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/10-chro-exits-13-hires-whats-driving-health-system-hr-turnover/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-16",
+      "summary": "Across U.S.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "12 AI, digital health tools among Time’s Best Inventions of 2026",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/digital-health/12-ai-digital-health-tools-among-times-best-inventions-of-2026/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-16",
+      "summary": "Aidoc’s CARE AI model, Artisight’s AI-powered patient monitoring device and Amazon’s pharmacy kiosk are among the healthcare AI and digital health tools named to Time’s Best Inventions of 2026 list. Time picked 300 inventions and 100 special mentions.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Parkview Health to acquire Ovation Healthcare",
+      "url": "https://www.beckershospitalreview.com/hospital-transactions-and-valuation/parkview-health-to-acquire-ovation-healthcare/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-16",
+      "summary": "Fort Wayne, Ind.-based Parkview Health has signed an agreement to acquire Brentwood, Tenn.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
+    },
+    {
+      "title": "3 times Judy Faulkner pumped the brakes on AI",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/3-times-judy-faulkner-pumped-the-brakes-on-ai/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-16",
+      "summary": "Judy Faulkner has spent the past year putting AI at the center of Epic. At the company&#8217;s August 2025 Users Group Meeting, the founder and CEO of the EHR giant introduced &#8220;healthcare intelligence,&#8221; her preferred name for the technology, and said Epic had 160 to 200 AI projects in the works.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "What health system CIOs refuse to outsource",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/digital-health/what-health-system-cios-refuse-to-outsource/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-16",
+      "summary": "Health systems have handed a growing share of their IT work to outside vendors this year. Livonia, Mich.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Inside Henry Ford’s 1-button path from primary care to behavioral health",
+      "url": "https://www.beckershospitalreview.com/care-coordination/inside-henry-fords-1-button-path-from-primary-care-to-behavioral-health/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-16",
+      "summary": "Every week, Detroit-based Henry Ford Health’s behavioral health service was seeing 500 to 600 referrals from patients arriving in primary care. Deepak Prabhakar, MD, wanted to make sure those referrals end with the right care, not just an appointment.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "BayCare opens $33M proton therapy center",
+      "url": "https://www.beckershospitalreview.com/capital/baycare-opens-33m-proton-therapy-center/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-16",
+      "summary": "Clearwater, Fla.-based BayCare has opened a $33 million proton therapy center.",
+      "category": "capacity_expansion",
+      "categoryLabel": "Capacity & Expansion"
+    },
+    {
+      "title": "How Intermountain embodies a growing M&#038;A trend",
+      "url": "https://www.beckershospitalreview.com/hospital-transactions-and-valuation/how-intermountain-embodies-a-growing-ma-trend/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-16",
+      "summary": "Kaufman Hall has noted a growing M&#38;A trend in 2026 it calls &#8220;clear, active repositioning&#8221; as health systems navigate macroeconomic pressures and headwinds.&#160; In the third quarter, systems kept expanding their existing hospital networks with clear long-term goals in mind, Kaufman Hall said in its quarterly M&#38;A report published Oct.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "STAT+: Up and down the ladder: The latest comings and goings",
+      "url": "https://www.statnews.com/pharmalot/2026/10/16/up-down-ladder-jobs-pharma-biotech-gilead-bausch-sanofi/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-16",
+      "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We&#8217;re reading about an HHS peptide push, Trump&#8217;s pharma stock holdings, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/10/16/hhs-peptide-push-trump-pharma-stock-holdings/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-16",
+      "summary": "The Trump administration is proceeding with a plan to allow compounding pharmacies to produce certain peptides",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "STAT+: RevMed&#8217;s pancreatic cancer drug nears European approval",
+      "url": "https://www.statnews.com/2026/10/16/biotech-news-revmed-pancreatic-cancer-drug-nears-european-approval/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-16",
+      "summary": "Following a green light from the FDA, European regulators have now recommended the approval of Revolution Medicines' Rasonque for pancreatic cancer.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "What to read before you go see that new documentary on Elizabeth Holmes",
+      "url": "https://www.statnews.com/2026/10/16/health-news-what-to-read-before-elizabeth-holmes-you-can-see-everything/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-16",
+      "summary": "Ahead of \"You Can See Everything\" hitting theaters, let's rewind the last decade and review some of the most significant news tied to Elizabeth Holmes, who was convicted in 2022&#8230;",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
       "title": "STAT+: Coerced sex or a jealous ex? Jury weighs dueling accounts of star scientist David Sabatini’s downfall",
       "url": "https://www.statnews.com/2026/10/16/david-sabatini-civil-trial-highlights-permissive-sexual-norms-whitehead-metoo/?utm_campaign=rss",
       "source": "STAT News",
@@ -334,7 +460,34 @@
       "categoryLabel": "General Market"
     },
     {
-      "title": "Epic teams up with Amazon Pharmacy, Eli Lilly and Mark Cuban to launch prescription drug pricing tool",
+      "title": "Trade association sues Trump administration over ACA broker, agent freeze",
+      "url": "https://www.healthcaredive.com/news/hhs-cms-aca-broker-freeze-lawsuit-nabip/833209/",
+      "source": "Healthcare Dive",
+      "publishedAt": "2026-10-16",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Weekly Rundown: JAMA Network to add AI journal in 2027; UMass Memorial Health partners with Microsoft, Accenture",
+      "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-97-healthcare-orgs-experienced-cyberattack-past-12-months-proofpoint-inc",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-16",
+      "summary": "The latest news from UMass Memorial Health, Elation Health, HealthTap, JAMA and more.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Fierce Healthcare Regulatory Recap: HHS presses medical groups on gender-affirming care for minors; CMS distributes RHTP funding to 5 states",
+      "url": "https://www.fiercehealthcare.com/regulatory/fierce-healthcare-regulatory-recap-hhs-demands-info-leading-medical-orgs-minor-sex",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-16",
+      "summary": "The latest news from CMS and HHS this week: HHS demands info on ‘sex-rejecting procedures’ for minors, CMS releases more RHTP funds and more.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "Epic teams up with Amazon Pharmacy, LillyDirect and Mark Cuban to launch prescription drug pricing tool",
       "url": "https://www.fiercehealthcare.com/health-tech/epic-teams-amazon-pharmacy-mark-cuban-launch-prescription-drug-pricing-tool",
       "source": "Fierce Healthcare",
       "publishedAt": "2026-10-16",
@@ -411,6 +564,15 @@
       "source": "Fierce Healthcare",
       "publishedAt": "2026-10-16",
       "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Epic teams up with Amazon Pharmacy, Eli Lilly and Mark Cuban to launch prescription drug pricing tool",
+      "url": "https://www.fiercehealthcare.com/health-tech/epic-teams-amazon-pharmacy-mark-cuban-launch-prescription-drug-pricing-tool",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-16",
+      "summary": "Epic is bringing pharmacy price shopping directly into the doctor's office and the prescribing workflow.",
       "category": "general_market",
       "categoryLabel": "General Market"
     },
@@ -4697,198 +4859,6 @@
       "summary": "The two new tools aim to help health systems surface timely patient insights into their care environments while reducing technology fragmentation, executives say.",
       "category": "ai_tech",
       "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Intermountain stepping back from clinically integrated network jointly run, owned with UCHealth",
-      "url": "https://www.fiercehealthcare.com/providers/intermountain-stepping-back-clinically-integrated-network-jointly-run-owned-uchealth",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-09",
-      "summary": "The nonprofits had launched Trinsic in 2023 as a push toward value-based care and improved care coordination. UCHealth will be its sole owner and operator come December.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Lawmakers press CMS to roll back proposed restrictions on remote patient monitoring",
-      "url": "https://www.fiercehealthcare.com/health-tech/lawmakers-press-cms-roll-back-proposed-restrictions-remote-patient-monitoring",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-09",
-      "summary": "A bipartisan group of 32 House lawmakers is pressing CMS Administrator Mehmet Oz to reconsider proposed Medicare payment rule changes that would restrict how remote patient monitoring services are staffed and delivered.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Highmark taps Karen Hanlon as CEO, David Holmberg to transition to executive chairperson",
-      "url": "https://www.fiercehealthcare.com/payers/highmark-taps-karen-hanlon-ceo-david-holmberg-transition-executive-chairman",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-09",
-      "summary": "Highmark is making a change at the top, with Karen Hanlon stepping into the role of CEO on Jan. 1.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "CD&R, McKesson acquiring infusion therapy provider Option Care Health for $5.8B",
-      "url": "https://www.fiercehealthcare.com/finance/cdr-mckesson-acquiring-infusion-therapy-provider-option-care-health-58b",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-09",
-      "summary": "Option Care Health, the country's largest independent provider of at-home and alternate site infusion services, would go private in the deal, which is expected to close in the first half of 2027.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Vitalize secures $31M to scale AI-powered operating system for hospital staffing and scheduling",
-      "url": "https://www.fiercehealthcare.com/health-tech/vitalize-secures-31m-scale-ai-powered-operating-system-hospital-staffing-and-scheduling",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-09",
-      "summary": "Vitalize positions its software as an \"air traffic control\" system for healthcare operations, helping health systems automate staffing, forecast demand, manage capacity and reduce reliance on overtime and agency labor.",
-      "category": "capacity_expansion",
-      "categoryLabel": "Capacity & Expansion"
-    },
-    {
-      "title": "Clinical Laboratory Improvement Amendments of 1988 (CLIA); Virtual Access, Gynecologic Cytology Proficiency Testing (PT), Personnel Qualifications, and Other Changes",
-      "summary": "This proposed rule would amend the Clinical Laboratory Improvement Amendments of 1988 (CLIA) regulations to allow for virtual access under the CLIA certificate of the primary testing laboratory that generated the data, with the exception of the subspecialty of cytology, and the use of digital images for gynecologic cytology proficiency testing. This proposed rule also includes proposed changes to personnel qualification requirements and other proposed changes pertaining to SARS-CoV-2 reporting requirements, certificate requirements, test reporting requirements, enforcement requirements, public consultation requirements, and editorial and technical updates. These proposed updates aim to strengthen the Federal oversight of clinical laboratories and ensure accurate and reliable patient test results while adapting to modern technological capabilities and industry needs, including workforce shortages.",
-      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20613/clinical-laboratory-improvement-amendments-of-1988-clia-virtual-access-gynecologic-cytology",
-      "source": "Federal Register - CMS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_cms",
-      "publishedAt": "2026-10-08",
-      "category": "ai_tech",
-      "relevance": 100,
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "CNC 8-K filing - Centene Corporation",
-      "summary": "Centene Corporation filed 8-K with the SEC.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173926000186/cnc-20261008.htm",
-      "source": "SEC Healthcare Filings",
-      "sourceType": "sec_filings",
-      "sourceId": "sec_healthcare_filings",
-      "publishedAt": "2026-10-08",
-      "category": "general_market",
-      "relevance": 85,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Channels of Trade Policy for Commodities With Residues of Pesticide Chemicals, for Which Tolerances Have Been Revoked, Suspended, or Modified by the Environmental Protection Agency Pursuant to Dietary Risk Considerations",
-      "summary": "The Food and Drug Administration (FDA or Agency) is announcing an opportunity for public comment on the proposed collection of certain information by the Agency. Under the Paperwork Reduction Act of 1995 (PRA), Federal Agencies are required to publish notice in the Federal Register concerning each proposed collection of information, including each proposed extension of an existing collection of information, and to allow 60 days for public comment in response to the notice. This notice solicits comments on the information collection provisions of FDA's guidance for industry entitled \"Channels of Trade Policy for Commodities With Residues of Pesticide Chemicals, for Which Tolerances Have Been Revoked, Suspended, or Modified by the Environmental Protection Agency Pursuant to Dietary Risk Considerations.\"",
-      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20663/agency-information-collection-activities-proposed-collection-comment-request-channels-of-trade",
-      "source": "Federal Register - FDA",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_fda",
-      "publishedAt": "2026-10-08",
-      "category": "ai_tech",
-      "relevance": 100,
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Agency Information Collection Activities; Submission for Office of Management and Budget Review; Comment Request; Adverse Event Program for Medical Devices: (Medical Product Safety Network (MedSun))",
-      "summary": "The Food and Drug Administration (FDA) is announcing that a proposed collection of information has been submitted to the Office of Management and Budget (OMB) for review and clearance under the Paperwork Reduction Act of 1995.",
-      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20661/agency-information-collection-activities-submission-for-office-of-management-and-budget-review",
-      "source": "Federal Register - FDA",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_fda",
-      "publishedAt": "2026-10-08",
-      "category": "quality_safety",
-      "relevance": 100,
-      "categoryLabel": "Quality & Safety"
-    },
-    {
-      "title": "What Wellstar is changing as it expands with &#8216;agility and speed&#8217;",
-      "url": "https://www.beckershospitalreview.com/strategy/what-wellstar-is-changing-as-it-expands-with-agility-and-speed/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-08",
-      "summary": "Ketul Patel is nearing his first anniversary as president and CEO of Marietta, Ga.-based Wellstar Health System, and he said his first year has focused on strengthening the system&#8217;s foundation through strategic planning, leadership alignment, governance improvements and operational discipline.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Removal of Obsolete Portion of Regulation Relating to Care and Treatment of Ineligible Individuals",
-      "summary": "The Indian Health Service (IHS) of the Department of Health and Human Services (HHS or \"the Department\") is issuing this final rule to remove obsolete language appearing in the Code of Federal Regulations (CFR). The language refers to an outdated process for determining what the IHS will charge for care to non-IHS-beneficiaries. Eliminating this obsolete language will not change IHS's existing practices or authorities.",
-      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20685/removal-of-obsolete-portion-of-regulation-relating-to-care-and-treatment-of-ineligible-individuals",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-08",
-      "category": "policy_reimbursement",
-      "relevance": 100,
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Removal of Obsolete/Suspended Regulations",
-      "summary": "The Indian Health Service (IHS) of the Department of Health and Human Services (HHS or \"the Department\") is issuing this final rule to remove regulations appearing in the Code of Federal Regulations (CFR). The regulations duplicate other regulations in the CFR, and have never been implemented by the IHS, and were referred to as \"suspended\" in a 1999 Federal Register Notice. Removing these regulations will not change the IHS's existing practices or authorities.",
-      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20684/removal-of-obsoletesuspended-regulations",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-08",
-      "category": "policy_reimbursement",
-      "relevance": 100,
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Solicitation of Nominations for Appointment to the Advisory Council for the Elimination of Tuberculosis",
-      "summary": "In accordance with the Federal Advisory Committee Act, the Centers for Disease Control and Prevention (CDC), within the Department of Health and Human Services (HHS) is seeking nominations for membership on the Advisory Council for the Elimination of Tuberculosis (ACET). The ACET consists of 10 experts including the Chair in fields associated with public health, epidemiology, immunology, infectious disease, pulmonary disease, pediatrics, tuberculosis, microbiology, and preventive health care delivery.",
-      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20644/solicitation-of-nominations-for-appointment-to-the-advisory-council-for-the-elimination-of",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-08",
-      "category": "policy_reimbursement",
-      "relevance": 100,
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Agency Information Collection Activities Comment Request",
-      "summary": "",
-      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20651/agency-information-collection-activities-comment-request",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-08",
-      "category": "general_market",
-      "relevance": 96,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "National Institute of Neurological Disorders and Stroke; Notice of Meeting",
-      "summary": "",
-      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20618/national-institute-of-neurological-disorders-and-stroke-notice-of-meeting",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-08",
-      "category": "general_market",
-      "relevance": 96,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "National Heart, Lung, and Blood Institute; Notice of Meeting",
-      "summary": "",
-      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20617/national-heart-lung-and-blood-institute-notice-of-meeting",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-08",
-      "category": "general_market",
-      "relevance": 96,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Fred Hutch names chief digital and information officer",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/fred-hutch-names-chief-digital-and-information-officer/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-08",
-      "summary": "Seattle-based Fred Hutch has named Jessie Minton as vice president and chief digital and information officer, effective Dec. 7.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "The current state of the 10th-leading cause of death",
-      "url": "https://www.beckershospitalreview.com/quality/patient-safety-outcomes/the-current-state-of-the-10th-leading-cause-of-death/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-08",
-      "summary": "Suicide became the 10th-leading cause of death in the U.S.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
     }
   ]
 }
