@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T19:32:42.878Z",
+  "lastUpdated": "2026-10-16T22:48:00.831Z",
   "scope": "US healthcare",
   "sourceManifestVersion": "1.0.0",
   "sourceHealth": [
@@ -65,7 +65,7 @@
       "type": "html",
       "ok": true,
       "status": 200,
-      "records": 8
+      "records": 9
     },
     {
       "source": "FDA Newsroom",
@@ -1458,6 +1458,28 @@
       "relevance": 100
     },
     {
+      "title": "Read more about CMS Proposes Reforms to Strengthen Transparency and Affordability in Medicare Advantage and Part D",
+      "summary": "",
+      "url": "https://www.cms.gov/newsroom/press-releases/cms-proposes-reforms-strengthen-transparency-affordability-medicare-advantage-part-d",
+      "source": "CMS Newsroom",
+      "sourceType": "html",
+      "sourceId": "cms_newsroom",
+      "publishedAt": "",
+      "category": "policy_reimbursement",
+      "relevance": 100
+    },
+    {
+      "title": "Read more about Medicare Program; Implementation of Sections 6219, 6220, and 6224 of the Consolidated Appropriations Act, 2026 (CMS-4214-P)",
+      "summary": "",
+      "url": "https://www.cms.gov/newsroom/fact-sheets/medicare-program-implementation-sections-6219-6220-6224-consolidated-appropriations-act-2026-cms",
+      "source": "CMS Newsroom",
+      "sourceType": "html",
+      "sourceId": "cms_newsroom",
+      "publishedAt": "",
+      "category": "policy_reimbursement",
+      "relevance": 100
+    },
+    {
       "title": "Read more about Trump Administration Announces New Funding to Expand Rural EMS and Bring More Care Directly to Patients Across Montana",
       "summary": "",
       "url": "https://www.cms.gov/newsroom/press-releases/trump-administration-announces-new-funding-expand-rural-ems-bring-more-care-directly-patients-across",
@@ -1469,20 +1491,9 @@
       "relevance": 100
     },
     {
-      "title": "Read more about CMS Announces Resources, Flexibilities to Assist with Public Health Emergency in Alabama and Florida",
+      "title": "Read more about Trump Administration Announces More Than $11 Million to Strengthen Rural EMS and Expand Mobile Healthcare Across New Hampshire",
       "summary": "",
-      "url": "https://www.cms.gov/newsroom/news-alert/cms-announces-resources-flexibilities-assist-public-health-emergency-alabama-florida",
-      "source": "CMS Newsroom",
-      "sourceType": "html",
-      "sourceId": "cms_newsroom",
-      "publishedAt": "",
-      "category": "policy_reimbursement",
-      "relevance": 100
-    },
-    {
-      "title": "Read more about CMS News: Trump Administration Announces $78 Million for Rural Healthcare Workforce, Chronic Disease Prevention, and Facility Upgrades Across Texas",
-      "summary": "",
-      "url": "https://www.cms.gov/newsroom/press-releases/cms-news-trump-administration-announces-78-million-rural-healthcare-workforce-chronic-disease",
+      "url": "https://www.cms.gov/newsroom/press-releases/trump-administration-announces-more-11-million-strengthen-rural-ems-expand-mobile-healthcare-across",
       "source": "CMS Newsroom",
       "sourceType": "html",
       "sourceId": "cms_newsroom",
@@ -1499,6 +1510,17 @@
       "sourceId": "aha_news",
       "publishedAt": "",
       "category": "quality_safety",
+      "relevance": 100
+    },
+    {
+      "title": "Microsoft, Health-ISAC announce disruption to cybercriminal businesses supplying attacks on healthcare, others",
+      "summary": "",
+      "url": "https://www.aha.org/news/headline/2026-10-16-microsoft-health-isac-announce-disruption-cybercriminal-businesses-supplying-attacks-healthcare-others",
+      "source": "AHA News",
+      "sourceType": "html",
+      "sourceId": "aha_news",
+      "publishedAt": "",
+      "category": "policy_reimbursement",
       "relevance": 100
     },
     {
@@ -1554,6 +1576,17 @@
       "sourceId": "aha_news",
       "publishedAt": "",
       "category": "policy_reimbursement",
+      "relevance": 100
+    },
+    {
+      "title": "Union election at MedStar Franklin Square too close to call and marred by MedStar Health union busting",
+      "summary": "Registered nurses at MedStar Franklin Square Medical Center in Baltimore, Md. voted on whether to join National Nurses Organizing Committee/National Nurses United in an election held on Oct. 14 and 15, 2026. The results were inconclusive at the end of the night, with challenged ballots still to be resolved.",
+      "url": "https://www.nationalnursesunited.org/press/union-election-at-medstar-franklin-square-too-close-to-call-and-marred-by-union-busting",
+      "source": "National Nurses United RSS",
+      "sourceType": "rss",
+      "sourceId": "nnu_rss",
+      "publishedAt": "",
+      "category": "labor_unions",
       "relevance": 100
     },
     {
@@ -1736,17 +1769,6 @@
       "title": "Union victory in Chicago",
       "summary": "In May, registered nurses at Rush University Medical Center in Chicago voted overwhelmingly, with 77 percent in favor, of joining National Nurses Organizing Committee, an affiliate of National Nurses United, the nation’s largest and fastest-growing registered nurse union.",
       "url": "https://www.nationalnursesunited.org/article/union-victory-in-chicago",
-      "source": "National Nurses United RSS",
-      "sourceType": "rss",
-      "sourceId": "nnu_rss",
-      "publishedAt": "",
-      "category": "labor_unions",
-      "relevance": 100
-    },
-    {
-      "title": "University of Michigan RNs score big with new contract",
-      "summary": "With a 94 percent yes vote, University of Michigan registered nurses in July approved a new contract that includes competitive wage increases, improved nurse-to-patient ratios, and stronger workplace protections.",
-      "url": "https://www.nationalnursesunited.org/article/university-of-michigan-rns-score-big-with-new-contract",
       "source": "National Nurses United RSS",
       "sourceType": "rss",
       "sourceId": "nnu_rss",
@@ -2550,17 +2572,6 @@
       "title": "Access & Health Coverage",
       "summary": "",
       "url": "https://www.aha.org/advocacy/access-and-health-coverage",
-      "source": "AHA News",
-      "sourceType": "html",
-      "sourceId": "aha_news",
-      "publishedAt": "",
-      "category": "policy_reimbursement",
-      "relevance": 91
-    },
-    {
-      "title": "Reducing Disparities in Health Outcomes",
-      "summary": "",
-      "url": "https://www.aha.org/reducing-disparities-health-outcomes",
       "source": "AHA News",
       "sourceType": "html",
       "sourceId": "aha_news",
