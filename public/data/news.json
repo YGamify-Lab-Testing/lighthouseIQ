@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T05:41:46.135Z",
+  "lastUpdated": "2026-10-16T11:03:55.427Z",
   "scope": "US healthcare",
   "retentionDays": 90,
   "maxArticles": 500,
@@ -12,70 +12,70 @@
         "source": "Fierce Healthcare",
         "articleCount": 243,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 5,
+        "staleHours": 11,
         "status": "ok"
       },
       {
         "source": "Becker's Hospital Review",
-        "articleCount": 108,
+        "articleCount": 104,
         "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 29,
+        "staleHours": 35,
         "status": "ok"
       },
       {
         "source": "STAT News",
-        "articleCount": 49,
-        "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 29,
+        "articleCount": 53,
+        "latestPublishedAt": "2026-10-16T00:00:00.000Z",
+        "staleHours": 11,
         "status": "ok"
       },
       {
         "source": "Federal Register - HHS",
         "articleCount": 43,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 5,
+        "staleHours": 11,
         "status": "ok"
       },
       {
         "source": "Federal Register - FDA",
         "articleCount": 22,
         "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 53,
+        "staleHours": 59,
         "status": "ok"
       },
       {
         "source": "Healthcare Dive",
         "articleCount": 17,
         "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 29,
+        "staleHours": 35,
         "status": "ok"
       },
       {
         "source": "FDA MedWatch RSS",
         "articleCount": 8,
         "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 29,
+        "staleHours": 35,
         "status": "ok"
       },
       {
         "source": "SEC Healthcare Filings",
         "articleCount": 5,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 77,
+        "staleHours": 83,
         "status": "stale"
       },
       {
         "source": "Federal Register - CMS",
         "articleCount": 4,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 5,
+        "staleHours": 11,
         "status": "ok"
       },
       {
         "source": "National Nurses United RSS",
         "articleCount": 1,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 77,
+        "staleHours": 83,
         "status": "stale"
       }
     ]
@@ -95,7 +95,7 @@
     },
     "policy_reimbursement": {
       "label": "Policy & Reimbursement",
-      "count": 72
+      "count": 71
     },
     "quality_safety": {
       "label": "Quality & Safety",
@@ -107,11 +107,11 @@
     },
     "ai_tech": {
       "label": "AI & Digital Tech",
-      "count": 149
+      "count": 148
     },
     "general_market": {
       "label": "General Market",
-      "count": 203
+      "count": 205
     }
   },
   "quality": {
@@ -125,7 +125,7 @@
       },
       "minArticles24h": {
         "threshold": 20,
-        "actual": 39,
+        "actual": 43,
         "pass": true
       },
       "minRequiredCategoriesCovered": {
@@ -295,6 +295,42 @@
       "publishedAt": "2026-10-16",
       "category": "general_market",
       "relevance": 96,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: Coerced sex or a jealous ex? Jury weighs dueling accounts of star scientist David Sabatini’s downfall",
+      "url": "https://www.statnews.com/2026/10/16/david-sabatini-civil-trial-highlights-permissive-sexual-norms-whitehead-metoo/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-16",
+      "summary": "Was molecular biologist David Sabatini a manipulative mentor who coerced a younger colleague into sex? Or was he the victim of a spurned former lover?",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: In DOGE’s aftermath, federal health workers bristle at new performance reviews",
+      "url": "https://www.statnews.com/2026/10/16/federal-performance-reviews-health-agency-employees-wary-after-doge/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-16",
+      "summary": "Changes to the annual performance review process are the latest flashpoint in tensions between federal workers across the Department of Health and Human Services and the Trump administration, federal...",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Opinion: Is Milton Friedman to blame for America’s health care woes?",
+      "url": "https://www.statnews.com/2026/10/16/neoliberalism-health-care-milton-friedman-john-mcdonough-stuart-butler-debate/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-16",
+      "summary": "Health policy experts John McDonough and Stuart Butler debate where the U.S.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Opinion: I thought I knew why patients stopped taking their medicine. I was wrong",
+      "url": "https://www.statnews.com/2026/10/16/nonadherence-medication-stopped-identity-pharmacist-side-effects-prevent/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-16",
+      "summary": "Patients can understand that medication is necessary and still struggle with what taking it means.",
+      "category": "general_market",
       "categoryLabel": "General Market"
     },
     {
@@ -4851,42 +4887,6 @@
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-08",
       "summary": "Suicide became the 10th-leading cause of death in the U.S.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Ascension moves beyond &#8216;us vs. them&#8217; payer negotiations",
-      "url": "https://www.beckershospitalreview.com/finance/ascension-moves-beyond-us-vs-them-payer-negotiations/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-08",
-      "summary": "In early January, Tamar Goldblatt was named vice president of payer revenue strategy and contracting at St. Louis-based Ascension.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Kaiser South Sacramento taps new chief administrative officer",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/kaiser-south-sacramento-taps-new-chief-administrative-officer/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-08",
-      "summary": "Liesel Buchner has been named chief administrative officer at Kaiser Permanente South Sacramento (Calif.), according to an Oct.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "77% of Medicaid improper payments tied to paperwork, not fraud: Report",
-      "url": "https://www.beckershospitalreview.com/finance/77-of-medicaid-improper-payments-tied-to-paperwork-not-fraud-report/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-08",
-      "summary": "CMS estimates that 77% of fiscal year 2025 Medicaid improper payments resulted from insufficient documentation rather than fraud or abuse, according to an Oct. 7 report from the Congressional Research Service.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Luminis Health restores systems following cybersecurity incident",
-      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/cybersecurity/luminis-health-restores-systems-following-cybersecurity-incident/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-08",
-      "summary": "Annapolis, Md.-based Luminis Health has restored its systems after a cybersecurity incident that began Sept.",
       "category": "general_market",
       "categoryLabel": "General Market"
     }
