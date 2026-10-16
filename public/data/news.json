@@ -1,101 +1,101 @@
 {
-  "lastUpdated": "2026-10-16T00:24:53.457Z",
+  "lastUpdated": "2026-10-16T05:41:46.135Z",
   "scope": "US healthcare",
   "retentionDays": 90,
   "maxArticles": 500,
   "sourceHealth": {
     "totalSources": 10,
-    "staleSources": 0,
-    "healthySources": 10,
+    "staleSources": 2,
+    "healthySources": 8,
     "sources": [
       {
         "source": "Fierce Healthcare",
-        "articleCount": 242,
+        "articleCount": 243,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 0,
+        "staleHours": 5,
         "status": "ok"
       },
       {
         "source": "Becker's Hospital Review",
-        "articleCount": 114,
+        "articleCount": 108,
         "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 24,
+        "staleHours": 29,
         "status": "ok"
       },
       {
         "source": "STAT News",
-        "articleCount": 57,
+        "articleCount": 49,
         "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 24,
+        "staleHours": 29,
         "status": "ok"
       },
       {
         "source": "Federal Register - HHS",
-        "articleCount": 37,
-        "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 24,
+        "articleCount": 43,
+        "latestPublishedAt": "2026-10-16T00:00:00.000Z",
+        "staleHours": 5,
+        "status": "ok"
+      },
+      {
+        "source": "Federal Register - FDA",
+        "articleCount": 22,
+        "latestPublishedAt": "2026-10-14T00:00:00.000Z",
+        "staleHours": 53,
         "status": "ok"
       },
       {
         "source": "Healthcare Dive",
         "articleCount": 17,
         "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 24,
-        "status": "ok"
-      },
-      {
-        "source": "Federal Register - FDA",
-        "articleCount": 17,
-        "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 72,
+        "staleHours": 29,
         "status": "ok"
       },
       {
         "source": "FDA MedWatch RSS",
         "articleCount": 8,
         "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 24,
+        "staleHours": 29,
         "status": "ok"
       },
       {
         "source": "SEC Healthcare Filings",
         "articleCount": 5,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 72,
-        "status": "ok"
+        "staleHours": 77,
+        "status": "stale"
       },
       {
         "source": "Federal Register - CMS",
-        "articleCount": 2,
-        "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 48,
+        "articleCount": 4,
+        "latestPublishedAt": "2026-10-16T00:00:00.000Z",
+        "staleHours": 5,
         "status": "ok"
       },
       {
         "source": "National Nurses United RSS",
         "articleCount": 1,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 72,
-        "status": "ok"
+        "staleHours": 77,
+        "status": "stale"
       }
     ]
   },
   "categoryCoverage": {
     "closures_layoffs": {
       "label": "Closures & Layoffs",
-      "count": 16
+      "count": 15
     },
     "mergers_mna": {
       "label": "Mergers & M&A",
-      "count": 38
+      "count": 37
     },
     "labor_unions": {
       "label": "Labor & Unions",
-      "count": 6
+      "count": 5
     },
     "policy_reimbursement": {
       "label": "Policy & Reimbursement",
-      "count": 70
+      "count": 72
     },
     "quality_safety": {
       "label": "Quality & Safety",
@@ -107,11 +107,11 @@
     },
     "ai_tech": {
       "label": "AI & Digital Tech",
-      "count": 153
+      "count": 149
     },
     "general_market": {
       "label": "General Market",
-      "count": 198
+      "count": 203
     }
   },
   "quality": {
@@ -125,7 +125,7 @@
       },
       "minArticles24h": {
         "threshold": 20,
-        "actual": 25,
+        "actual": 39,
         "pass": true
       },
       "minRequiredCategoriesCovered": {
@@ -135,12 +135,168 @@
       },
       "maxStaleSources": {
         "threshold": 2,
-        "actual": 0,
+        "actual": 2,
         "pass": true
       }
     }
   },
   "articles": [
+    {
+      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
+      "summary": "The Centers for Medicare & Medicaid Services (CMS) is announcing an opportunity for the public to comment on CMS' intention to collect information from the public. Under the Paperwork Reduction Act of 1995 (PRA), federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information (including each proposed extension or reinstatement of an existing collection of information) and to allow 60 days for public comment on the proposed action. Interested persons are invited to send comments regarding our burden estimates or any other aspect of this collection of information, including the necessity and utility of the proposed information collection for the proper performance of the agency's functions, the accuracy of the estimated burden, ways to enhance the quality, utility, and clarity of the information to be collected, and the use of automated collection techniques or other forms of information technology to minimize the information collection burden.",
+      "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21151/agency-information-collection-activities-proposed-collection-comment-request",
+      "source": "Federal Register - CMS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_cms",
+      "publishedAt": "2026-10-16",
+      "category": "policy_reimbursement",
+      "relevance": 100,
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
+      "summary": "The Centers for Medicare & Medicaid Services (CMS) is announcing an opportunity for the public to comment on CMS' intention to collect information from the public. Under the Paperwork Reduction Act of 1995 (PRA), federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information (including each proposed extension or reinstatement of an existing collection of information) and to allow 60 days for public comment on the proposed action. Interested persons are invited to send comments regarding our burden estimates or any other aspect of this collection of information, including the necessity and utility of the proposed information collection for the proper performance of the agency's functions, the accuracy of the estimated burden, ways to enhance the quality, utility, and clarity of the information to be collected, and the use of automated collection techniques or other forms of information technology to minimize the information collection burden.",
+      "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21150/agency-information-collection-activities-proposed-collection-comment-request",
+      "source": "Federal Register - CMS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_cms",
+      "publishedAt": "2026-10-16",
+      "category": "policy_reimbursement",
+      "relevance": 100,
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "Electronic Common Technical Document (eCTD); Data Standards; Supporting Forward Compatibility for eCTD 4.0",
+      "summary": "The Food and Drug Administration's (FDA or Agency) Center for Drug Evaluation and Research and Center for Biologics Evaluation and Research are announcing support for Forward Compatibility for Electronic Common Technical Document (eCTD) Version 4.0 (v4.0)-based electronic submissions.",
+      "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21197/electronic-common-technical-document-ectd-data-standards-supporting-forward-compatibility-for-ectd",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-16",
+      "category": "general_market",
+      "relevance": 100,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Electronic Common Technical Document; Data Standards; Center for Drug Evaluation and Research and Center for Biologics Evaluation and Research Supporting Electronic Common Technical Document Version 3.2.2 and Version 4.0",
+      "summary": "The Food and Drug Administration's (FDA or Agency) Center for Drug Evaluation and Research and Center for Biologics Evaluation and Research are announcing the date FDA will begin rejecting electronic submissions that fail new Electronic Common Technical Document (eCTD) Version 3.22 (v3.22) and Version 4.0 (v4.0) based validations. The new eCTD v3.2.2 validations are 2024 and 2025, which are high-severity validation errors as described in the Specifications for eCTD Validation Criteria. The new eCTD v4.0 validations are eCTD4-084, eCTD4-085, US-eCTD4-561, US-eCTD4-562, US-eCTD4-563, and US-eCTD4-564, which are high-severity validation errors as described in the Specifications for eCTD v4.0 Validation Criteria.",
+      "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21195/electronic-common-technical-document-data-standards-center-for-drug-evaluation-and-research-and",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-16",
+      "category": "ai_tech",
+      "relevance": 100,
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Fit-for-Purpose Rare Disease Framework Initiative; Public Meeting; Request for Information and Comments",
+      "summary": "The Food and Drug Administration (FDA, the Agency, or we) is announcing a public meeting entitled \"Fit-for-Purpose Rare Disease Framework Initiative\". Convened by the Reagan-Udall Foundation for, and in collaboration with FDA, the meeting will focus on developing a fit-for-purpose framework for the development and regulatory review of rare disease therapies. There will be an opportunity to request to provide public comments at the meeting. In addition, FDA is establishing a public docket to collect feedback on and input related to its Rare Disease Framework Initiative.",
+      "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21142/fit-for-purpose-rare-disease-framework-initiative-public-meeting-request-for-information-and",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-16",
+      "category": "general_market",
+      "relevance": 100,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Meeting of the Advisory Council for the Elimination of Tuberculosis",
+      "summary": "In accordance with the Federal Advisory Committee Act, the Centers for Disease Control and Prevention (CDC) announces the following meeting of the Advisory Council for the Elimination of Tuberculosis (ACET). This meeting is open to the public, limited only by the number of audio and web conference lines (1,000 lines are available). Time will be available for public comment (registration is required to provide oral comment; see the Oral Public Comment section below).",
+      "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21125/meeting-of-the-advisory-council-for-the-elimination-of-tuberculosis",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-16",
+      "category": "ai_tech",
+      "relevance": 100,
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "National Cancer Institute; Amended Notice of Meeting",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21235/national-cancer-institute-amended-notice-of-meeting",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-16",
+      "category": "general_market",
+      "relevance": 96,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21234/center-for-scientific-review-notice-of-closed-meetings",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-16",
+      "category": "general_market",
+      "relevance": 96,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21233/center-for-scientific-review-notice-of-closed-meetings",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-16",
+      "category": "general_market",
+      "relevance": 96,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Center For Scientific Review; Amended Notice of Meeting",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21232/center-for-scientific-review-amended-notice-of-meeting",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-16",
+      "category": "general_market",
+      "relevance": 96,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21231/center-for-scientific-review-notice-of-closed-meetings",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-16",
+      "category": "general_market",
+      "relevance": 96,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21230/center-for-scientific-review-notice-of-closed-meetings",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-16",
+      "category": "general_market",
+      "relevance": 96,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Submission for Office of Management and Budget Review; Unaccompanied Refugee Minors Program ORR-3 Report and ORR-4 Report",
+      "summary": "The Office of Refugee Resettlement (ORR) is requesting a three-year extension with revisions of the Unaccompanied Refugee Minors (URM) Program ORR-3 Report and ORR-4 Report (Office of Management and Budget #0970-0034, expiration 11/30/2026). Revisions were made to reduce burden and streamline information collection.",
+      "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21186/submission-for-office-of-management-and-budget-review-unaccompanied-refugee-minors-program-orr-3",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-16",
+      "category": "general_market",
+      "relevance": 96,
+      "categoryLabel": "General Market"
+    },
     {
       "title": "Epic teams up with Amazon Pharmacy, Eli Lilly and Mark Cuban to launch prescription drug pricing tool",
       "url": "https://www.fiercehealthcare.com/health-tech/epic-teams-amazon-pharmacy-mark-cuban-launch-prescription-drug-pricing-tool",
@@ -185,6 +341,15 @@
       "summary": "In August 2025, Blue Shield of California named Mike Stuart as its CEO. Now, a year later, he's reflecting on months of work toward addressing affordability, member access and the patient journey.",
       "category": "general_market",
       "categoryLabel": "General Market"
+    },
+    {
+      "title": "Voice AI startup careCycle rolls out free plan comparison tool for Medicare beneficiaries",
+      "url": "https://www.fiercehealthcare.com/payers/voice-ai-medicare-carecycle-rolls-out-free-plan-comparison-tool",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-16",
+      "summary": "The tool is free to use, takes no payments from payers or commissions and does not sell or share personal information. It surfaces yearly cost estimates and shows nearby plans that keep a patient's doctors in-network.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
     },
     {
       "title": "Clasp launches national marketplace for loan-linked hiring",
@@ -1111,24 +1276,12 @@
       "categoryLabel": "General Market"
     },
     {
-      "title": "Further Reducing Bureaucracy and Burden From the Administration for Native Americans",
-      "summary": "The Department of Health and Human Services, Administration for Children and Families proposes to further amend the Native American Programs Act regulations to streamline the part.",
-      "url": "https://www.federalregister.gov/documents/2026/10/14/2026-21004/further-reducing-bureaucracy-and-burden-from-the-administration-for-native-americans",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-14",
-      "category": "general_market",
-      "relevance": 100,
-      "categoryLabel": "General Market"
-    },
-    {
       "title": "Agency Information Collection Activities; Submission for Office of Management and Budget Review; Comment Request; Requirements for Cosmetic Products",
       "summary": "The Food and Drug Administration (FDA, Agency, or we) is announcing that a proposed collection of information has been submitted to the Office of Management and Budget (OMB) for review and clearance under the Paperwork Reduction Act of 1995.",
       "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20990/agency-information-collection-activities-submission-for-office-of-management-and-budget-review",
-      "source": "Federal Register - HHS",
+      "source": "Federal Register - FDA",
       "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
+      "sourceId": "federal_register_fda",
       "publishedAt": "2026-10-14",
       "category": "general_market",
       "relevance": 100,
@@ -1138,33 +1291,21 @@
       "title": "Advisory Committee; Cellular, Tissue, and Gene Therapies Advisory Committee; Renewal",
       "summary": "The Food and Drug Administration (FDA) is announcing the renewal of the Cellular, Tissue, and Gene Therapies Advisory Committee by the Commissioner of Food and Drugs (the Commissioner). The Commissioner has determined that it is in the public interest to renew the Cellular, Tissue, and Gene Therapies Advisory Committee for an additional 2 years beyond the charter expiration date. The new charter will be in effect until the October 28, 2028, expiration date.",
       "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20989/advisory-committee-cellular-tissue-and-gene-therapies-advisory-committee-renewal",
-      "source": "Federal Register - HHS",
+      "source": "Federal Register - FDA",
       "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
+      "sourceId": "federal_register_fda",
       "publishedAt": "2026-10-14",
       "category": "general_market",
       "relevance": 100,
       "categoryLabel": "General Market"
     },
     {
-      "title": "Request for Public Comment: 60-Day Notice for Proposed Information Collection: Indian Health Service Purchased/Referred Care Proof of Residency",
-      "summary": "In compliance with the Paperwork Reduction Act (PRA) of 1995, which requires a 60-day public comment period on proposed information collection projects, the Indian Health Service (IHS) invites the public to take this opportunity to comment on the information collection titled, \"Purchased/Referred Care (PRC) Proof of Residency\" The purpose of this notice is to announce our intent to seek reinstatement of the previously approved information collection by the Office of Management and Budget (OMB), and to allow 60 days for public comment to be submitted to the IHS. A copy of the draft supporting statement is available at www.regulations.gov (see Docket ID IHS_FRDOC___).",
-      "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20984/request-for-public-comment-60-day-notice-for-proposed-information-collection-indian-health-service",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-14",
-      "category": "ai_tech",
-      "relevance": 100,
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
       "title": "Agency Information Collection Activities; Submission for Office of Management and Budget Review; Comment Request; Voluntary National Retail Food Regulatory Program Standards",
       "summary": "The Food and Drug Administration (FDA or we) is announcing that a proposed collection of information has been submitted to the Office of Management and Budget (OMB) for review and clearance under the Paperwork Reduction Act of 1995.",
       "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20981/agency-information-collection-activities-submission-for-office-of-management-and-budget-review",
-      "source": "Federal Register - HHS",
+      "source": "Federal Register - FDA",
       "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
+      "sourceId": "federal_register_fda",
       "publishedAt": "2026-10-14",
       "category": "ai_tech",
       "relevance": 100,
@@ -1174,9 +1315,9 @@
       "title": "Agency Information Collection Activities; Submission for Office of Management and Budget Review; Comment Request; Infant Formula Requirements",
       "summary": "The Food and Drug Administration (FDA, Agency, or we) is announcing that a proposed collection of information has been submitted to the Office of Management and Budget (OMB) for review and clearance under the Paperwork Reduction Act of 1995.",
       "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20980/agency-information-collection-activities-submission-for-office-of-management-and-budget-review",
-      "source": "Federal Register - HHS",
+      "source": "Federal Register - FDA",
       "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
+      "sourceId": "federal_register_fda",
       "publishedAt": "2026-10-14",
       "category": "general_market",
       "relevance": 100,
@@ -1186,37 +1327,13 @@
       "title": "Food Additives Permitted in Feed and Drinking Water of Animals; Chromium Propionate",
       "summary": "The Food and Drug Administration (FDA, we, or the Agency) is amending the regulations for food additives permitted in feed and drinking water of animals to provide for the safe use of chromium propionate as a source of chromium in food for laying hens and breeder chickens. This action is in response to a food additive petition filed by Kemin Industries, Inc.",
       "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20979/food-additives-permitted-in-feed-and-drinking-water-of-animals-chromium-propionate",
-      "source": "Federal Register - HHS",
+      "source": "Federal Register - FDA",
       "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
+      "sourceId": "federal_register_fda",
       "publishedAt": "2026-10-14",
       "category": "general_market",
       "relevance": 100,
       "categoryLabel": "General Market"
-    },
-    {
-      "title": "Health Center Program Performance Period Extensions; Correction",
-      "summary": "HRSA published a document in the Federal Register on September 24, 2026, concerning performance period extensions for health centers scheduled to compete for a January, February, or March FY 2027 Service Area Competition. The document did not include one service area that was not eligible for a performance period extension at the time of publication but has since become eligible.",
-      "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20960/health-center-program-performance-period-extensions-correction",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-14",
-      "category": "general_market",
-      "relevance": 100,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Proposed Data Collection Submitted for Public Comment and Recommendations",
-      "summary": "The Centers for Disease Control and Prevention (CDC), as part of its continuing effort to reduce public burden and maximize the utility of government information, invites the general public and other federal agencies the opportunity to comment on a continuing information collection, as required by the Paperwork Reduction Act of 1995. This notice invites comment on a proposed information collection project titled Performance Monitoring of CDC's Comprehensive Suicide Prevention Program. This program seeks to reduce suicide morbidity and mortality by 10% in populations disproportionately impacted by suicide in participating jurisdictions.",
-      "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20919/proposed-data-collection-submitted-for-public-comment-and-recommendations",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-14",
-      "category": "quality_safety",
-      "relevance": 100,
-      "categoryLabel": "Quality & Safety"
     },
     {
       "title": "Convenience Kit Recall: AVID Medical Removes Convenience Kits Affected by BD ChloraPrep Applicator Recall",
@@ -1265,6 +1382,54 @@
       "category": "general_market",
       "relevance": 96,
       "categoryLabel": "General Market"
+    },
+    {
+      "title": "Further Reducing Bureaucracy and Burden From the Administration for Native Americans",
+      "summary": "The Department of Health and Human Services, Administration for Children and Families proposes to further amend the Native American Programs Act regulations to streamline the part.",
+      "url": "https://www.federalregister.gov/documents/2026/10/14/2026-21004/further-reducing-bureaucracy-and-burden-from-the-administration-for-native-americans",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-14",
+      "category": "general_market",
+      "relevance": 100,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Request for Public Comment: 60-Day Notice for Proposed Information Collection: Indian Health Service Purchased/Referred Care Proof of Residency",
+      "summary": "In compliance with the Paperwork Reduction Act (PRA) of 1995, which requires a 60-day public comment period on proposed information collection projects, the Indian Health Service (IHS) invites the public to take this opportunity to comment on the information collection titled, \"Purchased/Referred Care (PRC) Proof of Residency\" The purpose of this notice is to announce our intent to seek reinstatement of the previously approved information collection by the Office of Management and Budget (OMB), and to allow 60 days for public comment to be submitted to the IHS. A copy of the draft supporting statement is available at www.regulations.gov (see Docket ID IHS_FRDOC___).",
+      "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20984/request-for-public-comment-60-day-notice-for-proposed-information-collection-indian-health-service",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-14",
+      "category": "ai_tech",
+      "relevance": 100,
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Health Center Program Performance Period Extensions; Correction",
+      "summary": "HRSA published a document in the Federal Register on September 24, 2026, concerning performance period extensions for health centers scheduled to compete for a January, February, or March FY 2027 Service Area Competition. The document did not include one service area that was not eligible for a performance period extension at the time of publication but has since become eligible.",
+      "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20960/health-center-program-performance-period-extensions-correction",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-14",
+      "category": "general_market",
+      "relevance": 100,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Proposed Data Collection Submitted for Public Comment and Recommendations",
+      "summary": "The Centers for Disease Control and Prevention (CDC), as part of its continuing effort to reduce public burden and maximize the utility of government information, invites the general public and other federal agencies the opportunity to comment on a continuing information collection, as required by the Paperwork Reduction Act of 1995. This notice invites comment on a proposed information collection project titled Performance Monitoring of CDC's Comprehensive Suicide Prevention Program. This program seeks to reduce suicide morbidity and mortality by 10% in populations disproportionately impacted by suicide in participating jurisdictions.",
+      "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20919/proposed-data-collection-submitted-for-public-comment-and-recommendations",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-14",
+      "category": "quality_safety",
+      "relevance": 100,
+      "categoryLabel": "Quality & Safety"
     },
     {
       "title": "Center for Scientific Review; Notice of Closed Meetings",
@@ -3757,42 +3922,6 @@
       "categoryLabel": "General Market"
     },
     {
-      "title": "Medical Devices; Immunology and Microbiology Devices; Classification of the System for Detection of Nucleic Acid From Non-Viral Microorganism(s) Causing Sexually Transmitted Infections Using Home-Collected Specimens",
-      "summary": "The Food and Drug Administration (FDA) is classifying the system for detection of nucleic acid from non-viral microorganism(s) causing sexually transmitted infections using home-collected specimens into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the system for detection of nucleic acid from non-viral microorganism(s) causing sexually transmitted infections using home-collected specimens. We are taking this action because we have determined that classifying the device into class II will provide a reasonable assurance of the safety and effectiveness of the device. We believe this action will also enhance patients' access to beneficial innovative devices, in part by reducing regulatory burdens.",
-      "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20727/medical-devices-immunology-and-microbiology-devices-classification-of-the-system-for-detection-of",
-      "source": "Federal Register - FDA",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_fda",
-      "publishedAt": "2026-10-09",
-      "category": "quality_safety",
-      "relevance": 100,
-      "categoryLabel": "Quality & Safety"
-    },
-    {
-      "title": "Medical Devices; Cardiovascular Devices; Classification of the Infant Pulse Rate and Oxygen Saturation Monitor for Over-the-Counter Use",
-      "summary": "The Food and Drug Administration (FDA) is classifying the infant pulse rate and oxygen saturation monitor for over-the-counter use into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the infant pulse rate and oxygen saturation monitor for over-the-counter use. We are taking this action because we have determined that classifying the device into class II will provide a reasonable assurance of the safety and effectiveness of the device. We believe this action will also enhance patients' access to beneficial innovative devices, in part by reducing regulatory burdens.",
-      "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20726/medical-devices-cardiovascular-devices-classification-of-the-infant-pulse-rate-and-oxygen-saturation",
-      "source": "Federal Register - FDA",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_fda",
-      "publishedAt": "2026-10-09",
-      "category": "general_market",
-      "relevance": 100,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Medical Devices; Immunology and Microbiology Devices; Classification of the Hematopoietic Cell Enrichment Kit",
-      "summary": "The Food and Drug Administration (FDA) is classifying the hematopoietic cell enrichment kit into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the hematopoietic cell enrichment kit. We are taking this action because we have determined that classifying the device into class II will provide a reasonable assurance of the safety and effectiveness of the device. We believe this action will also enhance patients' access to beneficial innovative devices, in part by reducing regulatory burdens.",
-      "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20725/medical-devices-immunology-and-microbiology-devices-classification-of-the-hematopoietic-cell",
-      "source": "Federal Register - FDA",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_fda",
-      "publishedAt": "2026-10-09",
-      "category": "general_market",
-      "relevance": 100,
-      "categoryLabel": "General Market"
-    },
-    {
       "title": "Par Health Issues Voluntary Nationwide Recall of Two Lots of Brevital® Sodium 500 mg/vial CIV (Methohexital Sodium for Injection, USP) Due to the Presence of Particulate Matter",
       "summary": "FOR IMMEDIATE RELEASE - ROCHESTER, MI– October 8, 2026 –Par Health is voluntarily recalling two lots of Brevital® Sodium 500 mg/vial CIV (Methohexital Sodium for Injection, USP) to the hospital level. The product is being recalled due to the presence of particulate matter identified as cellulose.",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-two-lots-brevitalr-sodium-500-mgvial-civ-methohexital",
@@ -3838,6 +3967,42 @@
       "publishedAt": "2026-10-09",
       "category": "general_market",
       "relevance": 85,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Medical Devices; Immunology and Microbiology Devices; Classification of the System for Detection of Nucleic Acid From Non-Viral Microorganism(s) Causing Sexually Transmitted Infections Using Home-Collected Specimens",
+      "summary": "The Food and Drug Administration (FDA) is classifying the system for detection of nucleic acid from non-viral microorganism(s) causing sexually transmitted infections using home-collected specimens into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the system for detection of nucleic acid from non-viral microorganism(s) causing sexually transmitted infections using home-collected specimens. We are taking this action because we have determined that classifying the device into class II will provide a reasonable assurance of the safety and effectiveness of the device. We believe this action will also enhance patients' access to beneficial innovative devices, in part by reducing regulatory burdens.",
+      "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20727/medical-devices-immunology-and-microbiology-devices-classification-of-the-system-for-detection-of",
+      "source": "Federal Register - FDA",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_fda",
+      "publishedAt": "2026-10-09",
+      "category": "quality_safety",
+      "relevance": 100,
+      "categoryLabel": "Quality & Safety"
+    },
+    {
+      "title": "Medical Devices; Cardiovascular Devices; Classification of the Infant Pulse Rate and Oxygen Saturation Monitor for Over-the-Counter Use",
+      "summary": "The Food and Drug Administration (FDA) is classifying the infant pulse rate and oxygen saturation monitor for over-the-counter use into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the infant pulse rate and oxygen saturation monitor for over-the-counter use. We are taking this action because we have determined that classifying the device into class II will provide a reasonable assurance of the safety and effectiveness of the device. We believe this action will also enhance patients' access to beneficial innovative devices, in part by reducing regulatory burdens.",
+      "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20726/medical-devices-cardiovascular-devices-classification-of-the-infant-pulse-rate-and-oxygen-saturation",
+      "source": "Federal Register - FDA",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_fda",
+      "publishedAt": "2026-10-09",
+      "category": "general_market",
+      "relevance": 100,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Medical Devices; Immunology and Microbiology Devices; Classification of the Hematopoietic Cell Enrichment Kit",
+      "summary": "The Food and Drug Administration (FDA) is classifying the hematopoietic cell enrichment kit into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the hematopoietic cell enrichment kit. We are taking this action because we have determined that classifying the device into class II will provide a reasonable assurance of the safety and effectiveness of the device. We believe this action will also enhance patients' access to beneficial innovative devices, in part by reducing regulatory burdens.",
+      "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20725/medical-devices-immunology-and-microbiology-devices-classification-of-the-hematopoietic-cell",
+      "source": "Federal Register - FDA",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_fda",
+      "publishedAt": "2026-10-09",
+      "category": "general_market",
+      "relevance": 100,
       "categoryLabel": "General Market"
     },
     {
@@ -4722,132 +4887,6 @@
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-08",
       "summary": "Annapolis, Md.-based Luminis Health has restored its systems after a cybersecurity incident that began Sept.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Quorum affiliate’s acquisition of Banner hospital nears final review",
-      "url": "https://www.beckershospitalreview.com/hospital-transactions-and-valuation/quorum-affiliates-acquisition-of-banner-hospital-nears-final-review/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-08",
-      "summary": "The planned sale of Banner Lassen Medical Center in Susanville, Calif., to an affiliate of Brentwood, Tenn.",
-      "category": "mergers_mna",
-      "categoryLabel": "Mergers & M&A"
-    },
-    {
-      "title": "Ghost rates out, attestations in: What the payer transparency rule means for hospitals",
-      "url": "https://www.beckershospitalreview.com/finance/revenue-cycle-management/ghost-rates-out-attestations-in-what-the-payer-transparency-rule-means-for-hospitals/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-08",
-      "summary": "Payers will soon have to strip so-called &#8220;ghost rates&#8221; from their price files and have a senior executive attest that the data is accurate and complete, a requirement hospitals already face, under a final rule CMS and the Labor and Treasury departments issued Oct. 5.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "University of Texas System expands Abridge AI access systemwide",
-      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/university-of-texas-system-expands-abridge-ai-access-systemwide/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-08",
-      "summary": "The Austin, Texas-based University of Texas System is expanding access to Abridge&#8217;s AI-powered clinical documentation and clinician intelligence platform through a new enterprisewide agreement. The agreement, according to an Oct.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Michigan sues BCBS over alleged monopoly, citing hospital closures and low reimbursement",
-      "url": "https://www.beckershospitalreview.com/legal-regulatory-issues/michigan-accuses-bcbs-of-illegal-insurance-monopoly-in-new-lawsuit/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-08",
-      "summary": "In a new lawsuit, Michigan Attorney General Dana Nessel is accusing Blue Cross Blue Shield of Michigan of conspiring with other Blues plans to block competition and using its grip on the health insurance market to overcharge the state and underpay hospitals. &#8220;This illegal conduct has caused the State and Michigan consumers to pay inflated [&#8230;] The post Michigan sues BCBS over alleged monopoly, citing hospital closures and low reimbursement appeared first on Becker&#039;s Hospital Review | Healthcare News & Analysis.",
-      "category": "closures_layoffs",
-      "categoryLabel": "Closures & Layoffs"
-    },
-    {
-      "title": "Cleveland Clinic weighs replacing striking hospital workers",
-      "url": "https://www.beckershospitalreview.com/hr/cleveland-clinic-weighs-replacing-striking-hospital-workers/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-08",
-      "summary": "Cleveland Clinic Lutheran Hospital may hire permanent replacements for workers who remain on strike, the hospital said Oct. 7.",
-      "category": "labor_unions",
-      "categoryLabel": "Labor & Unions"
-    },
-    {
-      "title": "What changes when payer connectivity becomes a platform — 4 takeaways",
-      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/digital-health/what-changes-when-payer-connectivity-becomes-a-platform-4-takeaways/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-08",
-      "summary": "Agents and AI are on every vendor&#8217;s banner these days, Availity&#8217;s Sean Barrett observed — yet getting payer data into the workflows those agents run remains the hard part. During a featured session sponsored by Availity at Becker&#8217;s 11th Annual IT + Revenue Cycle Conference: The Future of AI &#38; Digital Health on Sept.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "NIH funding uncertainty thwarts U.S. researchers",
-      "url": "https://www.statnews.com/2026/10/08/readout-loud-podcast-nih-funding-research-biotech-caribou-nobel-prize/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-08",
-      "summary": "How has the NIH been spending its budget? And why are biotech investors feeling gloomy?",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "STAT+: AI for breast cancer risk prediction goes DTC, regulatory cloud over Utah sandbox, and AI psychosis",
-      "url": "https://www.statnews.com/2026/10/08/breast-cancer-ai-goes-dtc-utah-sandbox-ai-psychosis-health-tech/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-08",
-      "summary": "In this edition of STAT's Health Tech: The story of a startup taking its algorithm for breast cancer risk prediction directly to patients, and more.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "STAT+: The fresh faces that may shake up key Senate committees ahead of midterms",
-      "url": "https://www.statnews.com/2026/10/08/health-policy-news-fresh-faces-shake-up-senate-committees-2026-midterms/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-08",
-      "summary": "Dozens of Democrats are vying for seats on the House Energy and Commerce and Ways and Means committees, with several members from both parties either leaving or in close races.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "STAT+: Roche goes beyond licensing in deal with Chinese biotech",
-      "url": "https://www.statnews.com/2026/10/08/biotech-news-roche-goes-beyond-licensing-in-deal-with-chinese-biotech/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-08",
-      "summary": "Roche is partnering with Chinese startup Defand Therapeutics to discover new medicines.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "FDA says its safety review of abortion pill will continue into next year",
-      "url": "https://www.statnews.com/2026/10/08/fda-mifepristone-abortion-pill-safety-review-continue-into-2027/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-08",
-      "summary": "The FDA says its ongoing safety review of the nation's main abortion pill will continue into next year, a timeline that was quickly condemned by abortion opponents.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "STAT+: Argenx sees unusual setback with failure of late-stage study of drug for autoimmune disease",
-      "url": "https://www.statnews.com/2026/10/08/argenx-autoimmune-disease-study-sjogrens/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-08",
-      "summary": "Argenx said its blockbuster drug Vyvgart didn’t outperform placebo in a Phase 3 trial of patients with Sjögren's disease, a chronic autoimmune disorder.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "STAT+: Pharmalittle: We&#8217;re reading about PhRMA suing Trump, biotech frustration over tariffs, and more",
-      "url": "https://www.statnews.com/pharmalot/2026/10/08/phrma-suing-trump-biotech-frustration-tariffs-pharmalittle-newsletter/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-08",
-      "summary": "PhRMA is suing the Trump administration, smaller biotech firms are frustrated over tariffs, and more of the latest pharma news.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "STAT+: Roche inks drug discovery deal with Chinese biotech, focused on molecular glue medicines",
-      "url": "https://www.statnews.com/2026/10/08/roche-defand-therapeutics-drug-development-deal/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-08",
-      "summary": "Roche has inked a drug discovery deal with Chinese biotech Defand Therapeutics, focused on molecular glue medicines.",
       "category": "general_market",
       "categoryLabel": "General Market"
     }

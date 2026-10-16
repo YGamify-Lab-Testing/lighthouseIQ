@@ -183,13 +183,6 @@
       "notices_count": 2
     },
     {
-      "state": "MN",
-      "city": null,
-      "estimated_nurses_available": 37,
-      "specialties": [],
-      "notices_count": 11
-    },
-    {
       "state": "WI",
       "city": "Marshfield",
       "estimated_nurses_available": 37,
@@ -290,13 +283,6 @@
       "estimated_nurses_available": 28,
       "specialties": [],
       "notices_count": 1
-    },
-    {
-      "state": "SD",
-      "city": "Sioux Falls",
-      "estimated_nurses_available": 25,
-      "specialties": [],
-      "notices_count": 2
     },
     {
       "state": "WI",
@@ -831,13 +817,6 @@
       "notices_count": 1
     },
     {
-      "state": "SD",
-      "city": "Aberdeen",
-      "estimated_nurses_available": 3,
-      "specialties": [],
-      "notices_count": 1
-    },
-    {
       "state": "KS",
       "city": "Emporia",
       "estimated_nurses_available": 3,
@@ -866,6 +845,13 @@
       "notices_count": 1
     },
     {
+      "state": "MN",
+      "city": null,
+      "estimated_nurses_available": 2,
+      "specialties": [],
+      "notices_count": 2
+    },
+    {
       "state": "WI",
       "city": "Jefferson",
       "estimated_nurses_available": 2,
@@ -889,13 +875,6 @@
     {
       "state": "VA",
       "city": "Martinsville",
-      "estimated_nurses_available": 2,
-      "specialties": [],
-      "notices_count": 1
-    },
-    {
-      "state": "SD",
-      "city": "Mobridge",
       "estimated_nurses_available": 2,
       "specialties": [],
       "notices_count": 1
@@ -1272,6 +1251,6 @@
       "notices_count": 1
     }
   ],
-  "count": 177,
-  "lastUpdated": "2026-10-16T00:20:58.290Z"
+  "count": 174,
+  "lastUpdated": "2026-10-16T05:39:24.377Z"
 }
