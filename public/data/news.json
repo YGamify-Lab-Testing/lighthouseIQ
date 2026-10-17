@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T01:16:06.144Z",
+  "lastUpdated": "2026-10-17T06:46:18.174Z",
   "scope": "US healthcare",
   "retentionDays": 90,
   "maxArticles": 500,
@@ -12,70 +12,70 @@
         "source": "Fierce Healthcare",
         "articleCount": 245,
         "latestPublishedAt": "2026-10-17T00:00:00.000Z",
-        "staleHours": 1,
+        "staleHours": 6,
         "status": "ok"
       },
       {
         "source": "Becker's Hospital Review",
-        "articleCount": 117,
+        "articleCount": 116,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 25,
+        "staleHours": 30,
         "status": "ok"
       },
       {
         "source": "STAT News",
-        "articleCount": 47,
-        "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 25,
+        "articleCount": 48,
+        "latestPublishedAt": "2026-10-17T00:00:00.000Z",
+        "staleHours": 6,
         "status": "ok"
       },
       {
         "source": "Federal Register - HHS",
         "articleCount": 37,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 25,
+        "staleHours": 30,
         "status": "ok"
       },
       {
         "source": "Federal Register - FDA",
         "articleCount": 20,
         "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 73,
+        "staleHours": 78,
         "status": "stale"
       },
       {
         "source": "Healthcare Dive",
         "articleCount": 18,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 25,
+        "staleHours": 30,
         "status": "ok"
       },
       {
         "source": "FDA MedWatch RSS",
         "articleCount": 8,
         "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 49,
+        "staleHours": 54,
         "status": "ok"
       },
       {
         "source": "SEC Healthcare Filings",
         "articleCount": 4,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 97,
+        "staleHours": 102,
         "status": "stale"
       },
       {
         "source": "Federal Register - CMS",
         "articleCount": 3,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 25,
+        "staleHours": 30,
         "status": "ok"
       },
       {
         "source": "National Nurses United RSS",
         "articleCount": 1,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 97,
+        "staleHours": 102,
         "status": "stale"
       }
     ]
@@ -87,7 +87,7 @@
     },
     "mergers_mna": {
       "label": "Mergers & M&A",
-      "count": 42
+      "count": 41
     },
     "labor_unions": {
       "label": "Labor & Unions",
@@ -111,7 +111,7 @@
     },
     "general_market": {
       "label": "General Market",
-      "count": 210
+      "count": 211
     }
   },
   "quality": {
@@ -127,7 +127,7 @@
       },
       "minArticles24h": {
         "threshold": 20,
-        "actual": 25,
+        "actual": 26,
         "pass": true
       },
       "minRequiredCategoriesCovered": {
@@ -143,6 +143,15 @@
     }
   },
   "articles": [
+    {
+      "title": "STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded",
+      "url": "https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-17",
+      "summary": "A jury awarded $6 million in damages to scientist David Sabatini, whose career imploded after he was accused by a much younger colleague of inappropriate sexual conduct in his lab.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
     {
       "title": "CMS proposes MA 'ghost network,' PBM transparency requirements",
       "url": "https://www.fiercehealthcare.com/regulatory/cms-proposes-ma-ghost-network-pbm-transparency-requirements",
@@ -4852,15 +4861,6 @@
       "summary": "Utah&#8217;s experiment with letting AI take on part of a physician&#8217;s job has grown well beyond its first prescription refill pilot. This month, the state approved what one company calls the nation&#8217;s first AI to write new prescriptions, signed fast-track agreements with two health systems for future AI pilots and enlisted outside evaluators to check [&#8230;] The post Utah&#8217;s AI physician experiment widens to new prescriptions, health systems: 17 things to know appeared first on Becker&#039;s Hospital Review | Healthcare News & Analysis.",
       "category": "ai_tech",
       "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "ECU Health gets $25M for new rural emergency hospital",
-      "url": "https://www.beckershospitalreview.com/capital/ecu-health-gets-25m-for-new-rural-emergency-hospital/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-09",
-      "summary": "Greenville, N.C.",
-      "category": "mergers_mna",
-      "categoryLabel": "Mergers & M&A"
     }
   ]
 }
