@@ -183,13 +183,6 @@
       "notices_count": 2
     },
     {
-      "state": "MN",
-      "city": null,
-      "estimated_nurses_available": 37,
-      "specialties": [],
-      "notices_count": 11
-    },
-    {
       "state": "WI",
       "city": "Marshfield",
       "estimated_nurses_available": 37,
@@ -1272,6 +1265,6 @@
       "notices_count": 1
     }
   ],
-  "count": 177,
-  "lastUpdated": "2026-10-17T15:13:02.855Z"
+  "count": 176,
+  "lastUpdated": "2026-10-17T18:17:48.872Z"
 }
