@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T18:19:56.895Z",
+  "lastUpdated": "2026-10-17T21:26:07.139Z",
   "scope": "US healthcare",
   "retentionDays": 90,
   "maxArticles": 500,
@@ -12,70 +12,70 @@
         "source": "Fierce Healthcare",
         "articleCount": 245,
         "latestPublishedAt": "2026-10-17T00:00:00.000Z",
-        "staleHours": 18,
+        "staleHours": 21,
         "status": "ok"
       },
       {
         "source": "Becker's Hospital Review",
         "articleCount": 116,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 42,
+        "staleHours": 45,
         "status": "ok"
       },
       {
         "source": "STAT News",
         "articleCount": 48,
         "latestPublishedAt": "2026-10-17T00:00:00.000Z",
-        "staleHours": 18,
+        "staleHours": 21,
         "status": "ok"
       },
       {
         "source": "Federal Register - HHS",
         "articleCount": 37,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 42,
+        "staleHours": 45,
         "status": "ok"
       },
       {
         "source": "Federal Register - FDA",
         "articleCount": 20,
         "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 90,
+        "staleHours": 93,
         "status": "stale"
       },
       {
         "source": "Healthcare Dive",
         "articleCount": 18,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 42,
+        "staleHours": 45,
         "status": "ok"
       },
       {
         "source": "FDA MedWatch RSS",
         "articleCount": 8,
         "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 66,
+        "staleHours": 69,
         "status": "ok"
       },
       {
         "source": "SEC Healthcare Filings",
         "articleCount": 4,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 114,
+        "staleHours": 117,
         "status": "stale"
       },
       {
         "source": "Federal Register - CMS",
         "articleCount": 3,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 42,
+        "staleHours": 45,
         "status": "ok"
       },
       {
         "source": "National Nurses United RSS",
         "articleCount": 1,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 114,
+        "staleHours": 117,
         "status": "stale"
       }
     ]
