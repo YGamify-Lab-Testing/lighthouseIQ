@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T13:17:18.043Z",
+  "lastUpdated": "2026-10-18T17:12:58.249Z",
   "scope": "US healthcare",
   "retentionDays": 90,
   "maxArticles": 500,
@@ -12,70 +12,70 @@
         "source": "Fierce Healthcare",
         "articleCount": 270,
         "latestPublishedAt": "2026-10-18T00:00:00.000Z",
-        "staleHours": 13,
+        "staleHours": 17,
         "status": "ok"
       },
       {
         "source": "Becker's Hospital Review",
         "articleCount": 110,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 61,
+        "staleHours": 65,
         "status": "ok"
       },
       {
         "source": "STAT News",
         "articleCount": 48,
         "latestPublishedAt": "2026-10-17T00:00:00.000Z",
-        "staleHours": 37,
+        "staleHours": 41,
         "status": "ok"
       },
       {
         "source": "Federal Register - HHS",
         "articleCount": 30,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 61,
+        "staleHours": 65,
         "status": "ok"
       },
       {
         "source": "Healthcare Dive",
         "articleCount": 18,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 61,
+        "staleHours": 65,
         "status": "ok"
       },
       {
         "source": "Federal Register - FDA",
         "articleCount": 12,
         "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 109,
+        "staleHours": 113,
         "status": "stale"
       },
       {
         "source": "FDA MedWatch RSS",
         "articleCount": 6,
         "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 85,
+        "staleHours": 89,
         "status": "stale"
       },
       {
         "source": "Federal Register - CMS",
         "articleCount": 3,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 61,
+        "staleHours": 65,
         "status": "ok"
       },
       {
         "source": "SEC Healthcare Filings",
         "articleCount": 2,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 133,
+        "staleHours": 137,
         "status": "stale"
       },
       {
         "source": "National Nurses United RSS",
         "articleCount": 1,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 133,
+        "staleHours": 137,
         "status": "stale"
       }
     ]
