@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T08:49:24.094Z",
+  "lastUpdated": "2026-10-18T13:17:12.794Z",
   "states": {
     "AL": [],
     "AK": [],
@@ -53,7 +53,7 @@
     "WI": [],
     "WY": []
   },
-  "lastFilteredAt": "2026-10-18T08:49:28.854Z",
+  "lastFilteredAt": "2026-10-18T13:17:18.873Z",
   "filtering": {
     "version": "1.0.0",
     "maxPerState": 25,
