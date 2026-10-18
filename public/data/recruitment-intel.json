@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-18T20:19:50.045Z",
+  "lastUpdated": "2026-10-18T22:58:24.451Z",
   "version": "2.0.0",
   "shortageSurplusModel": {
     "method": "latest-fetched-sources",
     "refreshEveryDays": 7,
     "strategicVersion": "2026-Q1",
-    "strategicLastUpdated": "2026-10-18T20:18:10.168Z"
+    "strategicLastUpdated": "2026-10-18T22:56:32.023Z"
   },
   "shortageSources": {
     "fetchedAt": "2026-10-17T01:16:27.585Z",
@@ -774,13 +774,13 @@
       "respect": 5
     },
     "MN": {
-      "staffing": 6.43265306122449,
-      "leadership": 6.667755102040816,
-      "scheduling": 6.146122448979592,
+      "staffing": 9.40408163265306,
+      "leadership": 9.193469387755101,
+      "scheduling": 8.523265306122449,
       "pay": 5,
-      "safety": 6.502857142857143,
-      "resources": 3.5673469387755103,
-      "growth": 3.5673469387755103,
+      "safety": 8.582857142857142,
+      "resources": 0.5959183673469388,
+      "growth": 0.5959183673469388,
       "respect": 5
     },
     "MS": {
