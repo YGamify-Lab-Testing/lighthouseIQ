@@ -38,7 +38,7 @@
     },
     {
       "state": "FL",
-      "count": 200
+      "count": 0
     },
     {
       "state": "GA",
@@ -50,7 +50,7 @@
     },
     {
       "state": "IA",
-      "count": 4
+      "count": 1
     },
     {
       "state": "ID",
@@ -58,7 +58,7 @@
     },
     {
       "state": "IL",
-      "count": 1
+      "count": 0
     },
     {
       "state": "IN",
@@ -118,7 +118,7 @@
     },
     {
       "state": "NE",
-      "count": 48
+      "count": 0
     },
     {
       "state": "NH",
@@ -209,5 +209,5 @@
       "count": 0
     }
   ],
-  "lastUpdated": "2026-10-19T05:53:14.644Z"
+  "lastUpdated": "2026-10-19T12:29:54.942Z"
 }

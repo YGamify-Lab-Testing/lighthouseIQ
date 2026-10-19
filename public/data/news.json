@@ -1,81 +1,81 @@
 {
-  "lastUpdated": "2026-10-19T05:55:10.561Z",
+  "lastUpdated": "2026-10-19T12:32:30.083Z",
   "scope": "US healthcare",
   "retentionDays": 90,
   "maxArticles": 500,
   "sourceHealth": {
     "totalSources": 10,
-    "staleSources": 8,
-    "healthySources": 2,
+    "staleSources": 7,
+    "healthySources": 3,
     "sources": [
       {
         "source": "Fierce Healthcare",
-        "articleCount": 275,
+        "articleCount": 267,
         "latestPublishedAt": "2026-10-19T00:00:00.000Z",
-        "staleHours": 5,
+        "staleHours": 12,
         "status": "ok"
       },
       {
         "source": "Becker's Hospital Review",
         "articleCount": 110,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 77,
+        "staleHours": 84,
         "status": "stale"
       },
       {
         "source": "STAT News",
-        "articleCount": 49,
+        "articleCount": 54,
         "latestPublishedAt": "2026-10-19T00:00:00.000Z",
-        "staleHours": 5,
+        "staleHours": 12,
         "status": "ok"
       },
       {
         "source": "Federal Register - HHS",
         "articleCount": 30,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 77,
+        "staleHours": 84,
         "status": "stale"
       },
       {
         "source": "Healthcare Dive",
-        "articleCount": 18,
-        "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 77,
-        "status": "stale"
+        "articleCount": 21,
+        "latestPublishedAt": "2026-10-19T00:00:00.000Z",
+        "staleHours": 12,
+        "status": "ok"
       },
       {
         "source": "Federal Register - FDA",
         "articleCount": 7,
         "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 125,
+        "staleHours": 132,
         "status": "stale"
       },
       {
         "source": "FDA MedWatch RSS",
         "articleCount": 5,
         "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 101,
+        "staleHours": 108,
         "status": "stale"
       },
       {
         "source": "Federal Register - CMS",
         "articleCount": 3,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 77,
+        "staleHours": 84,
         "status": "stale"
       },
       {
         "source": "SEC Healthcare Filings",
         "articleCount": 2,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 149,
+        "staleHours": 156,
         "status": "stale"
       },
       {
         "source": "National Nurses United RSS",
         "articleCount": 1,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 149,
+        "staleHours": 156,
         "status": "stale"
       }
     ]
@@ -95,7 +95,7 @@
     },
     "policy_reimbursement": {
       "label": "Policy & Reimbursement",
-      "count": 69
+      "count": 68
     },
     "quality_safety": {
       "label": "Quality & Safety",
@@ -107,11 +107,11 @@
     },
     "ai_tech": {
       "label": "AI & Digital Tech",
-      "count": 137
+      "count": 139
     },
     "general_market": {
       "label": "General Market",
-      "count": 206
+      "count": 205
     }
   },
   "quality": {
@@ -127,7 +127,7 @@
       },
       "minArticles24h": {
         "threshold": 20,
-        "actual": 26,
+        "actual": 35,
         "pass": true
       },
       "minRequiredCategoriesCovered": {
@@ -137,12 +137,66 @@
       },
       "maxStaleSources": {
         "threshold": 2,
-        "actual": 8,
+        "actual": 7,
         "pass": false
       }
     }
   },
   "articles": [
+    {
+      "title": "STAT+: Gilead’s IBD drug eliminated symptoms for patients, mid-stage study finds",
+      "url": "https://www.statnews.com/2026/10/19/gilead-ibs-drug-succeeds-phase-2-trial/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-19",
+      "summary": "An oral treatment from Gilead Sciences eliminated the symptoms experienced by patients with a type of inflammatory bowel disease, according to mid-stage study results reported Monday.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: Top immunology association divided over $8.4-billion California ballot measure to fund the field, emails show",
+      "url": "https://www.statnews.com/2026/10/19/california-prop-38-immunology-research-bond-oddly-specific-earmark/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-19",
+      "summary": "Internal emails obtained by STAT show that the American Association of Immunologists is sharply divided over California's Proposition 38, even though it would provide $8.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "STAT+: Does Isomorphic Labs have what it takes to revolutionize drugmaking?",
+      "url": "https://www.statnews.com/2026/10/19/can-isomorphic-labs-revolutionize-drugmaking/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-19",
+      "summary": "Isomorphic Labs wants to turn its technology into an engine for new medicines. The question now is whether — and how — it can deliver on that promise.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Opinion: My mother killed herself. I wish assisted suicide had been an option",
+      "url": "https://www.statnews.com/2026/10/19/medical-aid-in-dying-mental-illness-canada/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-19",
+      "summary": "“Sometimes mental illness is terminal,” Torie Bosch writes in a personal essay about medical aid in dying for psychiatric reasons.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Opinion: Measles is back — and becoming a midterm liability for Republicans",
+      "url": "https://www.statnews.com/2026/10/19/measles-2026-midterms-vaccine-hesitancy-liability-republicans/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-19",
+      "summary": "“Silence on vaccines is becoming a dealbreaker for voters who would otherwise vote Republican,” write physicians and former GOP Reps. Larry Buchson and Michael Burgess.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: How the No Surprises Act’s nonprofit arbitrators are operating like &#8216;mini gods&#8217; and getting rich doing it",
+      "url": "https://www.statnews.com/2026/10/19/no-surprises-act-billing-arbitration-profits-stat-investigation/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-19",
+      "summary": "A STAT investigation found that several nonprofits are raking in massive sums by acting as arbitrators in a program that helps protect patients from surprise medical bills.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
     {
       "title": "STAT+: Cambridge scientist David Sabatini speaks out after courtroom victory: ‘The hardest years of my life’",
       "url": "https://www.statnews.com/2026/10/18/david-sabatini-speaks-out-after-courtroom-win-metoo-trial/?utm_campaign=rss",
@@ -151,6 +205,33 @@
       "summary": "\"The hardest years of my life,\" is how Cambridge scientist David Sabatini describes the time since his downfall from MIT.",
       "category": "general_market",
       "categoryLabel": "General Market"
+    },
+    {
+      "title": "3 things healthcare leaders should know about AI-native EHRs",
+      "url": "https://www.healthcaredive.com/spons/3-things-healthcare-leaders-should-know-about-ai-native-ehrs/832643/",
+      "source": "Healthcare Dive",
+      "publishedAt": "2026-10-19",
+      "summary": "<p>AI is becoming standard across EHRs. Here are three things healthcare leaders should consider when evaluating whether it&rsquo;s truly integrated.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Why AI-driven payer intelligence is a revenue cycle imperative",
+      "url": "https://www.healthcaredive.com/spons/why-ai-driven-payer-intelligence-is-a-revenue-cycle-imperative/832756/",
+      "source": "Healthcare Dive",
+      "publishedAt": "2026-10-19",
+      "summary": "<p>How AI-powered payer intelligence prevents denials before they happen &mdash; and why you need it now.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Fixing fragmented spend: 5 ways health systems are regaining control through procurement governance.",
+      "url": "https://www.healthcaredive.com/spons/fixing-fragmented-spend-5-ways-health-systems-are-regaining-control-throug/827708/",
+      "source": "Healthcare Dive",
+      "publishedAt": "2026-10-19",
+      "summary": "<p>Learn about the strategies health systems are implementing to fix fragmented spend.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
     },
     {
       "title": "CMS proposes MA 'ghost network,' PBM transparency requirements",
@@ -4703,87 +4784,6 @@
       "source": "Fierce Healthcare",
       "publishedAt": "2026-10-11",
       "summary": "Cigna is rolling out a new patient experience platform that aims to harness the power of data to drive greater personalization.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "General Medicine banks $120M backed by a16z, Eli Lilly and Mercy Health to build out healthcare storefront",
-      "url": "https://www.fiercehealthcare.com/health-tech/general-medicine-banks-120m-backed-a16z-eli-lilly-and-mercy-health",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-11",
-      "summary": "General Medicine, started by the founding team that built PillPack and Amazon Pharmacy, is an online marketplace where customers can search, compare and buy care, see insurance and cash prices before deciding, and get guidance from a licensed clinician.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Utah expands healthcare AI sandbox with August AI, Nolla Health pilots, adds third-party evaluators",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/utah-taps-august-ai-nolla-health-healthcare-ai-sandbox-program-adds-third",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-11",
-      "summary": "Utah is expanding the state's AI regulatory sandbox program with new pilots to test AI-supported prescription renewals, dermatology and physical therapy, while adding physician oversight and independent third-party evaluators.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Senators question Kennedy on 'major break' from USPSTF appointment norms",
-      "url": "https://www.fiercehealthcare.com/regulatory/senators-express-concerns-over-new-uspstf-appointments-seek-information-rfk-jr",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-11",
-      "summary": "The lawmakers expressed concerns over the panel’s ability to make recommendations, the transparency of the application process and more.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Americans trust science more than peers around the world, survey shows",
-      "url": "https://www.statnews.com/2026/10/10/u-s-trust-science-higher-than-other-nations-wellcome-survey/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-10",
-      "summary": "Just 40 percent of Americans reported a lot of confidence in U.S.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Rep. Pallone introduces bill replacing No Surprises Act's arbitration process",
-      "url": "https://www.fiercehealthcare.com/regulatory/rep-pallone-introduces-bill-replacing-no-surprises-acts-arbitration-process",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-10",
-      "summary": "One of the No Surprises Act’s chief authors wants to replace the \"broken\" system for settling out-of-network pay disputes with market-based benchmarks.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Oracle Health data breach in 2025 compromised data of 20M people: report",
-      "url": "https://www.fiercehealthcare.com/health-tech/oracle-health-data-breach-2025-compromised-data-20m-people-report",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-10",
-      "summary": "In a report issued October 2, the Texas attorney general said the company disclosed that Social Security numbers, addresses and medical information of almost 20 million people, including about 3 million Texans, Bloomberg reported.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Industry Voices—Why health system CFOs can't budget their way out of coverage disruption",
-      "url": "https://www.fiercehealthcare.com/finance/industry-voices-why-health-system-cfos-cant-budget-their-way-out-coverage-disruption",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-10",
-      "summary": "Semi-annual redeterminations and work requirements will test payer-mix assumptions across the industry over the next two years. Now is the time for health systems to prepare, writes Ensemble SVP Matthew Ennen.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Fierce Healthcare Regulatory Recap: CMS releases 2027 MA star ratings; HHS awards $28M for falls prevention",
-      "url": "https://www.fiercehealthcare.com/regulatory/fierce-healthcare-regulatory-recap-cms-releases-2027-ma-star-ratings-hhs-launches",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-10",
-      "summary": "The latest news from CMS, HHS and more across Washington, D.C.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Weekly Rundown: Nextech taps Assort Health, EliseAI for agentic AI; Elsevier rolls out clinical AI tool for nurses",
-      "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-hhs-awards-15m-ai-projects-arcadia-launches-portfolio-solutions",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-10",
-      "summary": "The latest news from Nextech, Assort Health, EliseAI, Elsevier, Arcadia, Solera Health and more.",
       "category": "ai_tech",
       "categoryLabel": "AI & Digital Tech"
     }

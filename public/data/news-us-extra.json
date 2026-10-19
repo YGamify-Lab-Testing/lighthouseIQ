@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T05:55:10.486Z",
+  "lastUpdated": "2026-10-19T12:32:30.011Z",
   "scope": "US healthcare",
   "sourceManifestVersion": "1.0.0",
   "sourceHealth": [
@@ -985,9 +985,9 @@
       "relevance": 100
     },
     {
-      "title": "Heart Pump Controller Recall: Abiomed Removes Automated Impella Controllers",
-      "summary": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers",
+      "title": "Convenience Kit Correction: Becton Dickinson Issues Correction for Kits and Procedure Trays Containing Recalled Sodium Chloride Ampules",
+      "summary": "BD is correcting convenience kits and procedural trays containing recalled Huons Co. sodium chloride ampules",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-becton-dickinson-issues-correction-kits-and-procedure-trays-containing",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -996,9 +996,9 @@
       "relevance": 98
     },
     {
-      "title": "Convenience Kit Correction: Becton Dickinson Issues Correction for Kits and Procedure Trays Containing Recalled Sodium Chloride Ampules",
-      "summary": "BD is correcting convenience kits and procedural trays containing recalled Huons Co. sodium chloride ampules",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-becton-dickinson-issues-correction-kits-and-procedure-trays-containing",
+      "title": "Heart Pump Controller Recall: Abiomed Removes Automated Impella Controllers",
+      "summary": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -1051,9 +1051,9 @@
       "relevance": 100
     },
     {
-      "title": "Otsuka ICU Medical LLC Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection, USP Due To a Product Mix-up with 10 mEq Potassium Chloride Injection",
-      "summary": "Otsuka ICU Medical LLC is issuing a voluntary recall for one lot of 0.9% SODIUM CHLORIDE Injection, USP, 100mL single pack to the user level due to a potential mix-up. The affected lot of 0.9% SODIUM CHLORIDE Injection, USP (NDC: 0990-7984-23 Lot 1042188) may potentially contain the overwrap with la",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/otsuka-icu-medical-llc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-due",
+      "title": "Par Health Issues Voluntary Nationwide Recall of Two Lots of Dexmedetomidine HCl in 0.9% Sodium Chloride Injection Due to the Presence of Particulate Matter",
+      "summary": "ROCHESTER, MI– September 18, 2026 –Par Health is voluntarily recalling two lots of Dexmedetomidine HCl in 0.9% Sodium Chloride Injection 400 mcg/100 mL (4 mcg/mL) to the hospital level. The product is being recalled due to the presence of particulate matter identified as cellulose or stopper materia",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-two-lots-dexmedetomidine-hcl-09-sodium-chloride",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -1062,9 +1062,9 @@
       "relevance": 100
     },
     {
-      "title": "Par Health Issues Voluntary Nationwide Recall of Two Lots of Dexmedetomidine HCl in 0.9% Sodium Chloride Injection Due to the Presence of Particulate Matter",
-      "summary": "ROCHESTER, MI– September 18, 2026 –Par Health is voluntarily recalling two lots of Dexmedetomidine HCl in 0.9% Sodium Chloride Injection 400 mcg/100 mL (4 mcg/mL) to the hospital level. The product is being recalled due to the presence of particulate matter identified as cellulose or stopper materia",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-two-lots-dexmedetomidine-hcl-09-sodium-chloride",
+      "title": "Otsuka ICU Medical LLC Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection, USP Due To a Product Mix-up with 10 mEq Potassium Chloride Injection",
+      "summary": "Otsuka ICU Medical LLC is issuing a voluntary recall for one lot of 0.9% SODIUM CHLORIDE Injection, USP, 100mL single pack to the user level due to a potential mix-up. The affected lot of 0.9% SODIUM CHLORIDE Injection, USP (NDC: 0990-7984-23 Lot 1042188) may potentially contain the overwrap with la",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/otsuka-icu-medical-llc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-due",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
