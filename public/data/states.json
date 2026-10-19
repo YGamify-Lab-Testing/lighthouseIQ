@@ -18,7 +18,7 @@
     },
     {
       "state": "CA",
-      "count": 0
+      "count": 9
     },
     {
       "state": "CO",
@@ -86,7 +86,7 @@
     },
     {
       "state": "ME",
-      "count": 1
+      "count": 0
     },
     {
       "state": "MI",
@@ -166,7 +166,7 @@
     },
     {
       "state": "SC",
-      "count": 1
+      "count": 0
     },
     {
       "state": "SD",
@@ -209,5 +209,5 @@
       "count": 0
     }
   ],
-  "lastUpdated": "2026-10-19T19:11:18.795Z"
+  "lastUpdated": "2026-10-19T23:26:58.834Z"
 }

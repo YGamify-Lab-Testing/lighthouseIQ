@@ -39,7 +39,7 @@
         "medium_event_50plus"
       ],
       "silent_signal_flag": false,
-      "retrieved_at": "2026-10-19T19:05:36.713Z"
+      "retrieved_at": "2026-10-19T23:23:44.176Z"
     },
     {
       "id": "7124f4116210909d",
@@ -75,7 +75,7 @@
       "nursing_specialties": [],
       "nursing_explanations": [],
       "silent_signal_flag": false,
-      "retrieved_at": "2026-10-19T19:05:36.713Z"
+      "retrieved_at": "2026-10-19T23:23:44.176Z"
     },
     {
       "id": "98287b849831f0e3",
@@ -111,7 +111,7 @@
       "nursing_specialties": [],
       "nursing_explanations": [],
       "silent_signal_flag": false,
-      "retrieved_at": "2026-10-19T19:05:36.713Z"
+      "retrieved_at": "2026-10-19T23:23:44.176Z"
     },
     {
       "id": "219dafa88846a90a",
@@ -147,9 +147,9 @@
       "nursing_specialties": [],
       "nursing_explanations": [],
       "silent_signal_flag": false,
-      "retrieved_at": "2026-10-19T19:05:36.713Z"
+      "retrieved_at": "2026-10-19T23:23:44.176Z"
     }
   ],
   "count": 4,
-  "lastUpdated": "2026-10-19T19:11:18.832Z"
+  "lastUpdated": "2026-10-19T23:26:58.875Z"
 }

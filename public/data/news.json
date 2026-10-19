@@ -1,81 +1,81 @@
 {
-  "lastUpdated": "2026-10-19T19:15:25.708Z",
+  "lastUpdated": "2026-10-19T23:30:53.071Z",
   "scope": "US healthcare",
   "retentionDays": 90,
   "maxArticles": 500,
   "sourceHealth": {
     "totalSources": 10,
-    "staleSources": 6,
-    "healthySources": 4,
+    "staleSources": 5,
+    "healthySources": 5,
     "sources": [
       {
         "source": "Fierce Healthcare",
-        "articleCount": 249,
+        "articleCount": 238,
         "latestPublishedAt": "2026-10-19T00:00:00.000Z",
-        "staleHours": 19,
+        "staleHours": 23,
         "status": "ok"
       },
       {
         "source": "Becker's Hospital Review",
-        "articleCount": 120,
+        "articleCount": 130,
         "latestPublishedAt": "2026-10-19T00:00:00.000Z",
-        "staleHours": 19,
+        "staleHours": 23,
         "status": "ok"
       },
       {
         "source": "STAT News",
         "articleCount": 60,
         "latestPublishedAt": "2026-10-19T00:00:00.000Z",
-        "staleHours": 19,
+        "staleHours": 23,
         "status": "ok"
       },
       {
         "source": "Federal Register - HHS",
         "articleCount": 30,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 91,
+        "staleHours": 95,
         "status": "stale"
       },
       {
         "source": "Healthcare Dive",
         "articleCount": 23,
         "latestPublishedAt": "2026-10-19T00:00:00.000Z",
-        "staleHours": 19,
+        "staleHours": 23,
         "status": "ok"
       },
       {
         "source": "Federal Register - FDA",
         "articleCount": 7,
         "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 139,
+        "staleHours": 143,
         "status": "stale"
       },
       {
         "source": "FDA MedWatch RSS",
-        "articleCount": 5,
-        "latestPublishedAt": "2026-10-15T00:00:00.000Z",
-        "staleHours": 115,
-        "status": "stale"
+        "articleCount": 6,
+        "latestPublishedAt": "2026-10-19T00:00:00.000Z",
+        "staleHours": 23,
+        "status": "ok"
       },
       {
         "source": "Federal Register - CMS",
         "articleCount": 3,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 91,
+        "staleHours": 95,
         "status": "stale"
       },
       {
         "source": "SEC Healthcare Filings",
         "articleCount": 2,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 163,
+        "staleHours": 167,
         "status": "stale"
       },
       {
         "source": "National Nurses United RSS",
         "articleCount": 1,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 163,
+        "staleHours": 167,
         "status": "stale"
       }
     ]
@@ -107,11 +107,11 @@
     },
     "ai_tech": {
       "label": "AI & Digital Tech",
-      "count": 134
+      "count": 132
     },
     "general_market": {
       "label": "General Market",
-      "count": 212
+      "count": 214
     }
   },
   "quality": {
@@ -127,7 +127,7 @@
       },
       "minArticles24h": {
         "threshold": 20,
-        "actual": 55,
+        "actual": 67,
         "pass": true
       },
       "minRequiredCategoriesCovered": {
@@ -137,99 +137,111 @@
       },
       "maxStaleSources": {
         "threshold": 2,
-        "actual": 6,
+        "actual": 5,
         "pass": false
       }
     }
   },
   "articles": [
     {
-      "title": "FDA, ASHP split on estradiol patch shortage as menopause treatment demand climbs",
-      "url": "https://www.beckershospitalreview.com/pharmacy/fda-ashp-split-on-estradiol-patch-shortage-as-menopause-treatment-demand-climbs/",
+      "title": "Diagnostic Ultrasound System Correction: Philips Ultrasound Issues Updated Use Instructions for Lumify Diagnostic Ultrasound System",
+      "summary": "A software app or transducer connection problem with the Philips Lumify diagnostic ultrasound system can result in loss of or delays in scanning functionality.",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/diagnostic-ultrasound-system-correction-philips-ultrasound-issues-updated-use-instructions-lumify",
+      "source": "FDA MedWatch RSS",
+      "sourceType": "rss",
+      "sourceId": "fda_medwatch_rss",
+      "publishedAt": "2026-10-19",
+      "category": "general_market",
+      "relevance": 98,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "The hospital finance divide: 15 things to know",
+      "url": "https://www.beckershospitalreview.com/finance/the-hospital-finance-divide-15-things-to-know/",
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-19",
-      "summary": "The FDA has not declared a shortage of estradiol patches, a common menopause treatment, even as the American Society of Health-System Pharmacists has listed certain patch products in shortage since Jan. 30 and many women report trouble filling prescriptions, according to an Oct.",
+      "summary": "Hospital and health system margins are beginning to reveal two different realities as a growing number of hospitals lose money and cut costs while the strongest add services, shed what doesn’t fit and post gains.&#160; The gap, highlighted in recent Becker&#8217;s coverage, shows struggling facilities like Watsonville (Calif.",
       "category": "ai_tech",
       "categoryLabel": "AI & Digital Tech"
     },
     {
-      "title": "Lifepoint Health promotes deputy chief information security officer",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/lifepoint-health-promotes-deputy-chief-information-security-officer/",
+      "title": "From Medicare for All to Medicaid cuts, 6 healthcare fights on the ballot this midterm election",
+      "url": "https://www.beckershospitalreview.com/legal-regulatory-issues/from-medicare-for-all-to-medicaid-cuts-5-healthcare-fights-on-the-ballot-this-midterm-election/",
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-19",
-      "summary": "Ryan Wetherby has been promoted to vice president and deputy chief information security officer of Brentwood, Tenn.-based Lifepoint Health.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
+      "summary": "The midterm election is right around the corner, and healthcare costs are a top issue on the ballot, tied with gas prices, according to a KFF poll published Oct. 6.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
     },
     {
-      "title": "Dana-Farber breaks ground on $1.7B cancer hospital",
-      "url": "https://www.beckershospitalreview.com/capital/dana-farber-breaks-ground-on-1-7b-cancer-hospital/",
+      "title": "Mass General Brigham AI trained on 40M faces predicts cancer survival",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/mass-general-brigham-ai-trained-on-40m-faces-predicts-cancer-survival/",
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-19",
-      "summary": "Boston-based Dana-Farber Cancer Institute broke ground Oct. 19 on the Lavine Bekenstein Cancer Hospital, a 300-bed inpatient facility developed in collaboration with Beth Israel Deaconess Medical Center.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Current metrics measure nursing &#8216;by its absence,&#8217; researchers argue",
-      "url": "https://www.beckershospitalreview.com/quality/nursing/current-metrics-measure-nursing-by-its-absence-researchers-argue/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-19",
-      "summary": "Nurse scientists are calling on hospitals, payers and credentialing bodies to overhaul how they measure nursing care, arguing that today&#8217;s metrics capture only a sliver of what nurses actually do. In a viewpoint published Oct.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "ChristianaCare completes next phase of new campus",
-      "url": "https://www.beckershospitalreview.com/capital/christianacare-completes-next-phase-of-new-campus/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-19",
-      "summary": "Wilmington, Del.-based ChristianaCare opened the ChristianaCare Health Center at Aston (Pa.",
-      "category": "capacity_expansion",
-      "categoryLabel": "Capacity & Expansion"
-    },
-    {
-      "title": "HCA&#8217;s TriStar Centennial to invest $90M in women&#8217;s, children&#8217;s care",
-      "url": "https://www.beckershospitalreview.com/capital/hcas-tristar-centennial-to-invest-90m-in-womens-childrens-care/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-19",
-      "summary": "Nashville, Tenn.-based TriStar Centennial Medical Center plans a $90 million renovation and expansion of TriStar Centennial Women’s Hospital and TriStar Centennial Children’s Hospital, according to an Oct.",
-      "category": "capacity_expansion",
-      "categoryLabel": "Capacity & Expansion"
-    },
-    {
-      "title": "JAMA’s new journal targets health AI’s evidence gap",
-      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/jamas-new-journal-targets-health-ais-evidence-gap/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-19",
-      "summary": "The JAMA Network announced Oct. 15 that it is launching a peer-reviewed journal dedicated to AI and emerging healthcare technologies, with manuscript submissions opening in early 2027.",
-      "category": "capacity_expansion",
-      "categoryLabel": "Capacity & Expansion"
-    },
-    {
-      "title": "MetroHealth AI chief joins Cleveland Clinic Abu Dhabi",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/metrohealth-ai-chief-joins-cleveland-clinic-abu-dhabi/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-19",
-      "summary": "Yasir Tarabichi, MD, who most recently served as chief health AI officer of Cleveland-based MetroHealth System, has joined Cleveland Clinic Abu Dhabi as executive medical director of AI and digital. Dr.",
+      "summary": "Somerville, Mass.-based Mass General Brigham researchers built an AI foundation model, trained on more than 40 million face images, that estimates biological age and predicts cancer survival from a single photograph.",
       "category": "ai_tech",
       "categoryLabel": "AI & Digital Tech"
     },
     {
-      "title": "Bon Secours Mercy Health added 10,400 appointment slots: what other health systems can learn",
-      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/digital-health/bon-secours-mercy-health-added-10400-appointment-slots-what-other-health-systems-can-learn/",
+      "title": "Judy Faulkner on Epic’s ‘BFF’ role: 1 staffer for each customer",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ehrs/judy-faulkner-on-epics-bff-role-1-staffer-for-each-customer/",
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-19",
-      "summary": "Three lessons from healthcare leaders and organizations creating capacity, improving performance, and realizing more value from existing investments A common misconception in healthcare is that growth always requires additional resources. Increasingly, our team at Nordic is seeing the opposite.",
-      "category": "capacity_expansion",
-      "categoryLabel": "Capacity & Expansion"
+      "summary": "Epic pairs new customers with a dedicated staff member, called a “BFF,” who keeps working with the organization after go-live, founder and CEO Judy Faulkner said in an Oct. 19 blog post.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
     },
     {
-      "title": "Accountability Begins With Clear Expectations",
-      "url": "https://www.beckershospitalreview.com/quality/accountability-begins-with-clear-expectations/",
+      "title": "Moody&#8217;s upgrades ProHealth Care to &#8216;Aa3&#8217; with 562 days cash on hand",
+      "url": "https://www.beckershospitalreview.com/finance/moodys-upgrades-prohealth-care-to-aa3-with-562-days-cash-on-hand/",
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-19",
-      "summary": "High expectations. Unwavering support.",
+      "summary": "Moody’s Ratings upgraded Waukesha, Wis.-based ProHealth Care’s credit rating Oct.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "IU Health 1st to administer brain cancer imaging drug",
+      "url": "https://www.beckershospitalreview.com/radiology/iu-health-1st-to-administer-brain-cancer-imaging-drug/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-19",
+      "summary": "Indianapolis-based Indiana University Health has become the first health system in the U.S.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Parkview Health takes network offline after suspicious activity",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/digital-health/parkview-health-takes-network-offline-after-suspicious-activity/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-19",
+      "summary": "Fort Wayne, Ind.-based Parkview Health&#8217;s MyChart patient portal remains unavailable after the health system took its network offline in response to suspicious activity.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Baystate takeover of Mercy Medical on track for Nov. 1",
+      "url": "https://www.beckershospitalreview.com/hospital-transactions-and-valuation/baystate-takeover-of-mercy-medical-on-track-for-nov-1/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-19",
+      "summary": "The planned transfer of Mercy Medical Center to Baystate Health, both in Springfield, Mass., remains on schedule for Nov.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "5 hospital, health system CEOs who left within a year in 2026",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/5-hospital-health-system-ceos-who-left-within-a-year-in-2026/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-19",
+      "summary": "Several hospital and health system CEOs have left their roles in 2026 less than a year after taking the helm. Becker’s reported more than 160 hospital and health system CEO exits between Jan.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Former Kansas system CEO dies after 43 years at helm",
+      "url": "https://www.beckershospitalreview.com/hospital-management-administration/former-kansas-system-ceo-dies-after-43-years-at-helm/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-19",
+      "summary": "Frank Devocelle, who previously served as president and CEO of Olathe (Kan.) Health, died Oct.",
       "category": "general_market",
       "categoryLabel": "General Market"
     },
@@ -396,6 +408,15 @@
       "categoryLabel": "AI & Digital Tech"
     },
     {
+      "title": "Commercial plans' mental health provider directories routinely inaccurate, secret shopper study finds",
+      "url": "https://www.fiercehealthcare.com/payers/commercial-plans-mental-health-provider-directories-routinely-inaccurate-secret-shopper",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-19",
+      "summary": "Fewer than a quarter of secret shopper phone calls to a listed mental health provider ended in a scheduled appointment, often due to inaccurate contact information or other issues with a plan's directory.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
       "title": "OpenEvidence, Doximity reach settlement in contentious AI legal battle",
       "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/openevidence-doximity-reach-settlement-contentious-ai-lawsuit",
       "source": "Fierce Healthcare",
@@ -403,6 +424,96 @@
       "summary": "Healthcare AI startups OpenEvidence and Doximity settled a contentious legal fight over allegations of corporate espionage and cyberattacks, alongside counterclaims of defamation and misinformation.",
       "category": "ai_tech",
       "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "FDA, ASHP split on estradiol patch shortage as menopause treatment demand climbs",
+      "url": "https://www.beckershospitalreview.com/pharmacy/fda-ashp-split-on-estradiol-patch-shortage-as-menopause-treatment-demand-climbs/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-19",
+      "summary": "The FDA has not declared a shortage of estradiol patches, a common menopause treatment, even as the American Society of Health-System Pharmacists has listed certain patch products in shortage since Jan. 30 and many women report trouble filling prescriptions, according to an Oct.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Lifepoint Health promotes deputy chief information security officer",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/lifepoint-health-promotes-deputy-chief-information-security-officer/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-19",
+      "summary": "Ryan Wetherby has been promoted to vice president and deputy chief information security officer of Brentwood, Tenn.-based Lifepoint Health.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Dana-Farber breaks ground on $1.7B cancer hospital",
+      "url": "https://www.beckershospitalreview.com/capital/dana-farber-breaks-ground-on-1-7b-cancer-hospital/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-19",
+      "summary": "Boston-based Dana-Farber Cancer Institute broke ground Oct. 19 on the Lavine Bekenstein Cancer Hospital, a 300-bed inpatient facility developed in collaboration with Beth Israel Deaconess Medical Center.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Current metrics measure nursing &#8216;by its absence,&#8217; researchers argue",
+      "url": "https://www.beckershospitalreview.com/quality/nursing/current-metrics-measure-nursing-by-its-absence-researchers-argue/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-19",
+      "summary": "Nurse scientists are calling on hospitals, payers and credentialing bodies to overhaul how they measure nursing care, arguing that today&#8217;s metrics capture only a sliver of what nurses actually do. In a viewpoint published Oct.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "ChristianaCare completes next phase of new campus",
+      "url": "https://www.beckershospitalreview.com/capital/christianacare-completes-next-phase-of-new-campus/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-19",
+      "summary": "Wilmington, Del.-based ChristianaCare opened the ChristianaCare Health Center at Aston (Pa.",
+      "category": "capacity_expansion",
+      "categoryLabel": "Capacity & Expansion"
+    },
+    {
+      "title": "HCA&#8217;s TriStar Centennial to invest $90M in women&#8217;s, children&#8217;s care",
+      "url": "https://www.beckershospitalreview.com/capital/hcas-tristar-centennial-to-invest-90m-in-womens-childrens-care/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-19",
+      "summary": "Nashville, Tenn.-based TriStar Centennial Medical Center plans a $90 million renovation and expansion of TriStar Centennial Women’s Hospital and TriStar Centennial Children’s Hospital, according to an Oct.",
+      "category": "capacity_expansion",
+      "categoryLabel": "Capacity & Expansion"
+    },
+    {
+      "title": "JAMA’s new journal targets health AI’s evidence gap",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/jamas-new-journal-targets-health-ais-evidence-gap/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-19",
+      "summary": "The JAMA Network announced Oct. 15 that it is launching a peer-reviewed journal dedicated to AI and emerging healthcare technologies, with manuscript submissions opening in early 2027.",
+      "category": "capacity_expansion",
+      "categoryLabel": "Capacity & Expansion"
+    },
+    {
+      "title": "MetroHealth AI chief joins Cleveland Clinic Abu Dhabi",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/metrohealth-ai-chief-joins-cleveland-clinic-abu-dhabi/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-19",
+      "summary": "Yasir Tarabichi, MD, who most recently served as chief health AI officer of Cleveland-based MetroHealth System, has joined Cleveland Clinic Abu Dhabi as executive medical director of AI and digital. Dr.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Bon Secours Mercy Health added 10,400 appointment slots: what other health systems can learn",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/digital-health/bon-secours-mercy-health-added-10400-appointment-slots-what-other-health-systems-can-learn/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-19",
+      "summary": "Three lessons from healthcare leaders and organizations creating capacity, improving performance, and realizing more value from existing investments A common misconception in healthcare is that growth always requires additional resources. Increasingly, our team at Nordic is seeing the opposite.",
+      "category": "capacity_expansion",
+      "categoryLabel": "Capacity & Expansion"
+    },
+    {
+      "title": "Accountability Begins With Clear Expectations",
+      "url": "https://www.beckershospitalreview.com/quality/accountability-begins-with-clear-expectations/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-19",
+      "summary": "High expectations. Unwavering support.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
     },
     {
       "title": "Trump EO creates new NIH division, White House task force centered on women’s health",
@@ -2751,6 +2862,18 @@
       "categoryLabel": "General Market"
     },
     {
+      "title": "Infusion Set Recall: BD and CareFusion 303, Inc. Remove BD Alaris Pump Infusion Sets",
+      "summary": "BD Alaris Pump Infusion Sets are being removed and discontinued; Alaris Pump Module model 8100 has updated performance data",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-set-recall-bd-and-carefusion-303-inc-remove-bd-alaris-pump-infusion-sets",
+      "source": "FDA MedWatch RSS",
+      "sourceType": "rss",
+      "sourceId": "fda_medwatch_rss",
+      "publishedAt": "2026-10-14",
+      "category": "general_market",
+      "relevance": 100,
+      "categoryLabel": "General Market"
+    },
+    {
       "title": "Convenience Kit Recall: AVID Medical Removes Convenience Kits Affected by BD ChloraPrep Applicator Recall",
       "summary": "Avid Medical is removing certain convenience kits affected by the BD ChloraPrep Applicator Recall that may be contaminated with Aspergillus penicillioides.",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-avid-medical-removes-convenience-kits-affected-bd-chloraprep-applicator-0",
@@ -2766,18 +2889,6 @@
       "title": "Par Health Issues Voluntary Nationwide Recall of Argatroban Injection Due to the Presence of Particulate Matter",
       "summary": "FOR IMMEDIATE RELEASE - ROCHESTER, MI– October 13, 2026 – Par Health is recalling 22 lots of Argatroban Injection 250 mg/2.5 mL (100 mg/mL) to the hospital/user level. This recall is being conducted due to the presence of particulate matter, identified as cellulose, polystyrene, polyethylene terepht",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-argatroban-injection-due-presence-particulate-matter",
-      "source": "FDA MedWatch RSS",
-      "sourceType": "rss",
-      "sourceId": "fda_medwatch_rss",
-      "publishedAt": "2026-10-14",
-      "category": "general_market",
-      "relevance": 100,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Infusion Set Recall: BD and CareFusion 303, Inc. Remove BD Alaris Pump Infusion Sets",
-      "summary": "BD Alaris Pump Infusion Sets are being removed and discontinued; Alaris Pump Module model 8100 has updated performance data",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-set-recall-bd-and-carefusion-303-inc-remove-bd-alaris-pump-infusion-sets",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -4676,114 +4787,6 @@
       "source": "Fierce Healthcare",
       "publishedAt": "2026-10-12",
       "summary": "Michigan Attorney General Dana Nessel has filed suit against Blue Cross Blue Shield of Michigan, alleging that the insurer operated as a monopoly in the state.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Fierce Healthcare Fundraising Tracker '26: Outro clinches $7M for deprescribing; Rightway pulls in $155M to expand pharmacy benefits tech",
-      "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-12",
-      "summary": "Keep up with all the venture capital dollars being funneled into the health tech and digital health industries.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Suki launches ‘Ask’ feature for clinical decision support driven by Wolters Kluwer UpToDate AI API",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/suki-launches-ask-feature-clinical-decision-support-driven-wolters-kluwer",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-12",
-      "summary": "Ask integrates evidence-based clinical reasoning directly into workflows and can provide answers grounded in UpToDate’s proprietary content.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Healthleap banks $38M for AI screening platform that catches undiagnosed conditions",
-      "url": "https://www.fiercehealthcare.com/finance/healthleap-banks-38m-funding-backed-sequoia-capital-first-round-capital-and-hummingbird",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-12",
-      "summary": "Healthleap says its platform is the first and only validated AI malnutrition screening tool that contains EHR-integrated screening layers, executives say.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "PhRMA launches new legal challenge as CMS brings 'most favored nation' pricing to Medicare Part B",
-      "url": "https://www.fiercehealthcare.com/pharma/phrma-launches-new-legal-challenge-cms-brings-most-favored-nation-pricing-medicare-part-b",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-12",
-      "summary": "As the Trump administration advances plans to bring its “most favored nation” drug pricing model to Medicare Part B, the pharmaceutical industry’s top lobbying group is pushing back in court.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Kaiser Permanente to repay nurses 'potentially tens of millions' in mistakenly withheld wages",
-      "url": "https://www.fiercehealthcare.com/providers/kaiser-permanente-repay-nurses-potentially-tens-millions-mistakenly-withheld-wages",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-12",
-      "summary": "Following an arbitration agreement, more than 1,000 nurses will be compensated for a payment error that began in 2021, the California Nurses Association said. The major nonprofit confirmed the plans but did not comment on the total amount.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "After ICE raids, hospitals saw fewer ED visits, more admissions among foreign-born: study",
-      "url": "https://www.fiercehealthcare.com/providers/after-ice-raids-hospitals-saw-fewer-ed-visits-more-admissions-among-foreign-born-study",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-12",
-      "summary": "Studies published this week outline changes in care-seeking behavior tied to heightened federal immigration policy and rhetoric, with ramifications for patient outcomes and healthcare spending.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Cigna unveils new customer experience platform, Health Sense",
-      "url": "https://www.fiercehealthcare.com/payers/cigna-unveils-new-customer-experience-platform-health-sense",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-12",
-      "summary": "Cigna is rolling out a new patient experience platform that aims to harness the power of data to drive greater personalization.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "General Medicine banks $120M backed by a16z, Eli Lilly and Mercy Health to build out healthcare storefront",
-      "url": "https://www.fiercehealthcare.com/health-tech/general-medicine-banks-120m-backed-a16z-eli-lilly-and-mercy-health",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-12",
-      "summary": "General Medicine, started by the founding team that built PillPack and Amazon Pharmacy, is an online marketplace where customers can search, compare and buy care, see insurance and cash prices before deciding, and get guidance from a licensed clinician.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Utah expands healthcare AI sandbox with August AI, Nolla Health pilots, adds third-party evaluators",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/utah-taps-august-ai-nolla-health-healthcare-ai-sandbox-program-adds-third",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-12",
-      "summary": "Utah is expanding the state's AI regulatory sandbox program with new pilots to test AI-supported prescription renewals, dermatology and physical therapy, while adding physician oversight and independent third-party evaluators.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Senators question Kennedy on 'major break' from USPSTF appointment norms",
-      "url": "https://www.fiercehealthcare.com/regulatory/senators-express-concerns-over-new-uspstf-appointments-seek-information-rfk-jr",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-12",
-      "summary": "The lawmakers expressed concerns over the panel’s ability to make recommendations, the transparency of the application process and more.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Rep. Pallone introduces bill replacing No Surprises Act's arbitration process",
-      "url": "https://www.fiercehealthcare.com/regulatory/rep-pallone-introduces-bill-replacing-no-surprises-acts-arbitration-process",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-11",
-      "summary": "One of the No Surprises Act’s chief authors wants to replace the \"broken\" system for settling out-of-network pay disputes with market-based benchmarks.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Oracle Health data breach in 2025 compromised data of 20M people: report",
-      "url": "https://www.fiercehealthcare.com/health-tech/oracle-health-data-breach-2025-compromised-data-20m-people-report",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-11",
-      "summary": "In a report issued October 2, the Texas attorney general said the company disclosed that Social Security numbers, addresses and medical information of almost 20 million people, including about 3 million Texans, Bloomberg reported.",
       "category": "ai_tech",
       "categoryLabel": "AI & Digital Tech"
     }

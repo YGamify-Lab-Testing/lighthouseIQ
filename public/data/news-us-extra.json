@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T19:15:25.636Z",
+  "lastUpdated": "2026-10-19T23:30:52.998Z",
   "scope": "US healthcare",
   "sourceManifestVersion": "1.0.0",
   "sourceHealth": [
@@ -203,6 +203,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "Diagnostic Ultrasound System Correction: Philips Ultrasound Issues Updated Use Instructions for Lumify Diagnostic Ultrasound System",
+      "summary": "A software app or transducer connection problem with the Philips Lumify diagnostic ultrasound system can result in loss of or delays in scanning functionality.",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/diagnostic-ultrasound-system-correction-philips-ultrasound-issues-updated-use-instructions-lumify",
+      "source": "FDA MedWatch RSS",
+      "sourceType": "rss",
+      "sourceId": "fda_medwatch_rss",
+      "publishedAt": "2026-10-19",
+      "category": "quality_safety",
+      "relevance": 98
+    },
     {
       "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
       "summary": "The Centers for Medicare & Medicaid Services (CMS) is announcing an opportunity for the public to comment on CMS' intention to collect information from the public. Under the Paperwork Reduction Act of 1995 (PRA), federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information (including each proposed extension or reinstatement of an existing collection of information) and to allow 60 days for public comment on the proposed action. Interested persons are invited to send comments regarding our burden estimates or any other aspect of this collection of information, including the necessity and utility of the proposed information collection for the proper performance of the agency's functions, the accuracy of the estimated burden, ways to enhance the quality, utility, and clarity of the information to be collected, and the use of automated collection techniques or other forms of information technology to minimize the information collection burden.",
@@ -490,6 +501,17 @@
       "relevance": 100
     },
     {
+      "title": "Infusion Set Recall: BD and CareFusion 303, Inc. Remove BD Alaris Pump Infusion Sets",
+      "summary": "BD Alaris Pump Infusion Sets are being removed and discontinued; Alaris Pump Module model 8100 has updated performance data",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-set-recall-bd-and-carefusion-303-inc-remove-bd-alaris-pump-infusion-sets",
+      "source": "FDA MedWatch RSS",
+      "sourceType": "rss",
+      "sourceId": "fda_medwatch_rss",
+      "publishedAt": "2026-10-14",
+      "category": "quality_safety",
+      "relevance": 100
+    },
+    {
       "title": "Convenience Kit Recall: AVID Medical Removes Convenience Kits Affected by BD ChloraPrep Applicator Recall",
       "summary": "Avid Medical is removing certain convenience kits affected by the BD ChloraPrep Applicator Recall that may be contaminated with Aspergillus penicillioides.",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-avid-medical-removes-convenience-kits-affected-bd-chloraprep-applicator-0",
@@ -504,17 +526,6 @@
       "title": "Par Health Issues Voluntary Nationwide Recall of Argatroban Injection Due to the Presence of Particulate Matter",
       "summary": "FOR IMMEDIATE RELEASE - ROCHESTER, MI– October 13, 2026 – Par Health is recalling 22 lots of Argatroban Injection 250 mg/2.5 mL (100 mg/mL) to the hospital/user level. This recall is being conducted due to the presence of particulate matter, identified as cellulose, polystyrene, polyethylene terepht",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-argatroban-injection-due-presence-particulate-matter",
-      "source": "FDA MedWatch RSS",
-      "sourceType": "rss",
-      "sourceId": "fda_medwatch_rss",
-      "publishedAt": "2026-10-14",
-      "category": "quality_safety",
-      "relevance": 100
-    },
-    {
-      "title": "Infusion Set Recall: BD and CareFusion 303, Inc. Remove BD Alaris Pump Infusion Sets",
-      "summary": "BD Alaris Pump Infusion Sets are being removed and discontinued; Alaris Pump Module model 8100 has updated performance data",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-set-recall-bd-and-carefusion-303-inc-remove-bd-alaris-pump-infusion-sets",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -697,17 +708,6 @@
       "publishedAt": "2026-10-09",
       "category": "quality_safety",
       "relevance": 100
-    },
-    {
-      "title": "Early Alert: Diagnostic Ultrasound System Issue from Philips Ultrasound",
-      "summary": "A software app or transducer connection problem with the Philips Lumify diagnostic ultrasound system can result in loss of or delays in scanning functionality.",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-diagnostic-ultrasound-system-issue-philips-ultrasound",
-      "source": "FDA MedWatch RSS",
-      "sourceType": "rss",
-      "sourceId": "fda_medwatch_rss",
-      "publishedAt": "2026-10-09",
-      "category": "quality_safety",
-      "relevance": 98
     },
     {
       "title": "CI 8-K filing - The Cigna Group",
@@ -1535,6 +1535,17 @@
       "relevance": 100
     },
     {
+      "title": "AHA podcast discusses how telehealth has transformed care for patients at Nantucket Cottage Hospital",
+      "summary": "",
+      "url": "https://www.aha.org/news/headline/2026-10-19-aha-podcast-discusses-how-telehealth-has-transformed-care-patients-nantucket-cottage-hospital",
+      "source": "AHA News",
+      "sourceType": "html",
+      "sourceId": "aha_news",
+      "publishedAt": "",
+      "category": "ai_tech",
+      "relevance": 100
+    },
+    {
       "title": "Microsoft, Health-ISAC announce disruption to cybercriminal businesses supplying attacks on healthcare, others",
       "summary": "",
       "url": "https://www.aha.org/news/headline/2026-10-16-microsoft-health-isac-announce-disruption-cybercriminal-businesses-supplying-attacks-healthcare-others",
@@ -1560,28 +1571,6 @@
       "title": "AHA podcast: Leading Healthcare Through Crisis and Change",
       "summary": "",
       "url": "https://www.aha.org/news/headline/2026-10-14-aha-podcast-leading-healthcare-through-crisis-and-change",
-      "source": "AHA News",
-      "sourceType": "html",
-      "sourceId": "aha_news",
-      "publishedAt": "",
-      "category": "policy_reimbursement",
-      "relevance": 100
-    },
-    {
-      "title": "CMS releases 2027 Medicare Advantage, Part D star ratings",
-      "summary": "",
-      "url": "https://www.aha.org/news/headline/2026-10-09-cms-releases-2027-medicare-advantage-part-d-star-ratings",
-      "source": "AHA News",
-      "sourceType": "html",
-      "sourceId": "aha_news",
-      "publishedAt": "",
-      "category": "policy_reimbursement",
-      "relevance": 100
-    },
-    {
-      "title": "AHA, others file suit to stop costly 340B rebate program from harming hospitals and patients",
-      "summary": "",
-      "url": "https://www.aha.org/news/headline/2026-10-09-aha-others-file-suit-stop-costly-340b-rebate-program-harming-hospitals-and-patients",
       "source": "AHA News",
       "sourceType": "html",
       "sourceId": "aha_news",
@@ -1865,9 +1854,9 @@
       "relevance": 98
     },
     {
-      "title": "FTC Sues to Block PlayPower’s Acquisition of Rival Playground Manufacturer Burke",
+      "title": "FTC Order Preserves Competition in Digital Advertising Ecosystem as Part of Publicis’s Acquisition of LiveRamp",
       "summary": "",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-sues-block-playpowers-acquisition-rival-playground-manufacturer-burke",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-order-preserves-competition-digital-advertising-ecosystem-part-publiciss-acquisition-liveramp",
       "source": "FTC Press Releases",
       "sourceType": "html",
       "sourceId": "ftc_press_releases",
@@ -1876,9 +1865,9 @@
       "relevance": 98
     },
     {
-      "title": "FTC Order Preserves Competition in Digital Advertising Ecosystem as Part of Publicis’s Acquisition of LiveRamp",
+      "title": "FTC Sues to Block PlayPower’s Acquisition of Rival Playground Manufacturer Burke",
       "summary": "",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-order-preserves-competition-digital-advertising-ecosystem-part-publiciss-acquisition-liveramp",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-sues-block-playpowers-acquisition-rival-playground-manufacturer-burke",
       "source": "FTC Press Releases",
       "sourceType": "html",
       "sourceId": "ftc_press_releases",
@@ -2118,9 +2107,9 @@
       "relevance": 96
     },
     {
-      "title": "HHS declares public health emergencies for Florida, Alabama following Hurricane Isaias",
+      "title": "CMS issues proposals to improve MA plan provider directory accuracy, PBM transparency requirements and reduce drug costs",
       "summary": "",
-      "url": "https://www.aha.org/news/headline/2026-10-14-hhs-declares-public-health-emergencies-florida-alabama-following-hurricane-isaias",
+      "url": "https://www.aha.org/news/headline/2026-10-19-cms-issues-proposals-improve-ma-plan-provider-directory-accuracy-pbm-transparency-requirements-and",
       "source": "AHA News",
       "sourceType": "html",
       "sourceId": "aha_news",
@@ -2129,9 +2118,9 @@
       "relevance": 96
     },
     {
-      "title": "Chair File: Strengthening Cybersecurity to Protect Patients and Our Hospitals’ Mission",
+      "title": "AHA details recommendations to FDA on regulatory frameworks for GenAI-enabled medical devices",
       "summary": "",
-      "url": "https://www.aha.org/news/chairpersons-file/2026-10-12-chair-file-strengthening-cybersecurity-protect-patients-and-our-hospitals-mission",
+      "url": "https://www.aha.org/news/headline/2026-10-19-aha-details-recommendations-fda-regulatory-frameworks-genai-enabled-medical-devices",
       "source": "AHA News",
       "sourceType": "html",
       "sourceId": "aha_news",
@@ -2140,9 +2129,9 @@
       "relevance": 96
     },
     {
-      "title": "CMS issues first report on states spending Rural Health Transformation Program funding",
+      "title": "HHS declares public health emergencies for Florida, Alabama following Hurricane Isaias",
       "summary": "",
-      "url": "https://www.aha.org/news/headline/2026-10-09-cms-issues-first-report-states-spending-rural-health-transformation-program-funding",
+      "url": "https://www.aha.org/news/headline/2026-10-14-hhs-declares-public-health-emergencies-florida-alabama-following-hurricane-isaias",
       "source": "AHA News",
       "sourceType": "html",
       "sourceId": "aha_news",
@@ -2561,6 +2550,17 @@
       "title": "Access & Health Coverage",
       "summary": "",
       "url": "https://www.aha.org/advocacy/access-and-health-coverage",
+      "source": "AHA News",
+      "sourceType": "html",
+      "sourceId": "aha_news",
+      "publishedAt": "",
+      "category": "policy_reimbursement",
+      "relevance": 91
+    },
+    {
+      "title": "Reducing Disparities in Health Outcomes",
+      "summary": "",
+      "url": "https://www.aha.org/reducing-disparities-health-outcomes",
       "source": "AHA News",
       "sourceType": "html",
       "sourceId": "aha_news",

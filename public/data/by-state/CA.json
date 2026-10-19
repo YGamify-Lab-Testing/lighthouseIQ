@@ -2,28 +2,28 @@
   "state": "CA",
   "notices": [
     {
-      "id": "9c8cd558a59d4838",
+      "id": "d02f55458fd4001a",
       "state": "CA",
-      "employer_name": "Beachbody, LLC",
+      "employer_name": "The Neil Jones Food Company dba Tomatek",
       "parent_system": null,
-      "facility_name": "Beachbody, LLC",
-      "employer_id": "CA:beachbody",
+      "facility_name": "The Neil Jones Food Company dba Tomatek",
+      "employer_id": "CA:the-neil-jones-food-dba-tomatek",
       "city": null,
       "county": null,
       "address": null,
-      "notice_date": "2026-11-06",
-      "effective_date": "2026-13-07",
+      "notice_date": "2026-11-14",
+      "effective_date": "2026-13-14",
       "lead_time_days": null,
-      "employees_affected": 80,
+      "employees_affected": 116,
       "naics": null,
-      "reason": "Layoff Permanent",
+      "reason": "Layoff Temporary",
       "raw_text": null,
       "source_name": "USA Today WARN List",
-      "source_url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/beachbody-llc-ca-layoff-permanent/ca-2627-00357/?query=&page=",
-      "source_id": "ca-2627-00357",
+      "source_url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/the-neil-jones-food-company-dba-tomatek-ca-layoff-temporary/ca-2627-00368/?query=&page=",
+      "source_id": "ca-2627-00368",
       "attachments": [
         {
-          "url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/beachbody-llc-ca-layoff-permanent/ca-2627-00357/?query=&page="
+          "url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/the-neil-jones-food-company-dba-tomatek-ca-layoff-temporary/ca-2627-00368/?query=&page="
         }
       ],
       "nursing_score": 5,
@@ -39,111 +39,31 @@
         "medium_event_50plus"
       ],
       "silent_signal_flag": false,
-      "retrieved_at": "2026-10-15T07:07:34.543Z"
+      "retrieved_at": "2026-10-19T23:26:07.029Z"
     },
     {
-      "id": "d1ae4dc642df44b8",
+      "id": "da192567a91b0784",
       "state": "CA",
-      "employer_name": "Caribou Biosciences, Inc.",
+      "employer_name": "ServiceNow, Inc.",
       "parent_system": null,
-      "facility_name": "Caribou Biosciences, Inc.",
-      "employer_id": "CA:caribou-biosciences",
+      "facility_name": "ServiceNow, Inc.",
+      "employer_id": "CA:servicenow",
       "city": null,
       "county": null,
       "address": null,
-      "notice_date": "2026-11-06",
-      "effective_date": "2026-13-07",
+      "notice_date": "2026-11-13",
+      "effective_date": "2026-13-14",
       "lead_time_days": null,
-      "employees_affected": 87,
-      "naics": null,
-      "reason": "Closure Permanent",
-      "raw_text": null,
-      "source_name": "USA Today WARN List",
-      "source_url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/caribou-biosciences-inc-ca-closure-permanent/ca-2627-00353/?query=&page=",
-      "source_id": "ca-2627-00353",
-      "attachments": [
-        {
-          "url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/caribou-biosciences-inc-ca-closure-permanent/ca-2627-00353/?query=&page="
-        }
-      ],
-      "nursing_score": 5,
-      "nursing_label": "Unclear",
-      "nursing_signals": [
-        "medium_event_50plus"
-      ],
-      "nursing_keywords": [],
-      "nursing_role_mix": null,
-      "nursing_care_setting": "unknown",
-      "nursing_specialties": [],
-      "nursing_explanations": [
-        "medium_event_50plus"
-      ],
-      "silent_signal_flag": true,
-      "retrieved_at": "2026-10-15T07:07:34.543Z"
-    },
-    {
-      "id": "ccdad97f9f6bfe23",
-      "state": "CA",
-      "employer_name": "AMF Bowling Centers, Inc. Castle Park",
-      "parent_system": null,
-      "facility_name": "AMF Bowling Centers, Inc. Castle Park",
-      "employer_id": "CA:amf-bowling-centers-castle-park",
-      "city": null,
-      "county": null,
-      "address": null,
-      "notice_date": "2026-11-05",
-      "effective_date": "2026-13-04",
-      "lead_time_days": null,
-      "employees_affected": 130,
+      "employees_affected": 18,
       "naics": null,
       "reason": "Layoff Permanent",
       "raw_text": null,
       "source_name": "USA Today WARN List",
-      "source_url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/amf-bowling-centers-inc-castle-park-ca-layoff-permanent/ca-2627-00352/?query=&page=",
-      "source_id": "ca-2627-00352",
+      "source_url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/servicenow-inc-ca-layoff-permanent/ca-2627-00367/?query=&page=",
+      "source_id": "ca-2627-00367",
       "attachments": [
         {
-          "url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/amf-bowling-centers-inc-castle-park-ca-layoff-permanent/ca-2627-00352/?query=&page="
-        }
-      ],
-      "nursing_score": 5,
-      "nursing_label": "Unclear",
-      "nursing_signals": [
-        "medium_event_50plus"
-      ],
-      "nursing_keywords": [],
-      "nursing_role_mix": null,
-      "nursing_care_setting": "unknown",
-      "nursing_specialties": [],
-      "nursing_explanations": [
-        "medium_event_50plus"
-      ],
-      "silent_signal_flag": false,
-      "retrieved_at": "2026-10-15T07:07:34.543Z"
-    },
-    {
-      "id": "904726431df1cfb0",
-      "state": "CA",
-      "employer_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
-      "parent_system": "Kaiser Foundation Hospitals and Kaiser Foundation Health",
-      "facility_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
-      "employer_id": "CA:kaiser-foundation-hospitals-and-kaiser-foundation-health",
-      "city": null,
-      "county": null,
-      "address": null,
-      "notice_date": "2026-11-05",
-      "effective_date": "2026-13-04",
-      "lead_time_days": null,
-      "employees_affected": 1,
-      "naics": null,
-      "reason": "Layoff Permanent",
-      "raw_text": null,
-      "source_name": "USA Today WARN List",
-      "source_url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/kaiser-foundation-hospitals-and-kaiser-foundation-health-plan-inc-ca-layoff-permanent/ca-2627-00351/?query=&page=",
-      "source_id": "ca-2627-00351",
-      "attachments": [
-        {
-          "url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/kaiser-foundation-hospitals-and-kaiser-foundation-health-plan-inc-ca-layoff-permanent/ca-2627-00351/?query=&page="
+          "url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/servicenow-inc-ca-layoff-permanent/ca-2627-00367/?query=&page="
         }
       ],
       "nursing_score": 0,
@@ -155,9 +75,261 @@
       "nursing_specialties": [],
       "nursing_explanations": [],
       "silent_signal_flag": false,
-      "retrieved_at": "2026-10-15T07:07:34.543Z"
+      "retrieved_at": "2026-10-19T23:26:07.029Z"
+    },
+    {
+      "id": "da192567a91b0784",
+      "state": "CA",
+      "employer_name": "ServiceNow, Inc.",
+      "parent_system": null,
+      "facility_name": "ServiceNow, Inc.",
+      "employer_id": "CA:servicenow",
+      "city": null,
+      "county": null,
+      "address": null,
+      "notice_date": "2026-11-13",
+      "effective_date": "2026-13-14",
+      "lead_time_days": null,
+      "employees_affected": 2,
+      "naics": null,
+      "reason": "Layoff Permanent",
+      "raw_text": null,
+      "source_name": "USA Today WARN List",
+      "source_url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/servicenow-inc-ca-layoff-permanent/ca-2627-00366/?query=&page=",
+      "source_id": "ca-2627-00366",
+      "attachments": [
+        {
+          "url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/servicenow-inc-ca-layoff-permanent/ca-2627-00366/?query=&page="
+        }
+      ],
+      "nursing_score": 0,
+      "nursing_label": "Unclear",
+      "nursing_signals": [],
+      "nursing_keywords": [],
+      "nursing_role_mix": null,
+      "nursing_care_setting": "unknown",
+      "nursing_specialties": [],
+      "nursing_explanations": [],
+      "silent_signal_flag": false,
+      "retrieved_at": "2026-10-19T23:26:07.029Z"
+    },
+    {
+      "id": "e8795d5cdbfe4454",
+      "state": "CA",
+      "employer_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
+      "parent_system": "Kaiser Foundation Hospitals and Kaiser Foundation Health",
+      "facility_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
+      "employer_id": "CA:kaiser-foundation-hospitals-and-kaiser-foundation-health",
+      "city": null,
+      "county": null,
+      "address": null,
+      "notice_date": "2026-11-12",
+      "effective_date": "2026-13-11",
+      "lead_time_days": null,
+      "employees_affected": 7,
+      "naics": null,
+      "reason": "Layoff Permanent",
+      "raw_text": null,
+      "source_name": "USA Today WARN List",
+      "source_url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/kaiser-foundation-hospitals-and-kaiser-foundation-health-plan-inc-ca-layoff-permanent/ca-2627-00364/?query=&page=",
+      "source_id": "ca-2627-00364",
+      "attachments": [
+        {
+          "url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/kaiser-foundation-hospitals-and-kaiser-foundation-health-plan-inc-ca-layoff-permanent/ca-2627-00364/?query=&page="
+        }
+      ],
+      "nursing_score": 0,
+      "nursing_label": "Unclear",
+      "nursing_signals": [],
+      "nursing_keywords": [],
+      "nursing_role_mix": null,
+      "nursing_care_setting": "unknown",
+      "nursing_specialties": [],
+      "nursing_explanations": [],
+      "silent_signal_flag": false,
+      "retrieved_at": "2026-10-19T23:26:07.029Z"
+    },
+    {
+      "id": "e8795d5cdbfe4454",
+      "state": "CA",
+      "employer_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
+      "parent_system": "Kaiser Foundation Hospitals and Kaiser Foundation Health",
+      "facility_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
+      "employer_id": "CA:kaiser-foundation-hospitals-and-kaiser-foundation-health",
+      "city": null,
+      "county": null,
+      "address": null,
+      "notice_date": "2026-11-12",
+      "effective_date": "2026-13-11",
+      "lead_time_days": null,
+      "employees_affected": 1,
+      "naics": null,
+      "reason": "Layoff Permanent",
+      "raw_text": null,
+      "source_name": "USA Today WARN List",
+      "source_url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/kaiser-foundation-hospitals-and-kaiser-foundation-health-plan-inc-ca-layoff-permanent/ca-2627-00365/?query=&page=",
+      "source_id": "ca-2627-00365",
+      "attachments": [
+        {
+          "url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/kaiser-foundation-hospitals-and-kaiser-foundation-health-plan-inc-ca-layoff-permanent/ca-2627-00365/?query=&page="
+        }
+      ],
+      "nursing_score": 0,
+      "nursing_label": "Unclear",
+      "nursing_signals": [],
+      "nursing_keywords": [],
+      "nursing_role_mix": null,
+      "nursing_care_setting": "unknown",
+      "nursing_specialties": [],
+      "nursing_explanations": [],
+      "silent_signal_flag": false,
+      "retrieved_at": "2026-10-19T23:26:07.029Z"
+    },
+    {
+      "id": "bd03e64c6a46ec68",
+      "state": "CA",
+      "employer_name": "Phillips 66 - Carson",
+      "parent_system": "Phillips 66",
+      "facility_name": "Phillips 66 - Carson",
+      "employer_id": "CA:phillips-66",
+      "city": null,
+      "county": null,
+      "address": null,
+      "notice_date": "2026-11-09",
+      "effective_date": "2026-13-09",
+      "lead_time_days": null,
+      "employees_affected": 3,
+      "naics": null,
+      "reason": "Closure Permanent",
+      "raw_text": null,
+      "source_name": "USA Today WARN List",
+      "source_url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/phillips-66-carson-ca-closure-permanent/ca-2627-00363/?query=&page=",
+      "source_id": "ca-2627-00363",
+      "attachments": [
+        {
+          "url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/phillips-66-carson-ca-closure-permanent/ca-2627-00363/?query=&page="
+        }
+      ],
+      "nursing_score": 0,
+      "nursing_label": "Unclear",
+      "nursing_signals": [],
+      "nursing_keywords": [],
+      "nursing_role_mix": null,
+      "nursing_care_setting": "unknown",
+      "nursing_specialties": [],
+      "nursing_explanations": [],
+      "silent_signal_flag": true,
+      "retrieved_at": "2026-10-19T23:26:07.029Z"
+    },
+    {
+      "id": "bf2840e470ea5691",
+      "state": "CA",
+      "employer_name": "Sapporo U.S.A - Citracado Parkway",
+      "parent_system": "Sapporo U.S.A",
+      "facility_name": "Sapporo U.S.A - Citracado Parkway",
+      "employer_id": "CA:sapporo-u-s-a",
+      "city": null,
+      "county": null,
+      "address": null,
+      "notice_date": "2026-11-09",
+      "effective_date": "2026-13-11",
+      "lead_time_days": null,
+      "employees_affected": 2,
+      "naics": null,
+      "reason": "Closure Permanent",
+      "raw_text": null,
+      "source_name": "USA Today WARN List",
+      "source_url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/sapporo-usa-citracado-parkway-ca-closure-permanent/ca-2627-00361/?query=&page=",
+      "source_id": "ca-2627-00361",
+      "attachments": [
+        {
+          "url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/sapporo-usa-citracado-parkway-ca-closure-permanent/ca-2627-00361/?query=&page="
+        }
+      ],
+      "nursing_score": 0,
+      "nursing_label": "Unclear",
+      "nursing_signals": [],
+      "nursing_keywords": [],
+      "nursing_role_mix": null,
+      "nursing_care_setting": "unknown",
+      "nursing_specialties": [],
+      "nursing_explanations": [],
+      "silent_signal_flag": true,
+      "retrieved_at": "2026-10-19T23:26:07.029Z"
+    },
+    {
+      "id": "bd040a7af5d254ef",
+      "state": "CA",
+      "employer_name": "Phillips 66 - Wilmington",
+      "parent_system": "Phillips 66",
+      "facility_name": "Phillips 66 - Wilmington",
+      "employer_id": "CA:phillips-66",
+      "city": null,
+      "county": null,
+      "address": null,
+      "notice_date": "2026-11-09",
+      "effective_date": "2026-13-09",
+      "lead_time_days": null,
+      "employees_affected": 5,
+      "naics": null,
+      "reason": "Closure Permanent",
+      "raw_text": null,
+      "source_name": "USA Today WARN List",
+      "source_url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/phillips-66-wilmington-ca-closure-permanent/ca-2627-00362/?query=&page=",
+      "source_id": "ca-2627-00362",
+      "attachments": [
+        {
+          "url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/phillips-66-wilmington-ca-closure-permanent/ca-2627-00362/?query=&page="
+        }
+      ],
+      "nursing_score": 0,
+      "nursing_label": "Unclear",
+      "nursing_signals": [],
+      "nursing_keywords": [],
+      "nursing_role_mix": null,
+      "nursing_care_setting": "unknown",
+      "nursing_specialties": [],
+      "nursing_explanations": [],
+      "silent_signal_flag": true,
+      "retrieved_at": "2026-10-19T23:26:07.029Z"
+    },
+    {
+      "id": "8136a07dac0da373",
+      "state": "CA",
+      "employer_name": "Sapporo U.S.A. - Executive Place",
+      "parent_system": "Sapporo U.S.A.",
+      "facility_name": "Sapporo U.S.A. - Executive Place",
+      "employer_id": "CA:sapporo-u-s-a",
+      "city": null,
+      "county": null,
+      "address": null,
+      "notice_date": "2026-11-09",
+      "effective_date": "2026-13-11",
+      "lead_time_days": null,
+      "employees_affected": 1,
+      "naics": null,
+      "reason": "Closure Permanent",
+      "raw_text": null,
+      "source_name": "USA Today WARN List",
+      "source_url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/sapporo-usa-executive-place-ca-closure-permanent/ca-2627-00360/?query=&page=",
+      "source_id": "ca-2627-00360",
+      "attachments": [
+        {
+          "url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/sapporo-usa-executive-place-ca-closure-permanent/ca-2627-00360/?query=&page="
+        }
+      ],
+      "nursing_score": 0,
+      "nursing_label": "Unclear",
+      "nursing_signals": [],
+      "nursing_keywords": [],
+      "nursing_role_mix": null,
+      "nursing_care_setting": "unknown",
+      "nursing_specialties": [],
+      "nursing_explanations": [],
+      "silent_signal_flag": true,
+      "retrieved_at": "2026-10-19T23:26:07.029Z"
     }
   ],
-  "count": 4,
-  "lastUpdated": "2026-10-19T19:11:18.832Z"
+  "count": 9,
+  "lastUpdated": "2026-10-19T23:26:58.875Z"
 }
