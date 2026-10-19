@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T12:32:30.011Z",
+  "lastUpdated": "2026-10-19T19:15:25.636Z",
   "scope": "US healthcare",
   "sourceManifestVersion": "1.0.0",
   "sourceHealth": [
@@ -1447,6 +1447,17 @@
       "relevance": 100
     },
     {
+      "title": "Read more about Trump Administration Announces More Than $16 Million for Rural Healthcare Workforce Training and Retention Across Maryland",
+      "summary": "",
+      "url": "https://www.cms.gov/newsroom/press-releases/trump-administration-announces-more-16-million-rural-healthcare-workforce-training-retention-across",
+      "source": "CMS Newsroom",
+      "sourceType": "html",
+      "sourceId": "cms_newsroom",
+      "publishedAt": "",
+      "category": "ai_tech",
+      "relevance": 100
+    },
+    {
       "title": "Read more about Trump Administration Announces $92 Million to Coordinate Rural Hospital Networks, Improve Maternal Care, and Expand Medical Services Across Ohio",
       "summary": "",
       "url": "https://www.cms.gov/newsroom/press-releases/trump-administration-announces-92-million-coordinate-rural-hospital-networks-improve-maternal-care",
@@ -1499,6 +1510,17 @@
       "sourceId": "cms_newsroom",
       "publishedAt": "",
       "category": "policy_reimbursement",
+      "relevance": 100
+    },
+    {
+      "title": "October 19, 2026 - FDA Approves Immunotherapy That May Allow Certain Patients with Rectal Cancer to Avoid Chemotherapy, Radiation and Surgery",
+      "summary": "",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-immunotherapy-may-allow-certain-patients-rectal-cancer-avoid-chemotherapy-radiation-and",
+      "source": "FDA Newsroom",
+      "sourceType": "html",
+      "sourceId": "fda_newsroom",
+      "publishedAt": "",
+      "category": "ai_tech",
       "relevance": 100
     },
     {
@@ -1788,6 +1810,17 @@
       "relevance": 100
     },
     {
+      "title": "TODAY, OCT. 19: NYSNA to Host Virtual Town Hall on Northwell Health/Putnam Hospital Nurses’ Fight for Safe Staffing",
+      "summary": "",
+      "url": "https://www.nysna.org/press/today-oct-19-nysna-host-virtual-town-hall-northwell-healthputnam-hospital-nurses-fight-safe",
+      "source": "NYSNA RSS",
+      "sourceType": "rss",
+      "sourceId": "nysna_rss",
+      "publishedAt": "",
+      "category": "labor_unions",
+      "relevance": 100
+    },
+    {
       "title": "MONDAY, OCT. 19: NYSNA to Host Virtual Town Hall on Northwell Health/Putnam Hospital Nurses’ Fight for Safe Staffing",
       "summary": "",
       "url": "https://www.nysna.org/press/monday-oct-19-nysna-host-virtual-town-hall-northwell-healthputnam-hospital-nurses-fight-safe",
@@ -1829,6 +1862,28 @@
       "sourceId": "ftc_press_releases",
       "publishedAt": "",
       "category": "quality_safety",
+      "relevance": 98
+    },
+    {
+      "title": "FTC Sues to Block PlayPower’s Acquisition of Rival Playground Manufacturer Burke",
+      "summary": "",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-sues-block-playpowers-acquisition-rival-playground-manufacturer-burke",
+      "source": "FTC Press Releases",
+      "sourceType": "html",
+      "sourceId": "ftc_press_releases",
+      "publishedAt": "",
+      "category": "mergers_mna",
+      "relevance": 98
+    },
+    {
+      "title": "FTC Order Preserves Competition in Digital Advertising Ecosystem as Part of Publicis’s Acquisition of LiveRamp",
+      "summary": "",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-order-preserves-competition-digital-advertising-ecosystem-part-publiciss-acquisition-liveramp",
+      "source": "FTC Press Releases",
+      "sourceType": "html",
+      "sourceId": "ftc_press_releases",
+      "publishedAt": "",
+      "category": "mergers_mna",
       "relevance": 98
     },
     {
@@ -1874,17 +1929,6 @@
       "publishedAt": "",
       "category": "ai_tech",
       "relevance": 98
-    },
-    {
-      "title": "Read more about CHOICE in Action: Ohio Employers Explore New Approach to Health Benefits",
-      "summary": "",
-      "url": "https://www.cms.gov/newsroom/press-releases/choice-action-ohio-employers-explore-new-approach-health-benefits",
-      "source": "CMS Newsroom",
-      "sourceType": "html",
-      "sourceId": "cms_newsroom",
-      "publishedAt": "",
-      "category": "policy_reimbursement",
-      "relevance": 97
     },
     {
       "title": "Vulnerability Disclosure Policy",
@@ -1989,17 +2033,6 @@
       "title": "September 28, 2026 - FDA intends to evaluate changes to the PMTA regulatory framework",
       "summary": "",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-intends-evaluate-changes-pmta-regulatory-framework",
-      "source": "FDA Newsroom",
-      "sourceType": "html",
-      "sourceId": "fda_newsroom",
-      "publishedAt": "",
-      "category": "quality_safety",
-      "relevance": 96
-    },
-    {
-      "title": "September 21, 2026 - FDA Updates Regulations to Advance Innovative Alternatives to Animal Testing",
-      "summary": "",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-updates-regulations-advance-innovative-alternatives-animal-testing",
       "source": "FDA Newsroom",
       "sourceType": "html",
       "sourceId": "fda_newsroom",
@@ -2371,39 +2404,6 @@
       "relevance": 93
     },
     {
-      "title": "View competition guidance",
-      "summary": "",
-      "url": "https://www.ftc.gov/business-guidance/competition-business-guidance",
-      "source": "FTC Press Releases",
-      "sourceType": "html",
-      "sourceId": "ftc_press_releases",
-      "publishedAt": "",
-      "category": "mergers_mna",
-      "relevance": 93
-    },
-    {
-      "title": "How Loyalty Discounts Between Firms Harm Competition When There Are Network Effects: FTC v. Surescripts",
-      "summary": "",
-      "url": "https://www.ftc.gov/enforcement/competition-matters/2026/02/how-loyalty-discounts-between-firms-harm-competition-when-there-are-network-effects-ftc-v-surescripts",
-      "source": "FTC Press Releases",
-      "sourceType": "html",
-      "sourceId": "ftc_press_releases",
-      "publishedAt": "",
-      "category": "mergers_mna",
-      "relevance": 93
-    },
-    {
-      "title": "View all Competition Matters Blog posts",
-      "summary": "",
-      "url": "https://www.ftc.gov/enforcement/competition-matters",
-      "source": "FTC Press Releases",
-      "sourceType": "html",
-      "sourceId": "ftc_press_releases",
-      "publishedAt": "",
-      "category": "mergers_mna",
-      "relevance": 93
-    },
-    {
       "title": "Journal of the New York State Nurses Association",
       "summary": "",
       "url": "https://www.nysna.org/nursing-resources/journal-new-york-state-nurses-association",
@@ -2440,17 +2440,6 @@
       "title": "NYP-Gracie Square Nurses Picket to Demand Safe Staffing and Protections From Workplace Violence",
       "summary": "",
       "url": "https://www.nysna.org/press/nyp-gracie-square-nurses-picket-demand-safe-staffing-and-protections-workplace-violence",
-      "source": "NYSNA RSS",
-      "sourceType": "rss",
-      "sourceId": "nysna_rss",
-      "publishedAt": "",
-      "category": "labor_unions",
-      "relevance": 93
-    },
-    {
-      "title": "TOMORROW: NYP-Gracie Square Nurses to Hold Informational Picket Thursday",
-      "summary": "",
-      "url": "https://www.nysna.org/press/tomorrow-nyp-gracie-square-nurses-hold-informational-picket-thursday",
       "source": "NYSNA RSS",
       "sourceType": "rss",
       "sourceId": "nysna_rss",

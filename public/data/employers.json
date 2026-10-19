@@ -379,6 +379,24 @@
       }
     },
     {
+      "employer_id": "FL:promises-behavioral-health",
+      "employer_name": "Promises Behavioral Health, LLC",
+      "parent_system": "Promises Behavioral Health",
+      "state": "FL",
+      "total_notices": 1,
+      "total_affected": 64,
+      "avg_affected": 64,
+      "avg_lead_time_days": 0,
+      "first_notice_date": "2025-08-18",
+      "last_notice_date": "2025-08-18",
+      "quarter_counts": {
+        "Q1": 0,
+        "Q2": 0,
+        "Q3": 1,
+        "Q4": 0
+      }
+    },
+    {
       "employer_id": "IN:shine-early-learning",
       "employer_name": "Shine Early Learning, Inc",
       "parent_system": null,
@@ -1765,6 +1783,24 @@
       }
     },
     {
+      "employer_id": "FL:health",
+      "employer_name": "Health First Inc., and Health First Shared Services, Inc.",
+      "parent_system": "Health",
+      "state": "FL",
+      "total_notices": 1,
+      "total_affected": 215,
+      "avg_affected": 215,
+      "avg_lead_time_days": 0,
+      "first_notice_date": "2026-09-16",
+      "last_notice_date": "2026-09-16",
+      "quarter_counts": {
+        "Q1": 0,
+        "Q2": 0,
+        "Q3": 1,
+        "Q4": 0
+      }
+    },
+    {
       "employer_id": "VA:crothall-healthcare",
       "employer_name": "Crothall Healthcare",
       "parent_system": "Crothall Healthcare",
@@ -1779,6 +1815,42 @@
         "Q1": 0,
         "Q2": 2,
         "Q3": 1,
+        "Q4": 1
+      }
+    },
+    {
+      "employer_id": "FL:amazon",
+      "employer_name": "Amazon",
+      "parent_system": null,
+      "state": "FL",
+      "total_notices": 1,
+      "total_affected": 494,
+      "avg_affected": 494,
+      "avg_lead_time_days": 63,
+      "first_notice_date": "2026-07-16",
+      "last_notice_date": "2026-07-16",
+      "quarter_counts": {
+        "Q1": 0,
+        "Q2": 0,
+        "Q3": 1,
+        "Q4": 0
+      }
+    },
+    {
+      "employer_id": "FL:ideal-image",
+      "employer_name": "Ideal Image",
+      "parent_system": null,
+      "state": "FL",
+      "total_notices": 1,
+      "total_affected": 255,
+      "avg_affected": 255,
+      "avg_lead_time_days": 60,
+      "first_notice_date": "2025-12-22",
+      "last_notice_date": "2025-12-22",
+      "quarter_counts": {
+        "Q1": 0,
+        "Q2": 0,
+        "Q3": 0,
         "Q4": 1
       }
     },
@@ -1935,13 +2007,67 @@
       "total_affected": 66,
       "avg_affected": 66,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-19T12:26:55.998Z",
-      "last_notice_date": "2026-10-19T12:26:55.998Z",
+      "first_notice_date": "2026-10-19T19:06:10.109Z",
+      "last_notice_date": "2026-10-19T19:06:10.109Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
         "Q3": 0,
         "Q4": 1
+      }
+    },
+    {
+      "employer_id": "FL:th-opco-d-b-a-terrace-of-hialeah",
+      "employer_name": "TH Opco LLC d/b/a Terrace of Hialeah",
+      "parent_system": null,
+      "state": "FL",
+      "total_notices": 1,
+      "total_affected": 175,
+      "avg_affected": 175,
+      "avg_lead_time_days": 60,
+      "first_notice_date": "2026-10-07",
+      "last_notice_date": "2026-10-07",
+      "quarter_counts": {
+        "Q1": 0,
+        "Q2": 0,
+        "Q3": 0,
+        "Q4": 1
+      }
+    },
+    {
+      "employer_id": "FL:southeast-home-care",
+      "employer_name": "Southeast Home Care",
+      "parent_system": null,
+      "state": "FL",
+      "total_notices": 6,
+      "total_affected": 178,
+      "avg_affected": 30,
+      "avg_lead_time_days": 74,
+      "first_notice_date": "2026-06-18",
+      "last_notice_date": "2026-06-18",
+      "quarter_counts": {
+        "Q1": 0,
+        "Q2": 6,
+        "Q3": 0,
+        "Q4": 0
+      }
+    },
+    {
+      "employer_id": "FL:sanitas-medical-centers",
+      "employer_name": "Sanitas Medical Centers",
+      "parent_system": null,
+      "state": "FL",
+      "total_notices": 16,
+      "total_affected": 211,
+      "avg_affected": 13,
+      "avg_lead_time_days": 1,
+      "first_notice_date": "2026-06-08",
+      "last_notice_date": "2026-06-08",
+      "quarter_counts": {
+        "Q1": 0,
+        "Q2": 16,
+        "Q3": 0,
+        "Q4": 0
       }
     },
     {
@@ -1978,6 +2104,42 @@
         "Q2": 1,
         "Q3": 0,
         "Q4": 0
+      }
+    },
+    {
+      "employer_id": "FL:north-florida-surgeons-orthopaedic-associates",
+      "employer_name": "North Florida Surgeons Orthopaedic Associates",
+      "parent_system": null,
+      "state": "FL",
+      "total_notices": 2,
+      "total_affected": 84,
+      "avg_affected": 42,
+      "avg_lead_time_days": 60,
+      "first_notice_date": "2025-10-30",
+      "last_notice_date": "2025-10-30",
+      "quarter_counts": {
+        "Q1": 0,
+        "Q2": 0,
+        "Q3": 0,
+        "Q4": 2
+      }
+    },
+    {
+      "employer_id": "FL:sentara-health",
+      "employer_name": "Sentara Health",
+      "parent_system": "Sentara Health",
+      "state": "FL",
+      "total_notices": 1,
+      "total_affected": 80,
+      "avg_affected": 80,
+      "avg_lead_time_days": 63,
+      "first_notice_date": "2025-10-03",
+      "last_notice_date": "2025-10-03",
+      "quarter_counts": {
+        "Q1": 0,
+        "Q2": 0,
+        "Q3": 0,
+        "Q4": 1
       }
     },
     {
@@ -2422,7 +2584,7 @@
       "avg_affected": 59,
       "avg_lead_time_days": 73,
       "first_notice_date": "2014-04-15",
-      "last_notice_date": "2026-10-19T12:26:28.639Z",
+      "last_notice_date": "2026-10-19T19:05:36.193Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 1,
@@ -2583,8 +2745,8 @@
       "total_affected": 1,
       "avg_affected": 1,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-19T12:26:55.998Z",
-      "last_notice_date": "2026-10-19T12:26:55.998Z",
+      "first_notice_date": "2026-10-19T19:06:10.109Z",
+      "last_notice_date": "2026-10-19T19:06:10.109Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -2601,8 +2763,8 @@
       "total_affected": 0,
       "avg_affected": 0,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-19T12:26:29.648Z",
-      "last_notice_date": "2026-10-19T12:26:29.648Z",
+      "first_notice_date": "2026-10-19T19:05:37.030Z",
+      "last_notice_date": "2026-10-19T19:05:37.030Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -2619,8 +2781,8 @@
       "total_affected": 0,
       "avg_affected": 0,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-19T12:26:29.648Z",
-      "last_notice_date": "2026-10-19T12:26:29.648Z",
+      "first_notice_date": "2026-10-19T19:05:37.030Z",
+      "last_notice_date": "2026-10-19T19:05:37.030Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -2637,8 +2799,8 @@
       "total_affected": 0,
       "avg_affected": 0,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-19T12:26:29.648Z",
-      "last_notice_date": "2026-10-19T12:26:29.648Z",
+      "first_notice_date": "2026-10-19T19:05:37.030Z",
+      "last_notice_date": "2026-10-19T19:05:37.030Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -2655,8 +2817,8 @@
       "total_affected": 0,
       "avg_affected": 0,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-19T12:26:29.648Z",
-      "last_notice_date": "2026-10-19T12:26:29.648Z",
+      "first_notice_date": "2026-10-19T19:05:37.030Z",
+      "last_notice_date": "2026-10-19T19:05:37.030Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -2673,8 +2835,8 @@
       "total_affected": 0,
       "avg_affected": 0,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-19T12:26:29.648Z",
-      "last_notice_date": "2026-10-19T12:26:29.648Z",
+      "first_notice_date": "2026-10-19T19:05:37.030Z",
+      "last_notice_date": "2026-10-19T19:05:37.030Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -2691,8 +2853,8 @@
       "total_affected": 0,
       "avg_affected": 0,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-19T12:26:29.648Z",
-      "last_notice_date": "2026-10-19T12:26:29.648Z",
+      "first_notice_date": "2026-10-19T19:05:37.030Z",
+      "last_notice_date": "2026-10-19T19:05:37.030Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
@@ -2709,13 +2871,49 @@
       "total_affected": 0,
       "avg_affected": 0,
       "avg_lead_time_days": null,
-      "first_notice_date": "2026-10-19T12:26:29.648Z",
-      "last_notice_date": "2026-10-19T12:26:29.648Z",
+      "first_notice_date": "2026-10-19T19:05:37.030Z",
+      "last_notice_date": "2026-10-19T19:05:37.030Z",
       "quarter_counts": {
         "Q1": 0,
         "Q2": 0,
         "Q3": 0,
         "Q4": 1
+      }
+    },
+    {
+      "employer_id": "FL:cayuga-home-for-children-dba-cayuga-centers",
+      "employer_name": "Cayuga Home for Children, dba Cayuga Centers",
+      "parent_system": null,
+      "state": "FL",
+      "total_notices": 1,
+      "total_affected": 13,
+      "avg_affected": 13,
+      "avg_lead_time_days": 90,
+      "first_notice_date": "2026-10-06",
+      "last_notice_date": "2026-10-06",
+      "quarter_counts": {
+        "Q1": 0,
+        "Q2": 0,
+        "Q3": 0,
+        "Q4": 1
+      }
+    },
+    {
+      "employer_id": "FL:pourlessoins-d-b-a-synergy-health-services-and-zomleben-d-b-a-synergy-healthcare",
+      "employer_name": "Pourlessoins, LLC d/b/a Synergy Health Services and Zomleben, LLC d/b/a Synergy Healthcare Solutions",
+      "parent_system": "Pourlessoins, LLC d/b/a Synergy Health Services and Zomleben, LLC d/b/a Synergy Healthcare",
+      "state": "FL",
+      "total_notices": 15,
+      "total_affected": 23,
+      "avg_affected": 2,
+      "avg_lead_time_days": 60,
+      "first_notice_date": "2025-07-02",
+      "last_notice_date": "2025-07-02",
+      "quarter_counts": {
+        "Q1": 0,
+        "Q2": 0,
+        "Q3": 15,
+        "Q4": 0
       }
     },
     {
@@ -2917,6 +3115,6 @@
       }
     }
   ],
-  "count": 162,
-  "lastUpdated": "2026-10-19T12:29:54.974Z"
+  "count": 173,
+  "lastUpdated": "2026-10-19T19:11:18.830Z"
 }

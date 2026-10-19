@@ -38,7 +38,7 @@
     },
     {
       "state": "FL",
-      "count": 0
+      "count": 200
     },
     {
       "state": "GA",
@@ -50,7 +50,7 @@
     },
     {
       "state": "IA",
-      "count": 1
+      "count": 4
     },
     {
       "state": "ID",
@@ -58,7 +58,7 @@
     },
     {
       "state": "IL",
-      "count": 0
+      "count": 1
     },
     {
       "state": "IN",
@@ -82,11 +82,11 @@
     },
     {
       "state": "MD",
-      "count": 107
+      "count": 108
     },
     {
       "state": "ME",
-      "count": 0
+      "count": 1
     },
     {
       "state": "MI",
@@ -118,7 +118,7 @@
     },
     {
       "state": "NE",
-      "count": 0
+      "count": 48
     },
     {
       "state": "NH",
@@ -166,7 +166,7 @@
     },
     {
       "state": "SC",
-      "count": 0
+      "count": 1
     },
     {
       "state": "SD",
@@ -209,5 +209,5 @@
       "count": 0
     }
   ],
-  "lastUpdated": "2026-10-19T12:29:54.942Z"
+  "lastUpdated": "2026-10-19T19:11:18.795Z"
 }
