@@ -352,7 +352,7 @@
       "states": [
         "MN"
       ],
-      "last_notice_date": "2026-10-19T00:54:00.404Z"
+      "last_notice_date": "2026-10-19T05:50:28.694Z"
     },
     {
       "system_name": "Lakeshore Community Health Care",
@@ -442,7 +442,7 @@
       "states": [
         "IN"
       ],
-      "last_notice_date": "2026-10-19T00:53:28.549Z"
+      "last_notice_date": "2026-10-19T05:49:50.001Z"
     },
     {
       "system_name": "Hickory Creek Healthcare",
@@ -488,7 +488,7 @@
       "states": [
         "MN"
       ],
-      "last_notice_date": "2026-10-19T00:54:00.404Z"
+      "last_notice_date": "2026-10-19T05:50:28.694Z"
     },
     {
       "system_name": "Health Care",
@@ -497,7 +497,7 @@
       "states": [
         "MI"
       ],
-      "last_notice_date": "2026-10-19T00:53:29.371Z"
+      "last_notice_date": "2026-10-19T05:49:50.656Z"
     },
     {
       "system_name": "Pourlessoins, LLC d/b/a Synergy Health Services and Zomleben, LLC d/b/a Synergy Healthcare",
@@ -582,5 +582,5 @@
     }
   ],
   "count": 64,
-  "lastUpdated": "2026-10-19T00:59:23.643Z"
+  "lastUpdated": "2026-10-19T05:53:14.680Z"
 }
