@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-19T23:26:58.875Z",
-  "totalNotices": 4630,
-  "statesWithData": 15,
+  "lastUpdated": "2026-10-20T03:57:01.299Z",
+  "totalNotices": 4617,
+  "statesWithData": 13,
   "statesFailed": [],
-  "fetchDuration": 195198,
+  "fetchDuration": 227195,
   "version": "1.1.0",
   "features": [
     "nursing-impact-breakdown",

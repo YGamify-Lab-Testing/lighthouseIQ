@@ -981,13 +981,6 @@
       "risk_level": "green"
     },
     {
-      "state": "CA",
-      "city": null,
-      "total_notices": 2,
-      "notices_last_90_days": 2,
-      "risk_level": "green"
-    },
-    {
       "state": "MI",
       "city": null,
       "total_notices": 7,
@@ -1247,6 +1240,6 @@
       "risk_level": "green"
     }
   ],
-  "count": 178,
-  "lastUpdated": "2026-10-19T23:26:58.874Z"
+  "count": 177,
+  "lastUpdated": "2026-10-20T03:57:01.298Z"
 }

@@ -352,7 +352,7 @@
       "states": [
         "MN"
       ],
-      "last_notice_date": "2026-10-19T23:24:24.538Z"
+      "last_notice_date": "2026-10-20T03:53:56.767Z"
     },
     {
       "system_name": "Lakeshore Community Health Care",
@@ -442,7 +442,7 @@
       "states": [
         "IN"
       ],
-      "last_notice_date": "2026-10-19T23:23:43.524Z"
+      "last_notice_date": "2026-10-20T03:53:13.967Z"
     },
     {
       "system_name": "Hickory Creek Healthcare",
@@ -482,22 +482,13 @@
       "last_notice_date": "2005-09-02"
     },
     {
-      "system_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health",
-      "total_notices": 2,
-      "total_affected": 8,
-      "states": [
-        "CA"
-      ],
-      "last_notice_date": "2026-11-12"
-    },
-    {
       "system_name": "Lake Crystal Pharmacy Lake Crystal Health Care",
       "total_notices": 1,
       "total_affected": 1,
       "states": [
         "MN"
       ],
-      "last_notice_date": "2026-10-19T23:24:24.538Z"
+      "last_notice_date": "2026-10-20T03:53:56.767Z"
     },
     {
       "system_name": "Health Care",
@@ -506,7 +497,7 @@
       "states": [
         "MI"
       ],
-      "last_notice_date": "2026-10-19T23:23:44.303Z"
+      "last_notice_date": "2026-10-20T03:53:14.849Z"
     },
     {
       "system_name": "Pourlessoins, LLC d/b/a Synergy Health Services and Zomleben, LLC d/b/a Synergy Healthcare",
@@ -590,6 +581,6 @@
       "last_notice_date": "2003-10-27"
     }
   ],
-  "count": 65,
-  "lastUpdated": "2026-10-19T23:26:58.873Z"
+  "count": 64,
+  "lastUpdated": "2026-10-20T03:57:01.297Z"
 }

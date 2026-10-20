@@ -29,34 +29,6 @@
       "silent_signal_flag": false
     },
     {
-      "notice_id": "e8795d5cdbfe4454",
-      "state": "CA",
-      "employer_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
-      "parent_system": "Kaiser Foundation Hospitals and Kaiser Foundation Health",
-      "facility_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
-      "notice_date": "2026-11-12",
-      "effective_date": "2026-13-11",
-      "lead_time_days": null,
-      "expected_lead_days": null,
-      "early_warning": false,
-      "nursing_score": 0,
-      "silent_signal_flag": false
-    },
-    {
-      "notice_id": "e8795d5cdbfe4454",
-      "state": "CA",
-      "employer_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
-      "parent_system": "Kaiser Foundation Hospitals and Kaiser Foundation Health",
-      "facility_name": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",
-      "notice_date": "2026-11-12",
-      "effective_date": "2026-13-11",
-      "lead_time_days": null,
-      "expected_lead_days": null,
-      "early_warning": false,
-      "nursing_score": 0,
-      "silent_signal_flag": false
-    },
-    {
       "notice_id": "6d2e6ec23d3aed7d",
       "state": "MN",
       "employer_name": "Lake Crystal Pharmacy Lake Crystal Health Care/Social Assist",
@@ -195,22 +167,8 @@
       "early_warning": false,
       "nursing_score": 0,
       "silent_signal_flag": false
-    },
-    {
-      "notice_id": "13a1b1aa18f2ac97",
-      "state": "FL",
-      "employer_name": "Cayuga Home for Children, dba Cayuga Centers",
-      "parent_system": null,
-      "facility_name": "Cayuga Home for Children, dba Cayuga Centers",
-      "notice_date": "2026-10-06",
-      "effective_date": "2027-01-04",
-      "lead_time_days": 90,
-      "expected_lead_days": 90,
-      "early_warning": false,
-      "nursing_score": 0,
-      "silent_signal_flag": false
     }
   ],
-  "count": 15,
-  "lastUpdated": "2026-10-19T23:26:58.874Z"
+  "count": 12,
+  "lastUpdated": "2026-10-20T03:57:01.298Z"
 }
