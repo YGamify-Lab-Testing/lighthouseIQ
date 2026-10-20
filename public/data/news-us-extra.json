@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T09:19:25.481Z",
+  "lastUpdated": "2026-10-20T14:53:57.540Z",
   "scope": "US healthcare",
   "sourceManifestVersion": "1.0.0",
   "sourceHealth": [
@@ -1876,9 +1876,9 @@
       "relevance": 98
     },
     {
-      "title": "FTC Sues to Block PlayPower’s Acquisition of Rival Playground Manufacturer Burke",
+      "title": "FTC Order Preserves Competition in Digital Advertising Ecosystem as Part of Publicis’s Acquisition of LiveRamp",
       "summary": "",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-sues-block-playpowers-acquisition-rival-playground-manufacturer-burke",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-order-preserves-competition-digital-advertising-ecosystem-part-publiciss-acquisition-liveramp",
       "source": "FTC Press Releases",
       "sourceType": "html",
       "sourceId": "ftc_press_releases",
@@ -1887,9 +1887,9 @@
       "relevance": 98
     },
     {
-      "title": "FTC Order Preserves Competition in Digital Advertising Ecosystem as Part of Publicis’s Acquisition of LiveRamp",
+      "title": "FTC Sues to Block PlayPower’s Acquisition of Rival Playground Manufacturer Burke",
       "summary": "",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-order-preserves-competition-digital-advertising-ecosystem-part-publiciss-acquisition-liveramp",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-sues-block-playpowers-acquisition-rival-playground-manufacturer-burke",
       "source": "FTC Press Releases",
       "sourceType": "html",
       "sourceId": "ftc_press_releases",
@@ -1956,6 +1956,17 @@
       "title": "Recalls, Market Withdrawals and Safety Alerts",
       "summary": "",
       "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "source": "FDA Newsroom",
+      "sourceType": "html",
+      "sourceId": "fda_newsroom",
+      "publishedAt": "",
+      "category": "quality_safety",
+      "relevance": 96
+    },
+    {
+      "title": "October 20, 2026 - FDA Issues Final Guidance on Prescription Drug Apps and Software",
+      "summary": "",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-issues-final-guidance-prescription-drug-apps-and-software",
       "source": "FDA Newsroom",
       "sourceType": "html",
       "sourceId": "fda_newsroom",
@@ -2550,17 +2561,6 @@
       "title": "Inspections and Compliance",
       "summary": "",
       "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations",
-      "source": "FDA Newsroom",
-      "sourceType": "html",
-      "sourceId": "fda_newsroom",
-      "publishedAt": "",
-      "category": "quality_safety",
-      "relevance": 91
-    },
-    {
-      "title": "Federal, State and Local Officials",
-      "summary": "",
-      "url": "https://www.fda.gov/federal-state-local-tribal-and-territorial-officials",
       "source": "FDA Newsroom",
       "sourceType": "html",
       "sourceId": "fda_newsroom",

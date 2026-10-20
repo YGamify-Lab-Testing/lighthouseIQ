@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T09:19:25.543Z",
+  "lastUpdated": "2026-10-20T14:53:57.605Z",
   "scope": "US healthcare",
   "retentionDays": 90,
   "maxArticles": 500,
@@ -10,72 +10,72 @@
     "sources": [
       {
         "source": "Fierce Healthcare",
-        "articleCount": 241,
+        "articleCount": 226,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 9,
+        "staleHours": 14,
         "status": "ok"
       },
       {
         "source": "Becker's Hospital Review",
-        "articleCount": 119,
-        "latestPublishedAt": "2026-10-19T00:00:00.000Z",
-        "staleHours": 33,
+        "articleCount": 129,
+        "latestPublishedAt": "2026-10-20T00:00:00.000Z",
+        "staleHours": 14,
         "status": "ok"
       },
       {
         "source": "STAT News",
-        "articleCount": 62,
+        "articleCount": 67,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 9,
+        "staleHours": 14,
         "status": "ok"
       },
       {
         "source": "Federal Register - HHS",
         "articleCount": 36,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 9,
+        "staleHours": 14,
         "status": "ok"
       },
       {
         "source": "Healthcare Dive",
         "articleCount": 19,
         "latestPublishedAt": "2026-10-19T00:00:00.000Z",
-        "staleHours": 33,
+        "staleHours": 38,
         "status": "ok"
       },
       {
         "source": "Federal Register - FDA",
         "articleCount": 10,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 105,
+        "staleHours": 110,
         "status": "stale"
       },
       {
         "source": "FDA MedWatch RSS",
         "articleCount": 6,
         "latestPublishedAt": "2026-10-19T00:00:00.000Z",
-        "staleHours": 33,
+        "staleHours": 38,
         "status": "ok"
       },
       {
         "source": "Federal Register - CMS",
         "articleCount": 4,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 9,
+        "staleHours": 14,
         "status": "ok"
       },
       {
         "source": "SEC Healthcare Filings",
         "articleCount": 2,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 177,
+        "staleHours": 182,
         "status": "stale"
       },
       {
         "source": "National Nurses United RSS",
         "articleCount": 1,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 177,
+        "staleHours": 182,
         "status": "stale"
       }
     ]
@@ -83,7 +83,7 @@
   "categoryCoverage": {
     "closures_layoffs": {
       "label": "Closures & Layoffs",
-      "count": 11
+      "count": 12
     },
     "mergers_mna": {
       "label": "Mergers & M&A",
@@ -95,7 +95,7 @@
     },
     "policy_reimbursement": {
       "label": "Policy & Reimbursement",
-      "count": 61
+      "count": 58
     },
     "quality_safety": {
       "label": "Quality & Safety",
@@ -103,15 +103,15 @@
     },
     "capacity_expansion": {
       "label": "Capacity & Expansion",
-      "count": 17
+      "count": 18
     },
     "ai_tech": {
       "label": "AI & Digital Tech",
-      "count": 127
+      "count": 124
     },
     "general_market": {
       "label": "General Market",
-      "count": 220
+      "count": 224
     }
   },
   "quality": {
@@ -127,7 +127,7 @@
       },
       "minArticles24h": {
         "threshold": 20,
-        "actual": 37,
+        "actual": 53,
         "pass": true
       },
       "minRequiredCategoriesCovered": {
@@ -264,6 +264,141 @@
       "categoryLabel": "General Market"
     },
     {
+      "title": "Experian Health buys eInsights as Medicaid eligibility checks ramp up",
+      "url": "https://www.beckershospitalreview.com/finance/revenue-cycle-management/experian-health-buys-einsights-as-medicaid-eligibility-checks-ramp-up/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "Experian Health has acquired eInsights, a company that finds patient insurance coverage that providers missed at registration. eInsights searches for coverage after care is delivered, including retroactive Medicaid, secondary coverage and coordination of benefits, according to an Oct.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
+    },
+    {
+      "title": "ACGME weighs cutting residents’ post-call rest: 7 things to know",
+      "url": "https://www.beckershospitalreview.com/quality/hospital-physician-relationships/acgme-weighs-cutting-residents-post-call-rest-7-things-to-know/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "The Accreditation Council for Graduate Medical Education has proposed major revisions to the Common Program Requirements that govern U.S.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "California hospital shelves residency proposal amid bankruptcy",
+      "url": "https://www.beckershospitalreview.com/quality/hospital-physician-relationships/california-hospital-shelves-residency-proposal-amid-bankruptcy/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "Oroville (Calif.) Hospital said Oct.",
+      "category": "closures_layoffs",
+      "categoryLabel": "Closures & Layoffs"
+    },
+    {
+      "title": "10 of the largest health systems on Meditech",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ehrs/10-of-the-largest-health-systems-on-meditech/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "Meditech&#8217;s biggest customer is one of the largest health systems in the country. Nashville, Tenn.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Epic explores AI agents for routine visits",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ehrs/epic-explores-ai-agents-for-routine-visits/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "Epic has developed AI agents that can execute clinical protocols and is exploring how they could help health systems manage routine patient visits, a company executive told Becker’s. Epic founder Judy Faulkner raised the possibility of an “Epic doctor” while discussing the company’s AI strategy during an Oct.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Cyberattack diverts critical patients from Nebraska hospital",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/cybersecurity/cyberattack-diverts-critical-patients-from-nebraska-hospital/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "Falls City, Neb.-based Community Medical Center shut down its computer network after a weekend cyberattack, prompting ambulances to take critical patients to other hospitals, MSC News reported Oct.",
+      "category": "closures_layoffs",
+      "categoryLabel": "Closures & Layoffs"
+    },
+    {
+      "title": "HHS sends 7 nonconformity letters to suspected information blockers",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ehrs/hhs-sends-7-nonconformity-letters-to-suspected-information-blockers/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "HHS has issued seven letters of potential nonconformity to companies suspected of illegally blocking access to electronic health information, Nextgov/FCW reported Oct. 19.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "7 health systems outsourcing RCM functions",
+      "url": "https://www.beckershospitalreview.com/finance/revenue-cycle-management/7-health-systems-outsourcing-rcm-functions-2/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "Amid mounting reimbursement complexity, rising denial rates and staffing challenges, organizations ranging from independent rural hospitals to large, multihospital systems are striking partnerships with revenue cycle management firms.&#160; Here are seven hospitals and health systems that have outsourced revenue cycle functions or struck collaborative partnerships with RCM companies in 2026:&#160; 1.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "Ascension opens 2 Wisconsin pharmacies",
+      "url": "https://www.beckershospitalreview.com/pharmacy/ascension-opens-2-wisconsin-pharmacies/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "St. Louis-based Ascension has opened two pharmacies in Oshkosh, Wis.",
+      "category": "capacity_expansion",
+      "categoryLabel": "Capacity & Expansion"
+    },
+    {
+      "title": "Compounded GLP-1 injections recalled nationwide: 4 notes",
+      "url": "https://www.beckershospitalreview.com/glp-1s/compounded-glp-1-injections-recalled-nationwide-4-notes/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "Apothecary Pharma is recalling 22 vials of compounded tirzepatide injection nationwide over a lack of assurance of sterility, according to an Oct. 8 FDA notice.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: OpenEvidence&#8217;s JAMA paper leaves open questions",
+      "url": "https://www.statnews.com/2026/10/20/openevidence-jama-paper-leaves-open-questions-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-20",
+      "summary": "In this edition of STAT Health Tech: A new paper in JAMA offers a glimpse into clinicians's use of OpenEvidence, and a look at Isomorphic Labs.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We&#8217;re reading about drug launch prices, an AstraZeneca AI deal, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/10/20/drug-launch-prices-rose-astrazeneca-ai-deal/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-20",
+      "summary": "The median net price for newly launched medicines, when adjusted for inflation and manufacturer discounts, rose by 35% from 2022 to 2025.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "How voters feel about trans rights and abortion access will soon be put to the test",
+      "url": "https://www.statnews.com/2026/10/20/health-news-how-voters-feel-about-trans-rights-abortion-access-2026-midterms/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-20",
+      "summary": "How do voters feel about trans students participating in school sports teams? Or abortion access?",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: Dana-Farber, Beth Israel to begin construction of new $1.68 billion cancer hospital",
+      "url": "https://www.statnews.com/2026/10/20/dana-farber-beth-israel-new-cancer-hospital-construction/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-20",
+      "summary": "Dana-Farber Cancer Institute and Beth Israel Lahey Health are starting work on a $1.68 billion cancer hospital in Boston, marking a new phase in their competition with Mass General Brigham.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: Launch prices for new medicines dipped slightly last year but remain high, analysis finds",
+      "url": "https://www.statnews.com/pharmalot/2026/10/20/launch-price-of-new-medicines-drop-very-slightly-2025/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-20",
+      "summary": "The median net price for 202 newly launched medicines rose by 35%, to $257,000 last year from $173,000 in 2022.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
       "title": "STAT+: The key health care ballot measures we’re watching in the midterms",
       "url": "https://www.statnews.com/2026/10/20/what-health-policy-battles-reveal-about-america-midterms-2026/?utm_campaign=rss",
       "source": "STAT News",
@@ -280,6 +415,15 @@
       "summary": "“It is important to create barriers between high intensity shifts with physical, intellectual, and emotional burden to avoid burnout” in residents, writes Arifeen Rahman.",
       "category": "general_market",
       "categoryLabel": "General Market"
+    },
+    {
+      "title": "Judi Health launching employer Medicare Part D plan with a focus on transparency",
+      "url": "https://www.fiercehealthcare.com/payers/judi-health-launching-employer-medicare-part-d-plan-focus-transparency",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-20",
+      "summary": "Judi Health is launching a new Part D plan that aims to lean on its tech stack to drive transparency and outcomes.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
     },
     {
       "title": "Commercial plans' mental health provider directories routinely inaccurate, secret shopper study finds",
@@ -4673,150 +4817,6 @@
       "source": "Fierce Healthcare",
       "publishedAt": "2026-10-13",
       "summary": "In a report issued October 2, the Texas attorney general said the company disclosed that Social Security numbers, addresses and medical information of almost 20 million people, including about 3 million Texans, Bloomberg reported.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Industry Voices—Why health system CFOs can't budget their way out of coverage disruption",
-      "url": "https://www.fiercehealthcare.com/finance/industry-voices-why-health-system-cfos-cant-budget-their-way-out-coverage-disruption",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "Semi-annual redeterminations and work requirements will test payer-mix assumptions across the industry over the next two years. Now is the time for health systems to prepare, writes Ensemble SVP Matthew Ennen.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Fierce Healthcare Regulatory Recap: CMS releases 2027 MA star ratings; HHS awards $28M for falls prevention",
-      "url": "https://www.fiercehealthcare.com/regulatory/fierce-healthcare-regulatory-recap-cms-releases-2027-ma-star-ratings-hhs-launches",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "The latest news from CMS, HHS and more across Washington, D.C.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Weekly Rundown: Nextech taps Assort Health, EliseAI for agentic AI; Elsevier rolls out clinical AI tool for nurses",
-      "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-hhs-awards-15m-ai-projects-arcadia-launches-portfolio-solutions",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "The latest news from Nextech, Assort Health, EliseAI, Elsevier, Arcadia, Solera Health and more.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Humana rebounds, Aetna slips: Winners and losers in the 2027 MA star ratings",
-      "url": "https://www.fiercehealthcare.com/payers/humana-rebounds-aetna-slips-winners-and-losers-2027-ma-star-ratings",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "Federal regulators released the hotly anticipated star ratings for the 2027 Medicare Advantage plan year, and winners and losers emerged in the data.",
-      "category": "mergers_mna",
-      "categoryLabel": "Mergers & M&A"
-    },
-    {
-      "title": "Abridge, University of Texas System enter enterprise-wide agreement for expanded AI-enabled care",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/abridge-university-texas-system-enter-enterprise-wide-agreement-expanded-ai",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "The partnership establishes a systemwide framework for the eight UT health institutions to access Abridge.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Hospital industry sues to block HHS' 340B rebate pilot (again)",
-      "url": "https://www.fiercehealthcare.com/providers/hospital-industry-files-lawsuit-block-hhs-340b-rebate-pilot-again",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "The American Hospital Association and others have launched a legal rematch with the federal government over the second iteration of a pilot program swapping out safety-net hospitals’ upfront drug discounts for after-the-fact rebates.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Urban hospitals face closure rates similar to rural facilities, study finds",
-      "url": "https://www.fiercehealthcare.com/providers/hospital-closures-accelerated-2010-rates-similar-among-rural-urban-facilities",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "There were 432 acute hospital closures and 216 openings across the country from 2010 through 2025, with the former accelerating over time and the latter slowing, according to a new study. Closure rates were statistically similar between rural and urban hospitals, and generally increased among safety net facilities and for-profits.",
-      "category": "closures_layoffs",
-      "categoryLabel": "Closures & Layoffs"
-    },
-    {
-      "title": "Little room for stakeholder consensus among potential Medicare Advantage reforms",
-      "url": "https://www.fiercehealthcare.com/regulatory/look-stakeholder-perspectives-medicare-advantage-reform",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "A survey of 52 experts spanning researchers, the Medicare Advantage industry, patient advocates and policymakers wasn't able to identify a single policy proposal that would be received wholeheartedly by all three groups.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "CMS: About 71% of MAPD plan enrollees in coverage with four or more stars for 2027",
-      "url": "https://www.fiercehealthcare.com/payers/cms-about-71-mapd-plan-enrollees-coverage-four-or-more-stars-2027",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "The Trump administration has released the 2027 Medicare Advantage star ratings, with many enrollees in plans that earned at least four stars.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "HHS launches 4 new vaccine injury research, reporting initiatives",
-      "url": "https://www.fiercehealthcare.com/regulatory/hhs-launches-4-new-vaccine-injury-research-reporting-initiatives",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "The U.S.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "HHS: 340B 'expanded beyond its original intent,' incentivizes consolidation",
-      "url": "https://www.fiercehealthcare.com/regulatory/hhs-340b-expanded-beyond-its-original-intent-incentivizes-consolidation",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "A new brief lays out the administration's views and critiques of the controversial hospital subsidy program, and includes a data analysis suggesting that a proposed reimbursement cut will limit spending growth.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Chutes & Ladders—WellSpan, Beth Israel Lahey unveil next CEOs",
-      "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "'Blue Conspiracy'—Michigan attorney general hits BCBSM with antitrust suit",
-      "url": "https://www.fiercehealthcare.com/payers/michigan-ag-hits-bcbsm-antitrust-suit",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "Michigan Attorney General Dana Nessel has filed suit against Blue Cross Blue Shield of Michigan, alleging that the insurer operated as a monopoly in the state.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Fierce Healthcare Fundraising Tracker '26: Outro clinches $7M for deprescribing; Rightway pulls in $155M to expand pharmacy benefits tech",
-      "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "Keep up with all the venture capital dollars being funneled into the health tech and digital health industries.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Suki launches ‘Ask’ feature for clinical decision support driven by Wolters Kluwer UpToDate AI API",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/suki-launches-ask-feature-clinical-decision-support-driven-wolters-kluwer",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "Ask integrates evidence-based clinical reasoning directly into workflows and can provide answers grounded in UpToDate’s proprietary content.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Healthleap banks $38M for AI screening platform that catches undiagnosed conditions",
-      "url": "https://www.fiercehealthcare.com/finance/healthleap-banks-38m-funding-backed-sequoia-capital-first-round-capital-and-hummingbird",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "Healthleap says its platform is the first and only validated AI malnutrition screening tool that contains EHR-integrated screening layers, executives say.",
       "category": "ai_tech",
       "categoryLabel": "AI & Digital Tech"
     }
