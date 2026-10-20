@@ -39,43 +39,7 @@
         "medium_event_50plus"
       ],
       "silent_signal_flag": false,
-      "retrieved_at": "2026-10-19T23:26:07.029Z"
-    },
-    {
-      "id": "da192567a91b0784",
-      "state": "CA",
-      "employer_name": "ServiceNow, Inc.",
-      "parent_system": null,
-      "facility_name": "ServiceNow, Inc.",
-      "employer_id": "CA:servicenow",
-      "city": null,
-      "county": null,
-      "address": null,
-      "notice_date": "2026-11-13",
-      "effective_date": "2026-13-14",
-      "lead_time_days": null,
-      "employees_affected": 18,
-      "naics": null,
-      "reason": "Layoff Permanent",
-      "raw_text": null,
-      "source_name": "USA Today WARN List",
-      "source_url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/servicenow-inc-ca-layoff-permanent/ca-2627-00367/?query=&page=",
-      "source_id": "ca-2627-00367",
-      "attachments": [
-        {
-          "url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/servicenow-inc-ca-layoff-permanent/ca-2627-00367/?query=&page="
-        }
-      ],
-      "nursing_score": 0,
-      "nursing_label": "Unclear",
-      "nursing_signals": [],
-      "nursing_keywords": [],
-      "nursing_role_mix": null,
-      "nursing_care_setting": "unknown",
-      "nursing_specialties": [],
-      "nursing_explanations": [],
-      "silent_signal_flag": false,
-      "retrieved_at": "2026-10-19T23:26:07.029Z"
+      "retrieved_at": "2026-10-20T19:02:47.244Z"
     },
     {
       "id": "da192567a91b0784",
@@ -111,7 +75,43 @@
       "nursing_specialties": [],
       "nursing_explanations": [],
       "silent_signal_flag": false,
-      "retrieved_at": "2026-10-19T23:26:07.029Z"
+      "retrieved_at": "2026-10-20T19:02:47.244Z"
+    },
+    {
+      "id": "da192567a91b0784",
+      "state": "CA",
+      "employer_name": "ServiceNow, Inc.",
+      "parent_system": null,
+      "facility_name": "ServiceNow, Inc.",
+      "employer_id": "CA:servicenow",
+      "city": null,
+      "county": null,
+      "address": null,
+      "notice_date": "2026-11-13",
+      "effective_date": "2026-13-14",
+      "lead_time_days": null,
+      "employees_affected": 18,
+      "naics": null,
+      "reason": "Layoff Permanent",
+      "raw_text": null,
+      "source_name": "USA Today WARN List",
+      "source_url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/servicenow-inc-ca-layoff-permanent/ca-2627-00367/?query=&page=",
+      "source_id": "ca-2627-00367",
+      "attachments": [
+        {
+          "url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/servicenow-inc-ca-layoff-permanent/ca-2627-00367/?query=&page="
+        }
+      ],
+      "nursing_score": 0,
+      "nursing_label": "Unclear",
+      "nursing_signals": [],
+      "nursing_keywords": [],
+      "nursing_role_mix": null,
+      "nursing_care_setting": "unknown",
+      "nursing_specialties": [],
+      "nursing_explanations": [],
+      "silent_signal_flag": false,
+      "retrieved_at": "2026-10-20T19:02:47.244Z"
     },
     {
       "id": "e8795d5cdbfe4454",
@@ -147,7 +147,7 @@
       "nursing_specialties": [],
       "nursing_explanations": [],
       "silent_signal_flag": false,
-      "retrieved_at": "2026-10-19T23:26:07.029Z"
+      "retrieved_at": "2026-10-20T19:02:47.244Z"
     },
     {
       "id": "e8795d5cdbfe4454",
@@ -183,43 +183,7 @@
       "nursing_specialties": [],
       "nursing_explanations": [],
       "silent_signal_flag": false,
-      "retrieved_at": "2026-10-19T23:26:07.029Z"
-    },
-    {
-      "id": "bd03e64c6a46ec68",
-      "state": "CA",
-      "employer_name": "Phillips 66 - Carson",
-      "parent_system": "Phillips 66",
-      "facility_name": "Phillips 66 - Carson",
-      "employer_id": "CA:phillips-66",
-      "city": null,
-      "county": null,
-      "address": null,
-      "notice_date": "2026-11-09",
-      "effective_date": "2026-13-09",
-      "lead_time_days": null,
-      "employees_affected": 3,
-      "naics": null,
-      "reason": "Closure Permanent",
-      "raw_text": null,
-      "source_name": "USA Today WARN List",
-      "source_url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/phillips-66-carson-ca-closure-permanent/ca-2627-00363/?query=&page=",
-      "source_id": "ca-2627-00363",
-      "attachments": [
-        {
-          "url": "http://data.usatoday.com/see-which-companies-announced-mass-layoffs-closings/phillips-66-carson-ca-closure-permanent/ca-2627-00363/?query=&page="
-        }
-      ],
-      "nursing_score": 0,
-      "nursing_label": "Unclear",
-      "nursing_signals": [],
-      "nursing_keywords": [],
-      "nursing_role_mix": null,
-      "nursing_care_setting": "unknown",
-      "nursing_specialties": [],
-      "nursing_explanations": [],
-      "silent_signal_flag": true,
-      "retrieved_at": "2026-10-19T23:26:07.029Z"
+      "retrieved_at": "2026-10-20T19:02:47.244Z"
     },
     {
       "id": "bf2840e470ea5691",
@@ -255,7 +219,7 @@
       "nursing_specialties": [],
       "nursing_explanations": [],
       "silent_signal_flag": true,
-      "retrieved_at": "2026-10-19T23:26:07.029Z"
+      "retrieved_at": "2026-10-20T19:02:47.244Z"
     },
     {
       "id": "bd040a7af5d254ef",
@@ -291,7 +255,7 @@
       "nursing_specialties": [],
       "nursing_explanations": [],
       "silent_signal_flag": true,
-      "retrieved_at": "2026-10-19T23:26:07.029Z"
+      "retrieved_at": "2026-10-20T19:02:47.244Z"
     },
     {
       "id": "8136a07dac0da373",
@@ -327,9 +291,9 @@
       "nursing_specialties": [],
       "nursing_explanations": [],
       "silent_signal_flag": true,
-      "retrieved_at": "2026-10-19T23:26:07.029Z"
+      "retrieved_at": "2026-10-20T19:02:47.244Z"
     }
   ],
-  "count": 9,
-  "lastUpdated": "2026-10-20T14:49:43.141Z"
+  "count": 8,
+  "lastUpdated": "2026-10-20T19:03:12.881Z"
 }

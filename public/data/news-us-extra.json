@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T14:53:57.540Z",
+  "lastUpdated": "2026-10-20T19:07:39.347Z",
   "scope": "US healthcare",
   "sourceManifestVersion": "1.0.0",
   "sourceHealth": [
@@ -234,6 +234,50 @@
       "sourceId": "federal_register_hhs",
       "publishedAt": "2026-10-20",
       "category": "policy_reimbursement",
+      "relevance": 100
+    },
+    {
+      "title": "Early Alert: Cardinal Health Issues Correction for Presource Packs Containing BD Alaris Pump Infusion Sets",
+      "summary": "Cardinal Health Presource Kits containing recalled BD Alaris Pump Infusion Sets should be corrected prior to continued use.",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-issues-correction-presource-packs-containing-bd-alaris-pump-infusion",
+      "source": "FDA MedWatch RSS",
+      "sourceType": "rss",
+      "sourceId": "fda_medwatch_rss",
+      "publishedAt": "2026-10-20",
+      "category": "quality_safety",
+      "relevance": 100
+    },
+    {
+      "title": "Hospital Glucose Meter Removal: Nova Biomedical Removes StatStrip Glucose Hospital Meter Systems",
+      "summary": "Software update for StatStrip Glucose Hospital Meter Systems due to the potential for glucose results to be assigned to the incorrect patient.",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-removal-nova-biomedical-removes-statstrip-glucose-hospital-meter-systems",
+      "source": "FDA MedWatch RSS",
+      "sourceType": "rss",
+      "sourceId": "fda_medwatch_rss",
+      "publishedAt": "2026-10-20",
+      "category": "quality_safety",
+      "relevance": 100
+    },
+    {
+      "title": "Early Alert: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infusion Sets",
+      "summary": "Cardinal Health Presource Kits may contain BD Alaris Pump Infusion Sets with Updated Use Instructions.",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-updates-use-instructions-presource-packs-containing-bd-alaris-pump",
+      "source": "FDA MedWatch RSS",
+      "sourceType": "rss",
+      "sourceId": "fda_medwatch_rss",
+      "publishedAt": "2026-10-20",
+      "category": "ai_tech",
+      "relevance": 100
+    },
+    {
+      "title": "Rush nurses hold rally for patient safety",
+      "summary": "Registered nurses at Rush University Medical Center, in Chicago, Ill., will hold a rally on Thursday, Oct. 22, to highlight their staffing proposals to improve patient safety. The nurses, who are in negotiations for their first union contract, have proposed language to improve RN staffing, including enforceable protections that ensure staffing decisions are driven by patient care needs, and are demanding that bedside nurses have a meaningful voice in decisions affecting their patients.",
+      "url": "https://www.nationalnursesunited.org/press/rush-nurses-hold-rally-for-patient-safety",
+      "source": "National Nurses United RSS",
+      "sourceType": "rss",
+      "sourceId": "nnu_rss",
+      "publishedAt": "2026-10-20",
+      "category": "labor_unions",
       "relevance": 100
     },
     {
@@ -1018,9 +1062,9 @@
       "relevance": 100
     },
     {
-      "title": "Convenience Kit Correction: Becton Dickinson Issues Correction for Kits and Procedure Trays Containing Recalled Sodium Chloride Ampules",
-      "summary": "BD is correcting convenience kits and procedural trays containing recalled Huons Co. sodium chloride ampules",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-becton-dickinson-issues-correction-kits-and-procedure-trays-containing",
+      "title": "Heart Pump Controller Recall: Abiomed Removes Automated Impella Controllers",
+      "summary": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -1029,9 +1073,9 @@
       "relevance": 98
     },
     {
-      "title": "Heart Pump Controller Recall: Abiomed Removes Automated Impella Controllers",
-      "summary": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers",
+      "title": "Convenience Kit Correction: Becton Dickinson Issues Correction for Kits and Procedure Trays Containing Recalled Sodium Chloride Ampules",
+      "summary": "BD is correcting convenience kits and procedural trays containing recalled Huons Co. sodium chloride ampules",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-becton-dickinson-issues-correction-kits-and-procedure-trays-containing",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -1071,39 +1115,6 @@
       "publishedAt": "2026-09-21",
       "category": "quality_safety",
       "relevance": 100
-    },
-    {
-      "title": "Par Health Issues Voluntary Nationwide Recall of Two Lots of Dexmedetomidine HCl in 0.9% Sodium Chloride Injection Due to the Presence of Particulate Matter",
-      "summary": "ROCHESTER, MI– September 18, 2026 –Par Health is voluntarily recalling two lots of Dexmedetomidine HCl in 0.9% Sodium Chloride Injection 400 mcg/100 mL (4 mcg/mL) to the hospital level. The product is being recalled due to the presence of particulate matter identified as cellulose or stopper materia",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-two-lots-dexmedetomidine-hcl-09-sodium-chloride",
-      "source": "FDA MedWatch RSS",
-      "sourceType": "rss",
-      "sourceId": "fda_medwatch_rss",
-      "publishedAt": "2026-09-21",
-      "category": "quality_safety",
-      "relevance": 100
-    },
-    {
-      "title": "Otsuka ICU Medical LLC Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection, USP Due To a Product Mix-up with 10 mEq Potassium Chloride Injection",
-      "summary": "Otsuka ICU Medical LLC is issuing a voluntary recall for one lot of 0.9% SODIUM CHLORIDE Injection, USP, 100mL single pack to the user level due to a potential mix-up. The affected lot of 0.9% SODIUM CHLORIDE Injection, USP (NDC: 0990-7984-23 Lot 1042188) may potentially contain the overwrap with la",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/otsuka-icu-medical-llc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-due",
-      "source": "FDA MedWatch RSS",
-      "sourceType": "rss",
-      "sourceId": "fda_medwatch_rss",
-      "publishedAt": "2026-09-21",
-      "category": "quality_safety",
-      "relevance": 100
-    },
-    {
-      "title": "Ventilator Recall: CooperSurgical Removes INCA Infant Nasal CPAP Sets",
-      "summary": "The cannula sets may exhibit a loose connection between the flexible tubing and the nasal cannula resulting in reduced effectiveness and decreased oxygenation.",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/ventilator-recall-coopersurgical-removes-inca-infant-nasal-cpap-sets",
-      "source": "FDA MedWatch RSS",
-      "sourceType": "rss",
-      "sourceId": "fda_medwatch_rss",
-      "publishedAt": "2026-09-21",
-      "category": "quality_safety",
-      "relevance": 98
     },
     {
       "title": "CNC 8-K filing - Centene Corporation",
@@ -1799,17 +1810,6 @@
       "relevance": 100
     },
     {
-      "title": "Union victory in Chicago",
-      "summary": "In May, registered nurses at Rush University Medical Center in Chicago voted overwhelmingly, with 77 percent in favor, of joining National Nurses Organizing Committee, an affiliate of National Nurses United, the nation’s largest and fastest-growing registered nurse union.",
-      "url": "https://www.nationalnursesunited.org/article/union-victory-in-chicago",
-      "source": "National Nurses United RSS",
-      "sourceType": "rss",
-      "sourceId": "nnu_rss",
-      "publishedAt": "",
-      "category": "labor_unions",
-      "relevance": 100
-    },
-    {
       "title": "Save Healthcare Services",
       "summary": "",
       "url": "https://www.nysna.org/campaigns/save-healthcare-services",
@@ -1975,6 +1975,17 @@
       "relevance": 96
     },
     {
+      "title": "October 20, 2026 - FDA Approves Once-Weekly Generic Hormone Therapy Patch for Women",
+      "summary": "",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-once-weekly-generic-hormone-therapy-patch-women",
+      "source": "FDA Newsroom",
+      "sourceType": "html",
+      "sourceId": "fda_newsroom",
+      "publishedAt": "",
+      "category": "quality_safety",
+      "relevance": 96
+    },
+    {
       "title": "October 14, 2026 - FDA Launches the Rare Disease Framework Initiative to Develop a Holistic, Fit-For-Purpose Framework for Rare Disease Drug Development",
       "summary": "",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-launches-rare-disease-framework-initiative-develop-holistic-fit-purpose-framework-rare-disease",
@@ -2044,17 +2055,6 @@
       "title": "September 28, 2026 - FDA Approves First Treatment for MCT8 Deficiency",
       "summary": "",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-mct8-deficiency",
-      "source": "FDA Newsroom",
-      "sourceType": "html",
-      "sourceId": "fda_newsroom",
-      "publishedAt": "",
-      "category": "quality_safety",
-      "relevance": 96
-    },
-    {
-      "title": "September 28, 2026 - FDA intends to evaluate changes to the PMTA regulatory framework",
-      "summary": "",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-intends-evaluate-changes-pmta-regulatory-framework",
       "source": "FDA Newsroom",
       "sourceType": "html",
       "sourceId": "fda_newsroom",

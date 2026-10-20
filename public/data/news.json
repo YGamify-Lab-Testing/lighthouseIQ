@@ -1,81 +1,81 @@
 {
-  "lastUpdated": "2026-10-20T14:53:57.605Z",
+  "lastUpdated": "2026-10-20T19:07:39.410Z",
   "scope": "US healthcare",
   "retentionDays": 90,
   "maxArticles": 500,
   "sourceHealth": {
     "totalSources": 10,
-    "staleSources": 3,
-    "healthySources": 7,
+    "staleSources": 2,
+    "healthySources": 8,
     "sources": [
       {
         "source": "Fierce Healthcare",
-        "articleCount": 226,
+        "articleCount": 212,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 14,
+        "staleHours": 19,
         "status": "ok"
       },
       {
         "source": "Becker's Hospital Review",
-        "articleCount": 129,
+        "articleCount": 135,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 14,
+        "staleHours": 19,
         "status": "ok"
       },
       {
         "source": "STAT News",
-        "articleCount": 67,
+        "articleCount": 70,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 14,
+        "staleHours": 19,
         "status": "ok"
       },
       {
         "source": "Federal Register - HHS",
         "articleCount": 36,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 14,
+        "staleHours": 19,
         "status": "ok"
       },
       {
         "source": "Healthcare Dive",
-        "articleCount": 19,
-        "latestPublishedAt": "2026-10-19T00:00:00.000Z",
-        "staleHours": 38,
+        "articleCount": 20,
+        "latestPublishedAt": "2026-10-20T00:00:00.000Z",
+        "staleHours": 19,
         "status": "ok"
       },
       {
         "source": "Federal Register - FDA",
         "articleCount": 10,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 110,
+        "staleHours": 115,
         "status": "stale"
       },
       {
         "source": "FDA MedWatch RSS",
-        "articleCount": 6,
-        "latestPublishedAt": "2026-10-19T00:00:00.000Z",
-        "staleHours": 38,
+        "articleCount": 9,
+        "latestPublishedAt": "2026-10-20T00:00:00.000Z",
+        "staleHours": 19,
         "status": "ok"
       },
       {
         "source": "Federal Register - CMS",
         "articleCount": 4,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 14,
+        "staleHours": 19,
+        "status": "ok"
+      },
+      {
+        "source": "National Nurses United RSS",
+        "articleCount": 2,
+        "latestPublishedAt": "2026-10-20T00:00:00.000Z",
+        "staleHours": 19,
         "status": "ok"
       },
       {
         "source": "SEC Healthcare Filings",
         "articleCount": 2,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 182,
-        "status": "stale"
-      },
-      {
-        "source": "National Nurses United RSS",
-        "articleCount": 1,
-        "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 182,
+        "staleHours": 187,
         "status": "stale"
       }
     ]
@@ -87,15 +87,15 @@
     },
     "mergers_mna": {
       "label": "Mergers & M&A",
-      "count": 46
+      "count": 45
     },
     "labor_unions": {
       "label": "Labor & Unions",
-      "count": 5
+      "count": 6
     },
     "policy_reimbursement": {
       "label": "Policy & Reimbursement",
-      "count": 58
+      "count": 57
     },
     "quality_safety": {
       "label": "Quality & Safety",
@@ -103,22 +103,20 @@
     },
     "capacity_expansion": {
       "label": "Capacity & Expansion",
-      "count": 18
+      "count": 19
     },
     "ai_tech": {
       "label": "AI & Digital Tech",
-      "count": 124
+      "count": 123
     },
     "general_market": {
       "label": "General Market",
-      "count": 224
+      "count": 225
     }
   },
   "quality": {
-    "status": "warning",
-    "failedChecks": [
-      "maxStaleSources"
-    ],
+    "status": "pass",
+    "failedChecks": [],
     "checks": {
       "minUniqueSources": {
         "threshold": 8,
@@ -127,7 +125,7 @@
       },
       "minArticles24h": {
         "threshold": 20,
-        "actual": 53,
+        "actual": 71,
         "pass": true
       },
       "minRequiredCategoriesCovered": {
@@ -137,8 +135,8 @@
       },
       "maxStaleSources": {
         "threshold": 2,
-        "actual": 3,
-        "pass": false
+        "actual": 2,
+        "pass": true
       }
     }
   },
@@ -178,6 +176,54 @@
       "category": "general_market",
       "relevance": 100,
       "categoryLabel": "General Market"
+    },
+    {
+      "title": "Early Alert: Cardinal Health Issues Correction for Presource Packs Containing BD Alaris Pump Infusion Sets",
+      "summary": "Cardinal Health Presource Kits containing recalled BD Alaris Pump Infusion Sets should be corrected prior to continued use.",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-issues-correction-presource-packs-containing-bd-alaris-pump-infusion",
+      "source": "FDA MedWatch RSS",
+      "sourceType": "rss",
+      "sourceId": "fda_medwatch_rss",
+      "publishedAt": "2026-10-20",
+      "category": "ai_tech",
+      "relevance": 100,
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Hospital Glucose Meter Removal: Nova Biomedical Removes StatStrip Glucose Hospital Meter Systems",
+      "summary": "Software update for StatStrip Glucose Hospital Meter Systems due to the potential for glucose results to be assigned to the incorrect patient.",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-removal-nova-biomedical-removes-statstrip-glucose-hospital-meter-systems",
+      "source": "FDA MedWatch RSS",
+      "sourceType": "rss",
+      "sourceId": "fda_medwatch_rss",
+      "publishedAt": "2026-10-20",
+      "category": "general_market",
+      "relevance": 100,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Early Alert: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infusion Sets",
+      "summary": "Cardinal Health Presource Kits may contain BD Alaris Pump Infusion Sets with Updated Use Instructions.",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-updates-use-instructions-presource-packs-containing-bd-alaris-pump",
+      "source": "FDA MedWatch RSS",
+      "sourceType": "rss",
+      "sourceId": "fda_medwatch_rss",
+      "publishedAt": "2026-10-20",
+      "category": "ai_tech",
+      "relevance": 100,
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Rush nurses hold rally for patient safety",
+      "summary": "Registered nurses at Rush University Medical Center, in Chicago, Ill., will hold a rally on Thursday, Oct. 22, to highlight their staffing proposals to improve patient safety. The nurses, who are in negotiations for their first union contract, have proposed language to improve RN staffing, including enforceable protections that ensure staffing decisions are driven by patient care needs, and are demanding that bedside nurses have a meaningful voice in decisions affecting their patients.",
+      "url": "https://www.nationalnursesunited.org/press/rush-nurses-hold-rally-for-patient-safety",
+      "source": "National Nurses United RSS",
+      "sourceType": "rss",
+      "sourceId": "nnu_rss",
+      "publishedAt": "2026-10-20",
+      "category": "labor_unions",
+      "relevance": 100,
+      "categoryLabel": "Labor & Unions"
     },
     {
       "title": "Agency Forms Undergoing Paperwork Reduction Act Review",
@@ -261,6 +307,276 @@
       "publishedAt": "2026-10-20",
       "category": "general_market",
       "relevance": 96,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "21 healthcare strikes in 2026",
+      "url": "https://www.beckershospitalreview.com/hr/21-healthcare-strikes-in-2026/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "Union activity in healthcare continues in 2026, with 21 reported strikes since the beginning of the year. Some of these actions involve healthcare workers and leaders across hospitals and clinics in multiple states.",
+      "category": "labor_unions",
+      "categoryLabel": "Labor & Unions"
+    },
+    {
+      "title": "Breast screening method tied to nearly 5x fewer follow-ups: 5 notes",
+      "url": "https://www.beckershospitalreview.com/radiology/breast-screening-method-tied-to-nearly-5x-fewer-follow-ups-5-notes/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "Automated breast ultrasound was associated with fewer short-interval follow-up recommendations than handheld ultrasound among women with dense breasts, with no apparent difference in cancer detection, according to a study published in the Journal of the American College of Radiology. Here are five things to know: The post Breast screening method tied to nearly 5x fewer follow-ups: 5 notes appeared first on Becker&#039;s Hospital Review | Healthcare News & Analysis.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Novant Health launches virtual men&#8217;s health clinic",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/telehealth/novant-health-launches-virtual-mens-health-clinic/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "Winston-Salem, N.C.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Moffitt Cancer Center’s operating margin climbs to 6.9% in FY 2026",
+      "url": "https://www.beckershospitalreview.com/finance/moffitt-cancer-centers-operating-margin-climbs-to-6-9-in-fy-2026/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "Tampa, Fla.-based Moffitt Cancer Center recorded operating income of $238.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Tower Health CEO: &#8216;Culture isn&#8217;t a soft thing, it&#8217;s a strategy&#8217;",
+      "url": "https://www.beckershospitalreview.com/hospital-management-administration/tower-health-ceo-culture-isnt-a-soft-thing-its-a-strategy/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "Health system turnarounds tend to be told as financial stories. Michael Stern, president and CEO of West Reading, Pa.",
+      "category": "capacity_expansion",
+      "categoryLabel": "Capacity & Expansion"
+    },
+    {
+      "title": "MEDITECH and Lifemed AI Partner to Bring Revenue Cycle Automation to Health Systems",
+      "url": "https://www.beckershospitalreview.com/finance/revenue-cycle-management/meditech-and-lifemed-ai-partner-to-bring-revenue-cycle-automation-to-health-systems/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "Lifemed AI, a non-generative AI-driven healthcare technology company, today announced its formal partnership with MEDITECH as an Accelerator-level member of the MEDITECH Alliance program. The designation brings Lifemed&#8217;s non-generative deep-learning neural network platform, DeepClaim, which is purpose-built to eliminate claims denials, automate revenue cycle workflows, and recover lost reimbursement, directly to MEDITECH&#8217;s network of hospitals [&#8230;] The post MEDITECH and Lifemed AI Partner to Bring Revenue Cycle Automation to Health Systems appeared first on Becker&#039;s Hospital Review | Healthcare News & Analysis.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "State Department advises Americans to reconsider travel to Kenya amid rising Ebola cases",
+      "url": "https://www.beckershospitalreview.com/quality/public-health/state-department-advises-americans-to-reconsider-travel-to-kenya-amid-rising-ebola-cases/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "The State Department raised its travel advisory for Kenya to Level 3, “reconsider travel,” on Oct. 19, citing health risks from Ebola.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "HCA opens new $22M Florida freestanding ED",
+      "url": "https://www.beckershospitalreview.com/capital/hca-opens-new-22m-florida-freestanding-ed/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "HCA Florida Lehigh Hospital in Lehigh Acres, Fla., opened its HCA Florida ER-Alico, a freestanding emergency department, on Oct.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
+    },
+    {
+      "title": "Why Recruiting Alone Will Not Solve Your Staffing Problem",
+      "url": "https://www.beckershospitalreview.com/workforce/why-recruiting-alone-will-not-solve-your-staffing-problem/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "You fill the vacancy. Six months later, you’re recruiting for the same position.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Vizient quantifies financial loss of ED walkouts",
+      "url": "https://www.beckershospitalreview.com/care-coordination/vizient-quantifies-financial-loss-of-ed-walkouts/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "Vizient recently launched a calculator for hospital leaders to estimate financial losses from patients leaving the emergency department before receiving treatment.&#160; The ED throughput opportunity calculator asks for inputs of annual ED volume, a left-before-treatment-completion rate and whether the hospital is one that primarily serves community-based emergency care or is a complex hospital, including an [&#8230;] The post Vizient quantifies financial loss of ED walkouts appeared first on Becker&#039;s Hospital Review | Healthcare News & Analysis.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
+    },
+    {
+      "title": "STAT+: A bipartisan group of lawmakers urges the FDA to close a peptide loophole",
+      "url": "https://www.statnews.com/2026/10/20/health-policy-news-bipartisan-group-of-lawmaker-urges-fda-to-close-peptide-loophole/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-20",
+      "summary": "A bipartisan group of lawmakers is urging the FDA to plug a loophole used to import knockoff retatrutide, an investigational obesity drug made by Eli Lilly.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: Roche continues to look to China for new drugs",
+      "url": "https://www.statnews.com/2026/10/20/biotech-news-roches-15b-hunt-for-new-drugs-in-china/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-20",
+      "summary": "China's Hansoh Pharmaceutical Group has announced that it struck a massive deal with Roche to develop a portfolio of antibody-drug conjugates.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Why I wish you didn’t want to see Nathan Fielder’s Elizabeth Holmes documentary",
+      "url": "https://www.statnews.com/2026/10/20/elizabeth-holmes-superpower-authenticity-vs-truth-matt-herper-take/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-20",
+      "summary": "A reporter who interviewed Elizabeth Holmes on why society confuses authenticity, honesty, and truth, and how she takes advantage.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: OpenEvidence&#8217;s JAMA paper leaves open questions",
+      "url": "https://www.statnews.com/2026/10/20/openevidence-jama-paper-leaves-open-questions-health-tech/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-20",
+      "summary": "In this edition of STAT Health Tech: A new paper in JAMA offers a glimpse into clinicians's use of OpenEvidence, and a look at Isomorphic Labs.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We&#8217;re reading about drug launch prices, an AstraZeneca AI deal, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/10/20/drug-launch-prices-rose-astrazeneca-ai-deal/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-20",
+      "summary": "The median net price for newly launched medicines, when adjusted for inflation and manufacturer discounts, rose by 35% from 2022 to 2025.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "How voters feel about trans rights and abortion access will soon be put to the test",
+      "url": "https://www.statnews.com/2026/10/20/health-news-how-voters-feel-about-trans-rights-abortion-access-2026-midterms/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-20",
+      "summary": "How do voters feel about trans students participating in school sports teams? Or abortion access?",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: Dana-Farber, Beth Israel to begin construction of new $1.68 billion cancer hospital",
+      "url": "https://www.statnews.com/2026/10/20/dana-farber-beth-israel-new-cancer-hospital-construction/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-20",
+      "summary": "Dana-Farber Cancer Institute and Beth Israel Lahey Health are starting work on a $1.68 billion cancer hospital in Boston, marking a new phase in their competition with Mass General Brigham.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: Launch prices for new medicines dipped slightly last year but remain high, analysis finds",
+      "url": "https://www.statnews.com/pharmalot/2026/10/20/launch-price-of-new-medicines-drop-very-slightly-2025/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-20",
+      "summary": "The median net price for 202 newly launched medicines rose by 35%, to $257,000 last year from $173,000 in 2022.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "STAT+: The key health care ballot measures we’re watching in the midterms",
+      "url": "https://www.statnews.com/2026/10/20/what-health-policy-battles-reveal-about-america-midterms-2026/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-20",
+      "summary": "State fights over issues like transgender rights and Medicaid offer clues to where Americans stand on contentious health matters.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "Opinion: Resident physicians may lose some of their most important work hour protections",
+      "url": "https://www.statnews.com/2026/10/20/acgme-resident-physicians-work-hour-rules-time-off-between-shifts/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-20",
+      "summary": "“It is important to create barriers between high intensity shifts with physical, intellectual, and emotional burden to avoid burnout” in residents, writes Arifeen Rahman.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "OpenEvidence, Doximity settle thorny AI legal battle",
+      "url": "https://www.healthcaredive.com/news/openevidence-doximity-settle-explosive-ai-legal-battle/833480/",
+      "source": "Healthcare Dive",
+      "publishedAt": "2026-10-20",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Judi Health launching employer Medicare Part D plan with a focus on transparency",
+      "url": "https://www.fiercehealthcare.com/payers/judi-health-launching-employer-medicare-part-d-plan-focus-transparency",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-20",
+      "summary": "Judi Health is launching a new Part D plan that aims to lean on its tech stack to drive transparency and outcomes.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "Commercial plans' mental health provider directories routinely inaccurate, secret shopper study finds",
+      "url": "https://www.fiercehealthcare.com/payers/commercial-plans-mental-health-provider-directories-routinely-inaccurate-secret-shopper",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-20",
+      "summary": "Fewer than a quarter of secret shopper phone calls to a listed mental health provider ended in a scheduled appointment, often due to inaccurate contact information or other issues with a plan's directory.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "OpenEvidence, Doximity reach settlement in contentious AI legal battle",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/openevidence-doximity-reach-settlement-contentious-ai-lawsuit",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-20",
+      "summary": "Healthcare AI startups OpenEvidence and Doximity settled a contentious legal fight over allegations of corporate espionage and cyberattacks, alongside counterclaims of defamation and misinformation.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Trump EO creates new NIH division, White House task force centered on women’s health",
+      "url": "https://www.fiercehealthcare.com/regulatory/trump-eo-creates-new-nih-division-white-house-task-force-centered-womens-health",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-20",
+      "summary": "The goals of the new bodies are to address women’s health research gaps to improve health outcomes across the lifespan.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "The case for rethinking how ambulatory practices handle cybersecurity",
+      "url": "https://www.fiercehealthcare.com/sponsored/case-rethinking-how-ambulatory-practices-handle-cybersecurity",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-20",
+      "summary": "Healthcare is among the most targeted sectors for cybercriminals, and it's easy to see why.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Beyond the Recall Notice: Why Pharmacies Need Greater Visibility Into Recalled and Expired Medications",
+      "url": "https://www.fiercehealthcare.com/sponsored/beyond-recall-notice-why-pharmacies-need-greater-visibility-recalled-and-expired",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-20",
+      "summary": "Medication recalls and expirations are a routine part of pharmacy operations, but managing them often requires significant time, coordination and attention to detail.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Redesigning prior authorization around the patient",
+      "url": "https://www.fiercehealthcare.com/sponsored/redesigning-prior-authorization-around-patient",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-20",
+      "summary": "Abarca Health explores how shared standards, transparency and outcome-focused measures can reduce prior authorization friction.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "CMS proposes MA 'ghost network,' PBM transparency requirements",
+      "url": "https://www.fiercehealthcare.com/regulatory/cms-proposes-ma-ghost-network-pbm-transparency-requirements",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-20",
+      "summary": "The administration took steps to codify statutory reforms focused on maintaining accurate Medicare Advantage provider directories and collecting more pricing information from pharmacy benefit managers.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "Centene to expand CHOICE Arrangements program to its employees in Ohio, Oklahoma",
+      "url": "https://www.fiercehealthcare.com/payers/centene-expand-choice-arrangements-program-ohio-oklahoma-2027",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-20",
+      "summary": "Centene is expanding its CHOICE Arrangements benefits program to its employees in Ohio and Oklahoma in the 2027 plan year.",
+      "category": "general_market",
       "categoryLabel": "General Market"
     },
     {
@@ -350,150 +666,6 @@
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-20",
       "summary": "Apothecary Pharma is recalling 22 vials of compounded tirzepatide injection nationwide over a lack of assurance of sterility, according to an Oct. 8 FDA notice.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "STAT+: OpenEvidence&#8217;s JAMA paper leaves open questions",
-      "url": "https://www.statnews.com/2026/10/20/openevidence-jama-paper-leaves-open-questions-health-tech/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-20",
-      "summary": "In this edition of STAT Health Tech: A new paper in JAMA offers a glimpse into clinicians's use of OpenEvidence, and a look at Isomorphic Labs.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "STAT+: Pharmalittle: We&#8217;re reading about drug launch prices, an AstraZeneca AI deal, and more",
-      "url": "https://www.statnews.com/pharmalot/2026/10/20/drug-launch-prices-rose-astrazeneca-ai-deal/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-20",
-      "summary": "The median net price for newly launched medicines, when adjusted for inflation and manufacturer discounts, rose by 35% from 2022 to 2025.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "How voters feel about trans rights and abortion access will soon be put to the test",
-      "url": "https://www.statnews.com/2026/10/20/health-news-how-voters-feel-about-trans-rights-abortion-access-2026-midterms/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-20",
-      "summary": "How do voters feel about trans students participating in school sports teams? Or abortion access?",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "STAT+: Dana-Farber, Beth Israel to begin construction of new $1.68 billion cancer hospital",
-      "url": "https://www.statnews.com/2026/10/20/dana-farber-beth-israel-new-cancer-hospital-construction/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-20",
-      "summary": "Dana-Farber Cancer Institute and Beth Israel Lahey Health are starting work on a $1.68 billion cancer hospital in Boston, marking a new phase in their competition with Mass General Brigham.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "STAT+: Launch prices for new medicines dipped slightly last year but remain high, analysis finds",
-      "url": "https://www.statnews.com/pharmalot/2026/10/20/launch-price-of-new-medicines-drop-very-slightly-2025/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-20",
-      "summary": "The median net price for 202 newly launched medicines rose by 35%, to $257,000 last year from $173,000 in 2022.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "STAT+: The key health care ballot measures we’re watching in the midterms",
-      "url": "https://www.statnews.com/2026/10/20/what-health-policy-battles-reveal-about-america-midterms-2026/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-20",
-      "summary": "State fights over issues like transgender rights and Medicaid offer clues to where Americans stand on contentious health matters.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Opinion: Resident physicians may lose some of their most important work hour protections",
-      "url": "https://www.statnews.com/2026/10/20/acgme-resident-physicians-work-hour-rules-time-off-between-shifts/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-20",
-      "summary": "“It is important to create barriers between high intensity shifts with physical, intellectual, and emotional burden to avoid burnout” in residents, writes Arifeen Rahman.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Judi Health launching employer Medicare Part D plan with a focus on transparency",
-      "url": "https://www.fiercehealthcare.com/payers/judi-health-launching-employer-medicare-part-d-plan-focus-transparency",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-20",
-      "summary": "Judi Health is launching a new Part D plan that aims to lean on its tech stack to drive transparency and outcomes.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Commercial plans' mental health provider directories routinely inaccurate, secret shopper study finds",
-      "url": "https://www.fiercehealthcare.com/payers/commercial-plans-mental-health-provider-directories-routinely-inaccurate-secret-shopper",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-20",
-      "summary": "Fewer than a quarter of secret shopper phone calls to a listed mental health provider ended in a scheduled appointment, often due to inaccurate contact information or other issues with a plan's directory.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "OpenEvidence, Doximity reach settlement in contentious AI legal battle",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/openevidence-doximity-reach-settlement-contentious-ai-lawsuit",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-20",
-      "summary": "Healthcare AI startups OpenEvidence and Doximity settled a contentious legal fight over allegations of corporate espionage and cyberattacks, alongside counterclaims of defamation and misinformation.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Trump EO creates new NIH division, White House task force centered on women’s health",
-      "url": "https://www.fiercehealthcare.com/regulatory/trump-eo-creates-new-nih-division-white-house-task-force-centered-womens-health",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-20",
-      "summary": "The goals of the new bodies are to address women’s health research gaps to improve health outcomes across the lifespan.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "The case for rethinking how ambulatory practices handle cybersecurity",
-      "url": "https://www.fiercehealthcare.com/sponsored/case-rethinking-how-ambulatory-practices-handle-cybersecurity",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-20",
-      "summary": "Healthcare is among the most targeted sectors for cybercriminals, and it's easy to see why.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Beyond the Recall Notice: Why Pharmacies Need Greater Visibility Into Recalled and Expired Medications",
-      "url": "https://www.fiercehealthcare.com/sponsored/beyond-recall-notice-why-pharmacies-need-greater-visibility-recalled-and-expired",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-20",
-      "summary": "Medication recalls and expirations are a routine part of pharmacy operations, but managing them often requires significant time, coordination and attention to detail.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Redesigning prior authorization around the patient",
-      "url": "https://www.fiercehealthcare.com/sponsored/redesigning-prior-authorization-around-patient",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-20",
-      "summary": "Abarca Health explores how shared standards, transparency and outcome-focused measures can reduce prior authorization friction.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "CMS proposes MA 'ghost network,' PBM transparency requirements",
-      "url": "https://www.fiercehealthcare.com/regulatory/cms-proposes-ma-ghost-network-pbm-transparency-requirements",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-20",
-      "summary": "The administration took steps to codify statutory reforms focused on maintaining accurate Medicare Advantage provider directories and collecting more pricing information from pharmacy benefit managers.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Centene to expand CHOICE Arrangements program to its employees in Ohio, Oklahoma",
-      "url": "https://www.fiercehealthcare.com/payers/centene-expand-choice-arrangements-program-ohio-oklahoma-2027",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-20",
-      "summary": "Centene is expanding its CHOICE Arrangements benefits program to its employees in Ohio and Oklahoma in the 2027 plan year.",
       "category": "general_market",
       "categoryLabel": "General Market"
     },
@@ -4657,168 +4829,6 @@
       "summary": "Ken Grubbs, DNP, RN, has been named COO of the Joint Commission, making him the first nurse to hold the role in the organization’s 75-year history. The Joint Commission announced the leadership appointment Oct.",
       "category": "general_market",
       "categoryLabel": "General Market"
-    },
-    {
-      "title": "Humana strikes $2.8B CenterWell senior clinic deal with BlackRock",
-      "url": "https://www.beckershospitalreview.com/hospital-transactions-and-valuation/humana-strikes-2-8b-centerwell-senior-clinic-deal-with-blackrock/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-13",
-      "summary": "Humana has agreed to form a new joint venture with investment management firm BlackRock to own and operate nearly 150 CenterWell Senior Primary Care clinics, replacing CenterWell’s existing joint ventures with private equity firm Welsh, Carson, Anderson &#38; Stowe.&#160; Funds and accounts managed by HPS Investment Partners, part of BlackRock, will acquire Welsh Carson’s equity [&#8230;] The post Humana strikes $2.",
-      "category": "mergers_mna",
-      "categoryLabel": "Mergers & M&A"
-    },
-    {
-      "title": "Medical supply company owner gets 14 years in $30M telehealth scheme",
-      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/telehealth/medical-supply-company-owner-gets-14-years-in-30m-telehealth-scheme/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-13",
-      "summary": "Mark Loftis, a Cushing, Okla.-based chiropractor and medical supply company owner, has been sentenced to 14 years in prison for a telemedicine-driven scheme that billed federal health programs more than $30 million for durable medical equipment that beneficiaries did not want or need.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "2 deaths reported to FDA after people took products claiming to be Eli Lilly&#8217;s retatrutide: Report",
-      "url": "https://www.beckershospitalreview.com/glp-1s/2-deaths-reported-to-fda-after-people-took-products-claiming-to-be-eli-lillys-retatrutide-report/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-13",
-      "summary": "The FDA has received reports in recent months that two people died after taking illicit products claiming to be retatrutide, Eli Lilly&#8217;s experimental weight loss drug, according to FDA documents reviewed by CBS News in an Oct. 13 report.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "12 revenue cycle leaders on the traits a resume can’t show",
-      "url": "https://www.beckershospitalreview.com/finance/revenue-cycle-management/12-revenue-cycle-leaders-on-the-traits-a-resume-cant-show/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-13",
-      "summary": "Ask a Revenue Cycle Leader is a new series featuring insights from health system and hospital revenue cycle executives nationwide. Becker’s poses questions on the most pressing issues in healthcare finance — from payer relations and automation to workforce and patient experience.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "UnitedHealth Group execs detail continued improvements at Optum Health",
-      "url": "https://www.fiercehealthcare.com/payers/unitedhealth-group-beats-street-41b-profit-q3",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "Another round of healthcare industry earnings reports kicked off Tuesday morning, with UnitedHealth Group reporting $4.1 billion in profit for the third quarter.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "UNMC, Nebraska Medicine teaching hospital project upgrades to $2.75B planned investment",
-      "url": "https://www.fiercehealthcare.com/hospitals/unmc-nebraska-medicine-teaching-hospital-project-upgrades-275b-planned-investment",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "The project’s new scope reflects an approximate $500 million increase from its initial estimate.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Chutes & Ladders—Joint Commission names COO; Beth Israel Lahey unveils next CEO",
-      "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Samaritan Health Services, MultiCare Health System merger to close Nov. 1",
-      "url": "https://www.fiercehealthcare.com/providers/samaritan-health-services-join-multicare-health-system",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "The affiliation approved by the nonprofits' boards will create an 18-hospital system with more than $7.5 billion in revenue—and give MultiCare an acute-care foothold in Oregon.",
-      "category": "mergers_mna",
-      "categoryLabel": "Mergers & M&A"
-    },
-    {
-      "title": "Humana, BlackRock strike $2.8B deal to manage CenterWell clinics",
-      "url": "https://www.fiercehealthcare.com/payers/humana-blackrock-strike-28b-deal-manage-centerwell-clinics",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "Humana will enter into a joint venture with investment firm BlackRock to manage and operate its CenterWell primary care clinics for seniors, swapping out its current partner Welsh, Carson, Anderson &amp; Stowe.",
-      "category": "mergers_mna",
-      "categoryLabel": "Mergers & M&A"
-    },
-    {
-      "title": "Brigham and Women's nurses postpone open-ended strike",
-      "url": "https://www.fiercehealthcare.com/providers/brigham-and-womens-nurses-authorize-open-ended-strike",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "With contract talks stalled since August, unionized Mass General Brigham employees had voted 93% in favor of a 4,000-nurse demonstration that could've become the largest in Massachusetts history.",
-      "category": "labor_unions",
-      "categoryLabel": "Labor & Unions"
-    },
-    {
-      "title": "Alignment Healthcare sues CMS over its 2027 Medicare Advantage star ratings",
-      "url": "https://www.fiercehealthcare.com/payers/alignment-healthcare-sues-cms-over-its-2027-medicare-advantage-star-ratings",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "Alignment Healthcare sued federal regulators, alleging that its 2027 Medicare Advantage star ratings were determined \"in flagrant violation\" of statute.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Google unveils new Fitbit Edge tracker as tech giant expands health monitoring ambitions",
-      "url": "https://www.fiercehealthcare.com/health-tech/google-unveils-new-fitbit-edge-tracker-tech-giant-expands-health-monitoring-ambitions",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "The new device also builds on Google’s health tracking ambitions by combining advanced health sensors with AI-powered insights designed to identify changes in a user’s health and translate those signals into personalized guidance.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Marsh survey examines how health systems are managing capital, investment strategies",
-      "url": "https://www.fiercehealthcare.com/finance/marsh-survey-examines-how-health-orgs-are-managing-capital-investment-strategies",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "Forty-three percent of respondents report expecting to draw on reserves in 2026, up from 37% the year prior.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Trump administration proposes new $70,000 fee for F-1 student visa workers",
-      "url": "https://www.fiercehealthcare.com/regulatory/trump-administration-proposes-new-70000-fee-f-1-student-visa-workers",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "The proposed monetary barrier on hiring foreign students would further narrow the path to employment at hospitals and health systems.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "The strategic shift reshaping payment integrity",
-      "url": "https://www.fiercehealthcare.com/sponsored/strategic-shift-reshaping-payment-integrity",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "Claris Health CEO Michael Axt examines how payers can turn payment integrity into a more connected, strategic capability. Listen to the interview to learn more.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "IDR Costs Nobody Budgeted For: 3 Problems Payers Keep Hitting",
-      "url": "https://www.fiercehealthcare.com/sponsored/healthcare-dive-idr-math-nobody-budgeted",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "Payers keep hitting the same three out-of-network problems. Here's why pricing, not arbitration, decides what IDR really costs.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Rep. Pallone introduces bill replacing No Surprises Act's arbitration process",
-      "url": "https://www.fiercehealthcare.com/regulatory/rep-pallone-introduces-bill-replacing-no-surprises-acts-arbitration-process",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "One of the No Surprises Act’s chief authors wants to replace the \"broken\" system for settling out-of-network pay disputes with market-based benchmarks.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Oracle Health data breach in 2025 compromised data of 20M people: report",
-      "url": "https://www.fiercehealthcare.com/health-tech/oracle-health-data-breach-2025-compromised-data-20m-people-report",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "In a report issued October 2, the Texas attorney general said the company disclosed that Social Security numbers, addresses and medical information of almost 20 million people, including about 3 million Texans, Bloomberg reported.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
     }
   ]
 }
