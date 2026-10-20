@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T19:07:39.410Z",
+  "lastUpdated": "2026-10-20T22:21:55.936Z",
   "scope": "US healthcare",
   "retentionDays": 90,
   "maxArticles": 500,
@@ -10,72 +10,72 @@
     "sources": [
       {
         "source": "Fierce Healthcare",
-        "articleCount": 212,
+        "articleCount": 213,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 19,
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "Becker's Hospital Review",
-        "articleCount": 135,
+        "articleCount": 139,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 19,
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "STAT News",
-        "articleCount": 70,
+        "articleCount": 68,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 19,
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "Federal Register - HHS",
         "articleCount": 36,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 19,
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "Healthcare Dive",
-        "articleCount": 20,
+        "articleCount": 16,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 19,
+        "staleHours": 22,
+        "status": "ok"
+      },
+      {
+        "source": "FDA MedWatch RSS",
+        "articleCount": 10,
+        "latestPublishedAt": "2026-10-20T00:00:00.000Z",
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "Federal Register - FDA",
         "articleCount": 10,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 115,
+        "staleHours": 118,
         "status": "stale"
-      },
-      {
-        "source": "FDA MedWatch RSS",
-        "articleCount": 9,
-        "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 19,
-        "status": "ok"
       },
       {
         "source": "Federal Register - CMS",
         "articleCount": 4,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 19,
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "National Nurses United RSS",
         "articleCount": 2,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 19,
+        "staleHours": 22,
         "status": "ok"
       },
       {
         "source": "SEC Healthcare Filings",
         "articleCount": 2,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 187,
+        "staleHours": 190,
         "status": "stale"
       }
     ]
@@ -87,7 +87,7 @@
     },
     "mergers_mna": {
       "label": "Mergers & M&A",
-      "count": 45
+      "count": 46
     },
     "labor_unions": {
       "label": "Labor & Unions",
@@ -99,19 +99,19 @@
     },
     "quality_safety": {
       "label": "Quality & Safety",
-      "count": 13
+      "count": 14
     },
     "capacity_expansion": {
       "label": "Capacity & Expansion",
-      "count": 19
+      "count": 20
     },
     "ai_tech": {
       "label": "AI & Digital Tech",
-      "count": 123
+      "count": 125
     },
     "general_market": {
       "label": "General Market",
-      "count": 225
+      "count": 220
     }
   },
   "quality": {
@@ -125,7 +125,7 @@
       },
       "minArticles24h": {
         "threshold": 20,
-        "actual": 71,
+        "actual": 89,
         "pass": true
       },
       "minRequiredCategoriesCovered": {
@@ -178,9 +178,21 @@
       "categoryLabel": "General Market"
     },
     {
-      "title": "Early Alert: Cardinal Health Issues Correction for Presource Packs Containing BD Alaris Pump Infusion Sets",
-      "summary": "Cardinal Health Presource Kits containing recalled BD Alaris Pump Infusion Sets should be corrected prior to continued use.",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-issues-correction-presource-packs-containing-bd-alaris-pump-infusion",
+      "title": "Early Alert: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infusion Sets",
+      "summary": "Cardinal Health Presource Kits may contain BD Alaris Pump Infusion Sets with Updated Use Instructions.",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-updates-use-instructions-presource-packs-containing-bd-alaris-pump",
+      "source": "FDA MedWatch RSS",
+      "sourceType": "rss",
+      "sourceId": "fda_medwatch_rss",
+      "publishedAt": "2026-10-20",
+      "category": "ai_tech",
+      "relevance": 100,
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Import Alert for Certain Olympus Medical Devices Manufactured in Japan - Letter to Health Care Providers",
+      "summary": "The U.S. Food and Drug Administration (FDA) is alerting health care providers about import alerts for certain medical devices manufactured in Japan by Olympus Medical Systems Corporation (Olympus) and its subsidiaries.",
+      "url": "http://www.fda.gov/medical-devices/letters-health-care-providers/import-alert-certain-olympus-medical-devices-manufactured-japan-letter-health-care-providers",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -202,9 +214,9 @@
       "categoryLabel": "General Market"
     },
     {
-      "title": "Early Alert: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infusion Sets",
-      "summary": "Cardinal Health Presource Kits may contain BD Alaris Pump Infusion Sets with Updated Use Instructions.",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-updates-use-instructions-presource-packs-containing-bd-alaris-pump",
+      "title": "Early Alert: Cardinal Health Issues Correction for Presource Packs Containing BD Alaris Pump Infusion Sets",
+      "summary": "Cardinal Health Presource Kits containing recalled BD Alaris Pump Infusion Sets should be corrected prior to continued use.",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-issues-correction-presource-packs-containing-bd-alaris-pump-infusion",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -310,92 +322,110 @@
       "categoryLabel": "General Market"
     },
     {
-      "title": "21 healthcare strikes in 2026",
-      "url": "https://www.beckershospitalreview.com/hr/21-healthcare-strikes-in-2026/",
+      "title": "Cancer drug shortages worsen: 7 notes from ASHP&#8217;s Q3 report",
+      "url": "https://www.beckershospitalreview.com/pharmacy/cancer-drug-shortages-worsen-7-notes-from-ashps-q3-report/",
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-20",
-      "summary": "Union activity in healthcare continues in 2026, with 21 reported strikes since the beginning of the year. Some of these actions involve healthcare workers and leaders across hospitals and clinics in multiple states.",
-      "category": "labor_unions",
-      "categoryLabel": "Labor & Unions"
-    },
-    {
-      "title": "Breast screening method tied to nearly 5x fewer follow-ups: 5 notes",
-      "url": "https://www.beckershospitalreview.com/radiology/breast-screening-method-tied-to-nearly-5x-fewer-follow-ups-5-notes/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-20",
-      "summary": "Automated breast ultrasound was associated with fewer short-interval follow-up recommendations than handheld ultrasound among women with dense breasts, with no apparent difference in cancer detection, according to a study published in the Journal of the American College of Radiology. Here are five things to know: The post Breast screening method tied to nearly 5x fewer follow-ups: 5 notes appeared first on Becker&#039;s Hospital Review | Healthcare News & Analysis.",
+      "summary": "Chemotherapy shortages increased in the third quarter even as the number of active U.S.",
       "category": "general_market",
       "categoryLabel": "General Market"
     },
     {
-      "title": "Novant Health launches virtual men&#8217;s health clinic",
-      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/telehealth/novant-health-launches-virtual-mens-health-clinic/",
+      "title": "Florida health system launches meds-to-beds service",
+      "url": "https://www.beckershospitalreview.com/pharmacy/florida-health-system-launches-meds-to-beds-service/",
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-20",
-      "summary": "Winston-Salem, N.C.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Moffitt Cancer Center’s operating margin climbs to 6.9% in FY 2026",
-      "url": "https://www.beckershospitalreview.com/finance/moffitt-cancer-centers-operating-margin-climbs-to-6-9-in-fy-2026/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-20",
-      "summary": "Tampa, Fla.-based Moffitt Cancer Center recorded operating income of $238.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Tower Health CEO: &#8216;Culture isn&#8217;t a soft thing, it&#8217;s a strategy&#8217;",
-      "url": "https://www.beckershospitalreview.com/hospital-management-administration/tower-health-ceo-culture-isnt-a-soft-thing-its-a-strategy/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-20",
-      "summary": "Health system turnarounds tend to be told as financial stories. Michael Stern, president and CEO of West Reading, Pa.",
+      "summary": "Naples (Fla.) Comprehensive Health has partnered with Publix Pharmacy to provide eligible patients with newly prescribed medications before they leave the hospital.",
       "category": "capacity_expansion",
       "categoryLabel": "Capacity & Expansion"
     },
     {
-      "title": "MEDITECH and Lifemed AI Partner to Bring Revenue Cycle Automation to Health Systems",
-      "url": "https://www.beckershospitalreview.com/finance/revenue-cycle-management/meditech-and-lifemed-ai-partner-to-bring-revenue-cycle-automation-to-health-systems/",
+      "title": "&#8216;AI is a living organism&#8217;: What vendors owe health systems after go-live",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/ai-is-a-living-organism-what-vendors-owe-health-systems-after-go-live/",
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-20",
-      "summary": "Lifemed AI, a non-generative AI-driven healthcare technology company, today announced its formal partnership with MEDITECH as an Accelerator-level member of the MEDITECH Alliance program. The designation brings Lifemed&#8217;s non-generative deep-learning neural network platform, DeepClaim, which is purpose-built to eliminate claims denials, automate revenue cycle workflows, and recover lost reimbursement, directly to MEDITECH&#8217;s network of hospitals [&#8230;] The post MEDITECH and Lifemed AI Partner to Bring Revenue Cycle Automation to Health Systems appeared first on Becker&#039;s Hospital Review | Healthcare News & Analysis.",
+      "summary": "Health systems have grown more disciplined about vetting AI before it goes live. What comes after has proven harder to standardize.",
       "category": "ai_tech",
       "categoryLabel": "AI & Digital Tech"
     },
     {
-      "title": "State Department advises Americans to reconsider travel to Kenya amid rising Ebola cases",
-      "url": "https://www.beckershospitalreview.com/quality/public-health/state-department-advises-americans-to-reconsider-travel-to-kenya-amid-rising-ebola-cases/",
+      "title": "Why healthcare disparities are top of mind for Zuckerberg San Francisco General&#8217;s CEO",
+      "url": "https://www.beckershospitalreview.com/quality/health-equity/why-healthcare-disparities-are-top-of-mind-for-zuckerberg-san-francisco-generals-ceo/",
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-20",
-      "summary": "The State Department raised its travel advisory for Kenya to Level 3, “reconsider travel,” on Oct. 19, citing health risks from Ebola.",
+      "summary": "As a primary care physician who also is a hospital CEO, Susan Ehrlich, MD, occupies rare air. According to a 2025 McKinsey survey, only about 15% of CEOs across healthcare organizations have clinical backgrounds; that figure includes health systems and pharmaceutical companies.",
       "category": "ai_tech",
       "categoryLabel": "AI & Digital Tech"
     },
     {
-      "title": "HCA opens new $22M Florida freestanding ED",
-      "url": "https://www.beckershospitalreview.com/capital/hca-opens-new-22m-florida-freestanding-ed/",
+      "title": "HHS adds 2 regional hubs for sickle cell disease",
+      "url": "https://www.beckershospitalreview.com/quality/patient-safety-outcomes/hhs-adds-2-regional-hubs-for-sickle-cell-disease/",
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-20",
-      "summary": "HCA Florida Lehigh Hospital in Lehigh Acres, Fla., opened its HCA Florida ER-Alico, a freestanding emergency department, on Oct.",
-      "category": "mergers_mna",
-      "categoryLabel": "Mergers & M&A"
+      "summary": "HHS has expanded its regional sickle cell disease care network from five to seven regions through a new program administered by the Health Resources and Services Administration. The Sickle Cell Disease Regional Care Excellence Program funds seven regional coordinating hubs designed to help patients access specialty care and community services closer to home, according to [&#8230;] The post HHS adds 2 regional hubs for sickle cell disease appeared first on Becker&#039;s Hospital Review | Healthcare News & Analysis.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
     },
     {
-      "title": "Why Recruiting Alone Will Not Solve Your Staffing Problem",
-      "url": "https://www.beckershospitalreview.com/workforce/why-recruiting-alone-will-not-solve-your-staffing-problem/",
+      "title": "72 health IT &#038; revenue cycle up-and-comers &#124; 2026",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/72-health-it-revenue-cycle-up-and-comers-2026/",
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-20",
-      "summary": "You fill the vacancy. Six months later, you’re recruiting for the same position.",
+      "summary": "Across hospitals, health systems and healthcare companies, a new generation of executives is stepping into key roles and making their mark.&#160; These rising leaders bring fresh thinking to complex challenges by reimagining organizational strategy, sharpening financial performance, and driving operational and technological innovation.",
       "category": "general_market",
       "categoryLabel": "General Market"
     },
     {
-      "title": "Vizient quantifies financial loss of ED walkouts",
-      "url": "https://www.beckershospitalreview.com/care-coordination/vizient-quantifies-financial-loss-of-ed-walkouts/",
+      "title": "Interim CEOs in 2026: Are systems leaving the top slot open longer?",
+      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/interim-ceos-in-2026-are-systems-leaving-the-top-slot-open-longer/",
       "source": "Becker's Hospital Review",
       "publishedAt": "2026-10-20",
-      "summary": "Vizient recently launched a calculator for hospital leaders to estimate financial losses from patients leaving the emergency department before receiving treatment.&#160; The ED throughput opportunity calculator asks for inputs of annual ED volume, a left-before-treatment-completion rate and whether the hospital is one that primarily serves community-based emergency care or is a complex hospital, including an [&#8230;] The post Vizient quantifies financial loss of ED walkouts appeared first on Becker&#039;s Hospital Review | Healthcare News & Analysis.",
+      "summary": "In cases Becker&#8217;s has reported, hospitals and health systems that named permanent CEOs in 2026 took longer to fill than those in 2025. Several organizations have been led by interim CEOs for five months or more.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "‘Now’s the right time’: Why an Idaho health system is launching a Medicare Advantage plan",
+      "url": "https://www.beckershospitalreview.com/finance/nows-the-right-time-why-an-idaho-health-system-is-launching-a-medicare-advantage-plan/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "Boise, Idaho-based St. Luke&#8217;s Health System will begin offering Medicare Advantage coverage for the first time in 2027, making it one of just a handful of new entrants into the market.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "Birth center use has nearly tripled in 20 years, but access varies: 6 things to know",
+      "url": "https://www.beckershospitalreview.com/finance/birth-center-use-has-nearly-tripled-in-20-years-but-access-varies-6-things-to-know/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "The share of U.S.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "OpenAI acquires AI drug development platform",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/openai-acquires-ai-drug-development-platform/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "OpenAI has acquired Orchestra Bio, an AI-powered platform that helps biopharma teams coordinate the drug development process. OpenAI announced the deal Oct.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
+    },
+    {
+      "title": "STAT+: He’s slashing quality at nursing homes. This state is letting it happen",
+      "url": "https://www.statnews.com/2026/10/20/nursing-home-chains-slash-quality-massachusetts/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-20",
+      "summary": "The Boston Globe Spotlight Team found Eli Mirlis made grim cuts to resident care while steering millions of dollars from his nursing homes’ revenue into a constellation of real estate&#8230;",
+      "category": "quality_safety",
+      "categoryLabel": "Quality & Safety"
+    },
+    {
+      "title": "STAT+: State regulators move to seize licenses from nursing home chain that was focus of Boston Globe investigation",
+      "url": "https://www.statnews.com/2026/10/20/massachusetts-regulators-move-to-seize-regal-care-nursing-home-licenses-boston-globe-investigation/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-20",
+      "summary": "A Boston Globe investigation found that RegalCare acquired nursing homes across Massachusetts, then gutted the quality of care.",
       "category": "mergers_mna",
       "categoryLabel": "Mergers & M&A"
     },
@@ -499,6 +529,51 @@
       "categoryLabel": "AI & Digital Tech"
     },
     {
+      "title": "Chutes & Ladders—Centivo adds 2 executives; Inspira Health outlines leadership transition",
+      "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-20",
+      "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Hackensack Meridian Health signs definitive agreement to acquire Hunterdon Health, commits $230M",
+      "url": "https://www.fiercehealthcare.com/providers/hackensack-meridian-health-signs-230m-definitive-agreement-acquire-hunterdon-health",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-20",
+      "summary": "The announcement did not outline a potential timeline for the merger, which would add a nineteenth hospital to New Jersey's largest health system.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
+    },
+    {
+      "title": "Centene, Oscar Health outline 2027 ACA marketplace plans",
+      "url": "https://www.fiercehealthcare.com/payers/centene-oscar-health-outline-2027-aca-marketplace-plans",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-20",
+      "summary": "Open enrollment for the Affordable Care Act's marketplaces begins on Nov. 1, and with more turbulence on deck, insurers are offering a look at their plans for the coming year.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Democrats demand tougher standards for companies running Medicaid systems",
+      "url": "https://www.fiercehealthcare.com/regulatory/democrats-demand-tougher-standards-companies-running-medicaid-systems",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-20",
+      "summary": "A group of Democratic senators is demanding that the federal agency overseeing Medicaid institute tougher standards for government contractors running complex computer systems that millions of people rely on to get benefits.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "DOJ streamlines voluntary self-disclosure of healthcare fraud",
+      "url": "https://www.fiercehealthcare.com/regulatory/doj-streamlines-voluntary-self-disclosure-healthcare-fraud",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-20",
+      "summary": "A policy change directs healthcare organizations seeking lighter repercussions from potentially criminal fraud activity to disclose to DOJ alone, rather than separately between law enforcement and Department of Health and Human Services Office of Inspector General.",
+      "category": "closures_layoffs",
+      "categoryLabel": "Closures & Layoffs"
+    },
+    {
       "title": "Judi Health launching employer Medicare Part D plan with a focus on transparency",
       "url": "https://www.fiercehealthcare.com/payers/judi-health-launching-employer-medicare-part-d-plan-focus-transparency",
       "source": "Fierce Healthcare",
@@ -515,6 +590,96 @@
       "summary": "Fewer than a quarter of secret shopper phone calls to a listed mental health provider ended in a scheduled appointment, often due to inaccurate contact information or other issues with a plan's directory.",
       "category": "general_market",
       "categoryLabel": "General Market"
+    },
+    {
+      "title": "21 healthcare strikes in 2026",
+      "url": "https://www.beckershospitalreview.com/hr/21-healthcare-strikes-in-2026/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "Union activity in healthcare continues in 2026, with 21 reported strikes since the beginning of the year. Some of these actions involve healthcare workers and leaders across hospitals and clinics in multiple states.",
+      "category": "labor_unions",
+      "categoryLabel": "Labor & Unions"
+    },
+    {
+      "title": "Breast screening method tied to nearly 5x fewer follow-ups: 5 notes",
+      "url": "https://www.beckershospitalreview.com/radiology/breast-screening-method-tied-to-nearly-5x-fewer-follow-ups-5-notes/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "Automated breast ultrasound was associated with fewer short-interval follow-up recommendations than handheld ultrasound among women with dense breasts, with no apparent difference in cancer detection, according to a study published in the Journal of the American College of Radiology. Here are five things to know: The post Breast screening method tied to nearly 5x fewer follow-ups: 5 notes appeared first on Becker&#039;s Hospital Review | Healthcare News & Analysis.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Novant Health launches virtual men&#8217;s health clinic",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/telehealth/novant-health-launches-virtual-mens-health-clinic/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "Winston-Salem, N.C.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Moffitt Cancer Center’s operating margin climbs to 6.9% in FY 2026",
+      "url": "https://www.beckershospitalreview.com/finance/moffitt-cancer-centers-operating-margin-climbs-to-6-9-in-fy-2026/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "Tampa, Fla.-based Moffitt Cancer Center recorded operating income of $238.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Tower Health CEO: &#8216;Culture isn&#8217;t a soft thing, it&#8217;s a strategy&#8217;",
+      "url": "https://www.beckershospitalreview.com/hospital-management-administration/tower-health-ceo-culture-isnt-a-soft-thing-its-a-strategy/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "Health system turnarounds tend to be told as financial stories. Michael Stern, president and CEO of West Reading, Pa.",
+      "category": "capacity_expansion",
+      "categoryLabel": "Capacity & Expansion"
+    },
+    {
+      "title": "MEDITECH and Lifemed AI Partner to Bring Revenue Cycle Automation to Health Systems",
+      "url": "https://www.beckershospitalreview.com/finance/revenue-cycle-management/meditech-and-lifemed-ai-partner-to-bring-revenue-cycle-automation-to-health-systems/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "Lifemed AI, a non-generative AI-driven healthcare technology company, today announced its formal partnership with MEDITECH as an Accelerator-level member of the MEDITECH Alliance program. The designation brings Lifemed&#8217;s non-generative deep-learning neural network platform, DeepClaim, which is purpose-built to eliminate claims denials, automate revenue cycle workflows, and recover lost reimbursement, directly to MEDITECH&#8217;s network of hospitals [&#8230;] The post MEDITECH and Lifemed AI Partner to Bring Revenue Cycle Automation to Health Systems appeared first on Becker&#039;s Hospital Review | Healthcare News & Analysis.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "State Department advises Americans to reconsider travel to Kenya amid rising Ebola cases",
+      "url": "https://www.beckershospitalreview.com/quality/public-health/state-department-advises-americans-to-reconsider-travel-to-kenya-amid-rising-ebola-cases/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "The State Department raised its travel advisory for Kenya to Level 3, “reconsider travel,” on Oct. 19, citing health risks from Ebola.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "HCA opens new $22M Florida freestanding ED",
+      "url": "https://www.beckershospitalreview.com/capital/hca-opens-new-22m-florida-freestanding-ed/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "HCA Florida Lehigh Hospital in Lehigh Acres, Fla., opened its HCA Florida ER-Alico, a freestanding emergency department, on Oct.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
+    },
+    {
+      "title": "Why Recruiting Alone Will Not Solve Your Staffing Problem",
+      "url": "https://www.beckershospitalreview.com/workforce/why-recruiting-alone-will-not-solve-your-staffing-problem/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "You fill the vacancy. Six months later, you’re recruiting for the same position.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Vizient quantifies financial loss of ED walkouts",
+      "url": "https://www.beckershospitalreview.com/care-coordination/vizient-quantifies-financial-loss-of-ed-walkouts/",
+      "source": "Becker's Hospital Review",
+      "publishedAt": "2026-10-20",
+      "summary": "Vizient recently launched a calculator for hospital leaders to estimate financial losses from patients leaving the emergency department before receiving treatment.&#160; The ED throughput opportunity calculator asks for inputs of annual ED volume, a left-before-treatment-completion rate and whether the hospital is one that primarily serves community-based emergency care or is a complex hospital, including an [&#8230;] The post Vizient quantifies financial loss of ED walkouts appeared first on Becker&#039;s Hospital Review | Healthcare News & Analysis.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
     },
     {
       "title": "OpenEvidence, Doximity reach settlement in contentious AI legal battle",
@@ -3553,18 +3718,6 @@
       "categoryLabel": "General Market"
     },
     {
-      "title": "Convenience Kit Recall: AVID Medical Removes Convenience Kits Affected by BD ChloraPrep Applicator Recall",
-      "summary": "Avid Medical is removing certain convenience kits affected by the BD ChloraPrep Applicator Recall that may be contaminated with Aspergillus penicillioides.",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-avid-medical-removes-convenience-kits-affected-bd-chloraprep-applicator-0",
-      "source": "FDA MedWatch RSS",
-      "sourceType": "rss",
-      "sourceId": "fda_medwatch_rss",
-      "publishedAt": "2026-10-14",
-      "category": "ai_tech",
-      "relevance": 100,
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
       "title": "Par Health Issues Voluntary Nationwide Recall of Argatroban Injection Due to the Presence of Particulate Matter",
       "summary": "FOR IMMEDIATE RELEASE - ROCHESTER, MI– October 13, 2026 – Par Health is recalling 22 lots of Argatroban Injection 250 mg/2.5 mL (100 mg/mL) to the hospital/user level. This recall is being conducted due to the presence of particulate matter, identified as cellulose, polystyrene, polyethylene terepht",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-argatroban-injection-due-presence-particulate-matter",
@@ -3575,6 +3728,18 @@
       "category": "general_market",
       "relevance": 100,
       "categoryLabel": "General Market"
+    },
+    {
+      "title": "Convenience Kit Recall: AVID Medical Removes Convenience Kits Affected by BD ChloraPrep Applicator Recall",
+      "summary": "Avid Medical is removing certain convenience kits affected by the BD ChloraPrep Applicator Recall that may be contaminated with Aspergillus penicillioides.",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-avid-medical-removes-convenience-kits-affected-bd-chloraprep-applicator-0",
+      "source": "FDA MedWatch RSS",
+      "sourceType": "rss",
+      "sourceId": "fda_medwatch_rss",
+      "publishedAt": "2026-10-14",
+      "category": "ai_tech",
+      "relevance": 100,
+      "categoryLabel": "AI & Digital Tech"
     },
     {
       "title": "Center For Scientific Review; Notice of Closed Meetings",
@@ -4665,168 +4830,6 @@
       "source": "STAT News",
       "publishedAt": "2026-10-13",
       "summary": "In this edition of STAT Health Tech: A look at a study recently published in The Lancet about Google's diagnostic chatbot, AMIE.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "How many ways can the Trump administration clamp down on international researchers?",
-      "url": "https://www.statnews.com/2026/10/13/health-news-trump-admin-clamps-down-on-international-researchers/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-13",
-      "summary": "In the span of two days last week, the Trump administration issued two sweeping announcements meant to crack down on international students and scholars, who make up a sizable portion&#8230;",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Opinion: Lethal injection will never be the same after Christa Pike’s botched execution",
-      "url": "https://www.statnews.com/2026/10/13/christa-pike-botched-execution-bioethics-end-of-lethal-injection/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-13",
-      "summary": "“The legal and medical issues in the Christa Pike case are on a collision course,” writes bioethicist M. Sara Rosenthal.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "STAT+: Concerns grow on safety issues tied to Neurocrine Biosciences rare disease drug",
-      "url": "https://www.statnews.com/2026/10/13/neurocrine-biosciences-prader-willi-vykat-xr/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-13",
-      "summary": "Patient advocates and some experts are expressing growing alarm over the perceived risks of a rare disease drug sold by Neurocrine Biosciences.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Opinion: STAT+: The epidemic of learned helplessness in physicians",
-      "url": "https://www.statnews.com/2026/10/13/doctors-learned-helplessness-chief-complaint-frances-mei-hardin/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-13",
-      "summary": "“Hordes of brilliant, graduate-degree-holding professionals in their 40s, 50s, and beyond act helpless at work,” writes STAT columnist Frances Mei Hardin.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Humana enters $2.8B primary care joint venture with BlackRock",
-      "url": "https://www.healthcaredive.com/news/humana-enters-28b-primary-care-joint-venture-with-blackrock/832872/",
-      "source": "Healthcare Dive",
-      "publishedAt": "2026-10-13",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.",
-      "category": "mergers_mna",
-      "categoryLabel": "Mergers & M&A"
-    },
-    {
-      "title": "Suki raises $90M in Series E round to create AI agents",
-      "url": "https://www.healthcaredive.com/news/suki-raises-90m-in-series-e-round-to-create-ai-agents/832862/",
-      "source": "Healthcare Dive",
-      "publishedAt": "2026-10-13",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Alignment sues CMS over 2027 Medicare Advantage star ratings crash",
-      "url": "https://www.healthcaredive.com/news/alignment-lawsuit-2027-medicare-advantage-star-ratings-cms/832774/",
-      "source": "Healthcare Dive",
-      "publishedAt": "2026-10-13",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "UnitedHealth eyes Medicare Advantage opportunities, bolstered by Q3 profit growth",
-      "url": "https://www.healthcaredive.com/news/unitedhealth-q3-2026-profits-soar-medicare-advantage-strategy/832827/",
-      "source": "Healthcare Dive",
-      "publishedAt": "2026-10-13",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Judge rejects NC State Health Plan's request to block Atrium affordability program",
-      "url": "https://www.fiercehealthcare.com/payers/judge-rejects-nc-state-health-plans-request-block-atrium-affordability-program",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "The state's treasurer has said the large health system's Affordability Protection Program, a response to being left out of a preferred provider program, would bankrupt the public health plan.",
-      "category": "closures_layoffs",
-      "categoryLabel": "Closures & Layoffs"
-    },
-    {
-      "title": "VBC accelerator Diverge merges with Medical Home Network to support PCPs, FQHCs",
-      "url": "https://www.fiercehealthcare.com/providers/vbc-accelerator-diverge-merges-medical-home-network-support-pcps-fqhcs",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "Together, the organizations hope to reach broader swaths of patients in value-based arrangements.",
-      "category": "mergers_mna",
-      "categoryLabel": "Mergers & M&A"
-    },
-    {
-      "title": "Measles update: US passes 4,000 cases, Pennsylvania reports sixth death",
-      "url": "https://www.fiercehealthcare.com/providers/measles-update-us-passes-4000-cases-pennsylvania-reports-sixth-death",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "Experts have pointed to sagging vaccination rates and friction between federal health leadership and the broader public health community as contributor to this year’s outbreaks of the vaccine-preventable disease.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "CVS, DOJ reach $315M settlement in opioid prescription case",
-      "url": "https://www.fiercehealthcare.com/payers/cvs-doj-reach-315m-settlement-opioid-prescription-case",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "CVS Health has reached a $315 million settlement with the Department of Justice that resolves allegations the pharmacy giant knowingly filled unlawful opioid prescriptions.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "UnitedHealth reports $4.1B in profit, launches AI recommendations for Medicare Advantage plans",
-      "url": "https://www.beckershospitalreview.com/finance/unitedhealth-reports-4-1b-in-profit-launches-ai-recommendations-for-medicare-advantage-plans/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-13",
-      "summary": "UnitedHealth Group reported $4.1 billion in profit for the third quarter of 2026, up 75% year over year, according to an Oct.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Orlando Health in final stages of demolishing former Steward hospital",
-      "url": "https://www.beckershospitalreview.com/finance/orlando-health-in-final-stages-of-demolishing-former-steward-hospital/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-13",
-      "summary": "Orlando (Fla.) Health is in the final stages of its demolition plan at its shuttered Rockledge (Fla.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Inspira Health CEO to retire; successor named",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/inspira-health-ceo-to-retire-successor-named/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-13",
-      "summary": "Amy Mansue plans to retire at the end of 2026 as CEO of Mullica Hill, N.J.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "CommonSpirit Texas hospital names CEO",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/commonspirit-texas-hospital-names-ceo/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-13",
-      "summary": "Cody Barnhart was named CEO of CommonSpirit – St. Luke’s Hospital – Brazosport in Lake Jackson, Texas, in October, according to his LinkedIn profile.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "HCA Florida hospital names COO",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/hca-florida-hospital-names-coo-11/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-13",
-      "summary": "Brock Aberle has been appointed COO of HCA Florida University Hospital in Davie. In his new role, Mr.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Joint Commission names 1st nurse COO in its 75-year history",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/joint-commission-names-1st-nurse-coo-in-its-75-year-history/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-13",
-      "summary": "Ken Grubbs, DNP, RN, has been named COO of the Joint Commission, making him the first nurse to hold the role in the organization’s 75-year history. The Joint Commission announced the leadership appointment Oct.",
       "category": "general_market",
       "categoryLabel": "General Market"
     }
