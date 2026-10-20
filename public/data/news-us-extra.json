@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T03:59:34.495Z",
+  "lastUpdated": "2026-10-20T09:19:25.481Z",
   "scope": "US healthcare",
   "sourceManifestVersion": "1.0.0",
   "sourceHealth": [
@@ -204,6 +204,116 @@
   ],
   "articles": [
     {
+      "title": "Medicare Program; Implementation of Sections 6219, 6220, and 6224 of the Consolidated Appropriations Act, 2026",
+      "summary": "This proposed rule would implement section 6219 (Adjustments to Medicare Part D Cost-Sharing Reductions for Low-Income Individuals), section 6220 (Requiring Enhanced and Accurate Lists of (REAL) Health Providers Act), and section 6224 (Modernizing and Ensuring Pharmacy Benefit Manager Accountability) of the Consolidated Appropriations Act, 2026.",
+      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21420/medicare-program-implementation-of-sections-6219-6220-and-6224-of-the-consolidated-appropriations",
+      "source": "Federal Register - CMS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_cms",
+      "publishedAt": "2026-10-20",
+      "category": "policy_reimbursement",
+      "relevance": 100
+    },
+    {
+      "title": "New Dietary Ingredient (NDI) Notifications and Related Issues; Identity and Safety Information About the NDI: Guidance for Industry; Availability",
+      "summary": "The Food and Drug Administration (FDA or we) is announcing the availability of a final guidance for industry entitled \"New Dietary Ingredient (NDI) Notifications and Related Issues; Identity and Safety Information About the NDI: Guidance for Industry.\" The guidance focuses on frequently asked questions about the new dietary ingredient notification (NDIN) submissions. This guidance is intended to help provide recommendations to manufacturers and distributors of NDIs and dietary supplements containing an NDI regarding the identity and safety information that should be included in an NDIN.",
+      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21453/new-dietary-ingredient-ndi-notifications-and-related-issues-identity-and-safety-information-about",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-20",
+      "category": "quality_safety",
+      "relevance": 100
+    },
+    {
+      "title": "Agency Information Collection Activities: Submission to OMB for Review and Approval; Public Comment Request; Health Center Program Forms-OMB No. 0915-0285-Revision",
+      "summary": "In compliance with the Paperwork Reduction Act of 1995, HRSA submitted an Information Collection Request (ICR) to the Office of Management and Budget (OMB) for review and approval. Comments submitted during the first public review of this ICR will be provided to OMB. OMB will accept further comments from the public during the review and approval period. OMB may act on HRSA's ICR only after the 30-day comment period for this notice has closed.",
+      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21385/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-20",
+      "category": "policy_reimbursement",
+      "relevance": 100
+    },
+    {
+      "title": "Agency Forms Undergoing Paperwork Reduction Act Review",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21417/agency-forms-undergoing-paperwork-reduction-act-review",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-20",
+      "category": "policy_reimbursement",
+      "relevance": 96
+    },
+    {
+      "title": "Agency Forms Undergoing Paperwork Reduction Act Review",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21416/agency-forms-undergoing-paperwork-reduction-act-review",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-20",
+      "category": "policy_reimbursement",
+      "relevance": 96
+    },
+    {
+      "title": "National Cancer Institute; Notice of Meeting",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21403/national-cancer-institute-notice-of-meeting",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-20",
+      "category": "policy_reimbursement",
+      "relevance": 96
+    },
+    {
+      "title": "National Cancer Institute; Notice of Meeting",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21402/national-cancer-institute-notice-of-meeting",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-20",
+      "category": "policy_reimbursement",
+      "relevance": 96
+    },
+    {
+      "title": "National Cancer Institute; Notice of Partially Closed Meeting",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21401/national-cancer-institute-notice-of-partially-closed-meeting",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-20",
+      "category": "policy_reimbursement",
+      "relevance": 96
+    },
+    {
+      "title": "National Institute of Diabetes and Digestive and Kidney Diseases; Notice of Meeting",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21396/national-institute-of-diabetes-and-digestive-and-kidney-diseases-notice-of-meeting",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-20",
+      "category": "policy_reimbursement",
+      "relevance": 96
+    },
+    {
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21395/center-for-scientific-review-notice-of-closed-meetings",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-20",
+      "category": "policy_reimbursement",
+      "relevance": 96
+    },
+    {
       "title": "Diagnostic Ultrasound System Correction: Philips Ultrasound Issues Updated Use Instructions for Lumify Diagnostic Ultrasound System",
       "summary": "A software app or transducer connection problem with the Philips Lumify diagnostic ultrasound system can result in loss of or delays in scanning functionality.",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/diagnostic-ultrasound-system-correction-philips-ultrasound-issues-updated-use-instructions-lumify",
@@ -262,22 +372,11 @@
       "title": "Fit-for-Purpose Rare Disease Framework Initiative; Public Meeting; Request for Information and Comments",
       "summary": "The Food and Drug Administration (FDA, the Agency, or we) is announcing a public meeting entitled \"Fit-for-Purpose Rare Disease Framework Initiative\". Convened by the Reagan-Udall Foundation for, and in collaboration with FDA, the meeting will focus on developing a fit-for-purpose framework for the development and regulatory review of rare disease therapies. There will be an opportunity to request to provide public comments at the meeting. In addition, FDA is establishing a public docket to collect feedback on and input related to its Rare Disease Framework Initiative.",
       "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21142/fit-for-purpose-rare-disease-framework-initiative-public-meeting-request-for-information-and",
-      "source": "Federal Register - HHS",
+      "source": "Federal Register - FDA",
       "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
+      "sourceId": "federal_register_fda",
       "publishedAt": "2026-10-16",
-      "category": "policy_reimbursement",
-      "relevance": 100
-    },
-    {
-      "title": "Meeting of the Advisory Council for the Elimination of Tuberculosis",
-      "summary": "In accordance with the Federal Advisory Committee Act, the Centers for Disease Control and Prevention (CDC) announces the following meeting of the Advisory Council for the Elimination of Tuberculosis (ACET). This meeting is open to the public, limited only by the number of audio and web conference lines (1,000 lines are available). Time will be available for public comment (registration is required to provide oral comment; see the Oral Public Comment section below).",
-      "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21125/meeting-of-the-advisory-council-for-the-elimination-of-tuberculosis",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-16",
-      "category": "ai_tech",
+      "category": "quality_safety",
       "relevance": 100
     },
     {
@@ -361,20 +460,9 @@
       "title": "Authorization of Emergency Use for Four Animal Drugs for the Prevention and Treatment of New World Screwworm; Availability",
       "summary": "The Food and Drug Administration (FDA or the Agency) is announcing the issuance of four Emergency Use Authorizations (EUA or Authorization) under the Federal Food, Drug, and Cosmetic Act (FD&C Act) for new animal products. FDA has issued one EUA for an animal product as requested by Elanco US Inc. for application on or around wounds for the prevention of infestations caused by New World screwworm (Cochliomyia hominivorax; NWS) larvae (myiasis) in sheep, cattle, goats, swine, camelids, and the following captive and captured wildlife species: cervids, American bison, bighorn sheep, and Sonoran pronghorn. FDA has issued one EUA for an animal product as requested by Zoetis Inc. for the treatment of infestations caused by NWS (myiasis) in dogs and puppies. FDA has issued one EUA for an animal product as requested by Bimeda Animal Health Ltd. for the prevention of infestations caused by NWS (myiasis) in cattle. FDA has issued one EUA for an animal product as requested by Sergeant's Pet Care Products LLC for the treatment and prevention of infestations caused by NWS (myiasis) in dogs, puppies, cats and kittens 2 pounds of body weight or greater and 4 weeks of age and older. The Authorizations contain, among other things, conditions on the emergency use of the authorized products. The Authorizations follow the August 18, 2025, determination by the Secretary of Health and Human Services (HHS) that there is a significant potential for a public health emergency that has a significant potential to affect national security or the health and security of U.S. citizens living abroad and that involves NWS. On the basis of such determination, the Secretary of HHS declared on August 18, 2025, that circumstances exist justifying the authorization of emergency use of animal drugs to treat or prevent NWS myiasis in animals. The Authorizations, which include an explanation of the reasons for issuance, are reprinted in this document.",
       "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21084/authorization-of-emergency-use-for-four-animal-drugs-for-the-prevention-and-treatment-of-new-world",
-      "source": "Federal Register - HHS",
+      "source": "Federal Register - FDA",
       "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-15",
-      "category": "policy_reimbursement",
-      "relevance": 100
-    },
-    {
-      "title": "Order Under Sections 362 and 365 of the Public Health Service Act Continuing the Suspension of the Right To Introduce Certain Persons From Countries Where a Quarantinable Communicable Disease Exists",
-      "summary": "The Centers for Disease Control and Prevention (CDC), a component of the Department of Health and Human Services (HHS), announces it is issuing an Order under Sections 362 and 365 of the Public Health Service Act, and associated implementing regulations, continuing the suspension of the right to introduce certain persons from countries where an outbreak of a quarantinable communicable disease exists. This Order was issued on October 11 and shall remain in effect through 4:59 p.m. Eastern Daylight Time (EDT) on Tuesday, November 10, 2026. This Order may be amended or rescinded prior to that time at the discretion of the Director.",
-      "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21036/order-under-sections-362-and-365-of-the-public-health-service-act-continuing-the-suspension-of-the",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
+      "sourceId": "federal_register_fda",
       "publishedAt": "2026-10-15",
       "category": "policy_reimbursement",
       "relevance": 100
@@ -383,11 +471,11 @@
       "title": "Request for Nominations for Voting Members on a Public Advisory Committee; Tobacco Products Scientific Advisory Committee (TPSAC)",
       "summary": "The Food and Drug Administration (FDA) is requesting nominations for members to serve on the Tobacco Products Scientific Advisory Committee (TPSAC), in the Center for Tobacco Products. FDA seeks to include the views of qualified individuals on its advisory committees and therefore encourages nominations of appropriately qualified candidates. Specifically, TPSAC is seeking to fill 2 voting member vacancies with physicians, dentists, scientists, or health care professionals practicing in the areas of oncology, pulmonology, cardiology, toxicology, pharmacology, addiction, engineering, or any other relevant specialty.",
       "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21027/request-for-nominations-for-voting-members-on-a-public-advisory-committee-tobacco-products",
-      "source": "Federal Register - HHS",
+      "source": "Federal Register - FDA",
       "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
+      "sourceId": "federal_register_fda",
       "publishedAt": "2026-10-15",
-      "category": "policy_reimbursement",
+      "category": "quality_safety",
       "relevance": 100
     },
     {
@@ -400,39 +488,6 @@
       "publishedAt": "2026-10-15",
       "category": "quality_safety",
       "relevance": 98
-    },
-    {
-      "title": "Center for Scientific Review; Amended Notice of Meeting",
-      "summary": "",
-      "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21099/center-for-scientific-review-amended-notice-of-meeting",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-15",
-      "category": "policy_reimbursement",
-      "relevance": 96
-    },
-    {
-      "title": "National Institute on Drug Abuse; Notice of Closed Meeting",
-      "summary": "",
-      "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21098/national-institute-on-drug-abuse-notice-of-closed-meeting",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-15",
-      "category": "policy_reimbursement",
-      "relevance": 96
-    },
-    {
-      "title": "Agency Information Collection Activities: Submission for OMB Review; Comment Request",
-      "summary": "",
-      "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21057/agency-information-collection-activities-submission-for-omb-review-comment-request",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-15",
-      "category": "policy_reimbursement",
-      "relevance": 96
     },
     {
       "title": "Statement of Delegation of Authority",
@@ -532,17 +587,6 @@
       "publishedAt": "2026-10-14",
       "category": "quality_safety",
       "relevance": 100
-    },
-    {
-      "title": "Center For Scientific Review; Notice of Closed Meetings",
-      "summary": "",
-      "url": "https://www.federalregister.gov/documents/2026/10/14/2026-21022/center-for-scientific-review-notice-of-closed-meetings",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-14",
-      "category": "policy_reimbursement",
-      "relevance": 96
     },
     {
       "title": "Use of Salt Substitutes To Reduce the Sodium Content in Standardized Foods",
@@ -685,17 +729,6 @@
       "sourceId": "federal_register_fda",
       "publishedAt": "2026-10-09",
       "category": "ai_tech",
-      "relevance": 100
-    },
-    {
-      "title": "Elite Laboratories, Inc. et al.; Withdrawal of Approval of 16 Abbreviated New Drug Applications; Correction",
-      "summary": "The Food and Drug Administration (FDA) is correcting a notice that appeared in the Federal Register on June 3, 2026. The document announced the withdrawal of approval of 16 abbreviated new drug applications (ANDAs) from multiple applicants, withdrawn as of July 6, 2026. The document indicated that FDA was withdrawing approval of ANDA 207366 for ribavirin solution, 6 grams/vial, held by Navinta LLC, 1499 Lower Ferry Rd., Ewing, NJ 08618; ANDA 212957 for fosaprepitant dimeglumine powder, Equivalent to (EQ) 150 milligrams (mg) base/vial, held by Navinta LLC; and ANDA 218638 for nicardipine hydrochloride (HCl) capsule, 20 mg and 30 mg, held by Navinta LLC. Before FDA withdrew the approval of these ANDAs, Navinta LLC informed FDA that they did not want the approval of the ANDAs withdrawn. Because Navinta LLC timely requested that approval of the ANDAs not be withdrawn, the approval is still in effect. This notice removes the entries for ANDA 207366, ANDA 212957, and ANDA 218638.",
-      "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20730/elite-laboratories-inc-et-al-withdrawal-of-approval-of-16-abbreviated-new-drug-applications",
-      "source": "Federal Register - FDA",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_fda",
-      "publishedAt": "2026-10-09",
-      "category": "policy_reimbursement",
       "relevance": 100
     },
     {
@@ -985,9 +1018,9 @@
       "relevance": 100
     },
     {
-      "title": "Heart Pump Controller Recall: Abiomed Removes Automated Impella Controllers",
-      "summary": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers",
+      "title": "Convenience Kit Correction: Becton Dickinson Issues Correction for Kits and Procedure Trays Containing Recalled Sodium Chloride Ampules",
+      "summary": "BD is correcting convenience kits and procedural trays containing recalled Huons Co. sodium chloride ampules",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-becton-dickinson-issues-correction-kits-and-procedure-trays-containing",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -996,9 +1029,9 @@
       "relevance": 98
     },
     {
-      "title": "Convenience Kit Correction: Becton Dickinson Issues Correction for Kits and Procedure Trays Containing Recalled Sodium Chloride Ampules",
-      "summary": "BD is correcting convenience kits and procedural trays containing recalled Huons Co. sodium chloride ampules",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-becton-dickinson-issues-correction-kits-and-procedure-trays-containing",
+      "title": "Heart Pump Controller Recall: Abiomed Removes Automated Impella Controllers",
+      "summary": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -1029,17 +1062,6 @@
       "relevance": 98
     },
     {
-      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
-      "summary": "The Centers for Medicare & Medicaid Services (CMS) is announcing an opportunity for the public to comment on CMS' intention to collect information from the public. Under the Paperwork Reduction Act of 1995 (PRA), federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information (including each proposed extension or reinstatement of an existing collection of information) and to allow 60 days for public comment on the proposed action. Interested persons are invited to send comments regarding our burden estimates or any other aspect of this collection of information, including the necessity and utility of the proposed information collection for the proper performance of the agency's functions, the accuracy of the estimated burden, ways to enhance the quality, utility, and clarity of the information to be collected, and the use of automated collection techniques or other forms of information technology to minimize the information collection burden.",
-      "url": "https://www.federalregister.gov/documents/2026/09/22/2026-19366/agency-information-collection-activities-proposed-collection-comment-request",
-      "source": "Federal Register - CMS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_cms",
-      "publishedAt": "2026-09-22",
-      "category": "policy_reimbursement",
-      "relevance": 100
-    },
-    {
       "title": "Convenience Kit Correction: AVID Medical Issues Correction for Kits Containing Huons Sodium Chloride Ampules",
       "summary": "AVID Medical is correcting convenience kits containing recalled Huons Co. sodium chloride ampules.",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-huons-sodium-chloride",
@@ -1051,9 +1073,9 @@
       "relevance": 100
     },
     {
-      "title": "Otsuka ICU Medical LLC Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection, USP Due To a Product Mix-up with 10 mEq Potassium Chloride Injection",
-      "summary": "Otsuka ICU Medical LLC is issuing a voluntary recall for one lot of 0.9% SODIUM CHLORIDE Injection, USP, 100mL single pack to the user level due to a potential mix-up. The affected lot of 0.9% SODIUM CHLORIDE Injection, USP (NDC: 0990-7984-23 Lot 1042188) may potentially contain the overwrap with la",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/otsuka-icu-medical-llc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-due",
+      "title": "Par Health Issues Voluntary Nationwide Recall of Two Lots of Dexmedetomidine HCl in 0.9% Sodium Chloride Injection Due to the Presence of Particulate Matter",
+      "summary": "ROCHESTER, MI– September 18, 2026 –Par Health is voluntarily recalling two lots of Dexmedetomidine HCl in 0.9% Sodium Chloride Injection 400 mcg/100 mL (4 mcg/mL) to the hospital level. The product is being recalled due to the presence of particulate matter identified as cellulose or stopper materia",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-two-lots-dexmedetomidine-hcl-09-sodium-chloride",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -1062,9 +1084,9 @@
       "relevance": 100
     },
     {
-      "title": "Par Health Issues Voluntary Nationwide Recall of Two Lots of Dexmedetomidine HCl in 0.9% Sodium Chloride Injection Due to the Presence of Particulate Matter",
-      "summary": "ROCHESTER, MI– September 18, 2026 –Par Health is voluntarily recalling two lots of Dexmedetomidine HCl in 0.9% Sodium Chloride Injection 400 mcg/100 mL (4 mcg/mL) to the hospital level. The product is being recalled due to the presence of particulate matter identified as cellulose or stopper materia",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-two-lots-dexmedetomidine-hcl-09-sodium-chloride",
+      "title": "Otsuka ICU Medical LLC Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection, USP Due To a Product Mix-up with 10 mEq Potassium Chloride Injection",
+      "summary": "Otsuka ICU Medical LLC is issuing a voluntary recall for one lot of 0.9% SODIUM CHLORIDE Injection, USP, 100mL single pack to the user level due to a potential mix-up. The affected lot of 0.9% SODIUM CHLORIDE Injection, USP (NDC: 0990-7984-23 Lot 1042188) may potentially contain the overwrap with la",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/otsuka-icu-medical-llc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-due",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -1854,9 +1876,9 @@
       "relevance": 98
     },
     {
-      "title": "FTC Order Preserves Competition in Digital Advertising Ecosystem as Part of Publicis’s Acquisition of LiveRamp",
+      "title": "FTC Sues to Block PlayPower’s Acquisition of Rival Playground Manufacturer Burke",
       "summary": "",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-order-preserves-competition-digital-advertising-ecosystem-part-publiciss-acquisition-liveramp",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-sues-block-playpowers-acquisition-rival-playground-manufacturer-burke",
       "source": "FTC Press Releases",
       "sourceType": "html",
       "sourceId": "ftc_press_releases",
@@ -1865,9 +1887,9 @@
       "relevance": 98
     },
     {
-      "title": "FTC Sues to Block PlayPower’s Acquisition of Rival Playground Manufacturer Burke",
+      "title": "FTC Order Preserves Competition in Digital Advertising Ecosystem as Part of Publicis’s Acquisition of LiveRamp",
       "summary": "",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-sues-block-playpowers-acquisition-rival-playground-manufacturer-burke",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-order-preserves-competition-digital-advertising-ecosystem-part-publiciss-acquisition-liveramp",
       "source": "FTC Press Releases",
       "sourceType": "html",
       "sourceId": "ftc_press_releases",
@@ -2385,17 +2407,6 @@
       "title": "Find banned debt collectors",
       "summary": "",
       "url": "https://www.ftc.gov/legal-library/browse/cases-proceedings/banned-debt-collectors",
-      "source": "FTC Press Releases",
-      "sourceType": "html",
-      "sourceId": "ftc_press_releases",
-      "publishedAt": "",
-      "category": "mergers_mna",
-      "relevance": 93
-    },
-    {
-      "title": "View competition guidance",
-      "summary": "",
-      "url": "https://www.ftc.gov/business-guidance/competition-business-guidance",
       "source": "FTC Press Releases",
       "sourceType": "html",
       "sourceId": "ftc_press_releases",

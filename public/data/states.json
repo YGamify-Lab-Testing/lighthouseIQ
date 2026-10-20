@@ -50,7 +50,7 @@
     },
     {
       "state": "IA",
-      "count": 1
+      "count": 4
     },
     {
       "state": "ID",
@@ -58,7 +58,7 @@
     },
     {
       "state": "IL",
-      "count": 0
+      "count": 1
     },
     {
       "state": "IN",
@@ -86,7 +86,7 @@
     },
     {
       "state": "ME",
-      "count": 0
+      "count": 1
     },
     {
       "state": "MI",
@@ -209,5 +209,5 @@
       "count": 0
     }
   ],
-  "lastUpdated": "2026-10-20T03:57:01.267Z"
+  "lastUpdated": "2026-10-20T09:17:13.569Z"
 }

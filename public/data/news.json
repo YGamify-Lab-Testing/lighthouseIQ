@@ -1,81 +1,81 @@
 {
-  "lastUpdated": "2026-10-20T03:59:34.560Z",
+  "lastUpdated": "2026-10-20T09:19:25.543Z",
   "scope": "US healthcare",
   "retentionDays": 90,
   "maxArticles": 500,
   "sourceHealth": {
     "totalSources": 10,
-    "staleSources": 5,
-    "healthySources": 5,
+    "staleSources": 3,
+    "healthySources": 7,
     "sources": [
       {
         "source": "Fierce Healthcare",
-        "articleCount": 242,
+        "articleCount": 241,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 3,
+        "staleHours": 9,
         "status": "ok"
       },
       {
         "source": "Becker's Hospital Review",
-        "articleCount": 130,
+        "articleCount": 119,
         "latestPublishedAt": "2026-10-19T00:00:00.000Z",
-        "staleHours": 27,
+        "staleHours": 33,
         "status": "ok"
       },
       {
         "source": "STAT News",
-        "articleCount": 60,
-        "latestPublishedAt": "2026-10-19T00:00:00.000Z",
-        "staleHours": 27,
+        "articleCount": 62,
+        "latestPublishedAt": "2026-10-20T00:00:00.000Z",
+        "staleHours": 9,
         "status": "ok"
       },
       {
         "source": "Federal Register - HHS",
-        "articleCount": 30,
-        "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 99,
-        "status": "stale"
+        "articleCount": 36,
+        "latestPublishedAt": "2026-10-20T00:00:00.000Z",
+        "staleHours": 9,
+        "status": "ok"
       },
       {
         "source": "Healthcare Dive",
         "articleCount": 19,
         "latestPublishedAt": "2026-10-19T00:00:00.000Z",
-        "staleHours": 27,
+        "staleHours": 33,
         "status": "ok"
       },
       {
         "source": "Federal Register - FDA",
-        "articleCount": 7,
-        "latestPublishedAt": "2026-10-14T00:00:00.000Z",
-        "staleHours": 147,
+        "articleCount": 10,
+        "latestPublishedAt": "2026-10-16T00:00:00.000Z",
+        "staleHours": 105,
         "status": "stale"
       },
       {
         "source": "FDA MedWatch RSS",
         "articleCount": 6,
         "latestPublishedAt": "2026-10-19T00:00:00.000Z",
-        "staleHours": 27,
+        "staleHours": 33,
         "status": "ok"
       },
       {
         "source": "Federal Register - CMS",
-        "articleCount": 3,
-        "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 99,
-        "status": "stale"
+        "articleCount": 4,
+        "latestPublishedAt": "2026-10-20T00:00:00.000Z",
+        "staleHours": 9,
+        "status": "ok"
       },
       {
         "source": "SEC Healthcare Filings",
         "articleCount": 2,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 171,
+        "staleHours": 177,
         "status": "stale"
       },
       {
         "source": "National Nurses United RSS",
         "articleCount": 1,
         "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 171,
+        "staleHours": 177,
         "status": "stale"
       }
     ]
@@ -95,7 +95,7 @@
     },
     "policy_reimbursement": {
       "label": "Policy & Reimbursement",
-      "count": 60
+      "count": 61
     },
     "quality_safety": {
       "label": "Quality & Safety",
@@ -107,11 +107,11 @@
     },
     "ai_tech": {
       "label": "AI & Digital Tech",
-      "count": 132
+      "count": 127
     },
     "general_market": {
       "label": "General Market",
-      "count": 216
+      "count": 220
     }
   },
   "quality": {
@@ -127,7 +127,7 @@
       },
       "minArticles24h": {
         "threshold": 20,
-        "actual": 25,
+        "actual": 37,
         "pass": true
       },
       "minRequiredCategoriesCovered": {
@@ -137,12 +137,150 @@
       },
       "maxStaleSources": {
         "threshold": 2,
-        "actual": 5,
+        "actual": 3,
         "pass": false
       }
     }
   },
   "articles": [
+    {
+      "title": "Medicare Program; Implementation of Sections 6219, 6220, and 6224 of the Consolidated Appropriations Act, 2026",
+      "summary": "This proposed rule would implement section 6219 (Adjustments to Medicare Part D Cost-Sharing Reductions for Low-Income Individuals), section 6220 (Requiring Enhanced and Accurate Lists of (REAL) Health Providers Act), and section 6224 (Modernizing and Ensuring Pharmacy Benefit Manager Accountability) of the Consolidated Appropriations Act, 2026.",
+      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21420/medicare-program-implementation-of-sections-6219-6220-and-6224-of-the-consolidated-appropriations",
+      "source": "Federal Register - CMS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_cms",
+      "publishedAt": "2026-10-20",
+      "category": "policy_reimbursement",
+      "relevance": 100,
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "New Dietary Ingredient (NDI) Notifications and Related Issues; Identity and Safety Information About the NDI: Guidance for Industry; Availability",
+      "summary": "The Food and Drug Administration (FDA or we) is announcing the availability of a final guidance for industry entitled \"New Dietary Ingredient (NDI) Notifications and Related Issues; Identity and Safety Information About the NDI: Guidance for Industry.\" The guidance focuses on frequently asked questions about the new dietary ingredient notification (NDIN) submissions. This guidance is intended to help provide recommendations to manufacturers and distributors of NDIs and dietary supplements containing an NDI regarding the identity and safety information that should be included in an NDIN.",
+      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21453/new-dietary-ingredient-ndi-notifications-and-related-issues-identity-and-safety-information-about",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-20",
+      "category": "ai_tech",
+      "relevance": 100,
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Agency Information Collection Activities: Submission to OMB for Review and Approval; Public Comment Request; Health Center Program Forms-OMB No. 0915-0285-Revision",
+      "summary": "In compliance with the Paperwork Reduction Act of 1995, HRSA submitted an Information Collection Request (ICR) to the Office of Management and Budget (OMB) for review and approval. Comments submitted during the first public review of this ICR will be provided to OMB. OMB will accept further comments from the public during the review and approval period. OMB may act on HRSA's ICR only after the 30-day comment period for this notice has closed.",
+      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21385/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-20",
+      "category": "general_market",
+      "relevance": 100,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Agency Forms Undergoing Paperwork Reduction Act Review",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21417/agency-forms-undergoing-paperwork-reduction-act-review",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-20",
+      "category": "general_market",
+      "relevance": 96,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Agency Forms Undergoing Paperwork Reduction Act Review",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21416/agency-forms-undergoing-paperwork-reduction-act-review",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-20",
+      "category": "general_market",
+      "relevance": 96,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "National Cancer Institute; Notice of Meeting",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21403/national-cancer-institute-notice-of-meeting",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-20",
+      "category": "general_market",
+      "relevance": 96,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "National Cancer Institute; Notice of Meeting",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21402/national-cancer-institute-notice-of-meeting",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-20",
+      "category": "general_market",
+      "relevance": 96,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "National Cancer Institute; Notice of Partially Closed Meeting",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21401/national-cancer-institute-notice-of-partially-closed-meeting",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-20",
+      "category": "general_market",
+      "relevance": 96,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "National Institute of Diabetes and Digestive and Kidney Diseases; Notice of Meeting",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21396/national-institute-of-diabetes-and-digestive-and-kidney-diseases-notice-of-meeting",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-20",
+      "category": "general_market",
+      "relevance": 96,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21395/center-for-scientific-review-notice-of-closed-meetings",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-20",
+      "category": "general_market",
+      "relevance": 96,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "STAT+: The key health care ballot measures we’re watching in the midterms",
+      "url": "https://www.statnews.com/2026/10/20/what-health-policy-battles-reveal-about-america-midterms-2026/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-20",
+      "summary": "State fights over issues like transgender rights and Medicaid offer clues to where Americans stand on contentious health matters.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "Opinion: Resident physicians may lose some of their most important work hour protections",
+      "url": "https://www.statnews.com/2026/10/20/acgme-resident-physicians-work-hour-rules-time-off-between-shifts/?utm_campaign=rss",
+      "source": "STAT News",
+      "publishedAt": "2026-10-20",
+      "summary": "“It is important to create barriers between high intensity shifts with physical, intellectual, and emotional burden to avoid burnout” in residents, writes Arifeen Rahman.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
     {
       "title": "Commercial plans' mental health provider directories routinely inaccurate, secret shopper study finds",
       "url": "https://www.fiercehealthcare.com/payers/commercial-plans-mental-health-provider-directories-routinely-inaccurate-secret-shopper",
@@ -1485,25 +1623,13 @@
       "title": "Fit-for-Purpose Rare Disease Framework Initiative; Public Meeting; Request for Information and Comments",
       "summary": "The Food and Drug Administration (FDA, the Agency, or we) is announcing a public meeting entitled \"Fit-for-Purpose Rare Disease Framework Initiative\". Convened by the Reagan-Udall Foundation for, and in collaboration with FDA, the meeting will focus on developing a fit-for-purpose framework for the development and regulatory review of rare disease therapies. There will be an opportunity to request to provide public comments at the meeting. In addition, FDA is establishing a public docket to collect feedback on and input related to its Rare Disease Framework Initiative.",
       "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21142/fit-for-purpose-rare-disease-framework-initiative-public-meeting-request-for-information-and",
-      "source": "Federal Register - HHS",
+      "source": "Federal Register - FDA",
       "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
+      "sourceId": "federal_register_fda",
       "publishedAt": "2026-10-16",
       "category": "general_market",
       "relevance": 100,
       "categoryLabel": "General Market"
-    },
-    {
-      "title": "Meeting of the Advisory Council for the Elimination of Tuberculosis",
-      "summary": "In accordance with the Federal Advisory Committee Act, the Centers for Disease Control and Prevention (CDC) announces the following meeting of the Advisory Council for the Elimination of Tuberculosis (ACET). This meeting is open to the public, limited only by the number of audio and web conference lines (1,000 lines are available). Time will be available for public comment (registration is required to provide oral comment; see the Oral Public Comment section below).",
-      "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21125/meeting-of-the-advisory-council-for-the-elimination-of-tuberculosis",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-16",
-      "category": "ai_tech",
-      "relevance": 100,
-      "categoryLabel": "AI & Digital Tech"
     },
     {
       "title": "National Cancer Institute; Amended Notice of Meeting",
@@ -1588,6 +1714,18 @@
       "category": "general_market",
       "relevance": 96,
       "categoryLabel": "General Market"
+    },
+    {
+      "title": "Meeting of the Advisory Council for the Elimination of Tuberculosis",
+      "summary": "In accordance with the Federal Advisory Committee Act, the Centers for Disease Control and Prevention (CDC) announces the following meeting of the Advisory Council for the Elimination of Tuberculosis (ACET). This meeting is open to the public, limited only by the number of audio and web conference lines (1,000 lines are available). Time will be available for public comment (registration is required to provide oral comment; see the Oral Public Comment section below).",
+      "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21125/meeting-of-the-advisory-council-for-the-elimination-of-tuberculosis",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-16",
+      "category": "ai_tech",
+      "relevance": 100,
+      "categoryLabel": "AI & Digital Tech"
     },
     {
       "title": "CMS proposes public scores for Medicare Advantage provider directories, flat-fee limits for PBMs",
@@ -2286,33 +2424,21 @@
       "title": "Authorization of Emergency Use for Four Animal Drugs for the Prevention and Treatment of New World Screwworm; Availability",
       "summary": "The Food and Drug Administration (FDA or the Agency) is announcing the issuance of four Emergency Use Authorizations (EUA or Authorization) under the Federal Food, Drug, and Cosmetic Act (FD&C Act) for new animal products. FDA has issued one EUA for an animal product as requested by Elanco US Inc. for application on or around wounds for the prevention of infestations caused by New World screwworm (Cochliomyia hominivorax; NWS) larvae (myiasis) in sheep, cattle, goats, swine, camelids, and the following captive and captured wildlife species: cervids, American bison, bighorn sheep, and Sonoran pronghorn. FDA has issued one EUA for an animal product as requested by Zoetis Inc. for the treatment of infestations caused by NWS (myiasis) in dogs and puppies. FDA has issued one EUA for an animal product as requested by Bimeda Animal Health Ltd. for the prevention of infestations caused by NWS (myiasis) in cattle. FDA has issued one EUA for an animal product as requested by Sergeant's Pet Care Products LLC for the treatment and prevention of infestations caused by NWS (myiasis) in dogs, puppies, cats and kittens 2 pounds of body weight or greater and 4 weeks of age and older. The Authorizations contain, among other things, conditions on the emergency use of the authorized products. The Authorizations follow the August 18, 2025, determination by the Secretary of Health and Human Services (HHS) that there is a significant potential for a public health emergency that has a significant potential to affect national security or the health and security of U.S. citizens living abroad and that involves NWS. On the basis of such determination, the Secretary of HHS declared on August 18, 2025, that circumstances exist justifying the authorization of emergency use of animal drugs to treat or prevent NWS myiasis in animals. The Authorizations, which include an explanation of the reasons for issuance, are reprinted in this document.",
       "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21084/authorization-of-emergency-use-for-four-animal-drugs-for-the-prevention-and-treatment-of-new-world",
-      "source": "Federal Register - HHS",
+      "source": "Federal Register - FDA",
       "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
+      "sourceId": "federal_register_fda",
       "publishedAt": "2026-10-15",
       "category": "mergers_mna",
       "relevance": 100,
       "categoryLabel": "Mergers & M&A"
     },
     {
-      "title": "Order Under Sections 362 and 365 of the Public Health Service Act Continuing the Suspension of the Right To Introduce Certain Persons From Countries Where a Quarantinable Communicable Disease Exists",
-      "summary": "The Centers for Disease Control and Prevention (CDC), a component of the Department of Health and Human Services (HHS), announces it is issuing an Order under Sections 362 and 365 of the Public Health Service Act, and associated implementing regulations, continuing the suspension of the right to introduce certain persons from countries where an outbreak of a quarantinable communicable disease exists. This Order was issued on October 11 and shall remain in effect through 4:59 p.m. Eastern Daylight Time (EDT) on Tuesday, November 10, 2026. This Order may be amended or rescinded prior to that time at the discretion of the Director.",
-      "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21036/order-under-sections-362-and-365-of-the-public-health-service-act-continuing-the-suspension-of-the",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-15",
-      "category": "policy_reimbursement",
-      "relevance": 100,
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
       "title": "Request for Nominations for Voting Members on a Public Advisory Committee; Tobacco Products Scientific Advisory Committee (TPSAC)",
       "summary": "The Food and Drug Administration (FDA) is requesting nominations for members to serve on the Tobacco Products Scientific Advisory Committee (TPSAC), in the Center for Tobacco Products. FDA seeks to include the views of qualified individuals on its advisory committees and therefore encourages nominations of appropriately qualified candidates. Specifically, TPSAC is seeking to fill 2 voting member vacancies with physicians, dentists, scientists, or health care professionals practicing in the areas of oncology, pulmonology, cardiology, toxicology, pharmacology, addiction, engineering, or any other relevant specialty.",
       "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21027/request-for-nominations-for-voting-members-on-a-public-advisory-committee-tobacco-products",
-      "source": "Federal Register - HHS",
+      "source": "Federal Register - FDA",
       "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
+      "sourceId": "federal_register_fda",
       "publishedAt": "2026-10-15",
       "category": "general_market",
       "relevance": 100,
@@ -2329,6 +2455,18 @@
       "category": "general_market",
       "relevance": 98,
       "categoryLabel": "General Market"
+    },
+    {
+      "title": "Order Under Sections 362 and 365 of the Public Health Service Act Continuing the Suspension of the Right To Introduce Certain Persons From Countries Where a Quarantinable Communicable Disease Exists",
+      "summary": "The Centers for Disease Control and Prevention (CDC), a component of the Department of Health and Human Services (HHS), announces it is issuing an Order under Sections 362 and 365 of the Public Health Service Act, and associated implementing regulations, continuing the suspension of the right to introduce certain persons from countries where an outbreak of a quarantinable communicable disease exists. This Order was issued on October 11 and shall remain in effect through 4:59 p.m. Eastern Daylight Time (EDT) on Tuesday, November 10, 2026. This Order may be amended or rescinded prior to that time at the discretion of the Director.",
+      "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21036/order-under-sections-362-and-365-of-the-public-health-service-act-continuing-the-suspension-of-the",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-15",
+      "category": "policy_reimbursement",
+      "relevance": 100,
+      "categoryLabel": "Policy & Reimbursement"
     },
     {
       "title": "Center for Scientific Review; Amended Notice of Meeting",
@@ -4679,114 +4817,6 @@
       "source": "Fierce Healthcare",
       "publishedAt": "2026-10-13",
       "summary": "Healthleap says its platform is the first and only validated AI malnutrition screening tool that contains EHR-integrated screening layers, executives say.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "PhRMA launches new legal challenge as CMS brings 'most favored nation' pricing to Medicare Part B",
-      "url": "https://www.fiercehealthcare.com/pharma/phrma-launches-new-legal-challenge-cms-brings-most-favored-nation-pricing-medicare-part-b",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-13",
-      "summary": "As the Trump administration advances plans to bring its “most favored nation” drug pricing model to Medicare Part B, the pharmaceutical industry’s top lobbying group is pushing back in court.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "18 physician residency programs launching or expanding in 2026",
-      "url": "https://www.beckershospitalreview.com/physician-workforce/4-new-physician-residency-programs/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-12",
-      "summary": "Numerous hospitals and health systems have announced new or expanded physician residency programs in 2026 to broaden training opportunities for medical students and strengthen their market&#8217;s pipeline of future physicians. Below are 18 hospitals and health systems launching, announcing or restructuring programs in 2026.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "50 hospitals, health systems raising workers&#8217; pay",
-      "url": "https://www.beckershospitalreview.com/compensation-issues/50-hospitals-health-systems-raising-workers-pay/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-12",
-      "summary": "Since December 2025, the following hospitals and health systems have said they plan to raise their workers&#8217; pay.&#160; Editor&#8217;s note: This webpage was published Jan.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Texas system taps new COO",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/texas-system-taps-new-coo-2/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-12",
-      "summary": "Tony Torres was named COO of Amarillo-based Northwest Texas Healthcare System, according to an Oct. 12 LinkedIn post.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Fairview to build $100M centralized diagnostic lab",
-      "url": "https://www.beckershospitalreview.com/capital/fairview-to-build-100m-centralized-diagnostic-lab/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-12",
-      "summary": "Minneapolis-based Fairview Health Services will build a $100 million diagnostic laboratory in Roseville, Minn., to meet growing demand for lab services, the The Minnesota Star Tribune reported Oct.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Nebraska Medicine, UNMC expand teaching hospital project to $2.75B",
-      "url": "https://www.beckershospitalreview.com/capital/nebraska-medicine-unmc-expand-teaching-hospital-project-to-2-75b/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-12",
-      "summary": "The University of Nebraska Board of Regents approved an expanded scope for Project Health, the future primary teaching hospital for Omaha-based University of Nebraska Medical Center and Nebraska Medicine, raising the projected cost to $2.75 billion.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "California funds 1st-of-its-kind pharmacist pipeline program",
-      "url": "https://www.beckershospitalreview.com/pharmacy/california-funds-1st-of-its-kind-pharmacist-pipeline-program/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-12",
-      "summary": "California has invested $3.6 million to launch PRIME Rx at the University of California San Diego Skaggs School of Pharmacy and Pharmaceutical Sciences, the first PRIME program at a pharmacy school.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Rising health spending tied to 91% of private premium growth: Study",
-      "url": "https://www.beckershospitalreview.com/finance/rising-health-spending-tied-to-91-of-private-premium-growth-study/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-12",
-      "summary": "Average private health insurance premiums rose 78.4% from 2011 to 2024, and growth in healthcare spending accounted for 91% of that increase, according to a study published Sept.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Why ‘practice-ready’ nursing graduates are a myth",
-      "url": "https://www.beckershospitalreview.com/quality/nursing/why-practice-ready-nursing-graduates-are-a-myth/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-12",
-      "summary": "A long-standing myth may help explain why so many newly graduated nurses leave the profession early. The myth?",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "24 health systems naming revenue cycle vice presidents",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/24-health-systems-naming-revenue-cycle-vice-presidents/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-12",
-      "summary": "Here are 24 health systems that have made revenue cycle vice president hires in 2026:&#160; 1. Chicago-based CommonSpirit Julie Morgan to system vice president of physician enterprise revenue cycle.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Vandalia Health, nonprofit organization break ground on $50M rehabilitation hospital",
-      "url": "https://www.beckershospitalreview.com/capital/vandalia-health-nonprofit-organization-break-ground-on-50m-rehabilitation-hospital/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-12",
-      "summary": "Charleston, W.Va.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Maryland company CEO charged in $100M COVID-19 test fraud scheme",
-      "url": "https://www.beckershospitalreview.com/legal-regulatory-issues/maryland-company-ceo-charged-in-100m-covid-19-test-fraud-scheme/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-12",
-      "summary": "The founder and CEO of Gaithersburg, Md.-based Tiero was indicted in connection with billing insurers more than $100 million for at-home COVID-19 tests while claiming the tests were done in a lab, the Justice Department said Oct.",
       "category": "ai_tech",
       "categoryLabel": "AI & Digital Tech"
     }
