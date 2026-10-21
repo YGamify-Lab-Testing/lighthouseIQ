@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T22:21:55.869Z",
+  "lastUpdated": "2026-10-21T01:27:30.534Z",
   "scope": "US healthcare",
   "sourceManifestVersion": "1.0.0",
   "sourceHealth": [
@@ -248,14 +248,14 @@
       "relevance": 100
     },
     {
-      "title": "Import Alert for Certain Olympus Medical Devices Manufactured in Japan - Letter to Health Care Providers",
-      "summary": "The U.S. Food and Drug Administration (FDA) is alerting health care providers about import alerts for certain medical devices manufactured in Japan by Olympus Medical Systems Corporation (Olympus) and its subsidiaries.",
-      "url": "http://www.fda.gov/medical-devices/letters-health-care-providers/import-alert-certain-olympus-medical-devices-manufactured-japan-letter-health-care-providers",
+      "title": "Early Alert: Cardinal Health Issues Correction for Presource Packs Containing BD Alaris Pump Infusion Sets",
+      "summary": "Cardinal Health Presource Kits containing recalled BD Alaris Pump Infusion Sets should be corrected prior to continued use.",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-issues-correction-presource-packs-containing-bd-alaris-pump-infusion",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
       "publishedAt": "2026-10-20",
-      "category": "ai_tech",
+      "category": "quality_safety",
       "relevance": 100
     },
     {
@@ -270,14 +270,14 @@
       "relevance": 100
     },
     {
-      "title": "Early Alert: Cardinal Health Issues Correction for Presource Packs Containing BD Alaris Pump Infusion Sets",
-      "summary": "Cardinal Health Presource Kits containing recalled BD Alaris Pump Infusion Sets should be corrected prior to continued use.",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-issues-correction-presource-packs-containing-bd-alaris-pump-infusion",
+      "title": "Import Alert for Certain Olympus Medical Devices Manufactured in Japan - Letter to Health Care Providers",
+      "summary": "The U.S. Food and Drug Administration (FDA) is alerting health care providers about import alerts for certain medical devices manufactured in Japan by Olympus Medical Systems Corporation (Olympus) and its subsidiaries.",
+      "url": "http://www.fda.gov/medical-devices/letters-health-care-providers/import-alert-certain-olympus-medical-devices-manufactured-japan-letter-health-care-providers",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
       "publishedAt": "2026-10-20",
-      "category": "quality_safety",
+      "category": "ai_tech",
       "relevance": 100
     },
     {
@@ -611,17 +611,6 @@
       "relevance": 100
     },
     {
-      "title": "Infusion Set Recall: BD and CareFusion 303, Inc. Remove BD Alaris Pump Infusion Sets",
-      "summary": "BD Alaris Pump Infusion Sets are being removed and discontinued; Alaris Pump Module model 8100 has updated performance data",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-set-recall-bd-and-carefusion-303-inc-remove-bd-alaris-pump-infusion-sets",
-      "source": "FDA MedWatch RSS",
-      "sourceType": "rss",
-      "sourceId": "fda_medwatch_rss",
-      "publishedAt": "2026-10-14",
-      "category": "quality_safety",
-      "relevance": 100
-    },
-    {
       "title": "Par Health Issues Voluntary Nationwide Recall of Argatroban Injection Due to the Presence of Particulate Matter",
       "summary": "FOR IMMEDIATE RELEASE - ROCHESTER, MI– October 13, 2026 – Par Health is recalling 22 lots of Argatroban Injection 250 mg/2.5 mL (100 mg/mL) to the hospital/user level. This recall is being conducted due to the presence of particulate matter, identified as cellulose, polystyrene, polyethylene terepht",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-argatroban-injection-due-presence-particulate-matter",
@@ -636,6 +625,17 @@
       "title": "Convenience Kit Recall: AVID Medical Removes Convenience Kits Affected by BD ChloraPrep Applicator Recall",
       "summary": "Avid Medical is removing certain convenience kits affected by the BD ChloraPrep Applicator Recall that may be contaminated with Aspergillus penicillioides.",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-avid-medical-removes-convenience-kits-affected-bd-chloraprep-applicator-0",
+      "source": "FDA MedWatch RSS",
+      "sourceType": "rss",
+      "sourceId": "fda_medwatch_rss",
+      "publishedAt": "2026-10-14",
+      "category": "quality_safety",
+      "relevance": 100
+    },
+    {
+      "title": "Infusion Set Recall: BD and CareFusion 303, Inc. Remove BD Alaris Pump Infusion Sets",
+      "summary": "BD Alaris Pump Infusion Sets are being removed and discontinued; Alaris Pump Module model 8100 has updated performance data",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-set-recall-bd-and-carefusion-303-inc-remove-bd-alaris-pump-infusion-sets",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",

@@ -1,93 +1,86 @@
 {
-  "lastUpdated": "2026-10-20T22:21:55.936Z",
+  "lastUpdated": "2026-10-21T01:27:30.597Z",
   "scope": "US healthcare",
   "retentionDays": 90,
   "maxArticles": 500,
   "sourceHealth": {
-    "totalSources": 10,
-    "staleSources": 2,
+    "totalSources": 9,
+    "staleSources": 1,
     "healthySources": 8,
     "sources": [
       {
         "source": "Fierce Healthcare",
-        "articleCount": 213,
-        "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 22,
+        "articleCount": 238,
+        "latestPublishedAt": "2026-10-21T00:00:00.000Z",
+        "staleHours": 1,
         "status": "ok"
       },
       {
         "source": "Becker's Hospital Review",
-        "articleCount": 139,
+        "articleCount": 129,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 22,
+        "staleHours": 25,
         "status": "ok"
       },
       {
         "source": "STAT News",
-        "articleCount": 68,
+        "articleCount": 60,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 22,
+        "staleHours": 25,
         "status": "ok"
       },
       {
         "source": "Federal Register - HHS",
-        "articleCount": 36,
+        "articleCount": 32,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 22,
+        "staleHours": 25,
         "status": "ok"
       },
       {
         "source": "Healthcare Dive",
         "articleCount": 16,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 22,
-        "status": "ok"
-      },
-      {
-        "source": "FDA MedWatch RSS",
-        "articleCount": 10,
-        "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 22,
+        "staleHours": 25,
         "status": "ok"
       },
       {
         "source": "Federal Register - FDA",
         "articleCount": 10,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 118,
+        "staleHours": 121,
         "status": "stale"
+      },
+      {
+        "source": "FDA MedWatch RSS",
+        "articleCount": 9,
+        "latestPublishedAt": "2026-10-20T00:00:00.000Z",
+        "staleHours": 25,
+        "status": "ok"
       },
       {
         "source": "Federal Register - CMS",
         "articleCount": 4,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 22,
+        "staleHours": 25,
         "status": "ok"
       },
       {
         "source": "National Nurses United RSS",
         "articleCount": 2,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 22,
+        "staleHours": 25,
         "status": "ok"
-      },
-      {
-        "source": "SEC Healthcare Filings",
-        "articleCount": 2,
-        "latestPublishedAt": "2026-10-13T00:00:00.000Z",
-        "staleHours": 190,
-        "status": "stale"
       }
     ]
   },
   "categoryCoverage": {
     "closures_layoffs": {
       "label": "Closures & Layoffs",
-      "count": 12
+      "count": 13
     },
     "mergers_mna": {
       "label": "Mergers & M&A",
-      "count": 46
+      "count": 47
     },
     "labor_unions": {
       "label": "Labor & Unions",
@@ -95,23 +88,23 @@
     },
     "policy_reimbursement": {
       "label": "Policy & Reimbursement",
-      "count": 57
+      "count": 62
     },
     "quality_safety": {
       "label": "Quality & Safety",
-      "count": 14
+      "count": 13
     },
     "capacity_expansion": {
       "label": "Capacity & Expansion",
-      "count": 20
+      "count": 21
     },
     "ai_tech": {
       "label": "AI & Digital Tech",
-      "count": 125
+      "count": 124
     },
     "general_market": {
       "label": "General Market",
-      "count": 220
+      "count": 214
     }
   },
   "quality": {
@@ -120,12 +113,12 @@
     "checks": {
       "minUniqueSources": {
         "threshold": 8,
-        "actual": 10,
+        "actual": 9,
         "pass": true
       },
       "minArticles24h": {
         "threshold": 20,
-        "actual": 89,
+        "actual": 25,
         "pass": true
       },
       "minRequiredCategoriesCovered": {
@@ -135,12 +128,237 @@
       },
       "maxStaleSources": {
         "threshold": 2,
-        "actual": 2,
+        "actual": 1,
         "pass": true
       }
     }
   },
   "articles": [
+    {
+      "title": "Chutes & Ladders—Centivo adds 2 executives; Inspira Health outlines leadership transition",
+      "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Hackensack Meridian Health signs definitive agreement to acquire Hunterdon Health, commits $230M",
+      "url": "https://www.fiercehealthcare.com/providers/hackensack-meridian-health-signs-230m-definitive-agreement-acquire-hunterdon-health",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "The announcement did not outline a potential timeline for the merger, which would add a nineteenth hospital to New Jersey's largest health system.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
+    },
+    {
+      "title": "Centene, Oscar Health outline 2027 ACA marketplace plans",
+      "url": "https://www.fiercehealthcare.com/payers/centene-oscar-health-outline-2027-aca-marketplace-plans",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "Open enrollment for the Affordable Care Act's marketplaces begins on Nov. 1, and with more turbulence on deck, insurers are offering a look at their plans for the coming year.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Democrats demand tougher standards for companies running Medicaid systems",
+      "url": "https://www.fiercehealthcare.com/regulatory/democrats-demand-tougher-standards-companies-running-medicaid-systems",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "A group of Democratic senators is demanding that the federal agency overseeing Medicaid institute tougher standards for government contractors running complex computer systems that millions of people rely on to get benefits.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "DOJ streamlines voluntary self-disclosure of healthcare fraud",
+      "url": "https://www.fiercehealthcare.com/regulatory/doj-streamlines-voluntary-self-disclosure-healthcare-fraud",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "A policy change directs healthcare organizations seeking lighter repercussions from potentially criminal fraud activity to disclose to the DOJ alone, rather than separately between law enforcement and Department of Health and Human Services Office of Inspector General.",
+      "category": "closures_layoffs",
+      "categoryLabel": "Closures & Layoffs"
+    },
+    {
+      "title": "Judi Health launching employer Medicare Part D plan with a focus on transparency",
+      "url": "https://www.fiercehealthcare.com/payers/judi-health-launching-employer-medicare-part-d-plan-focus-transparency",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "Judi Health is launching a new Part D plan that aims to lean on its tech stack to drive transparency and outcomes.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "Commercial plans' mental health provider directories routinely inaccurate, secret shopper study finds",
+      "url": "https://www.fiercehealthcare.com/payers/commercial-plans-mental-health-provider-directories-routinely-inaccurate-secret-shopper",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "Fewer than a quarter of secret shopper phone calls to a listed mental health provider ended in a scheduled appointment, often due to inaccurate contact information or other issues with a plan's directory.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "OpenEvidence, Doximity reach settlement in contentious AI legal battle",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/openevidence-doximity-reach-settlement-contentious-ai-lawsuit",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "Healthcare AI startups OpenEvidence and Doximity settled a contentious legal fight over allegations of corporate espionage and cyberattacks, alongside counterclaims of defamation and misinformation.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Trump EO creates new NIH division, White House task force centered on women’s health",
+      "url": "https://www.fiercehealthcare.com/regulatory/trump-eo-creates-new-nih-division-white-house-task-force-centered-womens-health",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "The goals of the new bodies are to address women’s health research gaps to improve health outcomes across the lifespan.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Redesigning prior authorization around the patient",
+      "url": "https://www.fiercehealthcare.com/sponsored/redesigning-prior-authorization-around-patient",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "Abarca Health explores how shared standards, transparency and outcome-focused measures can reduce prior authorization friction.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Beyond the Recall Notice: Why Pharmacies Need Greater Visibility Into Recalled and Expired Medications",
+      "url": "https://www.fiercehealthcare.com/sponsored/beyond-recall-notice-why-pharmacies-need-greater-visibility-recalled-and-expired",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "Medication recalls and expirations are a routine part of pharmacy operations, but managing them often requires significant time, coordination and attention to detail.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "The case for rethinking how ambulatory practices handle cybersecurity",
+      "url": "https://www.fiercehealthcare.com/sponsored/case-rethinking-how-ambulatory-practices-handle-cybersecurity",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "Healthcare is among the most targeted sectors for cybercriminals, and it's easy to see why.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "CMS proposes MA 'ghost network,' PBM transparency requirements",
+      "url": "https://www.fiercehealthcare.com/regulatory/cms-proposes-ma-ghost-network-pbm-transparency-requirements",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "The administration took steps to codify statutory reforms focused on maintaining accurate Medicare Advantage provider directories and collecting more pricing information from pharmacy benefit managers.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "Centene to expand CHOICE Arrangements program to its employees in Ohio, Oklahoma",
+      "url": "https://www.fiercehealthcare.com/payers/centene-expand-choice-arrangements-program-ohio-oklahoma-2027",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "Centene is expanding its CHOICE Arrangements benefits program to its employees in Ohio and Oklahoma in the 2027 plan year.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Parkview Health acquiring shared services vendor Ovation Healthcare",
+      "url": "https://www.fiercehealthcare.com/providers/parkview-health-acquiring-shared-services-vendor-ovation-healthcare",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "Parkview Health is taking its shared-services strategy nationwide with a deal to acquire Ovation Healthcare, which works with nearly 500 healthcare organizations across the country.",
+      "category": "mergers_mna",
+      "categoryLabel": "Mergers & M&A"
+    },
+    {
+      "title": "Fierce Healthcare Fundraising Tracker '26: Abby Care secures $82M for family-led care; Allswell nabs $7M to expand LGBTQ therapy",
+      "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "Keep up with all the venture capital dollars being funneled into the health tech and digital health industries.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Three-quarters of Americans disillusioned with costs, say healthcare is defining voting issue",
+      "url": "https://www.fiercehealthcare.com/regulatory/usofcare-survey-three-quarters-americans-say-healthcare-defining-voting-issue",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "Three-quarters of Americans feel frustrated, overwhelmed or helpless about healthcare costs, and say the issue is a voting priority. Those wanting substantial reform are more often looking to government that industry for a fix.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "American Medical Association rolls out governance framework for agentic AI solutions",
+      "url": "https://www.fiercehealthcare.com/regulatory/american-medical-association-rolls-out-governance-framework-agentic-ai-solutions",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "AMA CEO John Whyte, M.D.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Industry Voices—How physician practices can grow and succeed without the support of private equity",
+      "url": "https://www.fiercehealthcare.com/providers/industry-voices-how-physician-practices-can-grow-and-succeed-without-support-private",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "For physicians who want to stay independent, there are several proven strategies to grow a successful practice, legal, financial and clinical experts write.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Weekly Rundown: JAMA Network to add AI journal in 2027; UMass Memorial Health partners with Microsoft, Accenture",
+      "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-97-healthcare-orgs-experienced-cyberattack-past-12-months-proofpoint-inc",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "The latest news from UMass Memorial Health, Elation Health, HealthTap, JAMA and more.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Fierce Healthcare Regulatory Recap: HHS presses medical groups on gender-affirming care for minors; CMS distributes RHTP funding to 5 states",
+      "url": "https://www.fiercehealthcare.com/regulatory/fierce-healthcare-regulatory-recap-hhs-demands-info-leading-medical-orgs-minor-sex",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "The latest news from CMS and HHS this week: HHS demands info on ‘sex-rejecting procedures’ for minors, CMS releases more RHTP funds and more.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "Epic teams up with Amazon Pharmacy, LillyDirect and Mark Cuban to launch prescription drug pricing tool",
+      "url": "https://www.fiercehealthcare.com/health-tech/epic-teams-amazon-pharmacy-mark-cuban-launch-prescription-drug-pricing-tool",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "Epic is bringing pharmacy price shopping directly into the doctor's office and the prescribing workflow.",
+      "category": "general_market",
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "NABIP sues CMS over moratorium on new ACA broker registrations",
+      "url": "https://www.fiercehealthcare.com/payers/nabip-sues-cms-over-moratorium-new-aca-broker-registrations",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "The National Association of Benefits and Insurance Professionals is suing the Trump administration over its moratorium on new brokers entering the Affordable Care Act marketplaces.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "Duke Health, CaroMont Health seek to jointly build, operate 2 Charlotte-area hospitals",
+      "url": "https://www.fiercehealthcare.com/providers/duke-health-caromont-health-seek-jointly-build-operate-2-charlotte-area-hospitals",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "The pair filed Certificate of Needs with the state to build two hospitals comprising 200 beds in fast-growing North Carolina's Mecklenburg County.",
+      "category": "capacity_expansion",
+      "categoryLabel": "Capacity & Expansion"
+    },
+    {
+      "title": "Drugmakers, PhRMA seek to intervene in hospitals' 340B rebate challenge",
+      "url": "https://www.fiercehealthcare.com/providers/hospital-industry-files-lawsuit-block-hhs-340b-rebate-pilot-again",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "The American Hospital Association and others have launched a legal rematch with the federal government over the second iteration of a pilot program swapping out safety-net hospitals’ upfront drug discounts for after-the-fact rebates.",
+      "category": "policy_reimbursement",
+      "categoryLabel": "Policy & Reimbursement"
+    },
     {
       "title": "Medicare Program; Implementation of Sections 6219, 6220, and 6224 of the Consolidated Appropriations Act, 2026",
       "summary": "This proposed rule would implement section 6219 (Adjustments to Medicare Part D Cost-Sharing Reductions for Low-Income Individuals), section 6220 (Requiring Enhanced and Accurate Lists of (REAL) Health Providers Act), and section 6224 (Modernizing and Ensuring Pharmacy Benefit Manager Accountability) of the Consolidated Appropriations Act, 2026.",
@@ -190,9 +408,9 @@
       "categoryLabel": "AI & Digital Tech"
     },
     {
-      "title": "Import Alert for Certain Olympus Medical Devices Manufactured in Japan - Letter to Health Care Providers",
-      "summary": "The U.S. Food and Drug Administration (FDA) is alerting health care providers about import alerts for certain medical devices manufactured in Japan by Olympus Medical Systems Corporation (Olympus) and its subsidiaries.",
-      "url": "http://www.fda.gov/medical-devices/letters-health-care-providers/import-alert-certain-olympus-medical-devices-manufactured-japan-letter-health-care-providers",
+      "title": "Early Alert: Cardinal Health Issues Correction for Presource Packs Containing BD Alaris Pump Infusion Sets",
+      "summary": "Cardinal Health Presource Kits containing recalled BD Alaris Pump Infusion Sets should be corrected prior to continued use.",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-issues-correction-presource-packs-containing-bd-alaris-pump-infusion",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -214,9 +432,9 @@
       "categoryLabel": "General Market"
     },
     {
-      "title": "Early Alert: Cardinal Health Issues Correction for Presource Packs Containing BD Alaris Pump Infusion Sets",
-      "summary": "Cardinal Health Presource Kits containing recalled BD Alaris Pump Infusion Sets should be corrected prior to continued use.",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-issues-correction-presource-packs-containing-bd-alaris-pump-infusion",
+      "title": "Import Alert for Certain Olympus Medical Devices Manufactured in Japan - Letter to Health Care Providers",
+      "summary": "The U.S. Food and Drug Administration (FDA) is alerting health care providers about import alerts for certain medical devices manufactured in Japan by Olympus Medical Systems Corporation (Olympus) and its subsidiaries.",
+      "url": "http://www.fda.gov/medical-devices/letters-health-care-providers/import-alert-certain-olympus-medical-devices-manufactured-japan-letter-health-care-providers",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -3706,18 +3924,6 @@
       "categoryLabel": "General Market"
     },
     {
-      "title": "Infusion Set Recall: BD and CareFusion 303, Inc. Remove BD Alaris Pump Infusion Sets",
-      "summary": "BD Alaris Pump Infusion Sets are being removed and discontinued; Alaris Pump Module model 8100 has updated performance data",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-set-recall-bd-and-carefusion-303-inc-remove-bd-alaris-pump-infusion-sets",
-      "source": "FDA MedWatch RSS",
-      "sourceType": "rss",
-      "sourceId": "fda_medwatch_rss",
-      "publishedAt": "2026-10-14",
-      "category": "general_market",
-      "relevance": 100,
-      "categoryLabel": "General Market"
-    },
-    {
       "title": "Par Health Issues Voluntary Nationwide Recall of Argatroban Injection Due to the Presence of Particulate Matter",
       "summary": "FOR IMMEDIATE RELEASE - ROCHESTER, MI– October 13, 2026 – Par Health is recalling 22 lots of Argatroban Injection 250 mg/2.5 mL (100 mg/mL) to the hospital/user level. This recall is being conducted due to the presence of particulate matter, identified as cellulose, polystyrene, polyethylene terepht",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-argatroban-injection-due-presence-particulate-matter",
@@ -3740,6 +3946,18 @@
       "category": "ai_tech",
       "relevance": 100,
       "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Infusion Set Recall: BD and CareFusion 303, Inc. Remove BD Alaris Pump Infusion Sets",
+      "summary": "BD Alaris Pump Infusion Sets are being removed and discontinued; Alaris Pump Module model 8100 has updated performance data",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-set-recall-bd-and-carefusion-303-inc-remove-bd-alaris-pump-infusion-sets",
+      "source": "FDA MedWatch RSS",
+      "sourceType": "rss",
+      "sourceId": "fda_medwatch_rss",
+      "publishedAt": "2026-10-14",
+      "category": "general_market",
+      "relevance": 100,
+      "categoryLabel": "General Market"
     },
     {
       "title": "Center For Scientific Review; Notice of Closed Meetings",
@@ -4586,252 +4804,6 @@
       "category": "labor_unions",
       "relevance": 100,
       "categoryLabel": "Labor & Unions"
-    },
-    {
-      "title": "Convenience Kit Recall: Medline Removes Convenience Kits Affected by BD ChloraPrep Applicator Recall",
-      "summary": "Certain Medline convenience kits containing recalled BD ChloraPrep applicators should be removed from use due to potential fungal contamination",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-medline-removes-convenience-kits-affected-bd-chloraprep-applicator-recall",
-      "source": "FDA MedWatch RSS",
-      "sourceType": "rss",
-      "sourceId": "fda_medwatch_rss",
-      "publishedAt": "2026-10-13",
-      "category": "ai_tech",
-      "relevance": 98,
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "UNH 8-K filing - UnitedHealth Group Incorporated",
-      "summary": "UnitedHealth Group Incorporated filed 8-K with the SEC.",
-      "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000255/unh-20261013.htm",
-      "source": "SEC Healthcare Filings",
-      "sourceType": "sec_filings",
-      "sourceId": "sec_healthcare_filings",
-      "publishedAt": "2026-10-13",
-      "category": "general_market",
-      "relevance": 90,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "HUM 8-K filing - Humana Inc.",
-      "summary": "Humana Inc. filed 8-K with the SEC.",
-      "url": "https://www.sec.gov/Archives/edgar/data/49071/000004907126000060/hum-20261013.htm",
-      "source": "SEC Healthcare Filings",
-      "sourceType": "sec_filings",
-      "sourceId": "sec_healthcare_filings",
-      "publishedAt": "2026-10-13",
-      "category": "general_market",
-      "relevance": 85,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Agency Information Collection Activities: Submission to OMB for Review and Approval; Public Comment Request; Healthy Start Evaluation and Quality Improvement, OMB No. 0915-0338-Revision",
-      "summary": "In compliance with the Paperwork Reduction Act of 1995, HRSA submitted an Information Collection Request (ICR) to the Office of Management and Budget (OMB) for review and approval. Comments submitted during the first public review of this ICR will be provided to OMB. OMB will accept further comments from the public during the review and approval period. OMB may act on HRSA's ICR only after the 30-day comment period for this notice has closed.",
-      "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20867/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-13",
-      "category": "quality_safety",
-      "relevance": 100,
-      "categoryLabel": "Quality & Safety"
-    },
-    {
-      "title": "Announcing Solicitation of Written Comments To Inform the Physical Activity Guidelines for Americans, 2nd Edition Supplement: 2027 Steps and Muscle-Strengthening Guidance",
-      "summary": "The Department of Health and Human Services (HHS) announces the solicitation of public comments to inform the development of the Physical Activity Guidelines for Americans, 2nd edition Supplement: 2027 Steps and Muscle-Strengthening Guidance (2027 Steps and Muscle- Strengthening Guidance).",
-      "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20833/announcing-solicitation-of-written-comments-to-inform-the-physical-activity-guidelines-for-americans",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-13",
-      "category": "policy_reimbursement",
-      "relevance": 100,
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "2025-2026 IACC Summary of Advances",
-      "summary": "The Interagency Autism Coordinating Committee (IACC) is preparing its Summary of Advances, a statutorily mandated report that highlights the most consequential autism research of the past year. The Committee is seeking suggested research articles to highlight for this report. On behalf of the IACC, the National Institute of Mental Health (NIMH) Office of Autism Research Coordination (OARC) is collecting research article suggestions from members of the public.",
-      "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20825/2025-2026-iacc-summary-of-advances",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-13",
-      "category": "general_market",
-      "relevance": 100,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "National Institute of Environmental Health Sciences; Notice of Meeting",
-      "summary": "",
-      "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20824/national-institute-of-environmental-health-sciences-notice-of-meeting",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-13",
-      "category": "general_market",
-      "relevance": 100,
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Court denies North Carolina State Health Plan’s injunction bid against Atrium",
-      "url": "https://www.beckershospitalreview.com/legal-regulatory-issues/court-denies-north-carolina-state-health-plans-injunction-bid-against-atrium/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-13",
-      "summary": "A North Carolina Superior Court judge has denied the North Carolina State Health Plan’s request for a temporary injunction against Charlotte, N.C.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "4 recent hospital, health system CFO moves",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/7-recent-hospital-health-system-cfo-moves-in-2026/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-13",
-      "summary": "Here are the hospital and health system CFO moves that&#160;Becker’s&#160;has reported on in 2026: Oct. 12-13 1.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Walmart makes some GLP-1s free for employees with Type 2 diabetes",
-      "url": "https://www.beckershospitalreview.com/glp-1s/walmart-makes-some-glp-1s-free-for-employees-with-type-2-diabetes/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-13",
-      "summary": "In 2027, Walmart is making more than 250 medications — including some GLP-1s, insulin and inhalers — available for employees at no cost. While GLP-1s have already been available to employees with Type 2 diabetes, the drugs will be accessible for $0 with a new prior authorization, Walmart confirmed to Becker&#8217;s Oct.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "University of Utah Health gets OK to acquire land for new health center",
-      "url": "https://www.beckershospitalreview.com/capital/university-of-utah-health-gets-ok-to-acquire-land-for-new-health-center/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-13",
-      "summary": "University of Utah Health received approval from the University of Utah Board of Trustees Oct. 13 to acquire approximately 14 acres of land where it plans to build a new Redwood Health Center.",
-      "category": "mergers_mna",
-      "categoryLabel": "Mergers & M&A"
-    },
-    {
-      "title": "43% of hospitals are in the red: 6 financial notes",
-      "url": "https://www.beckershospitalreview.com/finance/43-of-hospitals-are-in-the-red-6-financial-notes/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-13",
-      "summary": "Hospital margins fell in August as financial pressures mounted and the share of hospitals operating at a loss is growing, according to Kaufman Hall’s &#8220;National Hospital Flash Report,&#8221; released Oct. 13.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Nicklaus Children’s marketing chief heads to Phoenix Children’s",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/nicklaus-childrens-marketing-chief-heads-to-phoenix-childrens/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-13",
-      "summary": "Kevin Snyder, former system vice president and chief marketing, communications and brand officer at Miami-based Nicklaus Children’s Health System, has left the role for a marketing position at Phoenix Children’s. Mr.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Inova taps hospital president",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/inova-taps-hospital-president/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-13",
-      "summary": "Fairfax, Va.-based Inova Health System named Raj Chand, MD, president of Inova Loudoun Hospital in Leesburg, Va.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Baptist Memphis names COO",
-      "url": "https://www.beckershospitalreview.com/hospital-executive-moves/baptist-memphis-names-coo/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-13",
-      "summary": "Daniel McFarland was named COO of Baptist Memorial Hospital-Memphis, the flagship hospital of Memphis, Tenn.-based Baptist Memorial Health Care.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "CVS to pay $315M over opioid prescriptions, ‘trinity’ drug combos: Justice Department",
-      "url": "https://www.beckershospitalreview.com/pharmacy/cvs-to-pay-315m-over-opioid-prescriptions-trinity-drug-combos-justice-department/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-13",
-      "summary": "CVS Pharmacy has agreed to pay $315 million to resolve Justice Department allegations that it illegally filled opioid and other controlled substance prescriptions, according to an Oct. 13 news release.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "AMA: Agentic AI must earn clinical authority through evidence",
-      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/digital-health/ama-agentic-ai-must-earn-clinical-authority-through-evidence/",
-      "source": "Becker's Hospital Review",
-      "publishedAt": "2026-10-13",
-      "summary": "The American Medical Association released a governance framework Oct. 13 for agentic AI that takes on clinical functions.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "STAT+: BlackRock to buy majority stake in Humana’s CenterWell clinics for $2.8 billion",
-      "url": "https://www.statnews.com/2026/10/13/blackrock-humana-centerwell-deal-senior-care-medicare-clinics/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-13",
-      "summary": "Humana is swapping out private equity sponsors for its CenterWell Senior Primary Care clinics. Good bye, Welsh, Carson, Anderson &#038; Stowe.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Helen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69",
-      "url": "https://www.statnews.com/2026/10/13/helen-branswell-stat-reporter-obituary/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-13",
-      "summary": "Helen Branswell, STAT's infectious disease reporter who earned the respect of experts and public health officials with her accessible, prescient dispatches, has died at age 69.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "STAT+: Many patient, consumer reps on FDA advisory panels have ties to groups funded by pharma, analysis finds",
-      "url": "https://www.statnews.com/pharmalot/2026/10/13/many-patient-and-consumer-reps-on-fda-advisory-committees-ties-to-groups-funded-by-pharma/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-13",
-      "summary": "Nearly 40% of FDA advisory committee meetings over a 20-year period included either a patient or consumer rep with active ties to an advocacy group funded by pharma companies.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "STAT+: Animosity in North Carolina, and MA shooting stars",
-      "url": "https://www.statnews.com/2026/10/13/animosity-in-north-carolina-and-ma-shooting-stars-health-care-inc/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-13",
-      "summary": "In this edition of Health Care Inc., we examine the controversy around the health plan covering North Carolina's public workers and retirees, and more.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "STAT+: Doctors are giving generously to doctors running for office",
-      "url": "https://www.statnews.com/2026/10/13/health-policy-news-doctor-donations-maha-midterms/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-13",
-      "summary": "Doctors have a lot on the line in the next couple years, and they are donating big to doctors running for political office.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "STAT+: FTC demands Martin Shkreli divest his pharma stocks",
-      "url": "https://www.statnews.com/2026/10/13/martin-shkreli-pharma-bro-ftc-contempt-stock-trades/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-13",
-      "summary": "The FTC asked a federal court to hold Martin Shkreli in contempt for violating a court order banning him from working in the pharmaceutical industry",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "STAT+: Pharmalittle: We&#8217;re reading about concerns over a rare disease drug, pharma payments to docs, and more",
-      "url": "https://www.statnews.com/pharmalot/2026/10/13/neurocrine-rare-disease-drug-concerns-pharma-payments-to-doctors/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-13",
-      "summary": "Patient advocates and some experts are expressing growing alarm over the perceived risks of a Neurocrine Biosciences rare disease drug",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "STAT+: Takeaways from an evaluation of Google&#8217;s diagnostic chatbot, AMIE",
-      "url": "https://www.statnews.com/2026/10/13/google-amie-diagnostic-chatbot-study-lancet-health-tech/?utm_campaign=rss",
-      "source": "STAT News",
-      "publishedAt": "2026-10-13",
-      "summary": "In this edition of STAT Health Tech: A look at a study recently published in The Lancet about Google's diagnostic chatbot, AMIE.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
     }
   ]
 }
