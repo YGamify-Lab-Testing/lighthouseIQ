@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T01:27:30.597Z",
+  "lastUpdated": "2026-10-21T07:18:02.018Z",
   "scope": "US healthcare",
   "retentionDays": 90,
   "maxArticles": 500,
@@ -10,65 +10,65 @@
     "sources": [
       {
         "source": "Fierce Healthcare",
-        "articleCount": 238,
+        "articleCount": 230,
         "latestPublishedAt": "2026-10-21T00:00:00.000Z",
-        "staleHours": 1,
+        "staleHours": 7,
         "status": "ok"
       },
       {
         "source": "Becker's Hospital Review",
         "articleCount": 129,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 25,
+        "staleHours": 31,
         "status": "ok"
       },
       {
         "source": "STAT News",
         "articleCount": 60,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 25,
+        "staleHours": 31,
         "status": "ok"
       },
       {
         "source": "Federal Register - HHS",
-        "articleCount": 32,
-        "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 25,
+        "articleCount": 40,
+        "latestPublishedAt": "2026-10-21T00:00:00.000Z",
+        "staleHours": 7,
         "status": "ok"
       },
       {
         "source": "Healthcare Dive",
         "articleCount": 16,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 25,
+        "staleHours": 31,
         "status": "ok"
       },
       {
         "source": "Federal Register - FDA",
         "articleCount": 10,
         "latestPublishedAt": "2026-10-16T00:00:00.000Z",
-        "staleHours": 121,
+        "staleHours": 127,
         "status": "stale"
       },
       {
         "source": "FDA MedWatch RSS",
         "articleCount": 9,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 25,
+        "staleHours": 31,
         "status": "ok"
       },
       {
         "source": "Federal Register - CMS",
-        "articleCount": 4,
-        "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 25,
+        "articleCount": 5,
+        "latestPublishedAt": "2026-10-21T00:00:00.000Z",
+        "staleHours": 7,
         "status": "ok"
       },
       {
         "source": "National Nurses United RSS",
-        "articleCount": 2,
+        "articleCount": 1,
         "latestPublishedAt": "2026-10-20T00:00:00.000Z",
-        "staleHours": 25,
+        "staleHours": 31,
         "status": "ok"
       }
     ]
@@ -80,15 +80,15 @@
     },
     "mergers_mna": {
       "label": "Mergers & M&A",
-      "count": 47
+      "count": 46
     },
     "labor_unions": {
       "label": "Labor & Unions",
-      "count": 6
+      "count": 5
     },
     "policy_reimbursement": {
       "label": "Policy & Reimbursement",
-      "count": 62
+      "count": 63
     },
     "quality_safety": {
       "label": "Quality & Safety",
@@ -100,11 +100,11 @@
     },
     "ai_tech": {
       "label": "AI & Digital Tech",
-      "count": 124
+      "count": 123
     },
     "general_market": {
       "label": "General Market",
-      "count": 214
+      "count": 216
     }
   },
   "quality": {
@@ -118,7 +118,7 @@
       },
       "minArticles24h": {
         "threshold": 20,
-        "actual": 25,
+        "actual": 37,
         "pass": true
       },
       "minRequiredCategoriesCovered": {
@@ -134,6 +134,138 @@
     }
   },
   "articles": [
+    {
+      "title": "Privacy Act of 1974; Matching Program",
+      "summary": "In accordance with subsection (e)(12) of the Privacy Act of 1974, as amended, the Department of Health and Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), is providing notice of a computer matching program between CMS and the Department of Veterans Affairs (VA), Veterans Health Administration (VHA). The purpose of the matching program is to identify beneficiaries enrolled in both Medicare and VHA health care and to identify medical claims for which both agencies made payment for the same health care services. Under this agreement, the VHA will provide CMS with a finder file on a recurring basis, of all Veteran beneficiaries enrolled in VHA health care that CMS will use to identify dually enrolled beneficiaries. CMS and VHA will use the results of the matching program to recover duplicate payments, improve payment accuracy, and identify potential fraud, waste, and abuse.",
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21491/privacy-act-of-1974-matching-program",
+      "source": "Federal Register - CMS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_cms",
+      "publishedAt": "2026-10-21",
+      "category": "policy_reimbursement",
+      "relevance": 100,
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "No Adjustment to HHS Civil Monetary Penalty Amounts for 2026",
+      "summary": "The Department of Health and Human Services (HHS or the Department) is notifying the public that there will be no Civil Monetary Penalty (CMP) inflation adjustment for 2026 in accordance with the April 17, 2026, guidance from the Office of Management and Budget (OMB). HHS will continue to use the 2025 civil monetary penalty levels because there will be no cost-of-living adjustment for 2026.",
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21524/no-adjustment-to-hhs-civil-monetary-penalty-amounts-for-2026",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-21",
+      "category": "policy_reimbursement",
+      "relevance": 100,
+      "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "Agency Information Collection Activities: Submission to OMB for Review and Approval; Public Comment Request; Information Collection Request Title: Title V Maternal and Child Health Services Block Grant to States Program: Guidance and Forms for the Title V Application/Annual Report, OMB No. 0915-0172-Revision",
+      "summary": "In compliance with the Paperwork Reduction Act of 1995, HRSA submitted an Information Collection Request (ICR) to the Office of Management and Budget (OMB) for review and approval. Comments submitted during the first public review of this ICR will be provided to OMB. OMB will accept further comments from the public during the review and approval period. OMB may act on HRSA's ICR only after the 30-day comment period for this notice has closed.",
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21519/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-21",
+      "category": "general_market",
+      "relevance": 100,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Agency Information Collection Activities: Submission to OMB for Review and Approval; Public Comment Request; Maternal and Child Health Bureau Performance Measures for Discretionary Grant Information System, OMB No. 0915-0298-Revision",
+      "summary": "In compliance with the Paperwork Reduction Act of 1995, HRSA submitted an Information Collection Request (ICR) to the Office of Management and Budget (OMB) for review and approval. Comments submitted during the first public review of this ICR will be provided to OMB. OMB will accept further comments from the public during the review and approval period. OMB may act on HRSA's ICR only after the 30-day comment period for this notice has closed.",
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21518/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-21",
+      "category": "general_market",
+      "relevance": 100,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Regulatory Considerations for Prescription Drug Use-Related Software; Guidance for Industry; Availability",
+      "summary": "The Food and Drug Administration (FDA or Agency) is announcing the availability of a final guidance for industry titled \"Regulatory Considerations for Prescription Drug Use-Related Software.\" This final guidance describes FDA's application of its drug labeling authorities to certain software outputs that are disseminated by or on behalf of a drug sponsor for use with a prescription drug product or a prescription drug-led, drug-device combination product that is assigned to the Center for Drug Evaluation and Research or the Center for Biologics Evaluation and Research as the lead center. This guidance finalizes the draft guidance of the same title issued on September 19, 2023.",
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21516/regulatory-considerations-for-prescription-drug-use-related-software-guidance-for-industry",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-21",
+      "category": "ai_tech",
+      "relevance": 100,
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Agency Information Collection Activities: Proposed Collection; Public Comment Request; Information Collection Request Title: SAMHSA Data Security Requirements for Accessing Confidential Data (OMB No. 0930-0396)",
+      "summary": "Substance Abuse and Mental Health Services (SAMHSA), within the Department of Health and Human Services, has submitted the following information collection requirement to the Office of Management and Budget (OMB) for review and clearance under the Paperwork Reduction Act of 1995. This is the first notice for public comment. SAMHSA will forward the proposed Data Security Requirements for Accessing Confidential Data information collection to the OMB for clearance simultaneously with the publication of the second notice, following the expiration of this first notice. The full submission may be found at: http://www.reginfo.gov/public/do/PRAMain.",
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21486/agency-information-collection-activities-proposed-collection-public-comment-request-information",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-21",
+      "category": "ai_tech",
+      "relevance": 100,
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21527/center-for-scientific-review-notice-of-closed-meetings",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-21",
+      "category": "general_market",
+      "relevance": 96,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21526/center-for-scientific-review-notice-of-closed-meetings",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-21",
+      "category": "general_market",
+      "relevance": 96,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21525/center-for-scientific-review-notice-of-closed-meetings",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-21",
+      "category": "general_market",
+      "relevance": 96,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21523/center-for-scientific-review-notice-of-closed-meetings",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-21",
+      "category": "general_market",
+      "relevance": 96,
+      "categoryLabel": "General Market"
+    },
+    {
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "",
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21470/center-for-scientific-review-notice-of-closed-meetings",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-21",
+      "category": "general_market",
+      "relevance": 96,
+      "categoryLabel": "General Market"
+    },
     {
       "title": "Chutes & Ladders—Centivo adds 2 executives; Inspira Health outlines leadership transition",
       "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
@@ -189,6 +321,15 @@
       "categoryLabel": "Policy & Reimbursement"
     },
     {
+      "title": "Bullying among nurses is a 'pervasive' threat to patients, clinicians—here's what employers can do",
+      "url": "https://www.fiercehealthcare.com/providers/bullying-among-nurses-pervasive-threat-patients-clinicians-heres-what-employers-can-do",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "The American Nurses Association's latest position statement on incivility and bullying includes recommendations for nurses and healthcare employers alike, including an argument against zero-tolerance policies in favor of \"restorative and tiered\" approaches.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
+    },
+    {
       "title": "Commercial plans' mental health provider directories routinely inaccurate, secret shopper study finds",
       "url": "https://www.fiercehealthcare.com/payers/commercial-plans-mental-health-provider-directories-routinely-inaccurate-secret-shopper",
       "source": "Fierce Healthcare",
@@ -225,15 +366,6 @@
       "categoryLabel": "General Market"
     },
     {
-      "title": "Beyond the Recall Notice: Why Pharmacies Need Greater Visibility Into Recalled and Expired Medications",
-      "url": "https://www.fiercehealthcare.com/sponsored/beyond-recall-notice-why-pharmacies-need-greater-visibility-recalled-and-expired",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-21",
-      "summary": "Medication recalls and expirations are a routine part of pharmacy operations, but managing them often requires significant time, coordination and attention to detail.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
       "title": "The case for rethinking how ambulatory practices handle cybersecurity",
       "url": "https://www.fiercehealthcare.com/sponsored/case-rethinking-how-ambulatory-practices-handle-cybersecurity",
       "source": "Fierce Healthcare",
@@ -241,6 +373,15 @@
       "summary": "Healthcare is among the most targeted sectors for cybercriminals, and it's easy to see why.",
       "category": "general_market",
       "categoryLabel": "General Market"
+    },
+    {
+      "title": "Beyond the Recall Notice: Why Pharmacies Need Greater Visibility Into Recalled and Expired Medications",
+      "url": "https://www.fiercehealthcare.com/sponsored/beyond-recall-notice-why-pharmacies-need-greater-visibility-recalled-and-expired",
+      "source": "Fierce Healthcare",
+      "publishedAt": "2026-10-21",
+      "summary": "Medication recalls and expirations are a routine part of pharmacy operations, but managing them often requires significant time, coordination and attention to detail.",
+      "category": "ai_tech",
+      "categoryLabel": "AI & Digital Tech"
     },
     {
       "title": "CMS proposes MA 'ghost network,' PBM transparency requirements",
@@ -384,18 +525,6 @@
       "categoryLabel": "AI & Digital Tech"
     },
     {
-      "title": "Agency Information Collection Activities: Submission to OMB for Review and Approval; Public Comment Request; Health Center Program Forms-OMB No. 0915-0285-Revision",
-      "summary": "In compliance with the Paperwork Reduction Act of 1995, HRSA submitted an Information Collection Request (ICR) to the Office of Management and Budget (OMB) for review and approval. Comments submitted during the first public review of this ICR will be provided to OMB. OMB will accept further comments from the public during the review and approval period. OMB may act on HRSA's ICR only after the 30-day comment period for this notice has closed.",
-      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21385/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment",
-      "source": "Federal Register - HHS",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
-      "publishedAt": "2026-10-20",
-      "category": "general_market",
-      "relevance": 100,
-      "categoryLabel": "General Market"
-    },
-    {
       "title": "Early Alert: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infusion Sets",
       "summary": "Cardinal Health Presource Kits may contain BD Alaris Pump Infusion Sets with Updated Use Instructions.",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-updates-use-instructions-presource-packs-containing-bd-alaris-pump",
@@ -408,9 +537,9 @@
       "categoryLabel": "AI & Digital Tech"
     },
     {
-      "title": "Early Alert: Cardinal Health Issues Correction for Presource Packs Containing BD Alaris Pump Infusion Sets",
-      "summary": "Cardinal Health Presource Kits containing recalled BD Alaris Pump Infusion Sets should be corrected prior to continued use.",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-issues-correction-presource-packs-containing-bd-alaris-pump-infusion",
+      "title": "Import Alert for Certain Olympus Medical Devices Manufactured in Japan - Letter to Health Care Providers",
+      "summary": "The U.S. Food and Drug Administration (FDA) is alerting health care providers about import alerts for certain medical devices manufactured in Japan by Olympus Medical Systems Corporation (Olympus) and its subsidiaries.",
+      "url": "http://www.fda.gov/medical-devices/letters-health-care-providers/import-alert-certain-olympus-medical-devices-manufactured-japan-letter-health-care-providers",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -432,9 +561,9 @@
       "categoryLabel": "General Market"
     },
     {
-      "title": "Import Alert for Certain Olympus Medical Devices Manufactured in Japan - Letter to Health Care Providers",
-      "summary": "The U.S. Food and Drug Administration (FDA) is alerting health care providers about import alerts for certain medical devices manufactured in Japan by Olympus Medical Systems Corporation (Olympus) and its subsidiaries.",
-      "url": "http://www.fda.gov/medical-devices/letters-health-care-providers/import-alert-certain-olympus-medical-devices-manufactured-japan-letter-health-care-providers",
+      "title": "Early Alert: Cardinal Health Issues Correction for Presource Packs Containing BD Alaris Pump Infusion Sets",
+      "summary": "Cardinal Health Presource Kits containing recalled BD Alaris Pump Infusion Sets should be corrected prior to continued use.",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-issues-correction-presource-packs-containing-bd-alaris-pump-infusion",
       "source": "FDA MedWatch RSS",
       "sourceType": "rss",
       "sourceId": "fda_medwatch_rss",
@@ -583,6 +712,18 @@
       "summary": "HHS has expanded its regional sickle cell disease care network from five to seven regions through a new program administered by the Health Resources and Services Administration. The Sickle Cell Disease Regional Care Excellence Program funds seven regional coordinating hubs designed to help patients access specialty care and community services closer to home, according to [&#8230;] The post HHS adds 2 regional hubs for sickle cell disease appeared first on Becker&#039;s Hospital Review | Healthcare News & Analysis.",
       "category": "policy_reimbursement",
       "categoryLabel": "Policy & Reimbursement"
+    },
+    {
+      "title": "Agency Information Collection Activities: Submission to OMB for Review and Approval; Public Comment Request; Health Center Program Forms-OMB No. 0915-0285-Revision",
+      "summary": "In compliance with the Paperwork Reduction Act of 1995, HRSA submitted an Information Collection Request (ICR) to the Office of Management and Budget (OMB) for review and approval. Comments submitted during the first public review of this ICR will be provided to OMB. OMB will accept further comments from the public during the review and approval period. OMB may act on HRSA's ICR only after the 30-day comment period for this notice has closed.",
+      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21385/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment",
+      "source": "Federal Register - HHS",
+      "sourceType": "federal_register",
+      "sourceId": "federal_register_hhs",
+      "publishedAt": "2026-10-20",
+      "category": "general_market",
+      "relevance": 100,
+      "categoryLabel": "General Market"
     },
     {
       "title": "72 health IT &#038; revenue cycle up-and-comers &#124; 2026",
@@ -2298,9 +2439,9 @@
       "title": "Electronic Common Technical Document (eCTD); Data Standards; Supporting Forward Compatibility for eCTD 4.0",
       "summary": "The Food and Drug Administration's (FDA or Agency) Center for Drug Evaluation and Research and Center for Biologics Evaluation and Research are announcing support for Forward Compatibility for Electronic Common Technical Document (eCTD) Version 4.0 (v4.0)-based electronic submissions.",
       "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21197/electronic-common-technical-document-ectd-data-standards-supporting-forward-compatibility-for-ectd",
-      "source": "Federal Register - HHS",
+      "source": "Federal Register - FDA",
       "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
+      "sourceId": "federal_register_fda",
       "publishedAt": "2026-10-16",
       "category": "general_market",
       "relevance": 100,
@@ -2310,9 +2451,9 @@
       "title": "Electronic Common Technical Document; Data Standards; Center for Drug Evaluation and Research and Center for Biologics Evaluation and Research Supporting Electronic Common Technical Document Version 3.2.2 and Version 4.0",
       "summary": "The Food and Drug Administration's (FDA or Agency) Center for Drug Evaluation and Research and Center for Biologics Evaluation and Research are announcing the date FDA will begin rejecting electronic submissions that fail new Electronic Common Technical Document (eCTD) Version 3.22 (v3.22) and Version 4.0 (v4.0) based validations. The new eCTD v3.2.2 validations are 2024 and 2025, which are high-severity validation errors as described in the Specifications for eCTD Validation Criteria. The new eCTD v4.0 validations are eCTD4-084, eCTD4-085, US-eCTD4-561, US-eCTD4-562, US-eCTD4-563, and US-eCTD4-564, which are high-severity validation errors as described in the Specifications for eCTD v4.0 Validation Criteria.",
       "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21195/electronic-common-technical-document-data-standards-center-for-drug-evaluation-and-research-and",
-      "source": "Federal Register - HHS",
+      "source": "Federal Register - FDA",
       "sourceType": "federal_register",
-      "sourceId": "federal_register_hhs",
+      "sourceId": "federal_register_fda",
       "publishedAt": "2026-10-16",
       "category": "ai_tech",
       "relevance": 100,
@@ -3924,6 +4065,18 @@
       "categoryLabel": "General Market"
     },
     {
+      "title": "Infusion Set Recall: BD and CareFusion 303, Inc. Remove BD Alaris Pump Infusion Sets",
+      "summary": "BD Alaris Pump Infusion Sets are being removed and discontinued; Alaris Pump Module model 8100 has updated performance data",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-set-recall-bd-and-carefusion-303-inc-remove-bd-alaris-pump-infusion-sets",
+      "source": "FDA MedWatch RSS",
+      "sourceType": "rss",
+      "sourceId": "fda_medwatch_rss",
+      "publishedAt": "2026-10-14",
+      "category": "general_market",
+      "relevance": 100,
+      "categoryLabel": "General Market"
+    },
+    {
       "title": "Par Health Issues Voluntary Nationwide Recall of Argatroban Injection Due to the Presence of Particulate Matter",
       "summary": "FOR IMMEDIATE RELEASE - ROCHESTER, MI– October 13, 2026 – Par Health is recalling 22 lots of Argatroban Injection 250 mg/2.5 mL (100 mg/mL) to the hospital/user level. This recall is being conducted due to the presence of particulate matter, identified as cellulose, polystyrene, polyethylene terepht",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-argatroban-injection-due-presence-particulate-matter",
@@ -3946,18 +4099,6 @@
       "category": "ai_tech",
       "relevance": 100,
       "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Infusion Set Recall: BD and CareFusion 303, Inc. Remove BD Alaris Pump Infusion Sets",
-      "summary": "BD Alaris Pump Infusion Sets are being removed and discontinued; Alaris Pump Module model 8100 has updated performance data",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-set-recall-bd-and-carefusion-303-inc-remove-bd-alaris-pump-infusion-sets",
-      "source": "FDA MedWatch RSS",
-      "sourceType": "rss",
-      "sourceId": "fda_medwatch_rss",
-      "publishedAt": "2026-10-14",
-      "category": "general_market",
-      "relevance": 100,
-      "categoryLabel": "General Market"
     },
     {
       "title": "Center For Scientific Review; Notice of Closed Meetings",
@@ -4687,123 +4828,6 @@
       "summary": "Forty-three percent of respondents report expecting to draw on reserves in 2026, up from 37% the year prior.",
       "category": "general_market",
       "categoryLabel": "General Market"
-    },
-    {
-      "title": "Trump administration proposes new $70,000 fee for F-1 student visa workers",
-      "url": "https://www.fiercehealthcare.com/regulatory/trump-administration-proposes-new-70000-fee-f-1-student-visa-workers",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-14",
-      "summary": "The proposed monetary barrier on hiring foreign students would further narrow the path to employment at hospitals and health systems.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "IDR Costs Nobody Budgeted For: 3 Problems Payers Keep Hitting",
-      "url": "https://www.fiercehealthcare.com/sponsored/healthcare-dive-idr-math-nobody-budgeted",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-14",
-      "summary": "Payers keep hitting the same three out-of-network problems. Here's why pricing, not arbitration, decides what IDR really costs.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "The strategic shift reshaping payment integrity",
-      "url": "https://www.fiercehealthcare.com/sponsored/strategic-shift-reshaping-payment-integrity",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-14",
-      "summary": "Claris Health CEO Michael Axt examines how payers can turn payment integrity into a more connected, strategic capability. Listen to the interview to learn more.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Rep. Pallone introduces bill replacing No Surprises Act's arbitration process",
-      "url": "https://www.fiercehealthcare.com/regulatory/rep-pallone-introduces-bill-replacing-no-surprises-acts-arbitration-process",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-14",
-      "summary": "One of the No Surprises Act’s chief authors wants to replace the \"broken\" system for settling out-of-network pay disputes with market-based benchmarks.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Oracle Health data breach in 2025 compromised data of 20M people: report",
-      "url": "https://www.fiercehealthcare.com/health-tech/oracle-health-data-breach-2025-compromised-data-20m-people-report",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-14",
-      "summary": "In a report issued October 2, the Texas attorney general said the company disclosed that Social Security numbers, addresses and medical information of almost 20 million people, including about 3 million Texans, Bloomberg reported.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Industry Voices—Why health system CFOs can't budget their way out of coverage disruption",
-      "url": "https://www.fiercehealthcare.com/finance/industry-voices-why-health-system-cfos-cant-budget-their-way-out-coverage-disruption",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-14",
-      "summary": "Semi-annual redeterminations and work requirements will test payer-mix assumptions across the industry over the next two years. Now is the time for health systems to prepare, writes Ensemble SVP Matthew Ennen.",
-      "category": "general_market",
-      "categoryLabel": "General Market"
-    },
-    {
-      "title": "Fierce Healthcare Regulatory Recap: CMS releases 2027 MA star ratings; HHS awards $28M for falls prevention",
-      "url": "https://www.fiercehealthcare.com/regulatory/fierce-healthcare-regulatory-recap-cms-releases-2027-ma-star-ratings-hhs-launches",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-14",
-      "summary": "The latest news from CMS, HHS and more across Washington, D.C.",
-      "category": "policy_reimbursement",
-      "categoryLabel": "Policy & Reimbursement"
-    },
-    {
-      "title": "Weekly Rundown: Nextech taps Assort Health, EliseAI for agentic AI; Elsevier rolls out clinical AI tool for nurses",
-      "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-hhs-awards-15m-ai-projects-arcadia-launches-portfolio-solutions",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-14",
-      "summary": "The latest news from Nextech, Assort Health, EliseAI, Elsevier, Arcadia, Solera Health and more.",
-      "category": "ai_tech",
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Humana rebounds, Aetna slips: Winners and losers in the 2027 MA star ratings",
-      "url": "https://www.fiercehealthcare.com/payers/humana-rebounds-aetna-slips-winners-and-losers-2027-ma-star-ratings",
-      "source": "Fierce Healthcare",
-      "publishedAt": "2026-10-14",
-      "summary": "Federal regulators released the hotly anticipated star ratings for the 2027 Medicare Advantage plan year, and winners and losers emerged in the data.",
-      "category": "mergers_mna",
-      "categoryLabel": "Mergers & M&A"
-    },
-    {
-      "title": "Use of Salt Substitutes To Reduce the Sodium Content in Standardized Foods",
-      "summary": "The Food and Drug Administration (FDA or we) is issuing a final rule to amend our standard of identity regulations that specify salt (sodium chloride) as a required or optional ingredient to permit the use of salt substitutes in standardized foods, to reduce the sodium content. Reducing sodium may help reduce the risk of hypertension, a major risk factor for heart disease and stroke. The rule will help support a healthier food supply by providing flexibility to facilitate industry innovation in the production of standardized foods lower in sodium while maintaining the basic nature and essential characteristics of the foods.",
-      "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20848/use-of-salt-substitutes-to-reduce-the-sodium-content-in-standardized-foods",
-      "source": "Federal Register - FDA",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_fda",
-      "publishedAt": "2026-10-13",
-      "category": "ai_tech",
-      "relevance": 100,
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "Postapproval Manufacturing Changes to Biosimilar and Interchangeable Biosimilar Products: Questions and Answers; Guidance for Industry; Availability",
-      "summary": "The Food and Drug Administration (FDA or Agency) is announcing the availability of a final guidance for industry entitled \"Postapproval Manufacturing Changes to Biosimilar and Interchangeable Biosimilar Products: Questions and Answers.\" This guidance provides answers to commonly asked questions from applicants and other interested parties regarding postapproval manufacturing changes made to biosimilar and interchangeable biosimilar products licensed under the Public Health Service Act (PHS Act). This guidance finalizes the draft guidance of the same title issued on July 23, 2024.",
-      "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20817/postapproval-manufacturing-changes-to-biosimilar-and-interchangeable-biosimilar-products-questions",
-      "source": "Federal Register - FDA",
-      "sourceType": "federal_register",
-      "sourceId": "federal_register_fda",
-      "publishedAt": "2026-10-13",
-      "category": "ai_tech",
-      "relevance": 100,
-      "categoryLabel": "AI & Digital Tech"
-    },
-    {
-      "title": "RNs in Tennessee, Arizona, Illinois, and California file petitions for union elections",
-      "summary": "Registered nurses across the country continue to build our union movement, asserting our collective power against a profit-driven health care system and a corporate-aligned federal government. CNA/NNOC announced today that nurses at four hospitals – which in total employ 4,500 nurses and serve more than 1.7 million patients annually – filed petitions over the past week with the National Labor Relations Board (NLRB) for union elections.",
-      "url": "https://www.nationalnursesunited.org/press/rns-in-tennessee-arizona-illinois-and-california-file-petitions-for-union-elections",
-      "source": "National Nurses United RSS",
-      "sourceType": "rss",
-      "sourceId": "nnu_rss",
-      "publishedAt": "2026-10-13",
-      "category": "labor_unions",
-      "relevance": 100,
-      "categoryLabel": "Labor & Unions"
     }
   ]
 }
